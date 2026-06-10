@@ -17,6 +17,26 @@ const HUMOR_FLOOR = 0.3;
  */
 const CIRCLE_SHARE = 0.5;
 
+/**
+ * Cards wear simulated "3m/7h ago" timestamps, so a 2023 news clip on a
+ * "current" feed reads as a glitch. Anything older than this is excluded —
+ * unless it's a timeless, placeless joke (see isCurrentEnough).
+ */
+const FRESHNESS_CUTOFF = Date.UTC(2026, 0, 1);
+
+/** Hand-curated exceptions: specific old posts welcome on a current feed anyway. */
+const TIMELESS_EXCEPTIONS = new Set<string>([]);
+
+/** Tags that anchor a post to its moment — even a funny one goes stale. */
+const DATED_TAGS = new Set<Tag>(["politics-left", "politics-right", "media", "sports", "finance", "crypto"]);
+
+function isCurrentEnough(t: CorpusTweet): boolean {
+  if (new Date(t.createdAt).getTime() >= FRESHNESS_CUTOFF) return true;
+  if (TIMELESS_EXCEPTIONS.has(t.id)) return true;
+  const timeless = t.tags.includes("humor") || t.tags.includes("wholesome") || t.tags.includes("animals");
+  return timeless && !t.tags.some((x) => DATED_TAGS.has(x));
+}
+
 /** Per-lean tag weights — finer than the corpus tags, blended in code. */
 const LEAN_WEIGHTS: Record<Exclude<Lean, "none">, Partial<Record<Tag, number>>> = {
   progressive: { "politics-left": 1.4 },
@@ -185,7 +205,7 @@ function drawWeighted(rng: () => number, candidates: Candidate[]): CorpusTweet {
  */
 export function assembleFeed(profile: Profile, seed: string): FeedItem[] {
   const rng = rngFor(`${profile.displayName}|${seed}`);
-  const pool = CORPUS.filter((t) => t.handle.toLowerCase() !== profile.handle?.toLowerCase());
+  const pool = CORPUS.filter((t) => isCurrentEnough(t) && t.handle.toLowerCase() !== profile.handle?.toLowerCase());
   const items: CorpusTweet[] = [];
   const inNetwork: Candidate[] = [];
   const discovery: Candidate[] = [];
@@ -237,9 +257,18 @@ export function assembleFollowingFeed(profile: Profile, seed: string): FeedItem[
   if (followed.size === 0) {
     for (const a of matchingAccounts(profile, 12)) followed.add(a.handle.toLowerCase());
   }
-  const pool = CORPUS.filter(
+  const followedPool = CORPUS.filter(
     (t) => followed.has(t.handle.toLowerCase()) && t.handle.toLowerCase() !== profile.handle?.toLowerCase(),
   );
+  // freshness-gate like For You, but a sparse circle may not post much — top
+  // up with the followed accounts' most recent older posts rather than run empty
+  let pool = followedPool.filter(isCurrentEnough);
+  if (pool.length < FEED_LENGTH) {
+    const older = followedPool
+      .filter((t) => !isCurrentEnough(t))
+      .sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+    pool = pool.concat(older.slice(0, FEED_LENGTH - pool.length));
+  }
   const candidates: Candidate[] = pool.map((t) => ({ t, score: 0.2 + recencyFactor(t) }));
   const items: CorpusTweet[] = [];
   while (items.length < Math.min(FEED_LENGTH, pool.length) && candidates.length) {

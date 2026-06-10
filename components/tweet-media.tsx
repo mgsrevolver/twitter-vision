@@ -10,7 +10,7 @@ function clampRatio(w: number | null, h: number | null): number {
 
 function Photo({ item }: { item: Extract<MediaItem, { type: "photo" }> }) {
   // eslint-disable-next-line @next/next/no-img-element -- pbs.twimg.com images render unoptimized by design
-  return <img src={item.url} alt="" loading="lazy" className="h-full w-full object-cover" />;
+  return <img src={item.url} alt="" loading="lazy" referrerPolicy="no-referrer" className="h-full w-full object-cover" />;
 }
 
 function Video({ item }: { item: Extract<MediaItem, { type: "video" | "gif" }> }) {
@@ -20,6 +20,9 @@ function Video({ item }: { item: Extract<MediaItem, { type: "video" | "gif" }> }
   if (isGif && item.mp4) {
     return (
       <span className="relative block h-full w-full">
+        {/* video.twimg.com 403s requests with a foreign Referer; <video> has no
+            referrerpolicy attribute, so the site-wide no-referrer meta (layout.tsx)
+            is what keeps these playable */}
         <video src={item.mp4} autoPlay loop muted playsInline className="h-full w-full object-cover" />
         <span className="absolute bottom-2 left-2 rounded bg-black/70 px-1.5 py-0.5 text-[11px] font-semibold text-white">
           GIF
@@ -42,7 +45,7 @@ function Video({ item }: { item: Extract<MediaItem, { type: "video" | "gif" }> }
   return (
     <span className="relative block h-full w-full">
       {/* eslint-disable-next-line @next/next/no-img-element -- video poster from pbs.twimg.com */}
-      <img src={item.poster} alt="" loading="lazy" className="h-full w-full object-cover" />
+      <img src={item.poster} alt="" loading="lazy" referrerPolicy="no-referrer" className="h-full w-full object-cover" />
       {item.mp4 && (
         <button
           type="button"

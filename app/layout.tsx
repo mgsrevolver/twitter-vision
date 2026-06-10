@@ -10,6 +10,9 @@ const fraunces = Fraunces({ variable: "--font-fraunces", subsets: ["latin"] });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  // video.twimg.com 403s any request carrying a foreign Referer; suppressing
+  // it site-wide keeps X's CDN serving our hotlinked media (and leaks less).
+  referrer: "no-referrer",
   title: "their feed — walk a mile in someone else's timeline",
   description:
     "A simulated X/Twitter timeline for any account or persona. Real tweets, imagined algorithm. No login, no tracking.",
