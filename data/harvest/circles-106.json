@@ -1,0 +1,216 @@
+[
+  {
+    "handle": "IngrahamAngle",
+    "circle": [
+      {"handle": "TuckerCarlson", "inPool": true, "why": "Fox News colleague, frequent mutual endorsement"},
+      {"handle": "FoxNews", "inPool": true, "why": "her employer, constant cross-promotion"},
+      {"handle": "benshapiro", "inPool": true, "why": "right-media ally, mutual amplification"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "conservative media collaborator"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "frequently platforms Peterson on show"},
+      {"handle": "RandPaul", "inPool": true, "why": "recurring guest, libertarian-right ally"},
+      {"handle": "tedcruz", "inPool": true, "why": "regular guest and political ally"},
+      {"handle": "RonDeSantis", "inPool": true, "why": "strong on-air supporter of DeSantis"},
+      {"handle": "seanhannity", "inPool": false, "why": "Fox colleague, mutual shout-outs"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA ally, shares content"}
+    ]
+  },
+  {
+    "handle": "JeremyRenner",
+    "circle": [
+      {"handle": "MarkHamill", "inPool": true, "why": "Marvel/Hollywood peer, mutual replies"},
+      {"handle": "SamuelLJackson", "inPool": true, "why": "MCU co-star, public banter"},
+      {"handle": "rickygervais", "inPool": true, "why": "celebrity humor circle overlap"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "late-night promo appearances"},
+      {"handle": "Lin_Manuel", "inPool": true, "why": "celebrity mutual admiration"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show appearances, mutual tags"}
+    ]
+  },
+  {
+    "handle": "JohnCleese",
+    "circle": [
+      {"handle": "rickygervais", "inPool": true, "why": "British comedy legend, public banter"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "comedy peer, TV appearances"},
+      {"handle": "MarkHamill", "inPool": true, "why": "geek-culture icon mutual respect"},
+      {"handle": "dril", "inPool": true, "why": "absurdist humor circle overlap"},
+      {"handle": "SteveMartinToGo", "inPool": false, "why": "fellow comedy legend, mutual replies"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "publicly feuded and debated Peterson"}
+    ]
+  },
+  {
+    "handle": "GretaThunberg",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "climate activist political alignment"},
+      {"handle": "BernieSanders", "inPool": true, "why": "climate policy mutual endorsement"},
+      {"handle": "ewarren", "inPool": true, "why": "climate policy ally"},
+      {"handle": "elonmusk", "inPool": true, "why": "famous feud, traded barbs publicly"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "public feud, Peterson attacked her"},
+      {"handle": "NASA", "inPool": true, "why": "science institution she cites"},
+      {"handle": "WHO", "inPool": true, "why": "global health/climate institution alignment"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communicator she engages"},
+      {"handle": "charliekirk11", "inPool": false, "why": "right-wing critics regularly target her"}
+    ]
+  },
+  {
+    "handle": "VitalikButerin",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "crypto sparring partner, public debates"},
+      {"handle": "cz_binance", "inPool": true, "why": "crypto ecosystem peer, Binance ties"},
+      {"handle": "saylor", "inPool": true, "why": "crypto debates, Bitcoin vs ETH"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO, Ethereum ecosystem"},
+      {"handle": "sama", "inPool": true, "why": "AI-crypto crossover discourse"},
+      {"handle": "naval", "inPool": true, "why": "tech-philosophy peer, mutual engagement"},
+      {"handle": "pmarca", "inPool": true, "why": "a16z funded Ethereum early, ally"},
+      {"handle": "DavidSacks", "inPool": true, "why": "crypto VC circles, mutual discourse"},
+      {"handle": "jack", "inPool": true, "why": "Bitcoin vs ETH debate with Jack Dorsey"}
+    ]
+  },
+  {
+    "handle": "jordanbpeterson",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "mutual amplification, podcast guest"},
+      {"handle": "benshapiro", "inPool": true, "why": "Daily Wire partner, co-host platform"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "conservative intellectual ally"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "Tucker interviewed Peterson, mutual boost"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox appearance, conservative platform"},
+      {"handle": "GretaThunberg", "inPool": true, "why": "public feud, Peterson attacked her"},
+      {"handle": "joerogan", "inPool": true, "why": "landmark JRE appearance, close ally"},
+      {"handle": "naval", "inPool": true, "why": "philosophy-tech intellectual overlap"},
+      {"handle": "pmarca", "inPool": true, "why": "tech-culture war alignment"},
+      {"handle": "JohnCleese", "inPool": false, "why": "debated free speech publicly"},
+      {"handle": "RubinReport", "inPool": false, "why": "Dave Rubin frequent podcast host"}
+    ]
+  },
+  {
+    "handle": "CDCgov",
+    "circle": [
+      {"handle": "WHO", "inPool": true, "why": "global health partner institution"},
+      {"handle": "NASA", "inPool": true, "why": "federal science agency peer"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communicator who amplifies"},
+      {"handle": "BillNye", "inPool": true, "why": "science communicator who amplifies CDC"},
+      {"handle": "BarackObama", "inPool": true, "why": "administration partner during COVID"},
+      {"handle": "KamalaHarris", "inPool": true, "why": "VP COVID messaging alignment"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politician citing CDC data"}
+    ]
+  },
+  {
+    "handle": "PeteButtigieg",
+    "circle": [
+      {"handle": "BarackObama", "inPool": true, "why": "Democratic Party mentor figure"},
+      {"handle": "KamalaHarris", "inPool": true, "why": "Biden admin cabinet colleague"},
+      {"handle": "AOC", "inPool": true, "why": "progressive Democrat peer"},
+      {"handle": "ewarren", "inPool": true, "why": "fellow 2020 primary candidate, ally"},
+      {"handle": "BernieSanders", "inPool": true, "why": "fellow 2020 primary candidate"},
+      {"handle": "joerogan", "inPool": true, "why": "appeared on JRE, notable 2020 appearance"},
+      {"handle": "tedcruz", "inPool": true, "why": "political rival, Twitter spats"},
+      {"handle": "RandPaul", "inPool": true, "why": "Senate adversary on transport policy"},
+      {"handle": "charliekirk11", "inPool": false, "why": "right-wing critics target him"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "Democratic establishment alignment"}
+    ]
+  },
+  {
+    "handle": "DojaCat",
+    "circle": [
+      {"handle": "iamcardib", "inPool": true, "why": "rap peer, social media interaction"},
+      {"handle": "LilNasX", "inPool": true, "why": "pop-rap peer, mutual fan base"},
+      {"handle": "charli_xcx", "inPool": true, "why": "pop crossover collaborator"},
+      {"handle": "MetroBoomin", "inPool": true, "why": "producer collaborations"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "rap scene peer engagement"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "rap legend she engages publicly"},
+      {"handle": "chancetherapper", "inPool": true, "why": "rap peer, Twitter engagement"},
+      {"handle": "Drake", "inPool": true, "why": "rap industry peer, social interaction"},
+      {"handle": "theestallion", "inPool": false, "why": "female rap peer, social interaction"},
+      {"handle": "sza", "inPool": false, "why": "R&B-rap peer, public banter"},
+      {"handle": "billieeilish", "inPool": false, "why": "pop peer overlap"}
+    ]
+  },
+  {
+    "handle": "stephenasmith",
+    "circle": [
+      {"handle": "RealSkipBayless", "inPool": true, "why": "longtime First Take co-host partner"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN colleague, retweets news"},
+      {"handle": "BillSimmons", "inPool": true, "why": "sports media peer, mutual discourse"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA insider colleague"},
+      {"handle": "KingJames", "inPool": true, "why": "debates LeBron publicly often"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "defends/debates Curry on air"},
+      {"handle": "Giannis_An34", "inPool": true, "why": "NBA star he frequently covers"},
+      {"handle": "elonmusk", "inPool": true, "why": "viral moments with Musk on X"},
+      {"handle": "joerogan", "inPool": true, "why": "sports commentary crossover"},
+      {"handle": "NBA", "inPool": true, "why": "core beat, ESPN-NBA relationship"}
+    ]
+  },
+  {
+    "handle": "LILUZIVERT",
+    "circle": [
+      {"handle": "MetroBoomin", "inPool": true, "why": "producer collaborations"},
+      {"handle": "Drake", "inPool": true, "why": "rap peer, social media interaction"},
+      {"handle": "LilNasX", "inPool": true, "why": "pop-rap peer, mutual engagement"},
+      {"handle": "iamcardib", "inPool": true, "why": "rap peer, social media"},
+      {"handle": "chancetherapper", "inPool": true, "why": "rap scene peer"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "rap scene peer"},
+      {"handle": "XXL", "inPool": true, "why": "hip-hop media covers Uzi extensively"},
+      {"handle": "chartdata", "inPool": true, "why": "charting account tracks his releases"},
+      {"handle": "theestallion", "inPool": false, "why": "rap peer, social overlap"},
+      {"handle": "sza", "inPool": false, "why": "R&B peer, fan base overlap"}
+    ]
+  },
+  {
+    "handle": "GNev2",
+    "circle": [
+      {"handle": "GaryLineker", "inPool": true, "why": "BBC punditry colleague, frequent banter"},
+      {"handle": "IanWright0", "inPool": true, "why": "Match of the Day co-pundit"},
+      {"handle": "OptaJoe", "inPool": true, "why": "stats account he engages frequently"},
+      {"handle": "ManUtd", "inPool": true, "why": "former Man Utd player, loyal"},
+      {"handle": "Cristiano", "inPool": true, "why": "ex-teammate, publicly defends Ronaldo"},
+      {"handle": "FCBarcelona", "inPool": true, "why": "Champions League coverage focus"},
+      {"handle": "Carra23", "inPool": false, "why": "Sky Sports co-pundit, famous partnership"},
+      {"handle": "rioferdy5", "inPool": false, "why": "ex-Man Utd teammate, media partner"},
+      {"handle": "WayneRooney", "inPool": true, "why": "ex-Man Utd teammate, regular contact"}
+    ]
+  },
+  {
+    "handle": "charliekirk11",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "mutual amplification on X platform"},
+      {"handle": "benshapiro", "inPool": true, "why": "conservative media ally, Daily Wire"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "conservative speaker circuit peer"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "TPUSA stages Peterson talks"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "Fox News ally, mutual signal boost"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News conservative ally"},
+      {"handle": "RandPaul", "inPool": true, "why": "libertarian-right political ally"},
+      {"handle": "tedcruz", "inPool": true, "why": "TPUSA events featured Cruz"},
+      {"handle": "RonDeSantis", "inPool": true, "why": "TPUSA promoted DeSantis heavily"},
+      {"handle": "seanhannity", "inPool": false, "why": "Fox News ally, mutual promotion"},
+      {"handle": "GretaThunberg", "inPool": true, "why": "public attacks on Thunberg"}
+    ]
+  },
+  {
+    "handle": "DineshDSouza",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "conservative media ally, mutual retweets"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "Fox platform appearances"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "conservative intellectual circuit"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox appearances, conservative ally"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA conservative media ally"},
+      {"handle": "RandPaul", "inPool": true, "why": "libertarian-right alignment"},
+      {"handle": "tedcruz", "inPool": true, "why": "Cruz platforms D'Souza content"},
+      {"handle": "RonDeSantis", "inPool": true, "why": "vocal DeSantis supporter"},
+      {"handle": "elonmusk", "inPool": true, "why": "X platform amplification, mutual"},
+      {"handle": "seanhannity", "inPool": false, "why": "Hannity show appearances"}
+    ]
+  },
+  {
+    "handle": "SkySportsPL",
+    "circle": [
+      {"handle": "OptaJoe", "inPool": true, "why": "stats partner, constant cross-reference"},
+      {"handle": "GNev2", "inPool": true, "why": "Sky Sports pundit, promotes his content"},
+      {"handle": "GaryLineker", "inPool": true, "why": "UK football media ecosystem peer"},
+      {"handle": "IanWright0", "inPool": true, "why": "pundit within Sky sports ecosystem"},
+      {"handle": "ManUtd", "inPool": true, "why": "Premier League club they cover"},
+      {"handle": "FCBarcelona", "inPool": true, "why": "Champions League coverage"},
+      {"handle": "Cristiano", "inPool": true, "why": "covers Ronaldo extensively"},
+      {"handle": "WayneRooney", "inPool": true, "why": "ex-player, part of media circuit"},
+      {"handle": "Carra23", "inPool": false, "why": "Sky Sports analyst, core pundit"},
+      {"handle": "rioferdy5", "inPool": false, "why": "BT Sport/TNT Sports pundit, peer"}
+    ]
+  }
+]

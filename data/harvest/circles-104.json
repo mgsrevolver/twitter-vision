@@ -1,0 +1,587 @@
+[
+  {
+    "handle": "theestallion",
+    "circle": [
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "frequent rap collaborator and bestie"
+      },
+      {
+        "handle": "Beyonce",
+        "inPool": true,
+        "why": "Savage remix, mutual support"
+      },
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "mutual celebrity support"
+      },
+      {
+        "handle": "NICKIMINAJ",
+        "inPool": true,
+        "why": "high-profile rap rivalry and beef"
+      },
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "collaborated on features"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "public supporter, Savage remix"
+      },
+      {
+        "handle": "ddlovato",
+        "inPool": true,
+        "why": "pop culture mutual support"
+      },
+      {
+        "handle": "billboardcharts",
+        "inPool": true,
+        "why": "charts her releases frequently"
+      }
+    ]
+  },
+  {
+    "handle": "21savage",
+    "circle": [
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "close collaborator, joint album"
+      },
+      {
+        "handle": "MetroBoomin",
+        "inPool": true,
+        "why": "primary producer, close partner"
+      },
+      {
+        "handle": "PostMalone",
+        "inPool": true,
+        "why": "frequent feature partner"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "rap scene collaborator"
+      },
+      {
+        "handle": "gucci1017",
+        "inPool": true,
+        "why": "Atlanta trap peer"
+      },
+      {
+        "handle": "wizkhalifa",
+        "inPool": true,
+        "why": "rap scene peer"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "rap community elder statesman"
+      }
+    ]
+  },
+  {
+    "handle": "StephenKing",
+    "circle": [
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "frequent anti-Trump tweets"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "critic of Musk and Twitter changes"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "political ally, mutual support"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "fellow author, frequent interaction"
+      },
+      {
+        "handle": "JoyceCarolOates",
+        "inPool": true,
+        "why": "fellow literary author peer"
+      },
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "fellow author, political ally"
+      },
+      {
+        "handle": "RealJamesWoods",
+        "inPool": true,
+        "why": "political opponent, feuded"
+      }
+    ]
+  },
+  {
+    "handle": "billboardcharts",
+    "circle": [
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "sister Billboard account"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "music media peer"
+      },
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "music media peer"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "entertainment media peer"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "entertainment media peer"
+      },
+      {
+        "handle": "PopBase",
+        "inPool": true,
+        "why": "pop culture tracking peer"
+      },
+      {
+        "handle": "chartdata",
+        "inPool": true,
+        "why": "chart tracking peer account"
+      }
+    ]
+  },
+  {
+    "handle": "dbongino",
+    "circle": [
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "close conservative media ally"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "former Fox host, close ties"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "vocal Trump supporter"
+      },
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "conservative political ally"
+      },
+      {
+        "handle": "marklevinshow",
+        "inPool": true,
+        "why": "conservative media colleague"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News conservative colleague"
+      },
+      {
+        "handle": "DineshDSouza",
+        "inPool": true,
+        "why": "conservative media ally"
+      },
+      {
+        "handle": "jordanbpeterson",
+        "inPool": true,
+        "why": "right-wing intellectual ally"
+      }
+    ]
+  },
+  {
+    "handle": "chelseahandler",
+    "circle": [
+      {
+        "handle": "AndersonCooper",
+        "inPool": true,
+        "why": "close friend, public banter"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "late night TV peer"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "comedy community friend"
+      },
+      {
+        "handle": "mindykaling",
+        "inPool": true,
+        "why": "comedy friend, mutual support"
+      },
+      {
+        "handle": "StephenAtHome",
+        "inPool": true,
+        "why": "late night peer, political ally"
+      },
+      {
+        "handle": "50cent",
+        "inPool": true,
+        "why": "famously dated, ongoing public dynamic"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "late night comedy peer"
+      }
+    ]
+  },
+  {
+    "handle": "seanhannity",
+    "circle": [
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "Fox News prime time colleague"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "employer, frequent amplification"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "close Trump confidant, allies"
+      },
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "conservative political ally"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "conservative media ally"
+      },
+      {
+        "handle": "marklevinshow",
+        "inPool": true,
+        "why": "conservative media colleague"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News prime time peer"
+      }
+    ]
+  },
+  {
+    "handle": "tedcruz",
+    "circle": [
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "political mentor after primary feud"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "political ally post-Twitter acquisition"
+      },
+      {
+        "handle": "RonDeSantis",
+        "inPool": true,
+        "why": "GOP colleague, fellow senator"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "conservative media ally"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "conservative media ally"
+      },
+      {
+        "handle": "marklevinshow",
+        "inPool": true,
+        "why": "conservative radio ally"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News conservative ally"
+      },
+      {
+        "handle": "BenShapiro",
+        "inPool": true,
+        "why": "conservative media peer"
+      }
+    ]
+  },
+  {
+    "handle": "JeffBezos",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "rival billionaire, space race"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "fellow billionaire tech peer"
+      },
+      {
+        "handle": "jack",
+        "inPool": true,
+        "why": "fellow tech CEO peer"
+      },
+      {
+        "handle": "tim_cook",
+        "inPool": true,
+        "why": "fellow big tech CEO"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "owns WaPo, close tie"
+      },
+      {
+        "handle": "WSJ",
+        "inPool": true,
+        "why": "business press he engages with"
+      }
+    ]
+  },
+  {
+    "handle": "jack",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "sold Twitter to Musk, complex history"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "close friend, philosophical alignment"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "tech founder peer, mutual respect"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "venture capital backer, tech peer"
+      },
+      {
+        "handle": "ev",
+        "inPool": true,
+        "why": "Twitter co-founder, long relationship"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "crypto/tech intersection peer"
+      }
+    ]
+  },
+  {
+    "handle": "hubermanlab",
+    "circle": [
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "close friend, frequent podcast guest"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "amplified each other on platform"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "tech-science crossover peer"
+      },
+      {
+        "handle": "MrBeast",
+        "inPool": true,
+        "why": "mutual health/wellness promotion"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "wellness philosophy peer"
+      }
+    ]
+  },
+  {
+    "handle": "IMDb",
+    "circle": [
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "entertainment industry media peer"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "entertainment industry media peer"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "entertainment industry media peer"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "entertainment media peer"
+      },
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film news peer account"
+      }
+    ]
+  },
+  {
+    "handle": "sza",
+    "circle": [
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "collaboration and mutual support"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "R&B/rap scene peer"
+      },
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "R&B influence and peer"
+      },
+      {
+        "handle": "NICKIMINAJ",
+        "inPool": true,
+        "why": "rap/R&B scene peer"
+      },
+      {
+        "handle": "Beyonce",
+        "inPool": true,
+        "why": "R&B inspiration and peer"
+      },
+      {
+        "handle": "PostMalone",
+        "inPool": true,
+        "why": "genre-crossing collab connection"
+      },
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "charts her music"
+      },
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "her label TDE covered there"
+      }
+    ]
+  },
+  {
+    "handle": "jamieoliver",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "UK celebrity chef peer and rival"
+      },
+      {
+        "handle": "AltonBrown",
+        "inPool": true,
+        "why": "fellow food TV personality"
+      },
+      {
+        "handle": "PadmaLakshmi",
+        "inPool": true,
+        "why": "food TV celebrity peer"
+      },
+      {
+        "handle": "Nigella_Lawson",
+        "inPool": false,
+        "why": "UK celebrity chef peer"
+      },
+      {
+        "handle": "chefjoseandres",
+        "inPool": false,
+        "why": "fellow celebrity chef peer"
+      },
+      {
+        "handle": "davidchang",
+        "inPool": false,
+        "why": "celebrity chef community peer"
+      }
+    ]
+  },
+  {
+    "handle": "billieeilish",
+    "circle": [
+      {
+        "handle": "charli_xcx",
+        "inPool": true,
+        "why": "pop contemporaries, mutual respect"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": true,
+        "why": "mutual pop admiration"
+      },
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "covers her music extensively"
+      },
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "charts her releases"
+      },
+      {
+        "handle": "billboardcharts",
+        "inPool": true,
+        "why": "charts her releases"
+      },
+      {
+        "handle": "Harry_Styles",
+        "inPool": true,
+        "why": "UK/pop peer, mutual support"
+      },
+      {
+        "handle": "justinbieber",
+        "inPool": true,
+        "why": "longtime idol, met and bonded"
+      }
+    ]
+  }
+]

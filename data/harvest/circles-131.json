@@ -1,0 +1,196 @@
+[
+  {
+    "handle": "ebertchicago",
+    "circle": [
+      {"handle": "THR", "inPool": true, "why": "film industry news outlet"},
+      {"handle": "Variety", "inPool": true, "why": "film industry publication"},
+      {"handle": "DEADLINE", "inPool": true, "why": "Hollywood trade publication"},
+      {"handle": "SamuelLJackson", "inPool": true, "why": "frequent replies and banter"},
+      {"handle": "MarkHamill", "inPool": true, "why": "mutual film fan engagement"},
+      {"handle": "LeoDiCaprio", "inPool": true, "why": "lauded in his reviews"},
+      {"handle": "nytimes", "inPool": true, "why": "peer media outlet"},
+      {"handle": "StephenKing", "inPool": true, "why": "literary/pop culture peer"},
+      {"handle": "chrisevans", "inPool": true, "why": "celebrity film engagement"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film discussion community"}
+    ]
+  },
+  {
+    "handle": "rgay",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "frequent contributor/guest"},
+      {"handle": "Oprah", "inPool": true, "why": "book club overlap, media figure"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary peer and ally"},
+      {"handle": "BernieSanders", "inPool": true, "why": "shared progressive politics"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politics alignment"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "media/politics colleague"},
+      {"handle": "chrislhayes", "inPool": true, "why": "left media colleague"},
+      {"handle": "neilhimself", "inPool": true, "why": "literary community peer"},
+      {"handle": "atrupar", "inPool": true, "why": "political media overlap"}
+    ]
+  },
+  {
+    "handle": "WuBlockchain",
+    "circle": [
+      {"handle": "cz_binance", "inPool": true, "why": "Binance CEO, covers extensively"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum founder, covers news"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin advocate, covers heavily"},
+      {"handle": "zachxbt", "inPool": true, "why": "on-chain investigator peer"},
+      {"handle": "stablekwon", "inPool": true, "why": "covered Terra/Luna collapse"},
+      {"handle": "CelsiusNetwork", "inPool": true, "why": "covered crypto lending crash"},
+      {"handle": "zhusu", "inPool": true, "why": "3AC founder, covered collapse"},
+      {"handle": "justinsuntron", "inPool": true, "why": "Justin Sun/Tron coverage"},
+      {"handle": "RampCapitalLLC", "inPool": true, "why": "crypto finance peer"},
+      {"handle": "MoonOverlord", "inPool": true, "why": "crypto commentary peer"}
+    ]
+  },
+  {
+    "handle": "MLBTradeRumors",
+    "circle": [
+      {"handle": "MLB", "inPool": true, "why": "official MLB account"},
+      {"handle": "SportsCenter", "inPool": true, "why": "sports news amplifier"},
+      {"handle": "espn", "inPool": true, "why": "peer sports media"},
+      {"handle": "Ken_Rosenthal", "inPool": true, "why": "top MLB transactions reporter"},
+      {"handle": "brianmctaggart", "inPool": true, "why": "MLB beat reporter"},
+      {"handle": "AnthonyDiComo", "inPool": true, "why": "Mets beat reporter"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "sports transactions peer"}
+    ]
+  },
+  {
+    "handle": "NME",
+    "circle": [
+      {"handle": "coldplay", "inPool": true, "why": "UK band frequently covered"},
+      {"handle": "Harry_Styles", "inPool": true, "why": "major UK pop artist"},
+      {"handle": "Adele", "inPool": true, "why": "iconic UK artist covered heavily"},
+      {"handle": "edsheeran", "inPool": true, "why": "UK artist frequent coverage"},
+      {"handle": "pitchfork", "inPool": true, "why": "peer music criticism outlet"},
+      {"handle": "RollingStone", "inPool": true, "why": "peer music journalism"},
+      {"handle": "charli_xcx", "inPool": true, "why": "UK artist NME coverage"},
+      {"handle": "oasis", "inPool": true, "why": "iconic NME-covered UK band"},
+      {"handle": "billboard", "inPool": true, "why": "music charts peer media"}
+    ]
+  },
+  {
+    "handle": "TheAVClub",
+    "circle": [
+      {"handle": "TheOnion", "inPool": true, "why": "sibling publication, same company"},
+      {"handle": "adultswim", "inPool": true, "why": "frequently covers Adult Swim"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "frequently covers Conan content"},
+      {"handle": "pitchfork", "inPool": true, "why": "peer pop culture outlet"},
+      {"handle": "nytimes", "inPool": true, "why": "media industry peer"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film coverage peer"},
+      {"handle": "Variety", "inPool": true, "why": "entertainment media peer"}
+    ]
+  },
+  {
+    "handle": "goldenglobes",
+    "circle": [
+      {"handle": "THR", "inPool": true, "why": "Hollywood trade partner"},
+      {"handle": "Variety", "inPool": true, "why": "awards coverage partner"},
+      {"handle": "DEADLINE", "inPool": true, "why": "film awards trade coverage"},
+      {"handle": "SamuelLJackson", "inPool": true, "why": "frequent nominee/presenter"},
+      {"handle": "LeoDiCaprio", "inPool": true, "why": "multiple winner"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "covers awards extensively"}
+    ]
+  },
+  {
+    "handle": "SonySantaMonica",
+    "circle": [
+      {"handle": "PlayStation", "inPool": true, "why": "parent platform publisher"},
+      {"handle": "IGN", "inPool": true, "why": "major gaming media partner"},
+      {"handle": "RockstarGames", "inPool": true, "why": "peer AAA game studio"},
+      {"handle": "XBOX", "inPool": true, "why": "platform rival interaction"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards host/partner"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "industry peer interaction"},
+      {"handle": "Pilestedt", "inPool": true, "why": "indie dev community peer"}
+    ]
+  },
+  {
+    "handle": "jacobin",
+    "circle": [
+      {"handle": "BernieSanders", "inPool": true, "why": "aligned democratic socialist politics"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politics alignment"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive economic policy"},
+      {"handle": "chrislhayes", "inPool": true, "why": "left media peer"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media peer"},
+      {"handle": "ggreenwald", "inPool": true, "why": "journalist, sometimes critical"},
+      {"handle": "MMFlint", "inPool": true, "why": "left progressive filmmaker peer"},
+      {"handle": "RBReich", "inPool": true, "why": "progressive economic commentator"},
+      {"handle": "mtaibbi", "inPool": true, "why": "journalist, sometimes engaged"},
+      {"handle": "atrupar", "inPool": true, "why": "progressive media peer"}
+    ]
+  },
+  {
+    "handle": "stereogum",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "direct peer music outlet"},
+      {"handle": "RollingStone", "inPool": true, "why": "peer music publication"},
+      {"handle": "billboardcharts", "inPool": true, "why": "charts/music industry peer"},
+      {"handle": "charli_xcx", "inPool": true, "why": "indie-adjacent artist coverage"},
+      {"handle": "st_vincent", "inPool": true, "why": "indie artist frequently covered"},
+      {"handle": "coldplay", "inPool": true, "why": "major artist coverage"},
+      {"handle": "Adele", "inPool": true, "why": "major artist coverage"}
+    ]
+  },
+  {
+    "handle": "mitskileaks",
+    "circle": [
+      {"handle": "charli_xcx", "inPool": true, "why": "indie/alt pop peer and friend"},
+      {"handle": "st_vincent", "inPool": true, "why": "indie rock peer"},
+      {"handle": "pitchfork", "inPool": true, "why": "indie music critic coverage"},
+      {"handle": "stereogum", "inPool": false, "why": "indie music blog covers her"},
+      {"handle": "phoebe_bridgers", "inPool": false, "why": "folk-indie peer, mutual fans"}
+    ]
+  },
+  {
+    "handle": "greg_price11",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "right media ideological ally"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "right media figure, retweets"},
+      {"handle": "dbongino", "inPool": true, "why": "right media personality peer"},
+      {"handle": "catturd2", "inPool": true, "why": "right-wing Twitter peer"},
+      {"handle": "CollinRugg", "inPool": true, "why": "right media peer content"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "right-wing commentator peer"},
+      {"handle": "atrupar", "inPool": true, "why": "target/critic in debates"}
+    ]
+  },
+  {
+    "handle": "JesseKellyDC",
+    "circle": [
+      {"handle": "TuckerCarlson", "inPool": true, "why": "ideological media ally"},
+      {"handle": "benshapiro", "inPool": true, "why": "right media figure"},
+      {"handle": "dbongino", "inPool": true, "why": "right media commentator peer"},
+      {"handle": "ggreenwald", "inPool": true, "why": "anti-establishment peer"},
+      {"handle": "mtaibbi", "inPool": true, "why": "anti-establishment peer"},
+      {"handle": "naval", "inPool": true, "why": "libertarian/right-adjacent peer"},
+      {"handle": "pmarca", "inPool": true, "why": "tech-right alignment"}
+    ]
+  },
+  {
+    "handle": "LegionHoops",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "NBA insider, source of news"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA insider, retweets"},
+      {"handle": "espn", "inPool": true, "why": "NBA media partner"},
+      {"handle": "NBA", "inPool": true, "why": "official league account"},
+      {"handle": "KingJames", "inPool": true, "why": "LeBron, top NBA star"},
+      {"handle": "KDTrey5", "inPool": true, "why": "KD, top NBA star"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "Curry, top NBA star"},
+      {"handle": "Giannis_An34", "inPool": true, "why": "Giannis, top NBA star"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "NBA pundit, debate target"},
+      {"handle": "stephenasmith", "inPool": true, "why": "NBA analyst, engagement"}
+    ]
+  },
+  {
+    "handle": "OldTakesExposed",
+    "circle": [
+      {"handle": "RealSkipBayless", "inPool": true, "why": "prime target for bad takes"},
+      {"handle": "stephenasmith", "inPool": true, "why": "frequent take accountability"},
+      {"handle": "espn", "inPool": true, "why": "source of old sports takes"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "sports reporter old takes"},
+      {"handle": "BillSimmons", "inPool": true, "why": "sports pundit take source"},
+      {"handle": "PFTCommenter", "inPool": true, "why": "sports humor peer"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "sports media peer"},
+      {"handle": "barstoolsports", "inPool": true, "why": "sports media interaction"}
+    ]
+  }
+]

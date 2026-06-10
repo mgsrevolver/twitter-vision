@@ -1,0 +1,194 @@
+[
+  {
+    "handle": "RapSheet",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "fellow NFL insider, frequent collaboration"},
+      {"handle": "wojespn", "inPool": true, "why": "peer insider, cross-sport reporter"},
+      {"handle": "richeisen", "inPool": true, "why": "NFL Network colleague, co-coverage"},
+      {"handle": "NFL", "inPool": true, "why": "primary beat organization covered"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN outlet, frequent content sharing"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "NFL media collaborator, interviews"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "peer insider journalist, mutual respect"},
+      {"handle": "espn", "inPool": true, "why": "parent network, major amplifier"}
+    ]
+  },
+  {
+    "handle": "kumailn",
+    "circle": [
+      {"handle": "Sethrogen", "inPool": true, "why": "close friend and collaborator"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late night appearances and banter"},
+      {"handle": "mulaney", "inPool": true, "why": "comedy peer, frequent Twitter banter"},
+      {"handle": "mindykaling", "inPool": true, "why": "close friend, Hulu show together"},
+      {"handle": "rickygervais", "inPool": true, "why": "comedy peer, mutual appreciation"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "late night comedy connection"},
+      {"handle": "Lin_Manuel", "inPool": true, "why": "mutual creative admiration, pop culture"},
+      {"handle": "elonmusk", "inPool": false, "why": "reply target on tech/culture topics"}
+    ]
+  },
+  {
+    "handle": "SkySportsF1",
+    "circle": [
+      {"handle": "F1", "inPool": true, "why": "primary subject and official F1 account"},
+      {"handle": "McLarenF1", "inPool": true, "why": "team coverage, frequent interaction"},
+      {"handle": "MercedesAMGF1", "inPool": true, "why": "top team covered regularly"},
+      {"handle": "GeorgeRussell63", "inPool": false, "why": "driver interviewed and covered"},
+      {"handle": "LandoNorris", "inPool": false, "why": "British driver, heavy UK coverage"},
+      {"handle": "Max33Verstappen", "inPool": false, "why": "world champion, constant coverage"},
+      {"handle": "Charles_Leclerc", "inPool": false, "why": "Ferrari driver, regular coverage"}
+    ]
+  },
+  {
+    "handle": "github",
+    "circle": [
+      {"handle": "Microsoft", "inPool": true, "why": "parent company since 2018 acquisition"},
+      {"handle": "sama", "inPool": true, "why": "AI/tech ecosystem partner, OpenAI"},
+      {"handle": "satyanadella", "inPool": true, "why": "Microsoft CEO, direct ownership link"},
+      {"handle": "paulg", "inPool": true, "why": "YC founder, developer community leader"},
+      {"handle": "pmarca", "inPool": true, "why": "a16z, major tech VC ecosystem"},
+      {"handle": "gvanrossum", "inPool": true, "why": "Python creator, core developer community"},
+      {"handle": "ID_AA_Carmack", "inPool": true, "why": "legendary programmer, dev community"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech figure, frequent platform mentions"}
+    ]
+  },
+  {
+    "handle": "CERN",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "peer science institution, mutual amplification"},
+      {"handle": "SpaceX", "inPool": true, "why": "space/science adjacent, cross-promotion"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communicator, promotes CERN work"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "physicist, directly covers CERN research"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "science/space community peer"},
+      {"handle": "ESYudkowsky", "inPool": true, "why": "physics/AI intellectual, engages on science"}
+    ]
+  },
+  {
+    "handle": "RayDalio",
+    "circle": [
+      {"handle": "naval", "inPool": true, "why": "fellow investor philosopher, ideas overlap"},
+      {"handle": "pmarca", "inPool": true, "why": "top VC, similar macro worldview"},
+      {"handle": "BillGates", "inPool": true, "why": "billionaire peer, policy and investment"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech billionaire, debates and agreement"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech/finance adjacent community"},
+      {"handle": "chamath", "inPool": true, "why": "macro investor, frequent discussions"},
+      {"handle": "saylor", "inPool": true, "why": "bitcoin/macro investing discussions"},
+      {"handle": "JeffBezos", "inPool": true, "why": "billionaire peer, business world overlap"}
+    ]
+  },
+  {
+    "handle": "Nigella_Lawson",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "fellow UK celebrity chef, TV peer"},
+      {"handle": "jk_rowling", "inPool": true, "why": "prominent UK cultural figure, Twitter peer"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary/feminist cultural connection"},
+      {"handle": "neilhimself", "inPool": true, "why": "UK author, similar cultural milieu"},
+      {"handle": "AnthonyHorowitz", "inPool": true, "why": "UK author, overlapping audience"},
+      {"handle": "jamieoliver", "inPool": false, "why": "fellow UK celebrity chef, food media"},
+      {"handle": "ruthreichl", "inPool": false, "why": "food critic peer, mutual appreciation"}
+    ]
+  },
+  {
+    "handle": "nytimesbooks",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "parent publication, primary amplifier"},
+      {"handle": "washingtonpost", "inPool": true, "why": "peer publication, co-coverage"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "major author, review and feature subject"},
+      {"handle": "jk_rowling", "inPool": true, "why": "blockbuster author coverage"},
+      {"handle": "StephenKing", "inPool": true, "why": "prolific author, constant coverage"},
+      {"handle": "neilhimself", "inPool": true, "why": "literary author, frequently reviewed"},
+      {"handle": "AnthonyHorowitz", "inPool": true, "why": "bestselling author, regular coverage"},
+      {"handle": "PhilipPullman", "inPool": true, "why": "major author, series coverage"}
+    ]
+  },
+  {
+    "handle": "NBAonTNT",
+    "circle": [
+      {"handle": "NBA", "inPool": true, "why": "official league, broadcast partner"},
+      {"handle": "espn", "inPool": true, "why": "rival NBA broadcaster, constant comparison"},
+      {"handle": "wojespn", "inPool": true, "why": "NBA insider, breaking news source"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA insider, breaking news source"},
+      {"handle": "KingJames", "inPool": true, "why": "league star, broadcast subject"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "league star, broadcast subject"},
+      {"handle": "Giannis_An34", "inPool": true, "why": "league star, broadcast subject"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN highlight show, content rivalry"}
+    ]
+  },
+  {
+    "handle": "Timcast",
+    "circle": [
+      {"handle": "TuckerCarlson", "inPool": true, "why": "right-media ally, frequent agreement"},
+      {"handle": "benshapiro", "inPool": true, "why": "right-media peer, overlapping audience"},
+      {"handle": "ggreenwald", "inPool": true, "why": "anti-establishment journalist ally"},
+      {"handle": "mtaibbi", "inPool": true, "why": "Twitter Files colleague, media critic"},
+      {"handle": "joerogan", "inPool": true, "why": "podcast ecosystem overlap, guests shared"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "right-adjacent intellectual peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech-right community, mutual support"},
+      {"handle": "elonmusk", "inPool": true, "why": "platform owner, political ally on X"}
+    ]
+  },
+  {
+    "handle": "naval",
+    "circle": [
+      {"handle": "pmarca", "inPool": true, "why": "VC peer, intellectual sparring partner"},
+      {"handle": "sama", "inPool": true, "why": "AI/startup peer, ideas ecosystem"},
+      {"handle": "paulg", "inPool": true, "why": "startup/aphorism culture peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech/politics friend, All-In pod"},
+      {"handle": "chamath", "inPool": true, "why": "All-In podcast co-host"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech billionaire, Twitter mutual"},
+      {"handle": "joerogan", "inPool": true, "why": "podcast guest, philosophy discussions"},
+      {"handle": "lexfridman", "inPool": false, "why": "podcast guest, long-form conversations"}
+    ]
+  },
+  {
+    "handle": "mtaibbi",
+    "circle": [
+      {"handle": "ggreenwald", "inPool": true, "why": "close ally, fellow contrarian journalist"},
+      {"handle": "elonmusk", "inPool": true, "why": "gave Twitter Files access, collaboration"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "media ally, frequent amplification"},
+      {"handle": "joerogan", "inPool": true, "why": "podcast guest, anti-establishment media"},
+      {"handle": "naval", "inPool": true, "why": "intellectual peer, anti-censorship stance"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech-right community, Twitter Files ally"},
+      {"handle": "benshapiro", "inPool": true, "why": "right-media ecosystem amplifier"}
+    ]
+  },
+  {
+    "handle": "GovRonDeSantis",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "former ally turned rival, key dynamic"},
+      {"handle": "benshapiro", "inPool": true, "why": "right-media supporter and platformer"},
+      {"handle": "JDVance", "inPool": true, "why": "MAGA political peer, policy alignment"},
+      {"handle": "tedcruz", "inPool": true, "why": "Senate conservative ally, mutual support"},
+      {"handle": "RandPaul", "inPool": true, "why": "libertarian-conservative Senate ally"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "media ally, heavily featured"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News ally, platform support"},
+      {"handle": "marklevinshow", "inPool": true, "why": "conservative radio/TV supporter"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "Trump family, political rival dynamic"}
+    ]
+  },
+  {
+    "handle": "JamesGunn",
+    "circle": [
+      {"handle": "Marvel", "inPool": true, "why": "former employer, industry reference"},
+      {"handle": "MarvelStudios", "inPool": true, "why": "former employer, industry overlap"},
+      {"handle": "TheRock", "inPool": true, "why": "DC/Hollywood star, professional interaction"},
+      {"handle": "chrisevans", "inPool": true, "why": "Marvel actor peer, Hollywood connection"},
+      {"handle": "RobertDowneyJr", "inPool": true, "why": "Marvel star, Hollywood peer"},
+      {"handle": "VancityReynolds", "inPool": true, "why": "superhero film actor, social media peer"},
+      {"handle": "SethMacFarlane", "inPool": true, "why": "comedy/animation peer, TV connection"},
+      {"handle": "rickygervais", "inPool": true, "why": "comedy writer/director peer"},
+      {"handle": "edgarwright", "inPool": true, "why": "director peer, genre film community"}
+    ]
+  },
+  {
+    "handle": "100Thieves",
+    "circle": [
+      {"handle": "Ninja", "inPool": true, "why": "top streamer, esports ecosystem peer"},
+      {"handle": "xQc", "inPool": true, "why": "major streamer, gaming community"},
+      {"handle": "DrLupo", "inPool": true, "why": "streamer, esports/gaming community"},
+      {"handle": "lolesports", "inPool": true, "why": "League of Legends esports, team plays"},
+      {"handle": "VaushV", "inPool": true, "why": "streaming community, overlapping audience"},
+      {"handle": "thegameawards", "inPool": false, "why": "awards show, esports recognition"},
+      {"handle": "FaZeClan", "inPool": false, "why": "rival esports org, frequent comparison"},
+      {"handle": "nadeshot", "inPool": false, "why": "founder Matthew Haag, org identity"}
+    ]
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "handle": "Fandango",
+    "circle": [
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "film industry trade coverage"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "film industry trade coverage"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "entertainment trade partner"
+      },
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "director promo engagement"
+      }
+    ]
+  },
+  {
+    "handle": "ryangrim",
+    "circle": [
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media colleague"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive political coverage"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive politics beat"
+      },
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "fellow investigative journalist"
+      },
+      {
+        "handle": "IlhanMN",
+        "inPool": true,
+        "why": "progressive political coverage"
+      },
+      {
+        "handle": "joshtpm",
+        "inPool": true,
+        "why": "left media colleagues"
+      }
+    ]
+  },
+  {
+    "handle": "darth",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "weird Twitter peer"
+      },
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "iconic humor Twitter peer"
+      },
+      {
+        "handle": "jonnysun",
+        "inPool": true,
+        "why": "absurdist humor peer"
+      },
+      {
+        "handle": "iamdevloper",
+        "inPool": true,
+        "why": "humor Twitter peer"
+      },
+      {
+        "handle": "dasharez0ne",
+        "inPool": true,
+        "why": "weird Twitter colleague"
+      },
+      {
+        "handle": "Fandango",
+        "inPool": true,
+        "why": "famous joked about Fandango"
+      }
+    ]
+  },
+  {
+    "handle": "elerianm",
+    "circle": [
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "frequent CNBC commentator"
+      },
+      {
+        "handle": "markets",
+        "inPool": true,
+        "why": "Bloomberg markets colleague"
+      },
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "finance media colleague"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "macro finance discussion"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "economics thought leader peer"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "macro monetary policy debates"
+      }
+    ]
+  },
+  {
+    "handle": "LynAldenContact",
+    "circle": [
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin thesis alignment"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "monetary theory peer"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "crypto industry leader"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "macro Bitcoin discussion"
+      },
+      {
+        "handle": "PeterSchiff",
+        "inPool": true,
+        "why": "Bitcoin vs gold debate"
+      },
+      {
+        "handle": "DocumentingBTC",
+        "inPool": true,
+        "why": "Bitcoin education network"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "tech macro discussion"
+      }
+    ]
+  },
+  {
+    "handle": "CryptoCobain",
+    "circle": [
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "Ethereum founder engagement"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "crypto exchange leader"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin maximalist sparring"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "crypto VC discussion"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "crypto philosophy peer"
+      },
+      {
+        "handle": "stablekwon",
+        "inPool": true,
+        "why": "Terra Luna era interactions"
+      },
+      {
+        "handle": "SBF_FTX",
+        "inPool": true,
+        "why": "FTX era crypto Twitter"
+      },
+      {
+        "handle": "WuBlockchain",
+        "inPool": true,
+        "why": "crypto news source"
+      }
+    ]
+  },
+  {
+    "handle": "lookonchain",
+    "circle": [
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "Ethereum on-chain tracking"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "crypto exchange monitoring"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin whale tracking"
+      },
+      {
+        "handle": "WuBlockchain",
+        "inPool": true,
+        "why": "crypto news partner"
+      },
+      {
+        "handle": "zachxbt",
+        "inPool": true,
+        "why": "on-chain investigator peer"
+      },
+      {
+        "handle": "cz_binance",
+        "inPool": true,
+        "why": "Binance flow tracking"
+      }
+    ]
+  },
+  {
+    "handle": "JJettas2",
+    "circle": [
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "NFL official account"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "media coverage engagement"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "sports media engagement"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "ESPN sports media"
+      }
+    ]
+  },
+  {
+    "handle": "TheAthleticFC",
+    "circle": [
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "transfer news peer"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "football stats partner"
+      }
+    ]
+  },
+  {
+    "handle": "KonstantinKisin",
+    "circle": [
+      {
+        "handle": "jordanbpeterson",
+        "inPool": true,
+        "why": "podcast guest friend"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "shared ideological space"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech-right peer"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "contrarian tech-right space"
+      }
+    ]
+  },
+  {
+    "handle": "alexisohanian",
+    "circle": [
+      {
+        "handle": "serenawilliams",
+        "inPool": true,
+        "why": "married to Serena Williams"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "YC startup ecosystem peer"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "YC alumni tech VC peer"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "VC tech investor peer"
+      },
+      {
+        "handle": "VancityReynolds",
+        "inPool": true,
+        "why": "celebrity entrepreneur peer"
+      },
+      {
+        "handle": "jack",
+        "inPool": true,
+        "why": "early Reddit Twitter peer"
+      }
+    ]
+  },
+  {
+    "handle": "penguinrandom",
+    "circle": [
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "prominent PRH author"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "Neil Gaiman PRH author"
+      },
+      {
+        "handle": "jk_rowling",
+        "inPool": true,
+        "why": "major author publisher"
+      }
+    ]
+  },
+  {
+    "handle": "Coin_Bureau",
+    "circle": [
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "Ethereum education content"
+      },
+      {
+        "handle": "cz_binance",
+        "inPool": true,
+        "why": "exchange news coverage"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "Coinbase coverage"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin content coverage"
+      },
+      {
+        "handle": "WuBlockchain",
+        "inPool": true,
+        "why": "crypto news source"
+      },
+      {
+        "handle": "zachxbt",
+        "inPool": true,
+        "why": "crypto investigation content"
+      }
+    ]
+  },
+  {
+    "handle": "sundanceorg",
+    "circle": [
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "film festival trade coverage"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "festival trades coverage"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "Hollywood trades coverage"
+      }
+    ]
+  },
+  {
+    "handle": "JeffPassan",
+    "circle": [
+      {
+        "handle": "Ken_Rosenthal",
+        "inPool": true,
+        "why": "rival MLB insider"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "ESPN colleague"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "ESPN colleague"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "ESPN insider colleague"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "employer home base"
+      }
+    ]
+  }
+]

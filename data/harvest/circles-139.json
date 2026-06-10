@@ -1,0 +1,667 @@
+[
+  {
+    "handle": "MelKiperESPN",
+    "circle": [
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "ESPN NFL draft colleague"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "employer, frequent ESPN content"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "covers NFL draft constantly"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "ESPN platform crossover"
+      },
+      {
+        "handle": "BleacherReport",
+        "inPool": true,
+        "why": "draft coverage media peer"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "NFL media ecosystem"
+      },
+      {
+        "handle": "PFF",
+        "inPool": true,
+        "why": "draft analytics he cites"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "ESPN colleague on air"
+      }
+    ]
+  },
+  {
+    "handle": "anneapplebaum",
+    "circle": [
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "regular contributor"
+      },
+      {
+        "handle": "TheAtlantic",
+        "inPool": false,
+        "why": "regular contributor and editor"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "frequent publication and citation"
+      },
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "cited by and engaged with"
+      },
+      {
+        "handle": "JakeTapper",
+        "inPool": true,
+        "why": "frequent TV guest/discussion"
+      },
+      {
+        "handle": "andersoncooper",
+        "inPool": true,
+        "why": "CNN appearances Russia/Ukraine"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "TV appearances geopolitical commentary"
+      },
+      {
+        "handle": "cnnbrk",
+        "inPool": true,
+        "why": "breaking news retweets"
+      },
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "ideological rival/debate"
+      },
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "media journalism discourse"
+      }
+    ]
+  },
+  {
+    "handle": "ConceptualJames",
+    "circle": [
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "right media alliance/engagement"
+      },
+      {
+        "handle": "jordanbpeterson",
+        "inPool": true,
+        "why": "ideology and culture war overlap"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "appeared on show, shared audience"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News culture war beat"
+      },
+      {
+        "handle": "DineshDSouza",
+        "inPool": true,
+        "why": "conservative media peer"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "ideological alignment"
+      },
+      {
+        "handle": "MattWalshBlog",
+        "inPool": false,
+        "why": "culture war ally"
+      },
+      {
+        "handle": "charliekirk11",
+        "inPool": false,
+        "why": "TPUSA culture war peer"
+      }
+    ]
+  },
+  {
+    "handle": "PrestonPysh",
+    "circle": [
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin advocacy, frequent podcast guest"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "crypto industry discussions"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "crypto debates Bitcoin vs ETH"
+      },
+      {
+        "handle": "cz_binance",
+        "inPool": true,
+        "why": "crypto industry figure"
+      },
+      {
+        "handle": "WuBlockchain",
+        "inPool": true,
+        "why": "crypto news source he RTs"
+      },
+      {
+        "handle": "WatcherGuru",
+        "inPool": true,
+        "why": "crypto price/news"
+      },
+      {
+        "handle": "zachxbt",
+        "inPool": true,
+        "why": "on-chain analysis community"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "tech/finance/crypto overlap"
+      },
+      {
+        "handle": "justinsuntron",
+        "inPool": true,
+        "why": "crypto industry figure"
+      },
+      {
+        "handle": "100trillionUSD",
+        "inPool": false,
+        "why": "Bitcoin model peer PlanB"
+      }
+    ]
+  },
+  {
+    "handle": "BFI",
+    "circle": [
+      {
+        "handle": "Criterion",
+        "inPool": true,
+        "why": "classic film institution peer"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "film industry media partner"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "film industry news"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "film industry news"
+      },
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "Guillermo del Toro BFI enthusiast"
+      },
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "UK director BFI engagement"
+      },
+      {
+        "handle": "rianjohnson",
+        "inPool": true,
+        "why": "director film culture"
+      },
+      {
+        "handle": "letterboxd",
+        "inPool": false,
+        "why": "film culture digital counterpart"
+      },
+      {
+        "handle": "mubi",
+        "inPool": false,
+        "why": "arthouse streaming overlapping audience"
+      }
+    ]
+  },
+  {
+    "handle": "FieldYates",
+    "circle": [
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "ESPN NFL colleague"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "employer"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "beat coverage"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "ESPN platform"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "NFL media ecosystem"
+      },
+      {
+        "handle": "PFF",
+        "inPool": true,
+        "why": "analytics tool cited frequently"
+      },
+      {
+        "handle": "BleacherReport",
+        "inPool": true,
+        "why": "NFL coverage peer"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "ESPN colleague"
+      }
+    ]
+  },
+  {
+    "handle": "mirandadevine",
+    "circle": [
+      {
+        "handle": "nypost",
+        "inPool": true,
+        "why": "employer NY Post columnist"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "frequent guest contributor"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "Fox colleague shared audience"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "conservative media peer"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News peer"
+      },
+      {
+        "handle": "DonaldJTrumpJr",
+        "inPool": true,
+        "why": "conservative political engagement"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "Trump coverage and defense"
+      },
+      {
+        "handle": "DineshDSouza",
+        "inPool": true,
+        "why": "conservative media peer"
+      }
+    ]
+  },
+  {
+    "handle": "SciGuySpace",
+    "circle": [
+      {
+        "handle": "SpaceX",
+        "inPool": true,
+        "why": "primary beat SpaceX reporter"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "covers NASA launches"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "reports on SpaceX Starship"
+      },
+      {
+        "handle": "NASASpaceflight",
+        "inPool": true,
+        "why": "space journalism community"
+      },
+      {
+        "handle": "CNSpaceflight",
+        "inPool": true,
+        "why": "space journalism community"
+      },
+      {
+        "handle": "RocketLab",
+        "inPool": true,
+        "why": "covers RocketLab missions"
+      },
+      {
+        "handle": "Erdayastronaut",
+        "inPool": false,
+        "why": "space enthusiast media peer"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "tech crossover discussions"
+      }
+    ]
+  },
+  {
+    "handle": "demishassabis",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI CEO peer Sam Altman"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "AI industry, xAI competitor"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "tech philanthropy AI discussions"
+      },
+      {
+        "handle": "Google",
+        "inPool": true,
+        "why": "Google DeepMind employer"
+      },
+      {
+        "handle": "karaswisher",
+        "inPool": true,
+        "why": "tech media covers DeepMind"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "tech/startup ecosystem"
+      },
+      {
+        "handle": "Microsoft",
+        "inPool": true,
+        "why": "AI industry partnerships/competition"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech philosophy AI ethics"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "AI research community peer"
+      },
+      {
+        "handle": "ylecun",
+        "inPool": false,
+        "why": "AI academic rival debates"
+      }
+    ]
+  },
+  {
+    "handle": "firstwefeast",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "chef food media crossover"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "athlete Hot Ones appearances"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "NFL players appear on Hot Ones"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "athlete crossover content"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "sports media crossover"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "celebrity Hot Ones guest"
+      },
+      {
+        "handle": "ComplexMusic",
+        "inPool": false,
+        "why": "Complex brand family"
+      }
+    ]
+  },
+  {
+    "handle": "s1mpleO",
+    "circle": [
+      {
+        "handle": "G2NiKo",
+        "inPool": false,
+        "why": "top CS2 rival NiKo"
+      },
+      {
+        "handle": "shroud",
+        "inPool": false,
+        "why": "former CS pro streaming crossover"
+      },
+      {
+        "handle": "Faker",
+        "inPool": false,
+        "why": "esports GOAT peer comparisons"
+      },
+      {
+        "handle": "NICKMERCS",
+        "inPool": false,
+        "why": "gaming streaming community"
+      }
+    ]
+  },
+  {
+    "handle": "Yamiche",
+    "circle": [
+      {
+        "handle": "NBCNews",
+        "inPool": true,
+        "why": "employer NBC News correspondent"
+      },
+      {
+        "handle": "andersoncooper",
+        "inPool": true,
+        "why": "press corps CNN peer"
+      },
+      {
+        "handle": "JakeTapper",
+        "inPool": true,
+        "why": "press corps CNN peer"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "press corps peer network"
+      },
+      {
+        "handle": "cnnbrk",
+        "inPool": true,
+        "why": "breaking news RT pattern"
+      },
+      {
+        "handle": "WhiteHouse",
+        "inPool": true,
+        "why": "covers White House beat"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "covered VP presidential campaign"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "White House beat coverage"
+      },
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "covered Biden presidency"
+      }
+    ]
+  },
+  {
+    "handle": "Real10jayy__",
+    "circle": [
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "league account"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "media coverage"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "highlights coverage"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "NFL media personalities"
+      },
+      {
+        "handle": "BleacherReport",
+        "inPool": true,
+        "why": "NFL coverage"
+      },
+      {
+        "handle": "Patriots",
+        "inPool": true,
+        "why": "New England Bengals context"
+      }
+    ]
+  },
+  {
+    "handle": "NizaarKinsella",
+    "circle": [
+      {
+        "handle": "GNev2",
+        "inPool": true,
+        "why": "UK football punditry peer"
+      },
+      {
+        "handle": "Arsenal",
+        "inPool": false,
+        "why": "primary beat club"
+      },
+      {
+        "handle": "ChelseaFC",
+        "inPool": false,
+        "why": "covers Chelsea"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "football stats source"
+      },
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "transfer news peer"
+      },
+      {
+        "handle": "David_Ornstein",
+        "inPool": false,
+        "why": "Arsenal correspondent peer"
+      }
+    ]
+  },
+  {
+    "handle": "JannikSinner",
+    "circle": [
+      {
+        "handle": "RafaelNadal",
+        "inPool": true,
+        "why": "tennis legend inspiration"
+      },
+      {
+        "handle": "rogerfederer",
+        "inPool": true,
+        "why": "tennis legend inspiration"
+      },
+      {
+        "handle": "atptour",
+        "inPool": true,
+        "why": "ATP Tour account"
+      },
+      {
+        "handle": "WTA",
+        "inPool": true,
+        "why": "tennis ecosystem"
+      },
+      {
+        "handle": "Tennis",
+        "inPool": true,
+        "why": "tennis community"
+      },
+      {
+        "handle": "carlosalcaraz",
+        "inPool": false,
+        "why": "main rival same generation"
+      },
+      {
+        "handle": "TennisTV",
+        "inPool": false,
+        "why": "ATP broadcast platform"
+      }
+    ]
+  }
+]

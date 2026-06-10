@@ -1,0 +1,522 @@
+[
+  {
+    "handle": "TheFilmStage",
+    "circle": [
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "film industry news peer"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "film industry trades peer"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "Hollywood Reporter coverage peer"
+      },
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film news colleague account"
+      },
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "del Toro engages film press"
+      },
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "director engages film media"
+      },
+      {
+        "handle": "tribeca",
+        "inPool": false,
+        "why": "film festival they cover"
+      }
+    ]
+  },
+  {
+    "handle": "scottderrickson",
+    "circle": [
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "fellow horror director friend"
+      },
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "genre director mutual"
+      },
+      {
+        "handle": "Marvel",
+        "inPool": true,
+        "why": "directed Doctor Strange for Marvel"
+      },
+      {
+        "handle": "MarvelStudios",
+        "inPool": true,
+        "why": "Marvel Studios collaborator"
+      },
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "film-game fan mutual"
+      },
+      {
+        "handle": "MarkRuffalo",
+        "inPool": true,
+        "why": "MCU colleague"
+      },
+      {
+        "handle": "chrisevans",
+        "inPool": true,
+        "why": "MCU colleague"
+      }
+    ]
+  },
+  {
+    "handle": "remedygames",
+    "circle": [
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "Kojima collaborated on crossover"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "Game Awards host features them"
+      },
+      {
+        "handle": "markiplier",
+        "inPool": true,
+        "why": "streamer plays their games"
+      },
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "streamer played Alan Wake 2"
+      },
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "prominent gaming streamer"
+      },
+      {
+        "handle": "PlayApex",
+        "inPool": false,
+        "why": "gaming peer account"
+      }
+    ]
+  },
+  {
+    "handle": "kexp",
+    "circle": [
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "indie music media peer"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "music media peer"
+      },
+      {
+        "handle": "Lin_Manuel",
+        "inPool": true,
+        "why": "artist with KEXP sessions"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "comedy/music fan mutual"
+      },
+      {
+        "handle": "NPR",
+        "inPool": false,
+        "why": "public radio sister organization"
+      }
+    ]
+  },
+  {
+    "handle": "electrolemon",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "alt-comedy Twitter peer"
+      },
+      {
+        "handle": "mulaney",
+        "inPool": true,
+        "why": "comedy world colleague"
+      },
+      {
+        "handle": "Lin_Manuel",
+        "inPool": true,
+        "why": "Hamilton video viral years"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "comedy world mutual"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "comedy media peer"
+      },
+      {
+        "handle": "AlJean",
+        "inPool": true,
+        "why": "TV comedy writers circle"
+      }
+    ]
+  },
+  {
+    "handle": "Ottolenghi",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "fellow chef media peer"
+      },
+      {
+        "handle": "AltonBrown",
+        "inPool": true,
+        "why": "food media personality peer"
+      },
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "literary world fan of his food"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "known fan of his cookbooks"
+      },
+      {
+        "handle": "nytfood",
+        "inPool": false,
+        "why": "NYT Food features him often"
+      },
+      {
+        "handle": "bonappetit",
+        "inPool": false,
+        "why": "Bon Appetit covers his recipes"
+      }
+    ]
+  },
+  {
+    "handle": "wentworthmiller",
+    "circle": [
+      {
+        "handle": "MarkRuffalo",
+        "inPool": true,
+        "why": "activist actor mutual"
+      },
+      {
+        "handle": "chrisevans",
+        "inPool": true,
+        "why": "fellow superhero actor peer"
+      },
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "literary world overlap reader"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "mental health advocacy overlaps"
+      }
+    ]
+  },
+  {
+    "handle": "wkamaubell",
+    "circle": [
+      {
+        "handle": "mulaney",
+        "inPool": true,
+        "why": "comedy world stand-up colleague"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "comedy world peer"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "late night comedy peer"
+      },
+      {
+        "handle": "Lin_Manuel",
+        "inPool": true,
+        "why": "progressive arts community peer"
+      },
+      {
+        "handle": "MarkRuffalo",
+        "inPool": true,
+        "why": "progressive activist peer"
+      },
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "progressive intellectual mutual"
+      }
+    ]
+  },
+  {
+    "handle": "DegenSpartan",
+    "circle": [
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "Ethereum founder DeFi space"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "crypto/venture investor peer"
+      },
+      {
+        "handle": "stablekwon",
+        "inPool": true,
+        "why": "Terra/LUNA era peer"
+      },
+      {
+        "handle": "zhusu",
+        "inPool": true,
+        "why": "3AC crypto hedge fund peer"
+      },
+      {
+        "handle": "zachxbt",
+        "inPool": true,
+        "why": "on-chain investigator engagement"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin maximalist engagement"
+      },
+      {
+        "handle": "cburniske",
+        "inPool": true,
+        "why": "crypto research analyst peer"
+      }
+    ]
+  },
+  {
+    "handle": "murdabeatz",
+    "circle": [
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "frequent collaborator OVO Sound"
+      },
+      {
+        "handle": "MetroBoomin",
+        "inPool": true,
+        "why": "fellow top hip-hop producer"
+      },
+      {
+        "handle": "XXL",
+        "inPool": true,
+        "why": "hip-hop media covers his work"
+      },
+      {
+        "handle": "PopBase",
+        "inPool": true,
+        "why": "pop culture news covers releases"
+      },
+      {
+        "handle": "Timbaland",
+        "inPool": true,
+        "why": "legendary producer mutual"
+      },
+      {
+        "handle": "chartdata",
+        "inPool": true,
+        "why": "music chart tracker covers hits"
+      }
+    ]
+  },
+  {
+    "handle": "SamLee",
+    "circle": [
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "ESPN NFL insider colleague"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "sports reporter peer"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "covers the NFL beat"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "sports media peer outlet"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "sports media commentator"
+      }
+    ]
+  },
+  {
+    "handle": "ronaldacunajr24",
+    "circle": [
+      {
+        "handle": "MLB",
+        "inPool": true,
+        "why": "his league account"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "sports media covers him"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "ESPN highlights feature him"
+      },
+      {
+        "handle": "Ken_Rosenthal",
+        "inPool": true,
+        "why": "top MLB beat reporter"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "sports breaking news reporter"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "sports media cross-beat engagement"
+      }
+    ]
+  },
+  {
+    "handle": "sassal0x",
+    "circle": [
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "Ethereum founder he amplifies"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "Coinbase CEO crypto ecosystem"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "crypto/tech investor peer"
+      },
+      {
+        "handle": "cburniske",
+        "inPool": true,
+        "why": "Ethereum analyst peer"
+      },
+      {
+        "handle": "zachxbt",
+        "inPool": true,
+        "why": "on-chain investigator mutual"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "crypto/tech thinker mutual"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech/crypto policy voice"
+      }
+    ]
+  },
+  {
+    "handle": "NextGenStats",
+    "circle": [
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "official NFL data partner"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "sports media partner"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "ESPN NFL insider uses stats"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "sports analytics fan"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "sports reporter uses stats"
+      }
+    ]
+  },
+  {
+    "handle": "tribeca",
+    "circle": [
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "film industry covers festival"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "Deadline covers Tribeca heavily"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "Hollywood Reporter covers festival"
+      },
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film news site covers festival"
+      },
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "del Toro festival presence"
+      },
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "director attends/participates"
+      }
+    ]
+  }
+]

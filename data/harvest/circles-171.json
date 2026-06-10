@@ -1,0 +1,77 @@
+[
+  {
+    "handle": "scalawagmag",
+    "circle": [
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media, Southern politics overlap"},
+      {"handle": "chrislhayes", "inPool": true, "why": "progressive media amplification"},
+      {"handle": "MMFlint", "inPool": true, "why": "left-wing media cross-promotion"},
+      {"handle": "TheAtlantic", "inPool": false, "why": "shared long-form political journalism"},
+      {"handle": "colorofchange", "inPool": false, "why": "racial justice advocacy alignment"}
+    ]
+  },
+  {
+    "handle": "ballofdirt",
+    "circle": [
+      {"handle": "neiltyson", "inPool": true, "why": "science communication peers"},
+      {"handle": "NASA", "inPool": true, "why": "space beat coverage and RT"},
+      {"handle": "SpaceX", "inPool": true, "why": "space beat regular source"},
+      {"handle": "WIRED", "inPool": true, "why": "former staff, editorial overlap"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "astronaut science outreach"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "space journalism source"}
+    ]
+  },
+  {
+    "handle": "HourlyLynxes",
+    "circle": []
+  },
+  {
+    "handle": "GarthGreenwell",
+    "circle": [
+      {"handle": "BretEastonEllis", "inPool": true, "why": "gay literary fiction peers, mutual praise"},
+      {"handle": "neilhimself", "inPool": true, "why": "literary fiction community overlap"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary fiction, queer themes"},
+      {"handle": "jk_rowling", "inPool": true, "why": "literary author community"},
+      {"handle": "colsonwhitehead", "inPool": false, "why": "contemporary literary fiction peers"},
+      {"handle": "sarahppolley", "inPool": false, "why": "literary arts community engagement"}
+    ]
+  },
+  {
+    "handle": "ChefJJ",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "chef community, food TV"},
+      {"handle": "AltonBrown", "inPool": true, "why": "food media, TV chef peers"},
+      {"handle": "chefjoseandres", "inPool": false, "why": "chef activism, food world peer"},
+      {"handle": "davidchang", "inPool": false, "why": "NYC food scene collaborator"},
+      {"handle": "bonappetit", "inPool": false, "why": "food media coverage and features"}
+    ]
+  },
+  {
+    "handle": "jillianmapes",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "employer and primary platform"},
+      {"handle": "amandapetrusich", "inPool": false, "why": "music writing peer, shared beats"},
+      {"handle": "chartdata", "inPool": true, "why": "music charts coverage, RT source"},
+      {"handle": "billboardcharts", "inPool": true, "why": "music industry data source"},
+      {"handle": "RollingStone", "inPool": true, "why": "competing/complementary music media"}
+    ]
+  },
+  {
+    "handle": "amandapetrusich",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "frequent collaborator and source"},
+      {"handle": "jillianmapes", "inPool": false, "why": "music writing peer, Pitchfork editor"},
+      {"handle": "chartdata", "inPool": true, "why": "music charts data source"},
+      {"handle": "RollingStone", "inPool": true, "why": "music media peer coverage"},
+      {"handle": "newyorker", "inPool": false, "why": "employer and platform"}
+    ]
+  },
+  {
+    "handle": "hotdogsladies",
+    "circle": [
+      {"handle": "gruber", "inPool": true, "why": "Apple/Mac blogging community, longtime friend"},
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy and pop culture banter"},
+      {"handle": "danbenjamin", "inPool": false, "why": "5by5 podcast network co-host"},
+      {"handle": "siracusa", "inPool": false, "why": "Apple podcast community peer"}
+    ]
+  }
+]

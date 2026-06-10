@@ -1,0 +1,164 @@
+[
+  {
+    "handle": "DalaiLama",
+    "circle": [
+      {"handle": "MichelleObama", "inPool": true, "why": "mutual compassion/service messaging"},
+      {"handle": "JoeBiden", "inPool": true, "why": "heads of state diplomatic engagement"},
+      {"handle": "MarkRuffalo", "inPool": true, "why": "activist crossover, Tibet advocacy"},
+      {"handle": "WHO", "inPool": true, "why": "global health and peace alignment"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive values, inequality messaging"},
+      {"handle": "LeoDiCaprio", "inPool": false, "why": "climate/humanitarian cause ally"},
+      {"handle": "RichardGere", "inPool": false, "why": "longtime Buddhist advocate, Tibet support"},
+      {"handle": "Desmond_Tutu", "inPool": false, "why": "fellow Nobel Peace Prize laureate"},
+      {"handle": "BarackObama", "inPool": false, "why": "White House meeting, mutual respect"}
+    ]
+  },
+  {
+    "handle": "Zendaya",
+    "circle": [
+      {"handle": "Drake", "inPool": true, "why": "close friendship, mutual hype online"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "hip-hop/pop culture mutual appreciation"},
+      {"handle": "iamcardib", "inPool": true, "why": "pop culture and fashion crossover"},
+      {"handle": "PostMalone", "inPool": true, "why": "celebrity crossover and pop culture"},
+      {"handle": "justinbieber", "inPool": true, "why": "Disney-era peer, pop culture overlap"},
+      {"handle": "ladygaga", "inPool": true, "why": "fashion icon mutual admiration"},
+      {"handle": "rihanna", "inPool": true, "why": "fashion and pop culture crossover"},
+      {"handle": "Marvel", "inPool": true, "why": "Spider-Man franchise castmate engagement"},
+      {"handle": "DisneyPlus", "inPool": true, "why": "Euphoria/Disney streaming presence"},
+      {"handle": "TomHolland2013", "inPool": false, "why": "on-screen and real-life partner"},
+      {"handle": "TimotheeChalamet", "inPool": false, "why": "Dune co-star, press tour duo"},
+      {"handle": "HunterSchafer", "inPool": false, "why": "Euphoria co-star, close friend"}
+    ]
+  },
+  {
+    "handle": "LeoDiCaprio",
+    "circle": [
+      {"handle": "MarkRuffalo", "inPool": true, "why": "fellow actor and climate activist"},
+      {"handle": "WHO", "inPool": true, "why": "UN environment messenger engagement"},
+      {"handle": "NASA", "inPool": true, "why": "climate data sharing and endorsement"},
+      {"handle": "Marvel", "inPool": true, "why": "A-list Hollywood peer engagement"},
+      {"handle": "MarvelStudios", "inPool": true, "why": "Hollywood studio peer ecosystem"},
+      {"handle": "elonmusk", "inPool": true, "why": "public environmental debate/clash"},
+      {"handle": "GretaThunberg", "inPool": false, "why": "climate ally, UN speech support"},
+      {"handle": "MartinScorsese", "inPool": false, "why": "longtime director, frequent collaborator"},
+      {"handle": "QuentinTarantino", "inPool": false, "why": "Hollywood peer, mutual respect"},
+      {"handle": "AlGore", "inPool": false, "why": "climate advocacy mentor figure"}
+    ]
+  },
+  {
+    "handle": "Pontifex",
+    "circle": [
+      {"handle": "WHO", "inPool": true, "why": "pandemic response, health equity messaging"},
+      {"handle": "MichelleObama", "inPool": true, "why": "humanitarian values overlap"},
+      {"handle": "JoeBiden", "inPool": true, "why": "Catholic president, Vatican meetings"},
+      {"handle": "BernieSanders", "inPool": true, "why": "anti-inequality message alignment"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "interfaith diplomacy engagement"},
+      {"handle": "DalaiLama", "inPool": false, "why": "interfaith dialogue, peace messaging"},
+      {"handle": "VaticanNews", "inPool": false, "why": "official Vatican media arm"},
+      {"handle": "CatholicNewsAgency", "inPool": false, "why": "Catholic media outlet engagement"},
+      {"handle": "archbishopofcanterbury", "inPool": false, "why": "interfaith Christian dialogue"}
+    ]
+  },
+  {
+    "handle": "StephenAtHome",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "late-night peer, mutual roast energy"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late-night peer, show crossovers"},
+      {"handle": "sethmeyers", "inPool": true, "why": "late-night NBC peer, political comedy"},
+      {"handle": "StephenKing", "inPool": true, "why": "mutual guest appearance, horror fan"},
+      {"handle": "NathanFillion", "inPool": true, "why": "recurring guest, comedy banter"},
+      {"handle": "rickygervais", "inPool": true, "why": "comedy peer, awards show banter"},
+      {"handle": "JimGaffigan", "inPool": true, "why": "comedian peer, frequent crossover"},
+      {"handle": "AnnaKendrick47", "inPool": true, "why": "recurring guest, playful interview chemistry"},
+      {"handle": "Lin_Manuel", "inPool": true, "why": "Hamilton on show, musical collab"},
+      {"handle": "JoeBiden", "inPool": true, "why": "political interview guest"},
+      {"handle": "elonmusk", "inPool": true, "why": "satirical target, public sparring"},
+      {"handle": "BernieSanders", "inPool": true, "why": "recurring political comedy guest"}
+    ]
+  },
+  {
+    "handle": "TheRock",
+    "circle": [
+      {"handle": "KingJames", "inPool": true, "why": "mutual athlete-to-mogul admiration"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "frequent comedic crossover appearances"},
+      {"handle": "WWE", "inPool": true, "why": "WWE alumni, wrestlemania appearances"},
+      {"handle": "ufc", "inPool": true, "why": "combat sports fan, UFC crossover"},
+      {"handle": "KDTrey5", "inPool": true, "why": "sports celebrity mutual hype"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show fitness challenge viral bits"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech mogul celebrity crossover"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "mutual athlete/celebrity friendship"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "fitness/food celebrity crossover"},
+      {"handle": "KevinHart4real", "inPool": false, "why": "best friend, constant banter partner"},
+      {"handle": "VinDiesel", "inPool": false, "why": "Fast & Furious co-star feud/partnership"},
+      {"handle": "MarkWahlberg", "inPool": false, "why": "Hollywood action star peer fitness rivalry"}
+    ]
+  },
+  {
+    "handle": "StephenCurry30",
+    "circle": [
+      {"handle": "KingJames", "inPool": true, "why": "Finals rival, defining NBA era matchup"},
+      {"handle": "KDTrey5", "inPool": true, "why": "Warriors teammate, championship runs"},
+      {"handle": "NBA", "inPool": true, "why": "league account, highlight interactions"},
+      {"handle": "espn", "inPool": true, "why": "constant NBA coverage target"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlights and hot takes target"},
+      {"handle": "warriors", "inPool": true, "why": "own team account interaction"},
+      {"handle": "Drake", "inPool": true, "why": "celebrity courtside, rap culture crossover"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech celebrity mutual engagement"},
+      {"handle": "TheRock", "inPool": true, "why": "mutual athlete/celebrity friendship"},
+      {"handle": "JoelEmbiid", "inPool": true, "why": "rival MVP conversations"},
+      {"handle": "AyeshaCurry", "inPool": false, "why": "spouse, joint social media presence"},
+      {"handle": "DraymondGreen", "inPool": false, "why": "Warriors teammate, public banter"}
+    ]
+  },
+  {
+    "handle": "Xbox",
+    "circle": [
+      {"handle": "NintendoAmerica", "inPool": true, "why": "gaming rival, console war discourse"},
+      {"handle": "RockstarGames", "inPool": true, "why": "major third-party publisher partnership"},
+      {"handle": "MrBeast", "inPool": true, "why": "gaming crossover, YouTube collab events"},
+      {"handle": "elonmusk", "inPool": true, "wy": "platform owner, tech culture crossover"},
+      {"handle": "NASA", "inPool": true, "why": "Microsoft/Xbox tech culture crossover"},
+      {"handle": "starwars", "inPool": true, "why": "Star Wars game licensing crossover"},
+      {"handle": "Marvel", "inPool": true, "why": "Marvel Avengers game collab promo"},
+      {"handle": "Drake", "inPool": true, "why": "gaming celebrity endorsement crossover"},
+      {"handle": "KDTrey5", "inPool": true, "why": "athlete ambassador gaming crossover"},
+      {"handle": "PlayStation", "inPool": false, "why": "direct console competitor, console wars"},
+      {"handle": "PhilSpencer", "inPool": false, "why": "Xbox CEO, key account to engage"},
+      {"handle": "IGN", "inPool": false, "why": "primary gaming media partner"}
+    ]
+  },
+  {
+    "handle": "RockstarGames",
+    "circle": [
+      {"handle": "Xbox", "inPool": true, "why": "major gaming platform partner"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "gaming industry peer crossover"},
+      {"handle": "elonmusk", "inPool": true, "why": "GTA meme crossover, platform culture"},
+      {"handle": "Drake", "inPool": true, "why": "hip-hop culture ties, GTA soundtrack"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "GTA Vice City/San Andreas culture icon"},
+      {"handle": "MrBeast", "inPool": true, "why": "YouTube gaming crossover audience"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "GTA political satire meme target"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "hip-hop culture GTA aesthetic tie-in"},
+      {"handle": "iamcardib", "inPool": true, "why": "hip-hop/GTA culture crossover"},
+      {"handle": "PlayStation", "inPool": false, "why": "major gaming platform partner"},
+      {"handle": "TakeTwo", "inPool": false, "why": "parent company official account"},
+      {"handle": "IGN", "inPool": false, "why": "primary gaming media outlet GTA coverage"}
+    ]
+  },
+  {
+    "handle": "ChrisEvans",
+    "circle": [
+      {"handle": "RobertDowneyJr", "inPool": true, "why": "Iron Man co-star, MCU bromance"},
+      {"handle": "MarkRuffalo", "inPool": true, "why": "Avengers castmate, political peer"},
+      {"handle": "Marvel", "inPool": true, "why": "Captain America franchise home"},
+      {"handle": "MarvelStudios", "inPool": true, "why": "MCU studio official engagement"},
+      {"handle": "DisneyPlus", "inPool": true, "why": "MCU streaming home, Avengers content"},
+      {"handle": "NathanFillion", "inPool": true, "why": "fun celebrity/nerd culture banter"},
+      {"handle": "ActuallyNPH", "inPool": true, "why": "Broadway/nerd culture crossover peer"},
+      {"handle": "JimGaffigan", "inPool": true, "why": "comedy peer, playful Twitter energy"},
+      {"handle": "BernieSanders", "inPool": true, "why": "vocal progressive political engagement"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politics, public endorsement"},
+      {"handle": "TomHolland2013", "inPool": false, "why": "Spider-Man MCU co-star"},
+      {"handle": "ChrisHemsworth", "inPool": false, "why": "Thor co-star, Avengers banter"}
+    ]
+  }
+]

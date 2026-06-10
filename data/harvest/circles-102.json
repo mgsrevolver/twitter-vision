@@ -1,0 +1,627 @@
+[
+  {
+    "handle": "cz_binance",
+    "circle": [
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "crypto peer debates"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin/crypto discourse"
+      },
+      {
+        "handle": "jack",
+        "inPool": true,
+        "why": "Bitcoin/payments crossover"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "VC-crypto circle overlap"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "fellow exchange CEO"
+      },
+      {
+        "handle": "justinsuntron",
+        "inPool": true,
+        "why": "TRON/crypto feud"
+      },
+      {
+        "handle": "stablekwon",
+        "inPool": true,
+        "why": "ecosystem collapse drama"
+      },
+      {
+        "handle": "SBF_FTX",
+        "inPool": true,
+        "why": "rival exchange collapse"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "crypto/Twitter influence"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "crypto-VC policy discourse"
+      }
+    ]
+  },
+  {
+    "handle": "Minecraft",
+    "circle": [
+      {
+        "handle": "MrBeast",
+        "inPool": true,
+        "why": "Minecraft challenge collabs"
+      },
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "frequent Minecraft streamer"
+      },
+      {
+        "handle": "markiplier",
+        "inPool": true,
+        "why": "iconic Minecraft YouTuber"
+      },
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "gaming personality crossover"
+      },
+      {
+        "handle": "NintendoAmerica",
+        "inPool": true,
+        "why": "fellow gaming brand"
+      },
+      {
+        "handle": "RockstarGames",
+        "inPool": true,
+        "why": "gaming peer brand"
+      },
+      {
+        "handle": "LeagueOfLegends",
+        "inPool": true,
+        "why": "gaming peer brand"
+      },
+      {
+        "handle": "Steam",
+        "inPool": true,
+        "why": "PC gaming distribution"
+      }
+    ]
+  },
+  {
+    "handle": "CallofDuty",
+    "circle": [
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "major CoD/Warzone streamer"
+      },
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "early Warzone content"
+      },
+      {
+        "handle": "MrBeast",
+        "inPool": true,
+        "why": "gaming content overlap"
+      },
+      {
+        "handle": "LeagueOfLegends",
+        "inPool": true,
+        "why": "gaming peer brand"
+      },
+      {
+        "handle": "RockstarGames",
+        "inPool": true,
+        "why": "gaming peer brand"
+      },
+      {
+        "handle": "NintendoAmerica",
+        "inPool": true,
+        "why": "gaming peer brand"
+      },
+      {
+        "handle": "NICKMERCS",
+        "inPool": false,
+        "why": "top Warzone creator"
+      },
+      {
+        "handle": "DrDisrespect",
+        "inPool": false,
+        "why": "iconic Warzone streamer"
+      }
+    ]
+  },
+  {
+    "handle": "GaryLineker",
+    "circle": [
+      {
+        "handle": "GNev2",
+        "inPool": true,
+        "why": "Match of the Day co-pundit"
+      },
+      {
+        "handle": "IanWright0",
+        "inPool": true,
+        "why": "Match of the Day colleague"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "football stats he cites"
+      },
+      {
+        "handle": "Carra23",
+        "inPool": false,
+        "why": "BBC football peer"
+      },
+      {
+        "handle": "rioferdy5",
+        "inPool": false,
+        "why": "football pundit peer"
+      }
+    ]
+  },
+  {
+    "handle": "dog_rates",
+    "circle": [
+      {
+        "handle": "MrBeast",
+        "inPool": true,
+        "why": "viral wholesome crossover"
+      },
+      {
+        "handle": "dog_feelings",
+        "inPool": false,
+        "why": "sister dog humor account"
+      },
+      {
+        "handle": "BrotherNature",
+        "inPool": false,
+        "why": "animal wholesomeness peer"
+      },
+      {
+        "handle": "NatlParkService",
+        "inPool": false,
+        "why": "beloved wholesome account"
+      },
+      {
+        "handle": "buitengebieden",
+        "inPool": false,
+        "why": "animal content peer"
+      }
+    ]
+  },
+  {
+    "handle": "NPR",
+    "circle": [
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "journalism/news peer"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "journalism/news peer"
+      },
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "digital news peer"
+      },
+      {
+        "handle": "thehill",
+        "inPool": true,
+        "why": "politics news peer"
+      },
+      {
+        "handle": "PBS",
+        "inPool": false,
+        "why": "public broadcast sibling"
+      },
+      {
+        "handle": "TheAtlantic",
+        "inPool": false,
+        "why": "long-form journalism peer"
+      }
+    ]
+  },
+  {
+    "handle": "SpursOfficial",
+    "circle": [
+      {
+        "handle": "Arsenal",
+        "inPool": false,
+        "why": "North London rivals"
+      },
+      {
+        "handle": "ChelseaFC",
+        "inPool": false,
+        "why": "London rival"
+      },
+      {
+        "handle": "ManUtd",
+        "inPool": true,
+        "why": "Premier League rival"
+      },
+      {
+        "handle": "ManCity",
+        "inPool": false,
+        "why": "Premier League rival"
+      },
+      {
+        "handle": "LFC",
+        "inPool": false,
+        "why": "Premier League rival"
+      },
+      {
+        "handle": "GaryLineker",
+        "inPool": true,
+        "why": "ex-Spurs forward/fan"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "stats RT source"
+      }
+    ]
+  },
+  {
+    "handle": "SteveMartinToGo",
+    "circle": [
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "long-time comedy peer"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "Tonight Show frequent guest"
+      },
+      {
+        "handle": "rickygervais",
+        "inPool": true,
+        "why": "comedy peer/awards host"
+      },
+      {
+        "handle": "StephenAtHome",
+        "inPool": true,
+        "why": "Late Show peer/guest"
+      },
+      {
+        "handle": "MarkHamill",
+        "inPool": true,
+        "why": "pop-culture peer/friend"
+      },
+      {
+        "handle": "SamuelLJackson",
+        "inPool": true,
+        "why": "Hollywood peer"
+      },
+      {
+        "handle": "MartinShort",
+        "inPool": false,
+        "why": "Only Murders co-star/best friend"
+      }
+    ]
+  },
+  {
+    "handle": "SkySportsNews",
+    "circle": [
+      {
+        "handle": "GaryLineker",
+        "inPool": true,
+        "why": "leading football broadcaster"
+      },
+      {
+        "handle": "GNev2",
+        "inPool": true,
+        "why": "Sky Sports lead pundit"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "stats source cited often"
+      },
+      {
+        "handle": "F1",
+        "inPool": true,
+        "why": "Sky Sports holds F1 rights"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "Sky Sports NFL coverage"
+      },
+      {
+        "handle": "Carra23",
+        "inPool": false,
+        "why": "Sky Sports MNF co-host"
+      }
+    ]
+  },
+  {
+    "handle": "Sethrogen",
+    "circle": [
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "comedy peer/frequent guest"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "talk show guest/friend"
+      },
+      {
+        "handle": "VancityReynolds",
+        "inPool": true,
+        "why": "Canadian peer/Twitter banter"
+      },
+      {
+        "handle": "KevinHart4real",
+        "inPool": true,
+        "why": "comedy/film peer"
+      },
+      {
+        "handle": "StephenAtHome",
+        "inPool": true,
+        "why": "Late Show guest/friend"
+      },
+      {
+        "handle": "rickygervais",
+        "inPool": true,
+        "why": "comedy peer"
+      },
+      {
+        "handle": "SamuelLJackson",
+        "inPool": true,
+        "why": "Hollywood peer"
+      },
+      {
+        "handle": "JuddApatow",
+        "inPool": false,
+        "why": "longtime creative collaborator"
+      }
+    ]
+  },
+  {
+    "handle": "asvpxrocky",
+    "circle": [
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "partner/collaborator"
+      },
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "hip-hop peer/collaborator"
+      },
+      {
+        "handle": "kanyewest",
+        "inPool": true,
+        "why": "hip-hop peer/mentor"
+      },
+      {
+        "handle": "NICKIMINAJ",
+        "inPool": true,
+        "why": "hip-hop peer"
+      },
+      {
+        "handle": "wizkhalifa",
+        "inPool": true,
+        "why": "hip-hop peer/collaborator"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "hip-hop elder/collaborator"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "hip-hop peer"
+      },
+      {
+        "handle": "gucci1017",
+        "inPool": true,
+        "why": "ATL trap crossover"
+      },
+      {
+        "handle": "LilNasX",
+        "inPool": true,
+        "why": "contemporary hip-hop peer"
+      },
+      {
+        "handle": "Eminem",
+        "inPool": true,
+        "why": "hip-hop elder"
+      }
+    ]
+  },
+  {
+    "handle": "LanaDelRey",
+    "circle": [
+      {
+        "handle": "taylorswift13",
+        "inPool": true,
+        "why": "close friend/collaborator"
+      },
+      {
+        "handle": "charli_xcx",
+        "inPool": true,
+        "why": "alt-pop peer"
+      },
+      {
+        "handle": "st_vincent",
+        "inPool": true,
+        "why": "indie/art pop peer"
+      },
+      {
+        "handle": "idinamenzel",
+        "inPool": true,
+        "why": "pop peer"
+      },
+      {
+        "handle": "billieeilish",
+        "inPool": false,
+        "why": "pop admirer/peer"
+      },
+      {
+        "handle": "kanyewest",
+        "inPool": true,
+        "why": "artistic reference point"
+      }
+    ]
+  },
+  {
+    "handle": "BBCSport",
+    "circle": [
+      {
+        "handle": "GaryLineker",
+        "inPool": true,
+        "why": "Match of the Day host"
+      },
+      {
+        "handle": "IanWright0",
+        "inPool": true,
+        "why": "Match of the Day pundit"
+      },
+      {
+        "handle": "GNev2",
+        "inPool": true,
+        "why": "football pundit"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "football stats partner"
+      },
+      {
+        "handle": "F1",
+        "inPool": true,
+        "why": "BBC motorsport coverage"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "NFL London coverage"
+      },
+      {
+        "handle": "MLB",
+        "inPool": true,
+        "why": "sports coverage overlap"
+      }
+    ]
+  },
+  {
+    "handle": "ESPNNBA",
+    "circle": [
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "ESPN NBA insider star"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "ESPN NBA lead analyst"
+      },
+      {
+        "handle": "RealSkipBayless",
+        "inPool": true,
+        "why": "First Take debate partner"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "NBA media personality"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "rival insider scoops race"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "most covered NBA player"
+      },
+      {
+        "handle": "StephenCurry30",
+        "inPool": true,
+        "why": "featured NBA star"
+      },
+      {
+        "handle": "Giannis_An34",
+        "inPool": true,
+        "why": "featured NBA star"
+      },
+      {
+        "handle": "KDTrey5",
+        "inPool": true,
+        "why": "featured NBA star"
+      },
+      {
+        "handle": "JoelEmbiid",
+        "inPool": true,
+        "why": "featured NBA star"
+      }
+    ]
+  },
+  {
+    "handle": "chancetherapper",
+    "circle": [
+      {
+        "handle": "kanyewest",
+        "inPool": true,
+        "why": "Chicago mentor/collaborator"
+      },
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "hip-hop peer/collaborator"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "hip-hop peer"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "hip-hop elder/peer"
+      },
+      {
+        "handle": "LilNasX",
+        "inPool": true,
+        "why": "contemporary peer"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "Chicago/civic connection"
+      },
+      {
+        "handle": "MichelleObama",
+        "inPool": true,
+        "why": "Chicago/civic connection"
+      }
+    ]
+  }
+]

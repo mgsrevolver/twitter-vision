@@ -1,0 +1,532 @@
+[
+  {
+    "handle": "BenRothenberg",
+    "circle": [
+      {
+        "handle": "rogerfederer",
+        "inPool": true,
+        "why": "covers Federer career extensively"
+      },
+      {
+        "handle": "RafaelNadal",
+        "inPool": true,
+        "why": "covers Nadal career extensively"
+      },
+      {
+        "handle": "serenawilliams",
+        "inPool": true,
+        "why": "prominent WTA coverage"
+      },
+      {
+        "handle": "atptour",
+        "inPool": true,
+        "why": "main ATP beat reporter"
+      },
+      {
+        "handle": "WTA",
+        "inPool": true,
+        "why": "WTA circuit coverage"
+      },
+      {
+        "handle": "carlosalcaraz",
+        "inPool": false,
+        "why": "covers Alcaraz closely"
+      },
+      {
+        "handle": "JannikSinner",
+        "inPool": false,
+        "why": "covers Sinner closely"
+      }
+    ]
+  },
+  {
+    "handle": "tracyalloway",
+    "circle": [
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "Odd Lots podcast co-host"
+      },
+      {
+        "handle": "markets",
+        "inPool": true,
+        "why": "Bloomberg Markets colleague"
+      },
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "finance media ecosystem"
+      },
+      {
+        "handle": "WSJ",
+        "inPool": true,
+        "why": "finance journalism peer"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "macro finance discussion"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "finance discourse engagement"
+      }
+    ]
+  },
+  {
+    "handle": "OregonZoo",
+    "circle": [
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "animal/nature community partner"
+      },
+      {
+        "handle": "zooborns",
+        "inPool": false,
+        "why": "zoo baby animal collaborator"
+      },
+      {
+        "handle": "SanDiegoZoo",
+        "inPool": false,
+        "why": "major zoo peer account"
+      },
+      {
+        "handle": "NatlParkService",
+        "inPool": false,
+        "why": "conservation peer account"
+      },
+      {
+        "handle": "MontereyAq",
+        "inPool": false,
+        "why": "Pacific coast animal account"
+      }
+    ]
+  },
+  {
+    "handle": "ElectricLit",
+    "circle": [
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "major author coverage"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "prominent fiction author"
+      },
+      {
+        "handle": "parisreview",
+        "inPool": false,
+        "why": "literary magazine peer"
+      },
+      {
+        "handle": "nybooks",
+        "inPool": false,
+        "why": "literary criticism peer"
+      },
+      {
+        "handle": "nytimesbooks",
+        "inPool": false,
+        "why": "books coverage crossover"
+      },
+      {
+        "handle": "nprbooks",
+        "inPool": false,
+        "why": "public radio books peer"
+      }
+    ]
+  },
+  {
+    "handle": "neonrated",
+    "circle": [
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film news coverage partner"
+      },
+      {
+        "handle": "goldenglobes",
+        "inPool": true,
+        "why": "awards season engagement"
+      },
+      {
+        "handle": "Criterion",
+        "inPool": true,
+        "why": "arthouse film community"
+      },
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "filmmaker championing indie film"
+      },
+      {
+        "handle": "A24",
+        "inPool": false,
+        "why": "indie distributor peer"
+      },
+      {
+        "handle": "letterboxd",
+        "inPool": false,
+        "why": "film community platform"
+      },
+      {
+        "handle": "IndieWire",
+        "inPool": false,
+        "why": "arthouse film media"
+      },
+      {
+        "handle": "sundanceorg",
+        "inPool": false,
+        "why": "major indie film festival"
+      }
+    ]
+  },
+  {
+    "handle": "christinatosi",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "celebrity chef community"
+      },
+      {
+        "handle": "PadmaLakshmi",
+        "inPool": true,
+        "why": "food TV crossover"
+      },
+      {
+        "handle": "davidchang",
+        "inPool": false,
+        "why": "NYC food scene colleague"
+      },
+      {
+        "handle": "chefjoseandres",
+        "inPool": false,
+        "why": "celebrity chef peer"
+      },
+      {
+        "handle": "bonappetit",
+        "inPool": false,
+        "why": "Milk Bar food media coverage"
+      },
+      {
+        "handle": "nytfood",
+        "inPool": false,
+        "why": "NYT food coverage"
+      }
+    ]
+  },
+  {
+    "handle": "benedictevans",
+    "circle": [
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "a16z colleague and tech peer"
+      },
+      {
+        "handle": "karaswisher",
+        "inPool": true,
+        "why": "tech media mutual engagement"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI/tech strategy discussion"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "tech founder-analyst engagement"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech/VC philosophy peer"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech VC discussion"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "tech investor engagement"
+      }
+    ]
+  },
+  {
+    "handle": "zooborns",
+    "circle": [
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "animal content community"
+      },
+      {
+        "handle": "OregonZoo",
+        "inPool": false,
+        "why": "zoo baby animal partner"
+      },
+      {
+        "handle": "SanDiegoZoo",
+        "inPool": false,
+        "why": "major zoo content source"
+      },
+      {
+        "handle": "NatlParkService",
+        "inPool": false,
+        "why": "wholesome nature community"
+      },
+      {
+        "handle": "MontereyAq",
+        "inPool": false,
+        "why": "aquarium animal peer"
+      }
+    ]
+  },
+  {
+    "handle": "johnaugust",
+    "circle": [
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "filmmaker friend and collaborator"
+      },
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "filmmaker community peer"
+      },
+      {
+        "handle": "rianjohnson",
+        "inPool": true,
+        "why": "screenwriter-director colleague"
+      },
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film media coverage"
+      },
+      {
+        "handle": "craigmazin",
+        "inPool": false,
+        "why": "Scriptnotes podcast co-host"
+      }
+    ]
+  },
+  {
+    "handle": "KevinOConnorNBA",
+    "circle": [
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "NBA news beat peer"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "NBA insider peer"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "The Ringer employer"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "NBA media discourse"
+      },
+      {
+        "handle": "RealSkipBayless",
+        "inPool": true,
+        "why": "NBA hot take ecosystem"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "main NBA media beat"
+      }
+    ]
+  },
+  {
+    "handle": "jasonlk",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "startup/AI leadership engagement"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "startup ecosystem dialogue"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "VC ecosystem engagement"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "startup philosophy overlap"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "SaaS/VC circle"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "tech investor discourse"
+      }
+    ]
+  },
+  {
+    "handle": "kibblesmith",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist humor Twitter peer"
+      },
+      {
+        "handle": "meganamram",
+        "inPool": true,
+        "why": "comedy writer peer"
+      },
+      {
+        "handle": "joshgondelman",
+        "inPool": true,
+        "why": "comedy writer community"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "comedy engagement"
+      },
+      {
+        "handle": "pattonoswalt",
+        "inPool": false,
+        "why": "comedy/pop culture peer"
+      }
+    ]
+  },
+  {
+    "handle": "alistairmilne",
+    "circle": [
+      {
+        "handle": "thedefiedge",
+        "inPool": true,
+        "why": "DeFi content community"
+      },
+      {
+        "handle": "WuBlockchain",
+        "inPool": true,
+        "why": "crypto news engagement"
+      },
+      {
+        "handle": "zachxbt",
+        "inPool": true,
+        "why": "on-chain analysis community"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin maximalist sphere"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "Ethereum ecosystem"
+      },
+      {
+        "handle": "cz_binance",
+        "inPool": true,
+        "why": "crypto exchange community"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "crypto industry leadership"
+      }
+    ]
+  },
+  {
+    "handle": "thedefiedge",
+    "circle": [
+      {
+        "handle": "WuBlockchain",
+        "inPool": true,
+        "why": "crypto news sourcing"
+      },
+      {
+        "handle": "zachxbt",
+        "inPool": true,
+        "why": "on-chain community engagement"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "ETH/DeFi ecosystem"
+      },
+      {
+        "handle": "cz_binance",
+        "inPool": true,
+        "why": "DeFi industry leader"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "crypto regulatory discussion"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "crypto-tech philosophy"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin maximalism discourse"
+      }
+    ]
+  },
+  {
+    "handle": "katiehalper",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive politics alignment"
+      },
+      {
+        "handle": "briebriejoy",
+        "inPool": false,
+        "why": "left media colleague"
+      },
+      {
+        "handle": "cenkuygur",
+        "inPool": false,
+        "why": "TYT network association"
+      },
+      {
+        "handle": "KyleKulinski",
+        "inPool": false,
+        "why": "progressive media peer"
+      },
+      {
+        "handle": "SamSeder",
+        "inPool": false,
+        "why": "Majority Report left media"
+      }
+    ]
+  }
+]

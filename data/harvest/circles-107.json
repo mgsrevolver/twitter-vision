@@ -1,0 +1,597 @@
+[
+  {
+    "handle": "TheAtlantic",
+    "circle": [
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "sister outlet, frequent cross-cite"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "peer prestige outlet"
+      },
+      {
+        "handle": "TheEconomist",
+        "inPool": true,
+        "why": "peer long-form publication"
+      },
+      {
+        "handle": "Reuters",
+        "inPool": true,
+        "why": "news wire it amplifies"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "contributor, liberal commentator"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC liberal media peer"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "frequent interview subject"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "cited/featured prominently"
+      }
+    ]
+  },
+  {
+    "handle": "Carra23",
+    "circle": [
+      {
+        "handle": "GNev2",
+        "inPool": true,
+        "why": "Sky Sports co-pundit, constant banter"
+      },
+      {
+        "handle": "GaryLineker",
+        "inPool": true,
+        "why": "Match of Day colleague"
+      },
+      {
+        "handle": "IanWright0",
+        "inPool": true,
+        "why": "Match of Day co-pundit"
+      },
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "ex-Barcelona loan, discussed"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "stats source he quotes/shares"
+      },
+      {
+        "handle": "piersmorgan",
+        "inPool": true,
+        "why": "UK media sparring partner"
+      },
+      {
+        "handle": "ChampionsLeague",
+        "inPool": true,
+        "why": "covers UCL as pundit"
+      }
+    ]
+  },
+  {
+    "handle": "PSG_English",
+    "circle": [
+      {
+        "handle": "Cristiano",
+        "inPool": true,
+        "why": "Mbappe linked with Ronaldo rivalry"
+      },
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "primary transfer reporter for PSG"
+      },
+      {
+        "handle": "ChampionsLeague",
+        "inPool": true,
+        "why": "UCL competitor, regular tag"
+      },
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "historic rival, Neymar departure"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "stats outlet that covers PSG"
+      },
+      {
+        "handle": "GNev2",
+        "inPool": true,
+        "why": "pundit who analyses PSG"
+      }
+    ]
+  },
+  {
+    "handle": "RandPaul",
+    "circle": [
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "Senate libertarian-right ally"
+      },
+      {
+        "handle": "marklevinshow",
+        "inPool": true,
+        "why": "conservative radio mutual booster"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "frequent Fox interview host"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "right-media amplifier"
+      },
+      {
+        "handle": "JDVance",
+        "inPool": true,
+        "why": "Senate conservative colleague"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox host who features Rand"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "conservative media ally"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "occasional left-right sparring"
+      }
+    ]
+  },
+  {
+    "handle": "sundarpichai",
+    "circle": [
+      {
+        "handle": "Google",
+        "inPool": true,
+        "why": "CEO of Google"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "fellow CEO, AI policy peer"
+      },
+      {
+        "handle": "satyanadella",
+        "inPool": true,
+        "why": "fellow Big Tech CEO"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "tech industry, mentioned by Elon"
+      },
+      {
+        "handle": "tim_cook",
+        "inPool": true,
+        "why": "fellow Big Tech CEO"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "tech industry elder statesman"
+      }
+    ]
+  },
+  {
+    "handle": "StationCDRKelly",
+    "circle": [
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "former NASA astronaut, constant mention"
+      },
+      {
+        "handle": "SpaceX",
+        "inPool": true,
+        "why": "commercial space partner"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communicator peer"
+      },
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "science communicator peer"
+      },
+      {
+        "handle": "Cmdr_Hadfield",
+        "inPool": true,
+        "why": "fellow ISS commander friend"
+      },
+      {
+        "handle": "MarsCuriosity",
+        "inPool": true,
+        "why": "space mission camaraderie"
+      }
+    ]
+  },
+  {
+    "handle": "youngthug",
+    "circle": [
+      {
+        "handle": "gucci1017",
+        "inPool": true,
+        "why": "mentor, signed Young Thug to 1017"
+      },
+      {
+        "handle": "MetroBoomin",
+        "inPool": true,
+        "why": "longtime producer collaborator"
+      },
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "close collaborator, features"
+      },
+      {
+        "handle": "KDTrey5",
+        "inPool": true,
+        "why": "NBA friend, rap fan connection"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "rap peer, collab/mutual support"
+      }
+    ]
+  },
+  {
+    "handle": "CBSNews",
+    "circle": [
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "rival/peer TV news network"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "rival news network mentioned"
+      },
+      {
+        "handle": "Reuters",
+        "inPool": true,
+        "why": "wire service CBS sources"
+      },
+      {
+        "handle": "AP",
+        "inPool": true,
+        "why": "wire service CBS sources"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "peer prestige outlet"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "peer prestige outlet"
+      }
+    ]
+  },
+  {
+    "handle": "marklevinshow",
+    "circle": [
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "Fox News colleague, mutual boost"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "conservative media peer"
+      },
+      {
+        "handle": "RandPaul",
+        "inPool": true,
+        "why": "Senate conservative he promotes"
+      },
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "Senate conservative he promotes"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News colleague"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "conservative media ally"
+      },
+      {
+        "handle": "jordanbpeterson",
+        "inPool": true,
+        "why": "conservative intellectual peer"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "his primary broadcast home"
+      }
+    ]
+  },
+  {
+    "handle": "paulkrugman",
+    "circle": [
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "his primary outlet, NYT columnist"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "economic policy ally"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "economic policy ally"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "left-media interview/peer"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC mutual guest"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "frequent public dispute target"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "peer prestige media he reads"
+      }
+    ]
+  },
+  {
+    "handle": "MarkHamill",
+    "circle": [
+      {
+        "handle": "starwars",
+        "inPool": true,
+        "why": "Luke Skywalker, core identity"
+      },
+      {
+        "handle": "ActuallyNPH",
+        "inPool": true,
+        "why": "close Twitter friend, banters frequently"
+      },
+      {
+        "handle": "VancityReynolds",
+        "inPool": true,
+        "why": "frequent comedic tweet exchanges"
+      },
+      {
+        "handle": "chrisevans",
+        "inPool": true,
+        "why": "MCU/sci-fi peer, political ally"
+      },
+      {
+        "handle": "RobertDowneyJr",
+        "inPool": true,
+        "why": "Marvel-adjacent celebrity peer"
+      },
+      {
+        "handle": "SethMacFarlane",
+        "inPool": true,
+        "why": "sci-fi/humor sphere friend"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "comedy peer, late-night mutual"
+      },
+      {
+        "handle": "straczynski",
+        "inPool": true,
+        "why": "sci-fi writer, Babylon 5 connection"
+      }
+    ]
+  },
+  {
+    "handle": "lexfridman",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "major podcast guest, close ties"
+      },
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "long-form podcast peer"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI CEO, podcast guest"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech-philosophy pod peer"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "tech intellectual, mutual respect"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "high-profile podcast guest"
+      },
+      {
+        "handle": "jordanbpeterson",
+        "inPool": true,
+        "why": "podcast guest, intellectual sphere"
+      }
+    ]
+  },
+  {
+    "handle": "marcorubio",
+    "circle": [
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "Senate Republican colleague/rival"
+      },
+      {
+        "handle": "RandPaul",
+        "inPool": true,
+        "why": "Senate Republican colleague"
+      },
+      {
+        "handle": "JDVance",
+        "inPool": true,
+        "why": "Senate Republican colleague"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "Fox host who covers Rubio"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "conservative media amplifier"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox host who features Rubio"
+      },
+      {
+        "handle": "DonaldJTrumpJr",
+        "inPool": true,
+        "why": "MAGA orbit, mutual amplify"
+      }
+    ]
+  },
+  {
+    "handle": "CNBC",
+    "circle": [
+      {
+        "handle": "WSJ",
+        "inPool": true,
+        "why": "sister financial media brand"
+      },
+      {
+        "handle": "Forbes",
+        "inPool": true,
+        "why": "financial media peer"
+      },
+      {
+        "handle": "Reuters",
+        "inPool": true,
+        "why": "news wire CNBC sources"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "most covered CEO on CNBC"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "frequent interview subject"
+      },
+      {
+        "handle": "JeffBezos",
+        "inPool": true,
+        "why": "frequent interview subject"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI/tech CEO heavily covered"
+      }
+    ]
+  },
+  {
+    "handle": "GavinNewsom",
+    "circle": [
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "California political heir, close ally"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "Democratic Party mentor figure"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive left peer"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "Senate progressive ally"
+      },
+      {
+        "handle": "SpeakerPelosi",
+        "inPool": true,
+        "why": "California Democratic boss"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive coalition partner"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "prominent sparring opponent"
+      },
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "famous televised debate opponent"
+      }
+    ]
+  }
+]

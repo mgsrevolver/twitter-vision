@@ -27,7 +27,7 @@ export default function Home() {
       </div>
 
       <section>
-        <h2 className="mb-3 font-[family-name:var(--font-fraunces)] text-2xl">Build a feed from a vibe</h2>
+        <h2 className="mb-3 font-[family-name:var(--font-fraunces)] text-2xl">Sketch a person instead</h2>
         <SurveyForm />
       </section>
     </div>

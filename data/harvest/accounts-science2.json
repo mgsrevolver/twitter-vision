@@ -1,0 +1,200 @@
+[
+  {
+    "handle": "EricTopol",
+    "name": "Eric Topol",
+    "followers": 760000,
+    "tags": ["science", "tech"]
+  },
+  {
+    "handle": "PeterAttiaMD",
+    "name": "Peter Attia",
+    "followers": 620000,
+    "tags": ["science", "fitness"]
+  },
+  {
+    "handle": "VinayPrasad_MD",
+    "name": "Vinay Prasad",
+    "followers": 290000,
+    "tags": ["science", "politics-right"]
+  },
+  {
+    "handle": "michaelshermer",
+    "name": "Michael Shermer",
+    "followers": 220000,
+    "tags": ["science", "books"]
+  },
+  {
+    "handle": "MGleiser",
+    "name": "Marcelo Gleiser",
+    "followers": 55000,
+    "tags": ["science", "books"]
+  },
+  {
+    "handle": "DrZoeHyde",
+    "name": "Zoe Hyde",
+    "followers": 75000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "DrKaranRajan",
+    "name": "Dr Karan Rajan",
+    "followers": 480000,
+    "tags": ["science", "humor"]
+  },
+  {
+    "handle": "GadflyMD",
+    "name": "Jonathan Howard",
+    "followers": 38000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "DrPaulOffit",
+    "name": "Paul Offit",
+    "followers": 130000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "VirusesImmunology",
+    "name": "Angela Rasmussen",
+    "followers": 185000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "apoorva_nyc",
+    "name": "Apoorva Mandavilli",
+    "followers": 125000,
+    "tags": ["science", "media"]
+  },
+  {
+    "handle": "KatherineJWu",
+    "name": "Katherine J. Wu",
+    "followers": 95000,
+    "tags": ["science", "media"]
+  },
+  {
+    "handle": "HelenBranswell",
+    "name": "Helen Branswell",
+    "followers": 145000,
+    "tags": ["science", "media"]
+  },
+  {
+    "handle": "nataliexdean",
+    "name": "Natalie Dean",
+    "followers": 110000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "CT_Bergstrom",
+    "name": "Carl T. Bergstrom",
+    "followers": 230000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "Michael_Nielsen",
+    "name": "Michael Nielsen",
+    "followers": 62000,
+    "tags": ["science", "ai"]
+  },
+  {
+    "handle": "ballofdirt",
+    "name": "Dave Mosher",
+    "followers": 28000,
+    "tags": ["science", "media"]
+  },
+  {
+    "handle": "DrJenGunter",
+    "name": "Jen Gunter",
+    "followers": 320000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "marynmck",
+    "name": "Maryn McKenna",
+    "followers": 88000,
+    "tags": ["science", "media"]
+  },
+  {
+    "handle": "PHealthD",
+    "name": "Prabhat Jha",
+    "followers": 32000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "adamkucharski",
+    "name": "Adam Kucharski",
+    "followers": 140000,
+    "tags": ["science", "books"]
+  },
+  {
+    "handle": "devisridhar",
+    "name": "Devi Sridhar",
+    "followers": 320000,
+    "tags": ["science", "politics-left"]
+  },
+  {
+    "handle": "NaomiOreskes",
+    "name": "Naomi Oreskes",
+    "followers": 115000,
+    "tags": ["science", "books"]
+  },
+  {
+    "handle": "ZachWeiner",
+    "name": "Zach Weinersmith",
+    "followers": 370000,
+    "tags": ["science", "humor"]
+  },
+  {
+    "handle": "xkcd",
+    "name": "xkcd",
+    "followers": 440000,
+    "tags": ["science", "humor", "tech"]
+  },
+  {
+    "handle": "ESA_Hubble",
+    "name": "ESA Hubble",
+    "followers": 1900000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "NASAHubble",
+    "name": "NASA Hubble",
+    "followers": 2300000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "jodrell_bank",
+    "name": "Jodrell Bank",
+    "followers": 95000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "telescopelive",
+    "name": "Telescope Live",
+    "followers": 42000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "NASA_Artemis",
+    "name": "NASA Artemis",
+    "followers": 1200000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "drbecky_",
+    "name": "Dr Becky Smethurst",
+    "followers": 47000,
+    "tags": ["science"]
+  },
+  {
+    "handle": "SylviaEarle",
+    "name": "Sylvia Earle",
+    "followers": 72000,
+    "tags": ["science", "wholesome"]
+  },
+  {
+    "handle": "RealSexyCyborg",
+    "name": "Naomi Wu",
+    "followers": 190000,
+    "tags": ["science", "tech"]
+  }
+]

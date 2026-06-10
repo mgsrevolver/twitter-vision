@@ -1,0 +1,657 @@
+[
+  {
+    "handle": "cheetah",
+    "circle": [
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "frequent Pat McAfee Show guest"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "NFL org he plays in"
+      },
+      {
+        "handle": "ESPN",
+        "inPool": true,
+        "why": "major sports media engagement"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "First Take appearances banter"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "mutual athlete Twitter banter"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "breaking trade news about him"
+      },
+      {
+        "handle": "colincowherd",
+        "inPool": true,
+        "why": "sports take debates"
+      }
+    ]
+  },
+  {
+    "handle": "APompliano",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "entrepreneur/crypto shared views"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin bull ally"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech-finance crossover content"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "fellow VC finance Twitter"
+      },
+      {
+        "handle": "jason",
+        "inPool": true,
+        "why": "All-In adjacent finance twitter"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "VC tech policy overlap"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "crypto policy discussions"
+      },
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "frequent media appearances"
+      }
+    ]
+  },
+  {
+    "handle": "FilmUpdates",
+    "circle": [
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "trade media peer outlet"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "trade media peer outlet"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "film news peer outlet"
+      },
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film news peer account"
+      },
+      {
+        "handle": "Marvel",
+        "inPool": true,
+        "why": "major studio coverage subject"
+      },
+      {
+        "handle": "RottenTomatoes",
+        "inPool": false,
+        "why": "film metrics partner outlet"
+      }
+    ]
+  },
+  {
+    "handle": "PFTCommenter",
+    "circle": [
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "comedy sports media orbit"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "sports media comedy crossover"
+      },
+      {
+        "handle": "RealSkipBayless",
+        "inPool": true,
+        "why": "parody target hot takes"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "parody target sports takes"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "core content subject NFL"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "breaking news riff target"
+      },
+      {
+        "handle": "colincowherd",
+        "inPool": true,
+        "why": "sports pundit parody target"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "sports media parody target"
+      }
+    ]
+  },
+  {
+    "handle": "BillAckman",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "Twitter/X ally post-acquisition"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "fellow activist investor"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "VC political ally"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "All-In pod aligned"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "crypto finance crossover"
+      },
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "frequent cable finance appearances"
+      },
+      {
+        "handle": "WSJ",
+        "inPool": true,
+        "why": "frequently quoted in coverage"
+      },
+      {
+        "handle": "karaswisher",
+        "inPool": true,
+        "why": "tech media debates sparring"
+      }
+    ]
+  },
+  {
+    "handle": "ComplexMusic",
+    "circle": [
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "dominant hip-hop artist coverage"
+      },
+      {
+        "handle": "XXL",
+        "inPool": true,
+        "why": "hip-hop media peer outlet"
+      },
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "music media peer outlet"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "music media peer outlet"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "iconic hip-hop coverage"
+      },
+      {
+        "handle": "Eminem",
+        "inPool": true,
+        "why": "major artist coverage hype"
+      },
+      {
+        "handle": "billboardcharts",
+        "inPool": true,
+        "why": "chart tracking peer media"
+      }
+    ]
+  },
+  {
+    "handle": "karaswisher",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "long-running high-profile feud"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "tech VC debates friction"
+      },
+      {
+        "handle": "tim_cook",
+        "inPool": true,
+        "why": "Apple interview coverage subject"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI debates coverage"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "VC culture debates"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "political tech debates"
+      },
+      {
+        "handle": "TechCrunch",
+        "inPool": true,
+        "why": "rival peer tech media"
+      },
+      {
+        "handle": "WIRED",
+        "inPool": true,
+        "why": "peer tech journalism outlet"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "longtime tech interview subject"
+      },
+      {
+        "handle": "JeffBezos",
+        "inPool": true,
+        "why": "interview and coverage subject"
+      }
+    ]
+  },
+  {
+    "handle": "TheTraeYoung",
+    "circle": [
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "NBA peer mutual engagement"
+      },
+      {
+        "handle": "Giannis_An34",
+        "inPool": true,
+        "why": "NBA rival engagement"
+      },
+      {
+        "handle": "StephenCurry30",
+        "inPool": true,
+        "why": "NBA peer social media"
+      },
+      {
+        "handle": "KDTrey5",
+        "inPool": true,
+        "why": "Kevin Durant NBA peer"
+      },
+      {
+        "handle": "NBA",
+        "inPool": true,
+        "why": "league official channel"
+      },
+      {
+        "handle": "ESPN",
+        "inPool": true,
+        "why": "sports coverage engagement"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "ESPN First Take NBA talk"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "NBA insider covers him"
+      }
+    ]
+  },
+  {
+    "handle": "NBCSports",
+    "circle": [
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "NBC Sunday Night Football partner"
+      },
+      {
+        "handle": "ESPN",
+        "inPool": true,
+        "why": "rival sports broadcast outlet"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "sports news competitor"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "NFL insider content sharing"
+      },
+      {
+        "handle": "NBCNews",
+        "inPool": true,
+        "why": "parent company sibling outlet"
+      },
+      {
+        "handle": "NHL",
+        "inPool": true,
+        "why": "former NBC hockey broadcast partner"
+      }
+    ]
+  },
+  {
+    "handle": "StephenM",
+    "circle": [
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "longtime Trump top advisor"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "MAGA media key ally"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "conservative media overlap"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "frequent Fox News appearances"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "political opponent he attacks"
+      },
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "political opponent target"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "left-wing target he attacks"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox ally appearances"
+      }
+    ]
+  },
+  {
+    "handle": "hasanthehun",
+    "circle": [
+      {
+        "handle": "VaushV",
+        "inPool": true,
+        "why": "leftist streamer debates banter"
+      },
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "top Twitch streaming peer"
+      },
+      {
+        "handle": "DrLupo",
+        "inPool": true,
+        "why": "Twitch streaming peer"
+      },
+      {
+        "handle": "majorityfm",
+        "inPool": true,
+        "why": "progressive media outlet ally"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "political ally engagement"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "political hero engagement"
+      },
+      {
+        "handle": "IlhanMN",
+        "inPool": true,
+        "why": "progressive congress ally"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "frequent target of criticism"
+      },
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "podcast rival he criticizes"
+      },
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "streaming crossover peer"
+      }
+    ]
+  },
+  {
+    "handle": "CathieDWood",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "Tesla TSLA bull ally"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin investment aligned"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI investment thesis overlap"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "disruptive tech investor peer"
+      },
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "frequent CNBC interviews"
+      },
+      {
+        "handle": "WSJ",
+        "inPool": true,
+        "why": "financial media coverage"
+      },
+      {
+        "handle": "VivekGRamaswamy",
+        "inPool": true,
+        "why": "free market policy ally"
+      }
+    ]
+  },
+  {
+    "handle": "karpathy",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "former Tesla AI director"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI former colleague"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech philosophy crossover"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "VC tech circle engagement"
+      },
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "appeared on JRE podcast"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communication peer"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "tech luminary mutual engagement"
+      },
+      {
+        "handle": "lexfridman",
+        "inPool": false,
+        "why": "AI podcast close colleague"
+      }
+    ]
+  },
+  {
+    "handle": "theantedwards_",
+    "circle": [
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "NBA star peer engagement"
+      },
+      {
+        "handle": "Giannis_An34",
+        "inPool": true,
+        "why": "NBA rival peer"
+      },
+      {
+        "handle": "NBA",
+        "inPool": true,
+        "why": "league official engagement"
+      },
+      {
+        "handle": "ESPN",
+        "inPool": true,
+        "why": "sports media coverage"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "First Take NBA discussions"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "NBA insider covers him"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "ESPN NBA insider coverage"
+      }
+    ]
+  },
+  {
+    "handle": "Genius",
+    "circle": [
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "most annotated hip-hop artist"
+      },
+      {
+        "handle": "XXL",
+        "inPool": true,
+        "why": "hip-hop media peer outlet"
+      },
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "music media peer outlet"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "music media peer outlet"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "iconic lyrics annotation target"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": true,
+        "why": "most searched artist annotations"
+      },
+      {
+        "handle": "billboardcharts",
+        "inPool": true,
+        "why": "chart data music peer"
+      },
+      {
+        "handle": "Eminem",
+        "inPool": true,
+        "why": "dense lyrics annotation target"
+      }
+    ]
+  }
+]

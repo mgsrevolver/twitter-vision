@@ -1,0 +1,150 @@
+[
+  {
+    "handle": "TimDuy",
+    "circle": [
+      {"handle": "noahpinion", "inPool": true, "why": "econ blogger peer"},
+      {"handle": "macroalf", "inPool": true, "why": "macro finance colleague"},
+      {"handle": "TheEconomist", "inPool": true, "why": "frequently cited publication"},
+      {"handle": "WSJ", "inPool": true, "why": "cited for market data"},
+      {"handle": "CNBC", "inPool": true, "why": "financial media outlet"},
+      {"handle": "paulkrugman", "inPool": false, "why": "fellow econ commentator"},
+      {"handle": "modestproposal1", "inPool": false, "why": "fellow macro analyst"}
+    ]
+  },
+  {
+    "handle": "SylviaEarle",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "science org she engages"},
+      {"handle": "NatGeo", "inPool": true, "why": "ocean science media partner"},
+      {"handle": "WHO", "inPool": true, "why": "global science body"},
+      {"handle": "BillNye", "inPool": true, "why": "fellow science communicator"},
+      {"handle": "neiltyson", "inPool": true, "why": "fellow science communicator"}
+    ]
+  },
+  {
+    "handle": "priyakrishna",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "employer outlet NYT Food"},
+      {"handle": "AltonBrown", "inPool": true, "why": "food media peer"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "prominent food figure"},
+      {"handle": "thekitchn", "inPool": false, "why": "food media peer"},
+      {"handle": "saminnosrat", "inPool": false, "why": "chef author collaborator"}
+    ]
+  },
+  {
+    "handle": "leyawn",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist twitter peer"},
+      {"handle": "samgrittner", "inPool": true, "why": "joke account peer"},
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "humor account collaborator"},
+      {"handle": "meganamram", "inPool": true, "why": "comedy writer friend"},
+      {"handle": "jonwu_", "inPool": true, "why": "meme culture peer"},
+      {"handle": "jacksfilms", "inPool": true, "why": "comedy YouTube crossover"}
+    ]
+  },
+  {
+    "handle": "AnimaAnandkumar",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "AI industry leader"},
+      {"handle": "noahpinion", "inPool": true, "why": "tech/AI commentary overlap"},
+      {"handle": "SwiftOnSecurity", "inPool": true, "why": "tech twitter engagement"},
+      {"handle": "karpathy", "inPool": false, "why": "fellow ML researcher"},
+      {"handle": "ilyasut", "inPool": false, "why": "fellow OpenAI/ML researcher"},
+      {"handle": "AndrewYNg", "inPool": false, "why": "fellow AI educator"}
+    ]
+  },
+  {
+    "handle": "HanifKureishi",
+    "circle": [
+      {"handle": "neilhimself", "inPool": true, "why": "literary fiction peer"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary author peer"},
+      {"handle": "salmanrushdie", "inPool": true, "why": "close literary friend"}
+    ]
+  },
+  {
+    "handle": "ZooAtl",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "science institution peer"},
+      {"handle": "NatGeo", "inPool": true, "why": "wildlife media partner"},
+      {"handle": "BillNye", "inPool": true, "why": "science communicator ally"},
+      {"handle": "CincinnatiZoo", "inPool": false, "why": "sister zoo engagement"}
+    ]
+  },
+  {
+    "handle": "samgrittner",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist humor peer"},
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "humor account friend"},
+      {"handle": "meganamram", "inPool": true, "why": "comedy writer friend"},
+      {"handle": "leyawn", "inPool": false, "why": "humor account peer"}
+    ]
+  },
+  {
+    "handle": "RememberThisPod",
+    "circle": [
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film media peer"},
+      {"handle": "THR", "inPool": true, "why": "Hollywood industry media"},
+      {"handle": "Variety", "inPool": true, "why": "film industry media"},
+      {"handle": "DEADLINE", "inPool": true, "why": "film industry media"}
+    ]
+  },
+  {
+    "handle": "modestproposal1",
+    "circle": [
+      {"handle": "macroalf", "inPool": true, "why": "macro finance peer"},
+      {"handle": "noahpinion", "inPool": true, "why": "econ commentator peer"},
+      {"handle": "TheEconomist", "inPool": true, "why": "financial media cited"},
+      {"handle": "WSJ", "inPool": true, "why": "financial news cited"},
+      {"handle": "TimDuy", "inPool": false, "why": "fellow macro analyst"}
+    ]
+  },
+  {
+    "handle": "markets_live",
+    "circle": [
+      {"handle": "WSJ", "inPool": true, "why": "finance media competitor"},
+      {"handle": "TheEconomist", "inPool": true, "why": "finance media peer"},
+      {"handle": "CNBC", "inPool": true, "why": "financial TV competitor"},
+      {"handle": "Reuters", "inPool": true, "why": "wire service peer"},
+      {"handle": "macroalf", "inPool": true, "why": "macro commentary engagement"}
+    ]
+  },
+  {
+    "handle": "garyshilling",
+    "circle": [
+      {"handle": "TheEconomist", "inPool": true, "why": "financial media cited"},
+      {"handle": "WSJ", "inPool": true, "why": "financial outlet cited"},
+      {"handle": "CNBC", "inPool": true, "why": "financial TV appearances"},
+      {"handle": "RayDalio", "inPool": true, "why": "finance industry peer"},
+      {"handle": "noahpinion", "inPool": true, "why": "econ writer peer"}
+    ]
+  },
+  {
+    "handle": "haymarketbooks",
+    "circle": [
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media author"},
+      {"handle": "chrislhayes", "inPool": true, "why": "progressive media ally"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "author they publish/promote"},
+      {"handle": "BernieSanders", "inPool": true, "why": "left politics alignment"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politics alignment"}
+    ]
+  },
+  {
+    "handle": "WideAsleepNima",
+    "circle": [
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media colleague"},
+      {"handle": "chrislhayes", "inPool": true, "why": "progressive media peer"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politics ally"},
+      {"handle": "MaxBlumenthal", "inPool": false, "why": "Grayzone colleague"},
+      {"handle": "AaronMate_", "inPool": false, "why": "Grayzone colleague"}
+    ]
+  },
+  {
+    "handle": "GuyLodge",
+    "circle": [
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film media peer"},
+      {"handle": "Variety", "inPool": true, "why": "employer/film publication"},
+      {"handle": "THR", "inPool": true, "why": "film journalism peer"},
+      {"handle": "DEADLINE", "inPool": true, "why": "film industry media"}
+    ]
+  }
+]

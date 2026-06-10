@@ -1,0 +1,163 @@
+[
+  {
+    "handle": "kenjilopezalt",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "fellow chef, mutual food banter"},
+      {"handle": "Sethrogen", "inPool": true, "why": "close personal friend, frequent replies"},
+      {"handle": "altonbrown", "inPool": true, "why": "food science peer, similar beat"},
+      {"handle": "davidchang", "inPool": false, "why": "chef colleague, NYC food world"},
+      {"handle": "chefjoseandres", "inPool": false, "why": "food/chef mutual respect"},
+      {"handle": "bonappetit", "inPool": false, "why": "food media collaborator"},
+      {"handle": "nytfood", "inPool": false, "why": "publishes NYT Cooking column"}
+    ]
+  },
+  {
+    "handle": "KenTremendous",
+    "circle": [
+      {"handle": "meganamram", "inPool": true, "why": "co-writer, longtime collaborator"},
+      {"handle": "Lin_Manuel", "inPool": true, "why": "frequent warm replies, mutual fan"},
+      {"handle": "jonnysun", "inPool": true, "why": "mutual appreciation, humor overlap"},
+      {"handle": "Sethrogen", "inPool": true, "why": "entertainment orbit, replies"},
+      {"handle": "mulaney", "inPool": true, "why": "comedian peer, Twitter banter"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "comedy/TV writer peer"},
+      {"handle": "amypoehler", "inPool": false, "why": "Parks and Rec collaborator"}
+    ]
+  },
+  {
+    "handle": "TheBlock__",
+    "circle": [
+      {"handle": "cz_binance", "inPool": true, "why": "major crypto CEO, covers heavily"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum founder, frequent subject"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin advocate, source/subject"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO, key crypto figure"},
+      {"handle": "chamath", "inPool": true, "why": "investor, crypto commentary"}
+    ]
+  },
+  {
+    "handle": "Food52",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "celebrity chef, food content overlap"},
+      {"handle": "altonbrown", "inPool": true, "why": "food science content peer"},
+      {"handle": "bonappetit", "inPool": false, "why": "sister food media outlet"},
+      {"handle": "davidchang", "inPool": false, "why": "chef/food culture coverage"},
+      {"handle": "nytfood", "inPool": false, "why": "food media competitor/peer"}
+    ]
+  },
+  {
+    "handle": "Doublelift1",
+    "circle": [
+      {"handle": "lolesports", "inPool": true, "why": "LoL esports org, career context"},
+      {"handle": "LeagueOfLegends", "inPool": true, "why": "the game he plays professionally"},
+      {"handle": "xQc", "inPool": true, "why": "streaming peer, gaming orbit"},
+      {"handle": "faker", "inPool": false, "why": "rival/respected LoL legend"},
+      {"handle": "shroud", "inPool": false, "why": "streamer peer, similar audience"},
+      {"handle": "pokimane", "inPool": false, "why": "streaming community overlap"}
+    ]
+  },
+  {
+    "handle": "peterbakernyt",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "employer, retweets own work"},
+      {"handle": "JakeTapper", "inPool": true, "why": "DC press corps colleague"},
+      {"handle": "chrislhayes", "inPool": true, "why": "media peer, political coverage"},
+      {"handle": "axios", "inPool": true, "why": "news org, White House beat overlap"},
+      {"handle": "joshtpm", "inPool": true, "why": "political journalist peer"},
+      {"handle": "maggieNYT", "inPool": false, "why": "NYT colleague, beat overlap"},
+      {"handle": "wolfblitzer", "inPool": false, "why": "DC press corps peer"}
+    ]
+  },
+  {
+    "handle": "kwelkernbc",
+    "circle": [
+      {"handle": "CNN", "inPool": true, "why": "major news org competitor/peer"},
+      {"handle": "NBCNews", "inPool": true, "why": "employer handle"},
+      {"handle": "JakeTapper", "inPool": true, "why": "DC press corps colleague"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC/NBC political media peer"},
+      {"handle": "axios", "inPool": true, "why": "news org, White House beat overlap"},
+      {"handle": "maggieNYT", "inPool": false, "why": "White House press corps peer"},
+      {"handle": "wolfblitzer", "inPool": false, "why": "TV news anchor peer"}
+    ]
+  },
+  {
+    "handle": "aparnapkin",
+    "circle": [
+      {"handle": "mulaney", "inPool": true, "why": "comedian peer, mutual replies"},
+      {"handle": "JimGaffigan", "inPool": true, "why": "stand-up comedy peer"},
+      {"handle": "jonnysun", "inPool": true, "why": "alt-comedy Twitter overlap"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "comedian peer, similar sensibility"},
+      {"handle": "boburnham", "inPool": false, "why": "alt-comedian generation overlap"}
+    ]
+  },
+  {
+    "handle": "conservmillen",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "Daily Wire colleague, conservative orbit"},
+      {"handle": "charliekirk11", "inPool": false, "why": "conservative media peer"},
+      {"handle": "MattWalshBlog", "inPool": false, "why": "Daily Wire colleague"},
+      {"handle": "DLoesch", "inPool": false, "why": "conservative women commentator peer"},
+      {"handle": "TPUSA", "inPool": false, "why": "conservative org, content amplification"}
+    ]
+  },
+  {
+    "handle": "biancoresearch",
+    "circle": [
+      {"handle": "RayDalio", "inPool": true, "why": "macro investing peer, similar audience"},
+      {"handle": "chamath", "inPool": true, "why": "investor, macro commentary overlap"},
+      {"handle": "CNBC", "inPool": true, "why": "frequent media appearance platform"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin macro debate partner"},
+      {"handle": "unusual_whales", "inPool": false, "why": "financial markets data peer"},
+      {"handle": "jimcramer", "inPool": false, "why": "finance media, frequent sparring"}
+    ]
+  },
+  {
+    "handle": "parisreview",
+    "circle": [
+      {"handle": "MargaretAtwood", "inPool": true, "why": "major literary figure, frequent"},
+      {"handle": "neilhimself", "inPool": true, "why": "Neil Gaiman, literary peer"},
+      {"handle": "StephenKing", "inPool": true, "why": "prominent author, literary culture"},
+      {"handle": "jk_rowling", "inPool": true, "why": "major author, literary world"},
+      {"handle": "newyorker", "inPool": false, "why": "literary magazine peer"},
+      {"handle": "nytimesbooks", "inPool": false, "why": "books media overlap"}
+    ]
+  },
+  {
+    "handle": "MustStopMurad",
+    "circle": [
+      {"handle": "cz_binance", "inPool": true, "why": "crypto exchange CEO, major figure"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum founder, key crypto thinker"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalist, frequent engagement"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO, crypto industry"},
+      {"handle": "APompliano", "inPool": false, "why": "Bitcoin bull, media peer"},
+      {"handle": "100trillionUSD", "inPool": false, "why": "crypto analyst peer, Bitcoin focus"}
+    ]
+  },
+  {
+    "handle": "TayeDiggs",
+    "circle": [
+      {"handle": "idinamenzel", "inPool": true, "why": "ex-wife, co-parent, Broadway peer"},
+      {"handle": "mindykaling", "inPool": true, "why": "Hollywood peer, mutual appreciation"},
+      {"handle": "SamuelLJackson", "inPool": true, "why": "Hollywood actor peer"}
+    ]
+  },
+  {
+    "handle": "fchollet",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "OpenAI CEO, AI industry debates"},
+      {"handle": "karpathy", "inPool": false, "why": "AI researcher peer, frequent exchange"},
+      {"handle": "ilyasut", "inPool": false, "why": "AI researcher, Keras/deep learning peer"},
+      {"handle": "AndrewYNg", "inPool": false, "why": "AI educator/researcher peer"},
+      {"handle": "OpenAI", "inPool": false, "why": "AI org, frequent commentary subject"}
+    ]
+  },
+  {
+    "handle": "aantonop",
+    "circle": [
+      {"handle": "cz_binance", "inPool": true, "why": "crypto exchange CEO, industry figure"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum founder, crypto peer"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin advocate, similar beat"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO, crypto ecosystem"},
+      {"handle": "APompliano", "inPool": false, "why": "Bitcoin media peer, audience overlap"},
+      {"handle": "100trillionUSD", "inPool": false, "why": "Bitcoin analyst peer"}
+    ]
+  }
+]

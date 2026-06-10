@@ -1,0 +1,162 @@
+[
+  {
+    "handle": "Horse_ebooks",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "weird Twitter royalty, clear peer"},
+      {"handle": "jack", "inPool": true, "why": "Twitter lore, platform co-presence"}
+    ]
+  },
+  {
+    "handle": "mattzollerseitz",
+    "circle": [
+      {"handle": "THR", "inPool": true, "why": "film trade he engages regularly"},
+      {"handle": "variety", "inPool": true, "why": "film trade he references"},
+      {"handle": "deadline", "inPool": true, "why": "film/TV industry news"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film discussion account he engages"},
+      {"handle": "VanityFair", "inPool": true, "why": "culture/criticism outlet peer"},
+      {"handle": "thedailybeast", "inPool": true, "why": "media outlet with film coverage"},
+      {"handle": "nytimes", "inPool": true, "why": "film criticism/arts coverage"},
+      {"handle": "BFI", "inPool": true, "why": "film institution he engages"}
+    ]
+  },
+  {
+    "handle": "ChrisMedlandF1",
+    "circle": [
+      {"handle": "F1", "inPool": true, "why": "primary F1 official account"},
+      {"handle": "LewisHamilton", "inPool": true, "why": "top driver he covers regularly"},
+      {"handle": "MercedesAMGF1", "inPool": true, "why": "team he covers closely"},
+      {"handle": "McLarenF1", "inPool": true, "why": "team he covers closely"},
+      {"handle": "MotoGP", "inPool": true, "why": "adjacent motorsport he tweets about"}
+    ]
+  },
+  {
+    "handle": "steak_umm",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "weird Twitter royalty, clear inspiration"},
+      {"handle": "dog_rates", "inPool": true, "why": "fellow wholesome brand Twitter"},
+      {"handle": "BurgerKing", "inPool": true, "why": "fellow brand Twitter sparring partner"},
+      {"handle": "nytimes", "inPool": true, "why": "media they frequently quote and critique"},
+      {"handle": "naval", "inPool": true, "why": "philosophical Twitter they riff on"}
+    ]
+  },
+  {
+    "handle": "DrJimFan",
+    "circle": [
+      {"handle": "nvidia", "inPool": true, "why": "his employer, retweets heavily"},
+      {"handle": "sama", "inPool": true, "why": "OpenAI CEO, key AI industry figure"},
+      {"handle": "LiorOnAI", "inPool": true, "why": "AI Twitter mutual, shares work"},
+      {"handle": "pmarca", "inPool": true, "why": "tech VC he engages frequently"},
+      {"handle": "NASA", "inPool": true, "why": "science account he frequently engages"},
+      {"handle": "jack", "inPool": true, "why": "tech founder he interacts with"}
+    ]
+  },
+  {
+    "handle": "bespokeinvest",
+    "circle": [
+      {"handle": "carlquintanilla", "inPool": true, "why": "CNBC anchor who shares their data"},
+      {"handle": "cnbc", "inPool": true, "why": "financial media that cites them"},
+      {"handle": "WSJ", "inPool": true, "why": "financial media they engage"},
+      {"handle": "markets", "inPool": true, "why": "Bloomberg markets account they engage"},
+      {"handle": "MacroAlf", "inPool": true, "why": "macro analyst they interact with"},
+      {"handle": "Forbes", "inPool": true, "why": "finance media they interact with"}
+    ]
+  },
+  {
+    "handle": "TaviCosta",
+    "circle": [
+      {"handle": "MacroAlf", "inPool": true, "why": "fellow macro analyst, mutual engagement"},
+      {"handle": "markets", "inPool": true, "why": "Bloomberg markets they engage"},
+      {"handle": "WSJ", "inPool": true, "why": "financial media they reference"},
+      {"handle": "cnbc", "inPool": true, "why": "financial media appearances"},
+      {"handle": "PeterSchiff", "inPool": true, "why": "gold bug peer, overlapping macro thesis"},
+      {"handle": "RampCapitalLLC", "inPool": true, "why": "finance Twitter peer"},
+      {"handle": "Wu_Tang_Finance", "inPool": true, "why": "finance humor account mutual"}
+    ]
+  },
+  {
+    "handle": "dominiqueansel",
+    "circle": [
+      {"handle": "Bourdain", "inPool": true, "why": "food world legend who praised him"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "celebrity chef peer"},
+      {"handle": "nytimes", "inPool": true, "why": "covered his Cronut and bakery extensively"},
+      {"handle": "VanityFair", "inPool": true, "why": "culture magazine that profiled him"}
+    ]
+  },
+  {
+    "handle": "isikoff",
+    "circle": [
+      {"handle": "joshtpm", "inPool": true, "why": "fellow investigative journalist"},
+      {"handle": "yashar", "inPool": true, "why": "media reporter, overlapping coverage"},
+      {"handle": "nytimes", "inPool": true, "why": "major newspaper he often engages"},
+      {"handle": "washingtonpost", "inPool": true, "why": "legacy media he interacts with"},
+      {"handle": "thedailybeast", "inPool": true, "why": "fellow investigative media outlet"},
+      {"handle": "CNN", "inPool": true, "why": "TV news he appears on and engages"},
+      {"handle": "mtaibbi", "inPool": true, "why": "journalist he has publicly clashed with"},
+      {"handle": "kylegriffin1", "inPool": true, "why": "MSNBC producer he engages regularly"}
+    ]
+  },
+  {
+    "handle": "SIChrisMannix",
+    "circle": [
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA breaking news peer"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN NBA reporter, frequent peer"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "sports reporting peer at ESPN"},
+      {"handle": "ESPN", "inPool": true, "why": "main sports media outlet"},
+      {"handle": "WBCBoxing", "inPool": true, "why": "boxing org he covers closely"}
+    ]
+  },
+  {
+    "handle": "xboygeniusx",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "music publication covering them extensively"},
+      {"handle": "VanityFair", "inPool": true, "why": "culture mag that profiled them"},
+      {"handle": "nytimes", "inPool": true, "why": "NYT music coverage of boygenius"},
+      {"handle": "thedailybeast", "inPool": false, "why": "alt media covering indie music"},
+      {"handle": "NPRMusic", "inPool": false, "why": "NPR Music features their work heavily"},
+      {"handle": "stereogum", "inPool": false, "why": "indie music site that champions them"}
+    ]
+  },
+  {
+    "handle": "karol",
+    "circle": [
+      {"handle": "nypost", "inPool": true, "why": "her employer, retweets and cited there"},
+      {"handle": "benshapiro", "inPool": true, "why": "conservative media peer she engages"},
+      {"handle": "FoxNews", "inPool": true, "why": "right-media she appears on and engages"},
+      {"handle": "CNN", "inPool": true, "why": "mainstream media she argues with"},
+      {"handle": "nytimes", "inPool": true, "why": "liberal media she frequently critiques"},
+      {"handle": "washingtonpost", "inPool": true, "why": "media she frequently criticizes"},
+      {"handle": "thedailybeast", "inPool": true, "why": "left-leaning media she argues with"}
+    ]
+  },
+  {
+    "handle": "NHLdotcom",
+    "circle": [
+      {"handle": "NHL", "inPool": true, "why": "sister official NHL social account"},
+      {"handle": "NHLPR", "inPool": true, "why": "NHL PR official account"},
+      {"handle": "NHLBruins", "inPool": true, "why": "team account it retweets"},
+      {"handle": "NHLJets", "inPool": true, "why": "team account it retweets"},
+      {"handle": "ESPN", "inPool": true, "why": "broadcast partner they engage"}
+    ]
+  },
+  {
+    "handle": "SWildlifepics",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "premier wildlife photography brand"},
+      {"handle": "NASA", "inPool": true, "why": "science and nature account they engage"},
+      {"handle": "BBCEarth", "inPool": false, "why": "wildlife documentary brand peer"},
+      {"handle": "NatGeoWild", "inPool": false, "why": "wildlife-specific NatGeo channel"}
+    ]
+  },
+  {
+    "handle": "AFI",
+    "circle": [
+      {"handle": "THR", "inPool": true, "why": "film trade they interact with"},
+      {"handle": "variety", "inPool": true, "why": "film trade they interact with"},
+      {"handle": "deadline", "inPool": true, "why": "film trade they interact with"},
+      {"handle": "BFI", "inPool": true, "why": "UK film institute peer"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film discussion account they engage"},
+      {"handle": "VanityFair", "inPool": true, "why": "culture/film coverage partner"},
+      {"handle": "nytimes", "inPool": true, "why": "film arts coverage they engage"}
+    ]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "handle": "GuyFieri",
+    "name": "Guy Fieri",
+    "followers": 3400000,
+    "tags": ["food", "pop-culture", "iconic"]
+  },
+  {
+    "handle": "jamieoliver",
+    "name": "Jamie Oliver",
+    "followers": 6400000,
+    "tags": ["food", "iconic"]
+  },
+  {
+    "handle": "andrewzimmern",
+    "name": "Andrew Zimmern",
+    "followers": 1200000,
+    "tags": ["food", "pop-culture"]
+  },
+  {
+    "handle": "bflay",
+    "name": "Bobby Flay",
+    "followers": 500000,
+    "tags": ["food", "pop-culture"]
+  },
+  {
+    "handle": "CiaoSamin",
+    "name": "Samin Nosrat",
+    "followers": 54000,
+    "tags": ["food", "books"]
+  },
+  {
+    "handle": "alisoneroman",
+    "name": "Alison Roman",
+    "followers": 74000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "mollybaz",
+    "name": "Molly Baz",
+    "followers": 85000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "priyakrishna",
+    "name": "Priya Krishna",
+    "followers": 70000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "bittman",
+    "name": "Mark Bittman",
+    "followers": 410000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "SamSifton",
+    "name": "Sam Sifton",
+    "followers": 130000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "kimseverson",
+    "name": "Kim Severson",
+    "followers": 55000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "pete_wells",
+    "name": "Pete Wells",
+    "followers": 45000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "tejalrao",
+    "name": "Tejal Rao",
+    "followers": 42000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "qualityrye",
+    "name": "Ryan Sutton",
+    "followers": 38000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "foodandwine",
+    "name": "Food & Wine",
+    "followers": 1800000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "saveurmag",
+    "name": "Saveur",
+    "followers": 180000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "Food52",
+    "name": "Food52",
+    "followers": 600000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "grubstreet",
+    "name": "Grub Street",
+    "followers": 250000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "firstwefeast",
+    "name": "First We Feast",
+    "followers": 550000,
+    "tags": ["food", "pop-culture", "media"]
+  },
+  {
+    "handle": "GDeLaurentiis",
+    "name": "Giada De Laurentiis",
+    "followers": 1100000,
+    "tags": ["food", "pop-culture"]
+  },
+  {
+    "handle": "Francis_Lam",
+    "name": "Francis Lam",
+    "followers": 40000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "clairesaffitz",
+    "name": "Claire Saffitz",
+    "followers": 120000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "dominiqueansel",
+    "name": "Dominique Ansel",
+    "followers": 200000,
+    "tags": ["food", "iconic"]
+  },
+  {
+    "handle": "christinatosi",
+    "name": "Christina Tosi",
+    "followers": 160000,
+    "tags": ["food", "pop-culture"]
+  },
+  {
+    "handle": "hettymckinnon",
+    "name": "Hetty Lui McKinnon",
+    "followers": 28000,
+    "tags": ["food", "books"]
+  },
+  {
+    "handle": "thekitchn",
+    "name": "The Kitchn",
+    "followers": 310000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "EpicuriousDotCom",
+    "name": "Epicurious",
+    "followers": 430000,
+    "tags": ["food", "media"]
+  },
+  {
+    "handle": "SmittenKitchen",
+    "name": "Smitten Kitchen",
+    "followers": 500000,
+    "tags": ["food", "books"]
+  },
+  {
+    "handle": "taraobrady",
+    "name": "Tara O'Brady",
+    "followers": 32000,
+    "tags": ["food", "books"]
+  },
+  {
+    "handle": "chefedwardlee",
+    "name": "Edward Lee",
+    "followers": 30000,
+    "tags": ["food", "books"]
+  },
+  {
+    "handle": "ChefJJ",
+    "name": "JJ Johnson",
+    "followers": 25000,
+    "tags": ["food", "pop-culture"]
+  },
+  {
+    "handle": "101Cookbooks",
+    "name": "Heidi Swanson",
+    "followers": 124700,
+    "tags": ["food", "books"]
+  }
+]

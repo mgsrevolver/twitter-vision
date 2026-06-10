@@ -1,0 +1,212 @@
+[
+  {
+    "handle": "ReformedBroker",
+    "name": "Josh Brown",
+    "followers": 1100000,
+    "tags": ["finance", "media"]
+  },
+  {
+    "handle": "EddyElfenbein",
+    "name": "Eddy Elfenbein",
+    "followers": 95000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "paulkrugman",
+    "name": "Paul Krugman",
+    "followers": 4800000,
+    "tags": ["finance", "politics-left"]
+  },
+  {
+    "handle": "AswathDamodaran",
+    "name": "Aswath Damodaran",
+    "followers": 320000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "cullenroche",
+    "name": "Cullen Roche",
+    "followers": 120000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "JuliaLaRoche",
+    "name": "Julia La Roche",
+    "followers": 105000,
+    "tags": ["finance", "media"]
+  },
+  {
+    "handle": "IanShepherdson",
+    "name": "Ian Shepherdson",
+    "followers": 145000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "bespokeinvest",
+    "name": "Bespoke Investment Group",
+    "followers": 200000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "Frances_Coppola",
+    "name": "Frances Coppola",
+    "followers": 85000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "TimDuy",
+    "name": "Tim Duy",
+    "followers": 72000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "FerroTV",
+    "name": "Jonathan Ferro",
+    "followers": 95000,
+    "tags": ["finance", "media"]
+  },
+  {
+    "handle": "TomKeene",
+    "name": "Tom Keene",
+    "followers": 130000,
+    "tags": ["finance", "media"]
+  },
+  {
+    "handle": "markets",
+    "name": "Bloomberg Markets",
+    "followers": 1100000,
+    "tags": ["finance", "media"]
+  },
+  {
+    "handle": "TaviCosta",
+    "name": "Tavi Costa",
+    "followers": 200000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "LukeGromen",
+    "name": "Luke Gromen",
+    "followers": 395000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "biancoresearch",
+    "name": "Jim Bianco",
+    "followers": 581000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "NorthmanTrader",
+    "name": "Sven Henrich",
+    "followers": 465000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "MacroAlf",
+    "name": "Alfonso Peccatiello",
+    "followers": 466000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "hkuppy",
+    "name": "Harris Kupperman",
+    "followers": 110000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "CaitlinLong_",
+    "name": "Caitlin Long",
+    "followers": 165000,
+    "tags": ["finance", "crypto"]
+  },
+  {
+    "handle": "JeffWeniger",
+    "name": "Jeff Weniger",
+    "followers": 115000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "dailychartbook",
+    "name": "Daily Chartbook",
+    "followers": 175000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "DougKass",
+    "name": "Doug Kass",
+    "followers": 58000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "modestproposal1",
+    "name": "Dario Perkins",
+    "followers": 65000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "SantiagoAuFund",
+    "name": "Santiago Capital",
+    "followers": 310000,
+    "tags": ["finance", "crypto"]
+  },
+  {
+    "handle": "dariusmdekker",
+    "name": "Darius Dale",
+    "followers": 90000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "SoberLook",
+    "name": "Walter Kurtz",
+    "followers": 75000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "profplum99",
+    "name": "Peter Cecchini",
+    "followers": 52000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "StockCats",
+    "name": "StockCats",
+    "followers": 85000,
+    "tags": ["finance", "humor"]
+  },
+  {
+    "handle": "markets_live",
+    "name": "Bloomberg Markets Live",
+    "followers": 65000,
+    "tags": ["finance", "media"]
+  },
+  {
+    "handle": "WifeyAlpha",
+    "name": "Wifey Alpha",
+    "followers": 290000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "RiskReversal",
+    "name": "Dan Nathan",
+    "followers": 185000,
+    "tags": ["finance", "media"]
+  },
+  {
+    "handle": "garyshilling",
+    "name": "Gary Shilling",
+    "followers": 65000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "GoldmanSachs",
+    "name": "Goldman Sachs",
+    "followers": 3200000,
+    "tags": ["finance"]
+  },
+  {
+    "handle": "federalreserve",
+    "name": "Federal Reserve",
+    "followers": 770000,
+    "tags": ["finance"]
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "handle": "WindhorstESPN",
+    "circle": [
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "fellow ESPN NBA insider"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "rival NBA news breaker"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "ESPN NBA show colleague"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "longtime ESPN NBA colleague"
+      },
+      {
+        "handle": "ZachLowe_NBA",
+        "inPool": false,
+        "why": "ESPN NBA analyst teammate"
+      },
+      {
+        "handle": "ramonashelburne",
+        "inPool": false,
+        "why": "ESPN NBA reporter colleague"
+      },
+      {
+        "handle": "RealSkipBayless",
+        "inPool": true,
+        "why": "frequent ESPN debate sparring"
+      }
+    ]
+  },
+  {
+    "handle": "CALEBcsw",
+    "circle": [
+      {
+        "handle": "PatrickMahomes",
+        "inPool": false,
+        "why": "fellow elite NFL QB"
+      },
+      {
+        "handle": "JoshAllenQB",
+        "inPool": false,
+        "why": "fellow top NFL QB"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "NFL insider covers him"
+      },
+      {
+        "handle": "RapSheet",
+        "inPool": false,
+        "why": "NFL reporter covers him"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "main NFL official account"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "highlights and coverage"
+      }
+    ]
+  },
+  {
+    "handle": "NoiseyMusic",
+    "circle": [
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "peer alt-music media"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "peer major music media"
+      },
+      {
+        "handle": "thefader",
+        "inPool": false,
+        "why": "peer hip-hop/indie music media"
+      },
+      {
+        "handle": "stereogum",
+        "inPool": false,
+        "why": "peer indie music media"
+      },
+      {
+        "handle": "consequence",
+        "inPool": false,
+        "why": "peer indie music media"
+      }
+    ]
+  },
+  {
+    "handle": "ZachWeiner",
+    "circle": [
+      {
+        "handle": "hankgreen",
+        "inPool": true,
+        "why": "science/humor creator peer"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communicator he engages"
+      },
+      {
+        "handle": "xkcd",
+        "inPool": false,
+        "why": "fellow webcomic science humor"
+      },
+      {
+        "handle": "BadAstronomer",
+        "inPool": false,
+        "why": "science communicator pal"
+      },
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "physicist he interacts with"
+      },
+      {
+        "handle": "straczynski",
+        "inPool": true,
+        "why": "sci-fi/creative Twitter peer"
+      }
+    ]
+  },
+  {
+    "handle": "lennysan",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "tech/startup VC world peer"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "YC/startup ecosystem figure"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech product/investor peer"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "VC tech thought leader"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech/product investor"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "prominent tech investor peer"
+      },
+      {
+        "handle": "david_perell",
+        "inPool": false,
+        "why": "fellow writing/product creator"
+      }
+    ]
+  },
+  {
+    "handle": "bokamotoESPN",
+    "circle": [
+      {
+        "handle": "arielhelwani",
+        "inPool": false,
+        "why": "top rival MMA journalist"
+      },
+      {
+        "handle": "ufc",
+        "inPool": true,
+        "why": "primary beat organization"
+      },
+      {
+        "handle": "MMAFighting",
+        "inPool": false,
+        "why": "peer MMA media outlet"
+      },
+      {
+        "handle": "TheNotoriousMMA",
+        "inPool": false,
+        "why": "top fighter he covers"
+      },
+      {
+        "handle": "JonnyBones",
+        "inPool": false,
+        "why": "top fighter he covers"
+      }
+    ]
+  },
+  {
+    "handle": "HC_Richardson",
+    "circle": [
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive political ally"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive pol she amplifies"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive pol ally"
+      },
+      {
+        "handle": "maddow",
+        "inPool": false,
+        "why": "MSNBC liberal media peer"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC liberal media peer"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media colleague"
+      },
+      {
+        "handle": "JakeTapper",
+        "inPool": true,
+        "why": "mainstream media engager"
+      },
+      {
+        "handle": "atrupar",
+        "inPool": true,
+        "why": "progressive media colleague"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "media she frequently cites"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "media she frequently cites"
+      }
+    ]
+  },
+  {
+    "handle": "Outkick",
+    "circle": [
+      {
+        "handle": "ClayTravis",
+        "inPool": false,
+        "why": "founder and face of Outkick"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "parent company affiliate"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "Fox/right media ally"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "right media ally/amplifier"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "right media peer"
+      },
+      {
+        "handle": "seanhannity",
+        "inPool": false,
+        "why": "Fox News ally"
+      }
+    ]
+  },
+  {
+    "handle": "jon_bois",
+    "circle": [
+      {
+        "handle": "secretbase",
+        "inPool": true,
+        "why": "his SBNation/Secret Base home"
+      },
+      {
+        "handle": "BleacherReport",
+        "inPool": true,
+        "why": "sports media adjacent peer"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "primary sports subject"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "sports media he references"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "sports entertainment peer"
+      }
+    ]
+  },
+  {
+    "handle": "joshtpm",
+    "circle": [
+      {
+        "handle": "atrupar",
+        "inPool": true,
+        "why": "progressive media colleague"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC media peer"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive politician he covers"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive pol he covers"
+      },
+      {
+        "handle": "JakeTapper",
+        "inPool": true,
+        "why": "mainstream media peer"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "major media he cites/engages"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "major media he cites/engages"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media peer"
+      }
+    ]
+  },
+  {
+    "handle": "tcm",
+    "circle": [
+      {
+        "handle": "AFI",
+        "inPool": true,
+        "why": "fellow film preservation org"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "Hollywood trade media peer"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "Hollywood trade media peer"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "Hollywood trade media peer"
+      },
+      {
+        "handle": "mattzollerseitz",
+        "inPool": true,
+        "why": "film critic who engages TCM"
+      },
+      {
+        "handle": "ebertchicago",
+        "inPool": false,
+        "why": "classic film criticism peer"
+      },
+      {
+        "handle": "RottenTomatoes",
+        "inPool": false,
+        "why": "film culture peer"
+      }
+    ]
+  },
+  {
+    "handle": "SupergiantGames",
+    "circle": [
+      {
+        "handle": "DevolverDigital",
+        "inPool": false,
+        "why": "indie publisher peer/distributor"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "Game Awards host featuring them"
+      },
+      {
+        "handle": "IGN",
+        "inPool": true,
+        "why": "major gaming media covers them"
+      },
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "indie auteur peer"
+      },
+      {
+        "handle": "corybarlog",
+        "inPool": false,
+        "why": "auteur game dev peer"
+      },
+      {
+        "handle": "PlayStation",
+        "inPool": true,
+        "why": "platform they publish on"
+      },
+      {
+        "handle": "XBOX",
+        "inPool": true,
+        "why": "platform they publish on"
+      }
+    ]
+  },
+  {
+    "handle": "ZhugeEX",
+    "circle": [
+      {
+        "handle": "IGN",
+        "inPool": true,
+        "why": "major gaming media peer"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "industry events figure"
+      },
+      {
+        "handle": "PlayStation",
+        "inPool": true,
+        "why": "platform he analyzes"
+      },
+      {
+        "handle": "XBOX",
+        "inPool": true,
+        "why": "platform he analyzes"
+      },
+      {
+        "handle": "Polygon",
+        "inPool": false,
+        "why": "gaming media peer"
+      },
+      {
+        "handle": "GameSpot",
+        "inPool": false,
+        "why": "gaming media peer"
+      },
+      {
+        "handle": "jasonschreier",
+        "inPool": false,
+        "why": "gaming journalist peer"
+      }
+    ]
+  },
+  {
+    "handle": "MaxwellFrostFL",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive squad ally"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive mentor figure"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive senator ally"
+      },
+      {
+        "handle": "IlhanMN",
+        "inPool": true,
+        "why": "Squad member ally"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "Democratic Party leader"
+      }
+    ]
+  },
+  {
+    "handle": "QuantaMagazine",
+    "circle": [
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communicator engager"
+      },
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "physicist science peer"
+      },
+      {
+        "handle": "sciam",
+        "inPool": true,
+        "why": "fellow science media peer"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "science org they cover"
+      },
+      {
+        "handle": "StationCDRKelly",
+        "inPool": true,
+        "why": "science figure they engage"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "major media peer"
+      },
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "science communicator peer"
+      }
+    ]
+  }
+]

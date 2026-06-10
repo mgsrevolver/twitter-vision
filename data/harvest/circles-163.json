@@ -1,0 +1,210 @@
+[
+  {
+    "handle": "tnyfrontrow",
+    "circle": [
+      {"handle": "mattzollerseitz", "inPool": true, "why": "fellow film critic peer"},
+      {"handle": "AoDespair", "inPool": true, "why": "prestige TV/film writer"},
+      {"handle": "THR", "inPool": true, "why": "film industry trade coverage"},
+      {"handle": "Variety", "inPool": true, "why": "film industry trade coverage"},
+      {"handle": "DEADLINE", "inPool": true, "why": "film industry trade coverage"},
+      {"handle": "pitchfork", "inPool": true, "why": "sibling Condé Nast culture brand"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film news outlet peer"},
+      {"handle": "Criterion", "inPool": true, "why": "arthouse film canon curation"},
+      {"handle": "BretEastonEllis", "inPool": true, "why": "literary/film cultural provocateur"},
+      {"handle": "dril", "inPool": true, "why": "highbrow Twitter humor crossover"}
+    ]
+  },
+  {
+    "handle": "FilmLinc",
+    "circle": [
+      {"handle": "Criterion", "inPool": true, "why": "arthouse film canon partner"},
+      {"handle": "THR", "inPool": true, "why": "film trade covers events"},
+      {"handle": "DEADLINE", "inPool": true, "why": "film trade covers festivals"},
+      {"handle": "Variety", "inPool": true, "why": "film trade covers programming"},
+      {"handle": "AoDespair", "inPool": true, "why": "prestige film/TV writer"},
+      {"handle": "mattzollerseitz", "inPool": true, "why": "film critic community"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film news coverage"},
+      {"handle": "AFI", "inPool": true, "why": "fellow film institution"},
+      {"handle": "BFI", "inPool": true, "why": "international film institute peer"}
+    ]
+  },
+  {
+    "handle": "EddyElfenbein",
+    "circle": [
+      {"handle": "CNBC", "inPool": true, "why": "financial news media regular"},
+      {"handle": "DavidSacks", "inPool": true, "why": "finance/tech Twitter overlap"},
+      {"handle": "paulg", "inPool": true, "why": "VC/finance commentary sphere"},
+      {"handle": "naval", "inPool": true, "why": "aphoristic finance/investment overlap"},
+      {"handle": "chamath", "inPool": true, "why": "prominent tech-finance voice"},
+      {"handle": "RayDalio", "inPool": true, "why": "macro investing thought leader"},
+      {"handle": "saylor", "inPool": true, "why": "outspoken market/BTC commentator"},
+      {"handle": "BillSimmons", "inPool": true, "why": "crossover media personality engagement"},
+      {"handle": "unusual_whales", "inPool": false, "why": "market options flow tracker"},
+      {"handle": "tracyalloway", "inPool": false, "why": "Bloomberg macro journalist peer"}
+    ]
+  },
+  {
+    "handle": "FerroTV",
+    "circle": [
+      {"handle": "CNBC", "inPool": true, "why": "finance TV media colleague"},
+      {"handle": "RayDalio", "inPool": true, "why": "macro investor guests on Bloomberg"},
+      {"handle": "chamath", "inPool": true, "why": "prominent finance media voice"},
+      {"handle": "DavidSacks", "inPool": true, "why": "finance/tech crossover"},
+      {"handle": "naval", "inPool": true, "why": "finance/philosophy media sphere"},
+      {"handle": "saylor", "inPool": true, "why": "BTC macro markets commentator"},
+      {"handle": "tracyalloway", "inPool": false, "why": "Bloomberg colleague and co-host"},
+      {"handle": "lisaabramowicz1", "inPool": false, "why": "Bloomberg TV co-anchor"},
+      {"handle": "OddLots", "inPool": false, "why": "Bloomberg podcast that overlaps"}
+    ]
+  },
+  {
+    "handle": "VGC_News",
+    "circle": [
+      {"handle": "IGN", "inPool": true, "why": "competing games media outlet"},
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "major developer news subject"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "games industry events coverage"},
+      {"handle": "Pilestedt", "inPool": true, "why": "prominent dev interaction"},
+      {"handle": "RockstarGames", "inPool": true, "why": "major publisher news subject"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "adjacent culture news overlap"},
+      {"handle": "Variety", "inPool": true, "why": "entertainment media coverage overlap"},
+      {"handle": "THR", "inPool": true, "why": "entertainment trade coverage overlap"}
+    ]
+  },
+  {
+    "handle": "LeverNews",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive left politics figure"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive movement standard bearer"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive economic policy overlap"},
+      {"handle": "IlhanMN", "inPool": true, "why": "Squad progressive politics"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media journalism overlap"},
+      {"handle": "chrislhayes", "inPool": true, "why": "progressive media journalism peer"},
+      {"handle": "atrupar", "inPool": true, "why": "political media journalism peer"},
+      {"handle": "ninaturner", "inPool": true, "why": "progressive activist/organizer"},
+      {"handle": "DavidSirota", "inPool": false, "why": "co-founder of The Lever"},
+      {"handle": "lhfang", "inPool": false, "why": "investigative journalist peer"}
+    ]
+  },
+  {
+    "handle": "tomhaberstroh",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "NBA beat journalist peer"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA breaking news peer"},
+      {"handle": "stephenasmith", "inPool": true, "why": "NBA media personality"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "NBA hot takes media"},
+      {"handle": "espn", "inPool": true, "why": "NBA sports media employer"},
+      {"handle": "BillSimmons", "inPool": true, "why": "NBA media/analysis voice"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "sports media colleague"},
+      {"handle": "KendrickPerkins", "inPool": false, "why": "NBA analyst peer ESPN"},
+      {"handle": "TrungTPhan", "inPool": true, "why": "sports business analysis overlap"}
+    ]
+  },
+  {
+    "handle": "KatherineJWu",
+    "circle": [
+      {"handle": "sciam", "inPool": true, "why": "science journalism institution"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communication peer"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "science communication peer"},
+      {"handle": "neilhimself", "inPool": true, "why": "literary/science culture crossover"},
+      {"handle": "JakeTapper", "inPool": true, "why": "CNN news journalism colleague"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "news media journalism peer"},
+      {"handle": "atrupar", "inPool": true, "why": "political journalism peer"},
+      {"handle": "apoorvamd", "inPool": false, "why": "fellow health journalist peer"},
+      {"handle": "helenbranswell", "inPool": false, "why": "infectious disease journalist peer"}
+    ]
+  },
+  {
+    "handle": "jodrell_bank",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "space agency peer institution"},
+      {"handle": "SpaceX", "inPool": true, "why": "space industry engagement"},
+      {"handle": "sciam", "inPool": true, "why": "science media partner"},
+      {"handle": "neiltyson", "inPool": true, "why": "astronomy public communicator"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "UK physics communicator affiliated"},
+      {"handle": "BillNye", "inPool": true, "why": "science communication peer"},
+      {"handle": "esa", "inPool": false, "why": "European space agency peer"}
+    ]
+  },
+  {
+    "handle": "TarongaZoo",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "wildlife media partner"},
+      {"handle": "NASA", "inPool": true, "why": "science/wonder content crossover"},
+      {"handle": "sciam", "inPool": true, "why": "science media overlap"},
+      {"handle": "BillNye", "inPool": true, "why": "science public engagement"},
+      {"handle": "WWF", "inPool": false, "why": "wildlife conservation organization peer"},
+      {"handle": "smithsonian", "inPool": false, "why": "institution science public engagement"}
+    ]
+  },
+  {
+    "handle": "OurOcean",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "ocean/wildlife media partner"},
+      {"handle": "NASA", "inPool": true, "why": "earth science crossover"},
+      {"handle": "sciam", "inPool": true, "why": "science media partner"},
+      {"handle": "BillNye", "inPool": true, "why": "science advocacy crossover"},
+      {"handle": "WWF", "inPool": false, "why": "wildlife/conservation peer org"},
+      {"handle": "greenpeace", "inPool": false, "why": "ocean advocacy peer org"}
+    ]
+  },
+  {
+    "handle": "TriciaLockwood",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "iconic absurdist Twitter peer"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary fiction peer/admirer"},
+      {"handle": "neilhimself", "inPool": true, "why": "literary fiction peer"},
+      {"handle": "StephenKing", "inPool": true, "why": "literary celebrity Twitter peer"},
+      {"handle": "mulaney", "inPool": true, "why": "absurdist humor crossover"},
+      {"handle": "SarahKSilverman", "inPool": true, "why": "edgy comedian Twitter peer"},
+      {"handle": "robdelaney", "inPool": true, "why": "literary humor Twitter peer"},
+      {"handle": "MerriamWebster", "inPool": true, "why": "literary/language Twitter peer"},
+      {"handle": "dog_rates", "inPool": true, "why": "wholesome Twitter peer"},
+      {"handle": "GuyInYourMFA", "inPool": false, "why": "literary humor parody account"}
+    ]
+  },
+  {
+    "handle": "tayvano_",
+    "circle": [
+      {"handle": "zachxbt", "inPool": true, "why": "crypto investigator/security peer"},
+      {"handle": "sassal0x", "inPool": true, "why": "Ethereum ecosystem peer"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum founder central figure"},
+      {"handle": "cburniske", "inPool": true, "why": "crypto research/analysis peer"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO exchanges"},
+      {"handle": "justinsuntron", "inPool": true, "why": "crypto figure security incidents"},
+      {"handle": "stablekwon", "inPool": true, "why": "Terra/LUNA collapse coverage"},
+      {"handle": "SBF_FTX", "inPool": true, "why": "FTX collapse crypto security nexus"},
+      {"handle": "ESYudkowsky", "inPool": true, "why": "AI/tech safety adjacent"},
+      {"handle": "nic__carter", "inPool": false, "why": "Bitcoin/crypto analyst peer"}
+    ]
+  },
+  {
+    "handle": "dariusmdekker",
+    "circle": [
+      {"handle": "CNBC", "inPool": true, "why": "financial media appearance outlet"},
+      {"handle": "RayDalio", "inPool": true, "why": "macro investing framework peer"},
+      {"handle": "naval", "inPool": true, "why": "finance/philosophy thought leader"},
+      {"handle": "chamath", "inPool": true, "why": "venture/macro commentary peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech finance commentary peer"},
+      {"handle": "saylor", "inPool": true, "why": "macro/BTC framework discussion"},
+      {"handle": "paulg", "inPool": true, "why": "tech-finance ideas sphere"},
+      {"handle": "BillSimmons", "inPool": true, "why": "media personality crossover"},
+      {"handle": "TrungTPhan", "inPool": true, "why": "business/finance Twitter peer"},
+      {"handle": "tracyalloway", "inPool": false, "why": "Bloomberg macro journalist peer"}
+    ]
+  },
+  {
+    "handle": "workingfamilies",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "endorsed candidate/progressive partner"},
+      {"handle": "BernieSanders", "inPool": true, "why": "endorsed candidate/progressive leader"},
+      {"handle": "ewarren", "inPool": true, "why": "endorsed candidate/progressive partner"},
+      {"handle": "IlhanMN", "inPool": true, "why": "Squad progressive alignment"},
+      {"handle": "ninaturner", "inPool": true, "why": "progressive organizer ally"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media coverage"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC progressive coverage"},
+      {"handle": "atrupar", "inPool": true, "why": "political media coverage"},
+      {"handle": "DavidSirota", "inPool": false, "why": "progressive journalist ally"},
+      {"handle": "lhfang", "inPool": false, "why": "investigative progressive journalist"}
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "handle": "MargaretAtwood",
+    "circle": [
+      { "handle": "neilhimself", "inPool": true, "why": "fellow celebrated speculative fiction author" },
+      { "handle": "StephenKing", "inPool": true, "why": "mutual author Twitter banter" },
+      { "handle": "jk_rowling", "inPool": true, "why": "fellow prominent women authors" },
+      { "handle": "GretaThunberg", "inPool": true, "why": "shared climate activism stance" },
+      { "handle": "ewarren", "inPool": true, "why": "aligned progressive politics" },
+      { "handle": "AOC", "inPool": true, "why": "shared feminist progressive politics" },
+      { "handle": "MarkRuffalo", "inPool": true, "why": "activist ally and arts community" },
+      { "handle": "RonanFarrow", "inPool": true, "why": "media journalist she engages" }
+    ]
+  },
+  {
+    "handle": "100trillionUSD",
+    "circle": [
+      { "handle": "saylor", "inPool": true, "why": "Bitcoin maximalist ally and advocate" },
+      { "handle": "VitalikButerin", "inPool": true, "why": "prominent crypto figure debates" },
+      { "handle": "cz_binance", "inPool": true, "why": "crypto exchange leader interaction" },
+      { "handle": "brian_armstrong", "inPool": true, "why": "crypto CEO engagement" },
+      { "handle": "naval", "inPool": true, "why": "shared crypto-finance philosophy" },
+      { "handle": "chamath", "inPool": true, "why": "crypto-tech finance sphere overlap" },
+      { "handle": "WatcherGuru", "inPool": false, "why": "crypto news covers his S2F calls" }
+    ]
+  },
+  {
+    "handle": "Sykkuno",
+    "circle": [
+      { "handle": "xQc", "inPool": true, "why": "frequent Among Us gaming collab" },
+      { "handle": "DrLupo", "inPool": true, "why": "streaming community colleague" },
+      { "handle": "Ninja", "inPool": true, "why": "fellow top streamer mutual" },
+      { "handle": "Valkyrae", "inPool": false, "why": "close streaming friend and collab" },
+      { "handle": "pokimane", "inPool": false, "why": "Among Us squad regular" }
+    ]
+  },
+  {
+    "handle": "axios",
+    "circle": [
+      { "handle": "nytimes", "inPool": true, "why": "peer news outlet coverage" },
+      { "handle": "washingtonpost", "inPool": true, "why": "peer political news outlet" },
+      { "handle": "politico", "inPool": false, "why": "DC politics media peer" },
+      { "handle": "CNN", "inPool": true, "why": "broadcast news peer engagement" },
+      { "handle": "Reuters", "inPool": true, "why": "wire service news peer" }
+    ]
+  },
+  {
+    "handle": "DailyCaller",
+    "circle": [
+      { "handle": "TuckerCarlson", "inPool": true, "why": "Tucker co-founded Daily Caller" },
+      { "handle": "benshapiro", "inPool": true, "why": "right-media peer and amplifier" },
+      { "handle": "FoxNews", "inPool": true, "why": "right-media ecosystem peer" },
+      { "handle": "DonaldJTrumpJr", "inPool": true, "why": "frequent right-media engagement" },
+      { "handle": "DineshDSouza", "inPool": true, "why": "conservative media peer" }
+    ]
+  },
+  {
+    "handle": "ESA_Hubble",
+    "circle": [
+      { "handle": "NASA", "inPool": true, "why": "partner space agency account" },
+      { "handle": "NASAWebb", "inPool": true, "why": "sister space telescope account" },
+      { "handle": "StationCDRKelly", "inPool": true, "why": "astronaut science engagement" },
+      { "handle": "NASAPersevere", "inPool": true, "why": "NASA mission sister account" }
+    ]
+  },
+  {
+    "handle": "CuteEmergency",
+    "circle": [
+      { "handle": "dog_rates", "inPool": true, "why": "fellow cute-animals viral account" }
+    ]
+  },
+  {
+    "handle": "dril",
+    "circle": [
+      { "handle": "GuyInYourMFA", "inPool": true, "why": "fellow absurdist Twitter humorist" }
+    ]
+  },
+  {
+    "handle": "zerohedge",
+    "circle": [
+      { "handle": "chamath", "inPool": true, "why": "contrarian finance crossover audience" },
+      { "handle": "naval", "inPool": true, "why": "heterodox finance philosophy overlap" },
+      { "handle": "pmarca", "inPool": true, "why": "tech-finance contrarian crossover" },
+      { "handle": "ggreenwald", "inPool": true, "why": "anti-establishment media peer" },
+      { "handle": "mtaibbi", "inPool": true, "why": "skeptical finance journalism peer" }
+    ]
+  },
+  {
+    "handle": "chamath",
+    "circle": [
+      { "handle": "DavidSacks", "inPool": true, "why": "All-In podcast co-host" },
+      { "handle": "paulg", "inPool": true, "why": "Silicon Valley VC peer" },
+      { "handle": "pmarca", "inPool": true, "why": "All-In podcast co-host" },
+      { "handle": "naval", "inPool": true, "why": "tech philosophy peer and friend" },
+      { "handle": "sama", "inPool": true, "why": "prominent AI-tech peer engagement" },
+      { "handle": "elonmusk", "inPool": true, "why": "tech billionaire banter" },
+      { "handle": "jack", "inPool": true, "why": "tech CEO social peer" },
+      { "handle": "karaswisher", "inPool": true, "why": "tech journalist who covers him" }
+    ]
+  },
+  {
+    "handle": "foodandwine",
+    "circle": [
+      { "handle": "GordonRamsay", "inPool": true, "why": "celebrity chef content crossover" },
+      { "handle": "AltonBrown", "inPool": true, "why": "food media personality engaged" }
+    ]
+  },
+  {
+    "handle": "Kotaku",
+    "circle": [
+      { "handle": "IGN", "inPool": true, "why": "gaming media peer outlet" },
+      { "handle": "Asmongold", "inPool": true, "why": "Kotaku frequently covers Asmongold" },
+      { "handle": "xQc", "inPool": true, "why": "streamer coverage subject" }
+    ]
+  },
+  {
+    "handle": "HERMusicx",
+    "circle": [
+      { "handle": "rihanna", "inPool": true, "why": "R&B genre peer inspiration" },
+      { "handle": "billboardcharts", "inPool": true, "why": "charts coverage of her releases" },
+      { "handle": "iamcardib", "inPool": true, "why": "female hip-hop peer mutual" },
+      { "handle": "MetroBoomin", "inPool": true, "why": "producer collaboration crossover" }
+    ]
+  },
+  {
+    "handle": "ananavarro",
+    "circle": [
+      { "handle": "AOC", "inPool": true, "why": "political ally and mutual engagement" },
+      { "handle": "ewarren", "inPool": true, "why": "progressive policy alignment" },
+      { "handle": "atrupar", "inPool": true, "why": "news clip sharing colleague" },
+      { "handle": "JakeTapper", "inPool": true, "why": "CNN colleague engagement" },
+      { "handle": "ggreenwald", "inPool": true, "why": "frequent political sparring partner" }
+    ]
+  },
+  {
+    "handle": "ClutchPoints",
+    "circle": [
+      { "handle": "wojespn", "inPool": true, "why": "NBA news source they cite" },
+      { "handle": "ShamsCharania", "inPool": true, "why": "NBA breaking news source" },
+      { "handle": "stephenasmith", "inPool": true, "why": "sports media clip amplifier" },
+      { "handle": "KingJames", "inPool": true, "why": "LeBron coverage subject" },
+      { "handle": "StephenCurry30", "inPool": true, "why": "Warriors coverage subject" }
+    ]
+  }
+]

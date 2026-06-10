@@ -1,0 +1,168 @@
+[
+  {
+    "handle": "elonmusk",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "frequent political ally and amplifier"},
+      {"handle": "DavidSacks", "inPool": true, "why": "inner circle tech-politics confidant"},
+      {"handle": "pmarca", "inPool": true, "why": "mutual Silicon Valley ideological orbit"},
+      {"handle": "naval", "inPool": true, "why": "shared contrarian tech-philosophy space"},
+      {"handle": "sama", "inPool": true, "why": "rival-friendly AI industry banter"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "crypto discourse and debate"},
+      {"handle": "SpaceX", "inPool": true, "why": "his own company account"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "right-wing political ally engagement"},
+      {"handle": "BillGates", "inPool": false, "why": "long-running public feud"},
+      {"handle": "GrimesMusic", "inPool": false, "why": "ex-partner, frequent public sparring"},
+      {"handle": "AOC", "inPool": true, "why": "recurring political adversary"},
+      {"handle": "kanyewest", "inPool": false, "why": "mutual celebrity-controversy amplification"}
+    ]
+  },
+  {
+    "handle": "BarackObama",
+    "circle": [
+      {"handle": "MichelleObama", "inPool": true, "why": "spouse, constant mutual amplification"},
+      {"handle": "JoeBiden", "inPool": true, "why": "vice-president turned successor"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "Democratic party leadership orbit"},
+      {"handle": "berniesanders", "inPool": true, "why": "intra-party Democratic engagement"},
+      {"handle": "AOC", "inPool": true, "why": "progressive wing acknowledgment"},
+      {"handle": "Oprah", "inPool": false, "why": "close personal friend and supporter"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "frequent late-night appearance cross-promo"},
+      {"handle": "jk_rowling", "inPool": true, "why": "public mutual admiration exchanges"},
+      {"handle": "Drake", "inPool": true, "why": "celebrity friendship and playlists"},
+      {"handle": "KamalaHarris", "inPool": false, "why": "VP pick, close political ally"},
+      {"handle": "LeBron", "inPool": false, "why": "mutual advocacy and friendship"},
+      {"handle": "piersmorgan", "inPool": true, "why": "British media critic-engagement"}
+    ]
+  },
+  {
+    "handle": "Cristiano",
+    "circle": [
+      {"handle": "FCBarcelona", "inPool": true, "why": "historic club rivalry context"},
+      {"handle": "neymarjr", "inPool": false, "why": "teammate PSG era, close friend"},
+      {"handle": "FabrizioRomano", "inPool": true, "why": "transfer news constant tagging"},
+      {"handle": "Ibra_official", "inPool": true, "why": "longtime rival and mutual respect"},
+      {"handle": "realmadrid", "inPool": false, "why": "former club, iconic era"},
+      {"handle": "kaka", "inPool": false, "why": "Real Madrid teammate, genuine friendship"},
+      {"handle": "SportsCenter", "inPool": true, "why": "goal milestones and highlights"},
+      {"handle": "UFC", "inPool": true, "why": "friendship with Conor McGregor era"},
+      {"handle": "TheRock", "inPool": true, "why": "mutual athlete-celebrity crossover"},
+      {"handle": "narendramodi", "inPool": true, "why": "met in India, mutual acknowledgment"}
+    ]
+  },
+  {
+    "handle": "justinbieber",
+    "circle": [
+      {"handle": "Drake", "inPool": true, "why": "Canadian music scene close friend"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "frequent collaborator shoutouts"},
+      {"handle": "justinbieber", "inPool": true, "why": "self-reference baseline"},
+      {"handle": "rihanna", "inPool": true, "why": "early career mentor admiration"},
+      {"handle": "katyperry", "inPool": true, "why": "pop crossover mutual shoutouts"},
+      {"handle": "ladygaga", "inPool": true, "why": "pop-world mutual respect exchanges"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "late night appearance jokes and replies"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show recurring guest banter"},
+      {"handle": "iamcardib", "inPool": true, "why": "hip-hop crossover engagement"},
+      {"handle": "scooterbraun", "inPool": false, "why": "manager, constant professional tag"},
+      {"handle": "AvrilLavigne", "inPool": true, "why": "Canadian pop peer, mutual nods"},
+      {"handle": "Usher", "inPool": false, "why": "mentor who discovered him"}
+    ]
+  },
+  {
+    "handle": "rihanna",
+    "circle": [
+      {"handle": "Drake", "inPool": true, "why": "on-off relationship, constant discourse"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "female rap pop royalty mutual orbit"},
+      {"handle": "iamcardib", "inPool": true, "why": "hip-hop sisterhood engagement"},
+      {"handle": "kanyewest", "inPool": false, "why": "fellow artist, mutual amplification"},
+      {"handle": "Beyonce", "inPool": false, "why": "constant fan-driven comparison dynamic"},
+      {"handle": "justinbieber", "inPool": true, "why": "pop peer early career connection"},
+      {"handle": "katyperry", "inPool": true, "why": "pop era peer mutual engagement"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "hip-hop elder humor crossover"},
+      {"handle": "TheRock", "inPool": true, "why": "mutual celebrity friendship posts"},
+      {"handle": "chrissyteigen", "inPool": false, "why": "social media era bestie banter"},
+      {"handle": "Eminem", "inPool": false, "why": "Love the Way You Lie collaboration"},
+      {"handle": "MariahCarey", "inPool": true, "why": "diva era overlapping pop discourse"}
+    ]
+  },
+  {
+    "handle": "katyperry",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": false, "why": "famous feud turned reconciliation"},
+      {"handle": "ladygaga", "inPool": true, "why": "pop contemporaries, mutual shoutouts"},
+      {"handle": "rihanna", "inPool": true, "why": "pop era peer mutual engagement"},
+      {"handle": "justinbieber", "inPool": true, "why": "pop peer network crossover"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show promotional appearances"},
+      {"handle": "OrlandoBloom", "inPool": false, "why": "fiancé and partner, constant tag"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "late night humor exchange"},
+      {"handle": "MariahCarey", "inPool": true, "why": "pop diva mutual references"},
+      {"handle": "ArianaGrande", "inPool": false, "why": "pop successor generation link"},
+      {"handle": "Drake", "inPool": true, "why": "crossover music scene engagement"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "pop-rap crossover collaboration"},
+      {"handle": "TheEllenShow", "inPool": false, "why": "frequent Ellen interview subject"}
+    ]
+  },
+  {
+    "handle": "narendramodi",
+    "circle": [
+      {"handle": "ANI", "inPool": true, "why": "primary Indian news wire interaction"},
+      {"handle": "DrSJaishankar", "inPool": true, "why": "foreign minister, constant policy echo"},
+      {"handle": "iamsrk", "inPool": true, "why": "Bollywood diplomacy celebrity meets"},
+      {"handle": "SandhuTaranjitS", "inPool": true, "why": "Indian ambassador diplomatic tag"},
+      {"handle": "JoeBiden", "inPool": true, "why": "G20 and bilateral summit exchanges"},
+      {"handle": "Cristiano", "inPool": false, "why": "met in India, public acknowledgment"},
+      {"handle": "WHO", "inPool": true, "why": "pandemic-era institutional engagement"},
+      {"handle": "UN", "inPool": false, "why": "UNGA speeches, routine engagement"},
+      {"handle": "AmitShah", "inPool": false, "why": "closest political ally and partner"},
+      {"handle": "elonmusk", "inPool": true, "why": "Tesla India entry bilateral meeting"}
+    ]
+  },
+  {
+    "handle": "taylorswift13",
+    "circle": [
+      {"handle": "katyperry", "inPool": true, "why": "famous feud turned reconciliation"},
+      {"handle": "selenagomez", "inPool": false, "why": "squad bestie, constant mutual posts"},
+      {"handle": "ArianaGrande", "inPool": false, "why": "pop peer and squad adjacent"},
+      {"handle": "kanyewest", "inPool": false, "why": "years-long public feud"},
+      {"handle": "KimKardashian", "inPool": false, "why": "Kimye feud counterpart"},
+      {"handle": "Drake", "inPool": true, "why": "mutual music industry orbit"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show fan and frequent guest"},
+      {"handle": "ladygaga", "inPool": true, "why": "mutual admiration, award show orbit"},
+      {"handle": "rihanna", "inPool": true, "why": "pop era mutual orbit"},
+      {"handle": "justinbieber", "inPool": true, "why": "pop peer network crossover"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "pop-rap crossover mutual orbit"},
+      {"handle": "MariahCarey", "inPool": true, "why": "Christmas queen overlap discourse"}
+    ]
+  },
+  {
+    "handle": "realDonaldTrump",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "political ally and X platform owner"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "son, constant amplification"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "right-media ally and booster"},
+      {"handle": "berniesanders", "inPool": true, "why": "populist left foil, frequent mentions"},
+      {"handle": "WhiteHouse", "inPool": true, "why": "official account mirror engagement"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "2016 rival, constant references"},
+      {"handle": "AOC", "inPool": true, "why": "progressive foil, frequent targeting"},
+      {"handle": "JoeBiden", "inPool": true, "why": "2020 opponent, constant discourse"},
+      {"handle": "FoxNews", "inPool": false, "why": "primary media amplifier"},
+      {"handle": "joerogan", "inPool": false, "why": "2024 podcast appearance, alignment"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "celebrity critic, public spats"},
+      {"handle": "piersmorgan", "inPool": true, "why": "British media friend-turned-critic"}
+    ]
+  },
+  {
+    "handle": "ladygaga",
+    "circle": [
+      {"handle": "britneyspears", "inPool": true, "why": "pop diva mutual support posts"},
+      {"handle": "MariahCarey", "inPool": true, "why": "diva era mutual orbit"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "pop-rap crossover engagement"},
+      {"handle": "katyperry", "inPool": true, "why": "pop contemporaries mutual shoutouts"},
+      {"handle": "rihanna", "inPool": true, "why": "pop era peer mutual engagement"},
+      {"handle": "MarkRuffalo", "inPool": true, "why": "political activism mutual amplify"},
+      {"handle": "justinbieber", "inPool": true, "why": "pop network crossover"},
+      {"handle": "coldplay", "inPool": true, "why": "Grammy/festival era mutual orbit"},
+      {"handle": "ArianaGrande", "inPool": false, "why": "Rain On Me collab partner"},
+      {"handle": "berniesanders", "inPool": true, "why": "progressive politics endorsement"},
+      {"handle": "RobertDowneyJr", "inPool": true, "why": "Hollywood A-list peer mutual posts"},
+      {"handle": "TheEllenShow", "inPool": false, "why": "frequent Ellen promotional visit"}
+    ]
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "handle": "espn",
+    "circle": [
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "sister account, constant cross-posts"
+      },
+      {
+        "handle": "NFL",
+        "inPool": false,
+        "why": "primary broadcast partner"
+      },
+      {
+        "handle": "NBA",
+        "inPool": true,
+        "why": "primary broadcast partner"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "flagship athlete coverage"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "NFL insider on-platform"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "NBA insider on-platform"
+      },
+      {
+        "handle": "RealSkipBayless",
+        "inPool": true,
+        "why": "former First Take co-host"
+      },
+      {
+        "handle": "BleacherReport",
+        "inPool": true,
+        "why": "direct rival sports media"
+      },
+      {
+        "handle": "TomBrady",
+        "inPool": true,
+        "why": "marquee athlete subject"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "ESPN show host, heavy engagement"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "flagship on-air personality"
+      }
+    ]
+  },
+  {
+    "handle": "PlayStation",
+    "circle": [
+      {
+        "handle": "Xbox",
+        "inPool": true,
+        "why": "direct console rival, meme sparring"
+      },
+      {
+        "handle": "NintendoAmerica",
+        "inPool": true,
+        "why": "console competitor"
+      },
+      {
+        "handle": "RockstarGames",
+        "inPool": true,
+        "why": "GTA/major release partner"
+      },
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "exclusive title dev, mutual promos"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "Game Awards announcer, reveals"
+      },
+      {
+        "handle": "FallGuysGame",
+        "inPool": true,
+        "why": "formerly PS-exclusive hit"
+      },
+      {
+        "handle": "ID_AA_Carmack",
+        "inPool": true,
+        "why": "engine/dev legend, tech discourse"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "replied to PlayStation memes"
+      },
+      {
+        "handle": "Ninja",
+        "inPool": false,
+        "why": "gaming streamer ambassador"
+      },
+      {
+        "handle": "Markiplier",
+        "inPool": false,
+        "why": "top gaming YouTube personality"
+      },
+      {
+        "handle": "PewDiePie",
+        "inPool": false,
+        "why": "biggest gaming YouTuber"
+      }
+    ]
+  },
+  {
+    "handle": "NFL",
+    "circle": [
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "flagship broadcast partner"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "highlights amplifier"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "top NFL insider on Twitter"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "flagship NFL show and podcast"
+      },
+      {
+        "handle": "TomBrady",
+        "inPool": true,
+        "why": "most-tweeted-about player ever"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "crossover sports celeb engagement"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "celeb fan, Super Bowl presence"
+      },
+      {
+        "handle": "TheRock",
+        "inPool": true,
+        "why": "celeb fan, promotional collabs"
+      },
+      {
+        "handle": "BleacherReport",
+        "inPool": true,
+        "why": "competing sports media"
+      },
+      {
+        "handle": "WWE",
+        "inPool": true,
+        "why": "co-promoted live events, crossover"
+      }
+    ]
+  },
+  {
+    "handle": "ManUtd",
+    "circle": [
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "historic rival, Champions League foe"
+      },
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "transfer news, constant mentions"
+      },
+      {
+        "handle": "WayneRooney",
+        "inPool": true,
+        "why": "club legend, vocal on Twitter"
+      },
+      {
+        "handle": "GaryLineker",
+        "inPool": true,
+        "why": "pundit covering ManUtd closely"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "stats supplier, regular mentions"
+      },
+      {
+        "handle": "Ibra_official",
+        "inPool": true,
+        "why": "former star player"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "US audience highlights reach"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "broadcast partner for US market"
+      },
+      {
+        "handle": "ChampionsLeague",
+        "inPool": false,
+        "why": "competition they participate in"
+      },
+      {
+        "handle": "realmadrid",
+        "inPool": false,
+        "why": "historic rivalry and transfer targets"
+      }
+    ]
+  },
+  {
+    "handle": "WhiteHouse",
+    "circle": [
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "president during peak account activity"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "predecessor/opponent admin"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "frequent critic and commenter"
+      },
+      {
+        "handle": "HillaryClinton",
+        "inPool": true,
+        "why": "party figure, RT/reply relationship"
+      },
+      {
+        "handle": "SpeakerPelosi",
+        "inPool": true,
+        "why": "congressional ally"
+      },
+      {
+        "handle": "berniesanders",
+        "inPool": true,
+        "why": "left flank of party, engagements"
+      },
+      {
+        "handle": "DonaldJTrumpJr",
+        "inPool": true,
+        "why": "political opposition, replies"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "adversarial media, mentions"
+      },
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "Republican critic, constant replies"
+      },
+      {
+        "handle": "RandPaul",
+        "inPool": true,
+        "why": "libertarian critic, reply wars"
+      }
+    ]
+  },
+  {
+    "handle": "SpaceX",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "founder/CEO, posts everything SpaceX"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "primary government launch customer"
+      },
+      {
+        "handle": "CNSpaceflight",
+        "inPool": true,
+        "why": "dedicated space journalist/coverage"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech ally in Musk orbit"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "Sam Altman, tech peer ecosystem"
+      },
+      {
+        "handle": "ESYudkowsky",
+        "inPool": true,
+        "why": "AI/tech discourse, Musk orbit"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "tech/crypto figure, same orbit"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communicator, space commentary"
+      },
+      {
+        "handle": "JeffBezos",
+        "inPool": true,
+        "why": "Blue Origin rival, public discourse"
+      },
+      {
+        "handle": "Tesla",
+        "inPool": false,
+        "why": "sibling Musk company, cross-posted"
+      }
+    ]
+  },
+  {
+    "handle": "KevinHart4real",
+    "circle": [
+      {
+        "handle": "TheRock",
+        "inPool": true,
+        "why": "best friend, constant public banter"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "frequent celebrity collaborations"
+      },
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "hip-hop celeb crossover"
+      },
+      {
+        "handle": "wizkhalifa",
+        "inPool": false,
+        "why": "mutual friends, hip-hop world"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "Tonight Show regular appearances"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "late night circuit appearances"
+      },
+      {
+        "handle": "WWE",
+        "inPool": true,
+        "why": "WrestleMania hosting cameos"
+      },
+      {
+        "handle": "NICKIMINAJ",
+        "inPool": true,
+        "why": "celebrity social circle overlap"
+      },
+      {
+        "handle": "KiDCuDi",
+        "inPool": true,
+        "why": "hip-hop peer, mutual follows"
+      },
+      {
+        "handle": "blakegriffin23",
+        "inPool": true,
+        "why": "NBA friend, regular banter"
+      }
+    ]
+  },
+  {
+    "handle": "wizkhalifa",
+    "circle": [
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "mentor figure, frequent collabs"
+      },
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "hip-hop peer, joint tours/beefs"
+      },
+      {
+        "handle": "NICKIMINAJ",
+        "inPool": true,
+        "why": "same hip-hop era, mutual mentions"
+      },
+      {
+        "handle": "KevinHart4real",
+        "inPool": false,
+        "why": "celebrity social circle crossover"
+      },
+      {
+        "handle": "TheRock",
+        "inPool": true,
+        "why": "celeb crossover, mutual engagement"
+      },
+      {
+        "handle": "KiDCuDi",
+        "inPool": true,
+        "why": "frequent rap collaborator"
+      },
+      {
+        "handle": "MetroBoomin",
+        "inPool": true,
+        "why": "production ecosystem connections"
+      },
+      {
+        "handle": "blakegriffin23",
+        "inPool": true,
+        "why": "NBA friend, weed culture banter"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "late night promo appearances"
+      },
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "pop/hip-hop crossover peer"
+      }
+    ]
+  },
+  {
+    "handle": "Harry_Styles",
+    "circle": [
+      {
+        "handle": "NiallOfficial",
+        "inPool": false,
+        "why": "One Direction bandmate, close friend"
+      },
+      {
+        "handle": "Louis_Tomlinson",
+        "inPool": false,
+        "why": "One Direction bandmate"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": false,
+        "why": "famous ex, long mutual fandom"
+      },
+      {
+        "handle": "ArianaGrande",
+        "inPool": false,
+        "why": "pop peer, mutual promo mentions"
+      },
+      {
+        "handle": "ladygaga",
+        "inPool": true,
+        "why": "idol and pop peer, mutual admiration"
+      },
+      {
+        "handle": "coldplay",
+        "inPool": true,
+        "why": "British music peer, festival circuit"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "Tonight Show regular"
+      },
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "music peer, style icon overlap"
+      },
+      {
+        "handle": "jtimberlake",
+        "inPool": true,
+        "why": "pop idol, style inspiration"
+      },
+      {
+        "handle": "Adele",
+        "inPool": true,
+        "why": "British pop contemporary, mutual fans"
+      }
+    ]
+  },
+  {
+    "handle": "MrBeast",
+    "circle": [
+      {
+        "handle": "jacksfilms",
+        "inPool": true,
+        "why": "YouTube peer, early collab/supporter"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "tweets directly at each other often"
+      },
+      {
+        "handle": "NintendoAmerica",
+        "inPool": true,
+        "why": "gaming brand, sponsored content"
+      },
+      {
+        "handle": "Xbox",
+        "inPool": true,
+        "why": "gaming brand collab content"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "sports/charity crossover events"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "celebrity crossover, mutual engagement"
+      },
+      {
+        "handle": "PewDiePie",
+        "inPool": false,
+        "why": "YouTube elder/peer, mentor figure"
+      },
+      {
+        "handle": "Ninja",
+        "inPool": false,
+        "why": "fellow creator, gaming crossover"
+      },
+      {
+        "handle": "Markiplier",
+        "inPool": false,
+        "why": "YouTube peer, charity collaboration"
+      },
+      {
+        "handle": "YouTube",
+        "inPool": false,
+        "why": "platform, heavily featured/promoted"
+      }
+    ]
+  }
+]

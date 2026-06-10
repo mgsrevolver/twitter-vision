@@ -1,0 +1,547 @@
+[
+  {
+    "handle": "hkuppy",
+    "circle": [
+      {
+        "handle": "MacroAlf",
+        "inPool": true,
+        "why": "fellow macro finance Twitter"
+      },
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "finance media mutual"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech-finance investor figure"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "macro/tech investor figure"
+      },
+      {
+        "handle": "michaeljburry",
+        "inPool": true,
+        "why": "value/macro investor Twitter"
+      },
+      {
+        "handle": "RampCapitalLLC",
+        "inPool": true,
+        "why": "finance humor mutual"
+      },
+      {
+        "handle": "zerohedge",
+        "inPool": false,
+        "why": "macro content amplifier"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "bitcoin macro conversation"
+      }
+    ]
+  },
+  {
+    "handle": "TruthoutOrg",
+    "circle": [
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "left media ally"
+      },
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "investigative media overlap"
+      },
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "media criticism crossover"
+      },
+      {
+        "handle": "jacobin",
+        "inPool": false,
+        "why": "left media peer publication"
+      },
+      {
+        "handle": "theintercept",
+        "inPool": false,
+        "why": "progressive media peer"
+      }
+    ]
+  },
+  {
+    "handle": "nataliexdean",
+    "circle": [
+      {
+        "handle": "EricTopol",
+        "inPool": false,
+        "why": "public health COVID peer"
+      },
+      {
+        "handle": "sciam",
+        "inPool": true,
+        "why": "science media amplifier"
+      },
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "science communicator"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science public engagement"
+      },
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "science communicator peer"
+      },
+      {
+        "handle": "AstroKatie",
+        "inPool": false,
+        "why": "science Twitter peer"
+      },
+      {
+        "handle": "BadAstronomer",
+        "inPool": false,
+        "why": "skeptic science community"
+      }
+    ]
+  },
+  {
+    "handle": "zachsilberberg",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist Twitter peer"
+      },
+      {
+        "handle": "GuyInYourMFA",
+        "inPool": true,
+        "why": "literary humor account"
+      },
+      {
+        "handle": "TriciaLockwood",
+        "inPool": true,
+        "why": "literary humor writer"
+      },
+      {
+        "handle": "iamdevloper",
+        "inPool": true,
+        "why": "tech humor adjacent"
+      },
+      {
+        "handle": "normmacdonald",
+        "inPool": false,
+        "why": "absurdist comedy influence"
+      }
+    ]
+  },
+  {
+    "handle": "FionaHippo",
+    "circle": [
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "famous wholesome animal account"
+      },
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "nature and animals media"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "friendly institutional account"
+      },
+      {
+        "handle": "sciam",
+        "inPool": true,
+        "why": "science media amplifier"
+      },
+      {
+        "handle": "NationalZoo",
+        "inPool": false,
+        "why": "peer zoo institution account"
+      }
+    ]
+  },
+  {
+    "handle": "GiteshPandya",
+    "circle": [
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "film industry trade media"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "film industry trade media"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "film industry trade media"
+      },
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film media peer account"
+      },
+      {
+        "handle": "PopBase",
+        "inPool": true,
+        "why": "pop culture media peer"
+      },
+      {
+        "handle": "RottenTomatoes",
+        "inPool": false,
+        "why": "film aggregator peer"
+      },
+      {
+        "handle": "A24",
+        "inPool": false,
+        "why": "prestige film studio brand"
+      }
+    ]
+  },
+  {
+    "handle": "JuliaLaRoche",
+    "circle": [
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "finance media peer Bloomberg"
+      },
+      {
+        "handle": "markets",
+        "inPool": true,
+        "why": "Bloomberg finance media"
+      },
+      {
+        "handle": "MacroAlf",
+        "inPool": true,
+        "why": "macro finance interview subject"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "tech finance interview subject"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "bitcoin finance interview"
+      },
+      {
+        "handle": "RaoulGMI",
+        "inPool": false,
+        "why": "macro finance interview subject"
+      },
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "finance media institution"
+      }
+    ]
+  },
+  {
+    "handle": "Connor_J_Hughes",
+    "circle": [
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "NFL news colleague ESPN"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "NFL news colleague ESPN"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "sports reporter peer"
+      },
+      {
+        "handle": "nyjets",
+        "inPool": true,
+        "why": "beat team official account"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "league official account"
+      },
+      {
+        "handle": "RapSheet",
+        "inPool": false,
+        "why": "NFL insider reporter peer"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "sports media amplifier"
+      }
+    ]
+  },
+  {
+    "handle": "Julian",
+    "circle": [
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "startup/writing mentor figure"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "startup philosophy influence"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "tech investor figure"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI/tech company leader"
+      },
+      {
+        "handle": "TrungTPhan",
+        "inPool": true,
+        "why": "tech writing media peer"
+      },
+      {
+        "handle": "thedankoe",
+        "inPool": true,
+        "why": "self-improvement content peer"
+      },
+      {
+        "handle": "forrestbrazeal",
+        "inPool": true,
+        "why": "tech writing peer"
+      }
+    ]
+  },
+  {
+    "handle": "OsitaNwanevu",
+    "circle": [
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "left media intellectual peer"
+      },
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "contrarian media engagement"
+      },
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "media criticism engagement"
+      },
+      {
+        "handle": "theintercept",
+        "inPool": false,
+        "why": "left media publication home"
+      },
+      {
+        "handle": "jacobin",
+        "inPool": false,
+        "why": "left publication peer"
+      },
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "political media outlet"
+      }
+    ]
+  },
+  {
+    "handle": "DadBoner",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist Twitter pioneer peer"
+      },
+      {
+        "handle": "GuyInYourMFA",
+        "inPool": true,
+        "why": "humor Twitter community"
+      },
+      {
+        "handle": "iamdevloper",
+        "inPool": true,
+        "why": "alt humor Twitter account"
+      },
+      {
+        "handle": "normmacdonald",
+        "inPool": false,
+        "why": "comedy legend Twitter"
+      },
+      {
+        "handle": "pattonoswalt",
+        "inPool": false,
+        "why": "comedy writer Twitter"
+      }
+    ]
+  },
+  {
+    "handle": "seb_ruder",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI lab leader figure"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "top NLP/AI researcher"
+      },
+      {
+        "handle": "ylecun",
+        "inPool": false,
+        "why": "deep learning pioneer"
+      },
+      {
+        "handle": "emollick",
+        "inPool": false,
+        "why": "AI practical applications peer"
+      },
+      {
+        "handle": "fchollet",
+        "inPool": false,
+        "why": "ML framework researcher"
+      }
+    ]
+  },
+  {
+    "handle": "dril_gpt2",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "the original account parodied"
+      },
+      {
+        "handle": "iamdevloper",
+        "inPool": true,
+        "why": "tech humor adjacent"
+      },
+      {
+        "handle": "SwiftOnSecurity",
+        "inPool": true,
+        "why": "tech humor Twitter"
+      },
+      {
+        "handle": "GuyInYourMFA",
+        "inPool": true,
+        "why": "alt humor community"
+      },
+      {
+        "handle": "normmacdonald",
+        "inPool": false,
+        "why": "absurdist comedy influence"
+      }
+    ]
+  },
+  {
+    "handle": "swyx",
+    "circle": [
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "AI researcher figure"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI company leader"
+      },
+      {
+        "handle": "emollick",
+        "inPool": false,
+        "why": "AI practical applications peer"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech philosophy figure"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "startup figure"
+      },
+      {
+        "handle": "forrestbrazeal",
+        "inPool": true,
+        "why": "tech writer peer"
+      },
+      {
+        "handle": "TrungTPhan",
+        "inPool": true,
+        "why": "tech media peer"
+      }
+    ]
+  },
+  {
+    "handle": "gaborgurbacs",
+    "circle": [
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "crypto ecosystem leader"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "bitcoin institutional figure"
+      },
+      {
+        "handle": "cobie",
+        "inPool": true,
+        "why": "crypto trader commentator"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "crypto exchange CEO"
+      },
+      {
+        "handle": "WuBlockchain",
+        "inPool": true,
+        "why": "crypto media outlet"
+      },
+      {
+        "handle": "stablekwon",
+        "inPool": true,
+        "why": "Terra/Luna crypto figure"
+      },
+      {
+        "handle": "ZachXBT",
+        "inPool": true,
+        "why": "crypto investigator peer"
+      },
+      {
+        "handle": "PeterSchiff",
+        "inPool": true,
+        "why": "crypto skeptic debate partner"
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "handle": "cburniske",
+    "circle": [
+      {"handle": "VitalikButerin", "inPool": true, "why": "longtime crypto ecosystem collaborator"},
+      {"handle": "naval", "inPool": true, "why": "crypto/tech philosophy overlap"},
+      {"handle": "chamath", "inPool": true, "why": "cross-VC crypto discourse"},
+      {"handle": "DavidSacks", "inPool": true, "why": "crypto/tech VC peer"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase/crypto industry engagement"},
+      {"handle": "sama", "inPool": true, "why": "tech/AI crossover discussions"},
+      {"handle": "pmarca", "inPool": true, "why": "VC crypto investing conversations"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalist debates"},
+      {"handle": "paulg", "inPool": true, "why": "tech startup investing overlap"}
+    ]
+  },
+  {
+    "handle": "ClintSmithIII",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive politics alignment"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media colleague"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC adjacent media circle"},
+      {"handle": "RBReich", "inPool": true, "why": "progressive commentary overlap"},
+      {"handle": "neilhimself", "inPool": true, "why": "fellow author/book world"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary/social justice overlap"},
+      {"handle": "StephenKing", "inPool": true, "why": "prominent author political ally"}
+    ]
+  },
+  {
+    "handle": "susanorlean",
+    "circle": [
+      {"handle": "neilhimself", "inPool": true, "why": "fellow author Twitter presence"},
+      {"handle": "StephenKing", "inPool": true, "why": "prominent author engagement"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary community peer"},
+      {"handle": "Sethrogen", "inPool": true, "why": "LA creative world crossover"},
+      {"handle": "MerriamWebster", "inPool": true, "why": "language/writing humor engagement"},
+      {"handle": "dril", "inPool": true, "why": "absurdist humor mutual appreciation"}
+    ]
+  },
+  {
+    "handle": "nihilist_arbys",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist brand Twitter peer"},
+      {"handle": "dog_rates", "inPool": true, "why": "viral humor account mutual"},
+      {"handle": "MerriamWebster", "inPool": true, "why": "brand Twitter humor circle"},
+      {"handle": "ProBirdRights", "inPool": false, "why": "sister absurdist humor account"},
+      {"handle": "Wendys", "inPool": false, "why": "edgy brand Twitter neighbor"}
+    ]
+  },
+  {
+    "handle": "lhfang",
+    "circle": [
+      {"handle": "ggreenwald", "inPool": true, "why": "Intercept colleague turned independent"},
+      {"handle": "mtaibbi", "inPool": true, "why": "investigative journalism peer"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media journalist overlap"},
+      {"handle": "chrislhayes", "inPool": true, "why": "progressive media engagement"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech power accountability beat"}
+    ]
+  },
+  {
+    "handle": "fredwilson",
+    "circle": [
+      {"handle": "naval", "inPool": true, "why": "VC philosophy conversations"},
+      {"handle": "paulg", "inPool": true, "why": "startup investing peer"},
+      {"handle": "sama", "inPool": true, "why": "tech/startup ecosystem overlap"},
+      {"handle": "pmarca", "inPool": true, "why": "VC industry colleague"},
+      {"handle": "chamath", "inPool": true, "why": "tech investor discourse"},
+      {"handle": "DavidSacks", "inPool": true, "why": "enterprise/crypto VC peer"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "USV portfolio/Coinbase link"}
+    ]
+  },
+  {
+    "handle": "TrungTPhan",
+    "circle": [
+      {"handle": "naval", "inPool": true, "why": "business/philosophy newsletter overlap"},
+      {"handle": "paulg", "inPool": true, "why": "startup/tech essay engagement"},
+      {"handle": "sama", "inPool": true, "why": "AI/tech discourse participant"},
+      {"handle": "pmarca", "inPool": true, "why": "tech history/culture mutual"},
+      {"handle": "chamath", "inPool": true, "why": "business media commentary"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech journalism beat overlap"},
+      {"handle": "WIRED", "inPool": true, "why": "tech feature content engagement"},
+      {"handle": "TechCrunch", "inPool": true, "why": "startup news beat engagement"}
+    ]
+  },
+  {
+    "handle": "ProBirdRights",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "canonical absurdist Twitter peer"},
+      {"handle": "dog_rates", "inPool": true, "why": "viral animal account sibling"},
+      {"handle": "MerriamWebster", "inPool": true, "why": "brand absurdism mutual"},
+      {"handle": "nihilist_arbys", "inPool": false, "why": "existential humor brand circle"}
+    ]
+  },
+  {
+    "handle": "AoDespair",
+    "circle": [
+      {"handle": "RealGDT", "inPool": true, "why": "filmmaker mutual admiration society"},
+      {"handle": "neilhimself", "inPool": true, "why": "creative/author Twitter friend"},
+      {"handle": "Sethrogen", "inPool": true, "why": "TV/entertainment industry peer"},
+      {"handle": "ggreenwald", "inPool": true, "why": "media criticism/accountability overlap"},
+      {"handle": "mtaibbi", "inPool": true, "why": "journalism critique alignment"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech media criticism overlap"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "political media engagement"}
+    ]
+  },
+  {
+    "handle": "carlzimmer",
+    "circle": [
+      {"handle": "neiltyson", "inPool": true, "why": "science communication peer"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "science popularizer colleague"},
+      {"handle": "BillNye", "inPool": true, "why": "science education mutual"},
+      {"handle": "sciam", "inPool": true, "why": "science writing/publication link"}
+    ]
+  },
+  {
+    "handle": "ilyasut",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "OpenAI co-founder collaboration"},
+      {"handle": "pmarca", "inPool": true, "why": "AI/tech investor engagement"},
+      {"handle": "naval", "inPool": true, "why": "AI philosophy discourse"}
+    ]
+  },
+  {
+    "handle": "AswathDamodaran",
+    "circle": [
+      {"handle": "paulg", "inPool": true, "why": "startup valuation discourse"},
+      {"handle": "naval", "inPool": true, "why": "finance/value philosophy overlap"},
+      {"handle": "chamath", "inPool": true, "why": "valuation debate engagement"},
+      {"handle": "pmarca", "inPool": true, "why": "tech company valuation discussions"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech business journalism overlap"}
+    ]
+  },
+  {
+    "handle": "BreeNewsome",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive activist alignment"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media engagement"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC progressive media"},
+      {"handle": "RBReich", "inPool": true, "why": "left political commentary"},
+      {"handle": "ggreenwald", "inPool": true, "why": "media criticism debates"},
+      {"handle": "StephenKing", "inPool": true, "why": "progressive celebrity support"}
+    ]
+  },
+  {
+    "handle": "KendrickPerkins",
+    "circle": [
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN First Take co-panelist"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "sports debate circuit"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN colleague"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA news beat overlap"},
+      {"handle": "BillSimmons", "inPool": true, "why": "basketball commentary peer"},
+      {"handle": "KingJames", "inPool": true, "why": "former teammate LeBron James"},
+      {"handle": "KDTrey5", "inPool": true, "why": "former OKC Thunder teammate KD"},
+      {"handle": "NBA", "inPool": true, "why": "league official account engagement"},
+      {"handle": "espn", "inPool": true, "why": "ESPN employer/platform"}
+    ]
+  },
+  {
+    "handle": "nfldraftscout",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "ESPN NFL reporter colleague"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "NFL media overlap"},
+      {"handle": "NFL", "inPool": true, "why": "NFL official account engagement"},
+      {"handle": "espn", "inPool": true, "why": "ESPN employer/platform"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN flagship show content"}
+    ]
+  }
+]

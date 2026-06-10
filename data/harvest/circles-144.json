@@ -1,0 +1,187 @@
+[
+  {
+    "handle": "ramonashelburne",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "fellow ESPN NBA insider"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "rival NBA insider beat"},
+      {"handle": "BillSimmons", "inPool": true, "why": "ESPN/Ringer colleague overlap"},
+      {"handle": "stephenasmith", "inPool": true, "why": "shared ESPN NBA coverage"},
+      {"handle": "NBA", "inPool": true, "why": "primary beat subject account"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN parent brand"},
+      {"handle": "espn", "inPool": true, "why": "employer and RT source"},
+      {"handle": "PopBase", "inPool": true, "why": "fan accounts cite her scoops"},
+      {"handle": "WindhorstESPN", "inPool": false, "why": "close ESPN NBA colleague"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "ESPN debate show crossover"}
+    ]
+  },
+  {
+    "handle": "JeffDean",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "AI leader peer interactions"},
+      {"handle": "Google", "inPool": true, "why": "employer account"},
+      {"handle": "tim_cook", "inPool": true, "why": "tech CEO peer circle"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech press coverage"},
+      {"handle": "karpathy", "inPool": false, "why": "AI research colleague"},
+      {"handle": "ylecun", "inPool": false, "why": "deep learning peer/rival"},
+      {"handle": "demishassabis", "inPool": false, "why": "AI lab leader peer"},
+      {"handle": "AndrewYNg", "inPool": false, "why": "AI education collaborator"}
+    ]
+  },
+  {
+    "handle": "benthompson",
+    "circle": [
+      {"handle": "karaswisher", "inPool": true, "why": "tech media peer"},
+      {"handle": "paulg", "inPool": true, "why": "tech/startup ideas discourse"},
+      {"handle": "pmarca", "inPool": true, "why": "a16z tech culture dialogue"},
+      {"handle": "naval", "inPool": true, "why": "tech philosophy overlap"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech commentary peer"},
+      {"handle": "sama", "inPool": true, "why": "AI/tech CEO coverage"},
+      {"handle": "tim_cook", "inPool": true, "why": "Apple coverage subject"},
+      {"handle": "chamath", "inPool": true, "why": "tech finance commentary"}
+    ]
+  },
+  {
+    "handle": "slashfilm",
+    "circle": [
+      {"handle": "Variety", "inPool": true, "why": "film news beat competitor"},
+      {"handle": "DEADLINE", "inPool": true, "why": "film industry news peer"},
+      {"handle": "THR", "inPool": true, "why": "Hollywood reporter peer"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film news counterpart"},
+      {"handle": "RealGDT", "inPool": true, "why": "director who engages press"},
+      {"handle": "rianjohnson", "inPool": true, "why": "director with active Twitter"},
+      {"handle": "edgarwright", "inPool": true, "why": "director frequently cited"},
+      {"handle": "letterboxd", "inPool": false, "why": "film culture overlap"},
+      {"handle": "A24", "inPool": false, "why": "frequent coverage subject"},
+      {"handle": "IndieWire", "inPool": false, "why": "indie film news competitor"}
+    ]
+  },
+  {
+    "handle": "G2NiKo",
+    "circle": [
+      {"handle": "Ninja", "inPool": true, "why": "FPS gaming scene crossover"},
+      {"handle": "xQc", "inPool": true, "why": "prominent streamer peer"},
+      {"handle": "shroud", "inPool": false, "why": "former CS pro streamer"},
+      {"handle": "s1mpleO", "inPool": false, "why": "top CS:GO rival player"},
+      {"handle": "NICKMERCS", "inPool": false, "why": "FPS gaming community peer"}
+    ]
+  },
+  {
+    "handle": "_CeeDeeThree",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL insider covers his team"},
+      {"handle": "espn", "inPool": true, "why": "primary sports media coverage"},
+      {"handle": "NFL", "inPool": true, "why": "league official account"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlights and coverage"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "popular NFL talk show"},
+      {"handle": "MicahhParsons11", "inPool": false, "why": "Cowboys teammate"},
+      {"handle": "metcalf_dk", "inPool": false, "why": "WR peer same conference"}
+    ]
+  },
+  {
+    "handle": "SharpFootball",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL news primary source"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "NFL analytics platform"},
+      {"handle": "PFF", "inPool": true, "why": "analytics data peer"},
+      {"handle": "NFL", "inPool": true, "why": "league data subject"},
+      {"handle": "espn", "inPool": true, "why": "media distributor"},
+      {"handle": "RapSheet", "inPool": false, "why": "NFL insider beat peer"}
+    ]
+  },
+  {
+    "handle": "SkyKaveh",
+    "circle": [
+      {"handle": "FabrizioRomano", "inPool": true, "why": "transfer news peer/rival"},
+      {"handle": "OptaJoe", "inPool": true, "why": "football stats partner"},
+      {"handle": "GNev2", "inPool": true, "why": "Sky Sports colleague"},
+      {"handle": "FCBarcelona", "inPool": true, "why": "frequent coverage subject"},
+      {"handle": "Arsenal", "inPool": false, "why": "Premier League club coverage"},
+      {"handle": "David_Ornstein", "inPool": false, "why": "football journalist peer"},
+      {"handle": "SkySportsNews", "inPool": false, "why": "employer account"}
+    ]
+  },
+  {
+    "handle": "jonmorosi",
+    "circle": [
+      {"handle": "Ken_Rosenthal", "inPool": true, "why": "MLB insider partner"},
+      {"handle": "MLB", "inPool": true, "why": "primary beat league"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "sports insider peer"},
+      {"handle": "espn", "inPool": true, "why": "former employer/media"},
+      {"handle": "JeffPassan", "inPool": false, "why": "MLB insider competitor"},
+      {"handle": "MLBTradeRumors", "inPool": false, "why": "trade news aggregator"}
+    ]
+  },
+  {
+    "handle": "eladgil",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "OpenAI investor relationship"},
+      {"handle": "paulg", "inPool": true, "why": "YC startup network"},
+      {"handle": "naval", "inPool": true, "why": "tech angel peer"},
+      {"handle": "pmarca", "inPool": true, "why": "a16z VC network"},
+      {"handle": "DavidSacks", "inPool": true, "why": "Silicon Valley investor peer"},
+      {"handle": "chamath", "inPool": true, "why": "tech investor discourse"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech press coverage"}
+    ]
+  },
+  {
+    "handle": "USGS",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "federal science agency peer"},
+      {"handle": "Rainmaker1973", "inPool": true, "why": "earth science content sharer"},
+      {"handle": "MarsCuriosity", "inPool": true, "why": "science agency sibling"},
+      {"handle": "NASAWebb", "inPool": true, "why": "federal science peer"},
+      {"handle": "NWS", "inPool": false, "why": "NOAA partner agency"},
+      {"handle": "Interior", "inPool": false, "why": "parent dept Interior"}
+    ]
+  },
+  {
+    "handle": "gracieabrams",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": true, "why": "Taylor's opening act/mentor"},
+      {"handle": "charli_xcx", "inPool": true, "why": "indie pop peer"},
+      {"handle": "pitchfork", "inPool": true, "why": "indie music coverage"},
+      {"handle": "RollingStone", "inPool": true, "why": "music press coverage"},
+      {"handle": "phoebe_bridgers", "inPool": false, "why": "indie folk peer/collaborator"},
+      {"handle": "jackantonoff", "inPool": false, "why": "producer collaborator"},
+      {"handle": "zanelowe", "inPool": false, "why": "Apple Music DJ interview"}
+    ]
+  },
+  {
+    "handle": "michelleisawolf",
+    "circle": [
+      {"handle": "realsambee", "inPool": true, "why": "female comedian peer"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "late night comedy peer"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late night comedy circuit"},
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy circle overlap"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "late night peer"},
+      {"handle": "mulaney", "inPool": true, "why": "stand-up comedy peer"},
+      {"handle": "NikkiGlaser", "inPool": false, "why": "female stand-up peer"},
+      {"handle": "jonstewart", "inPool": false, "why": "political comedy mentor"}
+    ]
+  },
+  {
+    "handle": "bittman",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "food media peer"},
+      {"handle": "AltonBrown", "inPool": true, "why": "food writer/TV peer"},
+      {"handle": "RollingStone", "inPool": true, "why": "pop culture media"},
+      {"handle": "davidchang", "inPool": false, "why": "chef media peer"},
+      {"handle": "chefjoseandres", "inPool": false, "why": "food humanitarian peer"},
+      {"handle": "kenjilopezalt", "inPool": false, "why": "serious eats food peer"},
+      {"handle": "ruthreichl", "inPool": false, "why": "food critic colleague"}
+    ]
+  },
+  {
+    "handle": "Criterion",
+    "circle": [
+      {"handle": "RealGDT", "inPool": true, "why": "Criterion-featured director"},
+      {"handle": "rianjohnson", "inPool": true, "why": "film director fan"},
+      {"handle": "edgarwright", "inPool": true, "why": "director Criterion advocate"},
+      {"handle": "Variety", "inPool": true, "why": "film industry press"},
+      {"handle": "DEADLINE", "inPool": true, "why": "film industry press"},
+      {"handle": "letterboxd", "inPool": false, "why": "cinephile audience overlap"},
+      {"handle": "mubi", "inPool": false, "why": "arthouse streaming peer"},
+      {"handle": "TCM", "inPool": false, "why": "classic film peer"}
+    ]
+  }
+]

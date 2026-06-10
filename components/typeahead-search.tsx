@@ -15,7 +15,7 @@ export function TypeaheadSearch() {
   const results = useMemo(() => searchAccounts(query), [query]);
 
   function go(handle: string) {
-    router.push(`/feed?u=${encodeURIComponent(handle)}`);
+    router.push(`/u/${encodeURIComponent(handle)}`);
   }
 
   return (

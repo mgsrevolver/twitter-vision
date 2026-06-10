@@ -1,0 +1,163 @@
+[
+  {
+    "handle": "NikkiGlaser",
+    "circle": [
+      {"handle": "JimGaffigan", "inPool": true, "why": "fellow stand-up comedy circuit"},
+      {"handle": "chelseahandler", "inPool": false, "why": "female comedian peer"},
+      {"handle": "realsambee", "inPool": true, "why": "female comedian/host peer"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "late night host connection"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "late night comedy peer"},
+      {"handle": "AnnaKendrick47", "inPool": true, "why": "celebrity comedy banter"},
+      {"handle": "mulaney", "inPool": true, "why": "stand-up peer mutual friends"},
+      {"handle": "billyeichner", "inPool": true, "why": "comedy community peer"}
+    ]
+  },
+  {
+    "handle": "briebriejoy",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "left politics frequent interactions"},
+      {"handle": "BernieSanders", "inPool": true, "why": "Bernie campaign press secretary"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media colleague"},
+      {"handle": "chrislhayes", "inPool": true, "why": "progressive media peer"},
+      {"handle": "kenklippenstein", "inPool": true, "why": "left journalist frequent engagement"},
+      {"handle": "IlhanMN", "inPool": true, "why": "progressive politics ally"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive politics alignment"}
+    ]
+  },
+  {
+    "handle": "joshgondelman",
+    "circle": [
+      {"handle": "robdelaney", "inPool": true, "why": "comedy Twitter close peer"},
+      {"handle": "SethMeyers", "inPool": true, "why": "worked on Late Night together"},
+      {"handle": "dril", "inPool": true, "why": "comedy Twitter mutual appreciation"},
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "comedy Twitter circle"},
+      {"handle": "desusnice", "inPool": true, "why": "comedy media peer"},
+      {"handle": "realsambee", "inPool": true, "why": "comedy/political humor peer"}
+    ]
+  },
+  {
+    "handle": "HoopsHype",
+    "circle": [
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA breaking news peer"},
+      {"handle": "wojespn", "inPool": true, "why": "NBA insider peer"},
+      {"handle": "KDTrey5", "inPool": true, "why": "NBA player covered"},
+      {"handle": "KingJames", "inPool": true, "why": "NBA player covered"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "NBA star covered"},
+      {"handle": "stephenasmith", "inPool": true, "why": "NBA media peer"},
+      {"handle": "BillSimmons", "inPool": true, "why": "NBA media peer"}
+    ]
+  },
+  {
+    "handle": "MoveTheSticks",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL media colleague ESPN"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN colleague"},
+      {"handle": "RapSheet", "inPool": false, "why": "NFL reporter peer"},
+      {"handle": "nflnetwork", "inPool": false, "why": "NFL Network co-host affiliation"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "NFL media peer interaction"}
+    ]
+  },
+  {
+    "handle": "DrKaranRajan",
+    "circle": [
+      {"handle": "neiltyson", "inPool": true, "why": "science communication peer"},
+      {"handle": "BillNye", "inPool": true, "why": "science education peer"},
+      {"handle": "hankgreen", "inPool": true, "why": "science creator peer"}
+    ]
+  },
+  {
+    "handle": "honigstein",
+    "circle": [
+      {"handle": "GNev2", "inPool": true, "why": "Premier League punditry circuit"},
+      {"handle": "GaryLineker", "inPool": true, "why": "British football media circle"},
+      {"handle": "OptaJoe", "inPool": true, "why": "football stats/media peer"},
+      {"handle": "FabrizioRomano", "inPool": true, "why": "football transfer media peer"},
+      {"handle": "Carra23", "inPool": false, "why": "Sky Sports punditry circle"},
+      {"handle": "David_Ornstein", "inPool": false, "why": "football journalist peer"},
+      {"handle": "rioferdy5", "inPool": false, "why": "ex-player pundit circle"}
+    ]
+  },
+  {
+    "handle": "garrytan",
+    "circle": [
+      {"handle": "paulg", "inPool": true, "why": "YC founder mentor relationship"},
+      {"handle": "sama", "inPool": true, "why": "YC/tech founder peer"},
+      {"handle": "pmarca", "inPool": true, "why": "tech VC peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech investor peer"},
+      {"handle": "naval", "inPool": true, "why": "tech philosophy peer"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech founder engagement"},
+      {"handle": "chamath", "inPool": true, "why": "tech/VC investor peer"}
+    ]
+  },
+  {
+    "handle": "realsambee",
+    "circle": [
+      {"handle": "TheDailyShow", "inPool": true, "why": "Daily Show alumni"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "late night host peer"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "late night comedy peer"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late night peer"},
+      {"handle": "joshgondelman", "inPool": true, "why": "comedy writer colleague"},
+      {"handle": "billyeichner", "inPool": true, "why": "comedy media peer"}
+    ]
+  },
+  {
+    "handle": "MacroAlf",
+    "circle": [
+      {"handle": "NorthmanTrader", "inPool": false, "why": "macro finance Twitter peer"},
+      {"handle": "unusual_whales", "inPool": false, "why": "finance markets Twitter peer"},
+      {"handle": "saylor", "inPool": true, "why": "macro/Bitcoin market discussion"},
+      {"handle": "chamath", "inPool": true, "why": "macro/tech finance discussion"},
+      {"handle": "zerohedge", "inPool": false, "why": "macro finance media peer"},
+      {"handle": "naval", "inPool": true, "why": "macro philosophy finance"}
+    ]
+  },
+  {
+    "handle": "NorthmanTrader",
+    "circle": [
+      {"handle": "MacroAlf", "inPool": true, "why": "macro trading Twitter peer"},
+      {"handle": "zerohedge", "inPool": false, "why": "bearish macro media peer"},
+      {"handle": "unusual_whales", "inPool": false, "why": "markets Twitter peer"},
+      {"handle": "saylor", "inPool": true, "why": "market discussion target"},
+      {"handle": "chamath", "inPool": true, "why": "finance/market commentary peer"}
+    ]
+  },
+  {
+    "handle": "rasbt",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "AI research community engagement"},
+      {"handle": "naval", "inPool": true, "why": "tech/AI philosophical overlap"},
+      {"handle": "paulg", "inPool": true, "why": "tech/AI startup community"}
+    ]
+  },
+  {
+    "handle": "larianstudios",
+    "circle": [
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards host partner"},
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "gaming auteur peer"},
+      {"handle": "swen_vincke", "inPool": false, "why": "CEO of Larian Studios"},
+      {"handle": "remedygames", "inPool": false, "why": "indie studio peer"}
+    ]
+  },
+  {
+    "handle": "davidsirota",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive politics media ally"},
+      {"handle": "BernieSanders", "inPool": true, "why": "Bernie campaign speechwriter"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media peer"},
+      {"handle": "kenklippenstein", "inPool": true, "why": "investigative journalist peer"},
+      {"handle": "briebriejoy", "inPool": false, "why": "progressive media circle"},
+      {"handle": "IlhanMN", "inPool": true, "why": "progressive politics ally"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive policy alignment"}
+    ]
+  },
+  {
+    "handle": "AdamSerwer",
+    "circle": [
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media peer"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC progressive media"},
+      {"handle": "AOC", "inPool": true, "why": "political coverage subject"},
+      {"handle": "kenklippenstein", "inPool": true, "why": "investigative journalist peer"},
+      {"handle": "RonanFarrow", "inPool": true, "why": "investigative journalism peer"}
+    ]
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "handle": "PitchforkFilm",
+    "circle": [
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "parent publication, daily interaction"
+      },
+      {
+        "handle": "mattzollerseitz",
+        "inPool": true,
+        "why": "film critic peer"
+      },
+      {
+        "handle": "tnyfrontrow",
+        "inPool": true,
+        "why": "cinephile film criticism"
+      },
+      {
+        "handle": "annkpowers",
+        "inPool": true,
+        "why": "music meets film beat"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "film industry media"
+      },
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film news beat"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "film industry coverage"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "film industry trades"
+      },
+      {
+        "handle": "blankcheckpod",
+        "inPool": false,
+        "why": "cinephile podcast overlap"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "music/film media sibling"
+      }
+    ]
+  },
+  {
+    "handle": "qualityrye",
+    "circle": [
+      {
+        "handle": "PadmaLakshmi",
+        "inPool": true,
+        "why": "food TV personality overlap"
+      },
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "celebrity chef coverage"
+      },
+      {
+        "handle": "altonbrown",
+        "inPool": true,
+        "why": "food world figure"
+      },
+      {
+        "handle": "Eater",
+        "inPool": false,
+        "why": "employing publication"
+      },
+      {
+        "handle": "grubstreet",
+        "inPool": false,
+        "why": "NYC food media rival"
+      },
+      {
+        "handle": "pete_wells",
+        "inPool": false,
+        "why": "NYT critic colleague/rival"
+      },
+      {
+        "handle": "tejalrao",
+        "inPool": false,
+        "why": "food writer colleague"
+      }
+    ]
+  },
+  {
+    "handle": "GadflyMD",
+    "circle": [
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communication peer"
+      },
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "science popularizer"
+      },
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "science media figure"
+      },
+      {
+        "handle": "DrPaulOffit",
+        "inPool": false,
+        "why": "vaccine advocate colleague"
+      },
+      {
+        "handle": "HelenBranswell",
+        "inPool": false,
+        "why": "pandemic journalist"
+      },
+      {
+        "handle": "apoorva_nyc",
+        "inPool": false,
+        "why": "science journalist colleague"
+      },
+      {
+        "handle": "CT_Bergstrom",
+        "inPool": false,
+        "why": "misinformation scientist"
+      }
+    ]
+  },
+  {
+    "handle": "arankomatsuzaki",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI CEO, employer"
+      },
+      {
+        "handle": "gdb",
+        "inPool": false,
+        "why": "OpenAI co-founder colleague"
+      },
+      {
+        "handle": "ilyasut",
+        "inPool": false,
+        "why": "OpenAI chief scientist"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "AI researcher peer"
+      },
+      {
+        "handle": "fchollet",
+        "inPool": false,
+        "why": "ML researcher peer"
+      }
+    ]
+  },
+  {
+    "handle": "kchonyc",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI industry leader"
+      },
+      {
+        "handle": "ylecun",
+        "inPool": false,
+        "why": "NYU colleague and AI legend"
+      },
+      {
+        "handle": "fchollet",
+        "inPool": false,
+        "why": "ML researcher peer"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "AI researcher peer"
+      },
+      {
+        "handle": "arankomatsuzaki",
+        "inPool": false,
+        "why": "NLP researcher peer"
+      }
+    ]
+  },
+  {
+    "handle": "dulcesloan",
+    "circle": [
+      {
+        "handle": "realsambee",
+        "inPool": true,
+        "why": "late night comedy peer"
+      },
+      {
+        "handle": "mulaney",
+        "inPool": true,
+        "why": "stand-up comedy peer"
+      },
+      {
+        "handle": "meganamram",
+        "inPool": true,
+        "why": "comedy writer peer"
+      },
+      {
+        "handle": "joshgondelman",
+        "inPool": true,
+        "why": "Daily Show writer colleague"
+      },
+      {
+        "handle": "pattonoswalt",
+        "inPool": true,
+        "why": "stand-up peer"
+      },
+      {
+        "handle": "trevornoah",
+        "inPool": true,
+        "why": "Daily Show boss"
+      },
+      {
+        "handle": "jaboukie",
+        "inPool": false,
+        "why": "Daily Show colleague"
+      }
+    ]
+  },
+  {
+    "handle": "MusicMesfin",
+    "circle": [
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "music media peer"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "music media peer"
+      },
+      {
+        "handle": "annkpowers",
+        "inPool": true,
+        "why": "NPR music critic peer"
+      },
+      {
+        "handle": "chartdata",
+        "inPool": true,
+        "why": "chart tracking peer"
+      },
+      {
+        "handle": "billboardcharts",
+        "inPool": true,
+        "why": "industry charting"
+      },
+      {
+        "handle": "XXL",
+        "inPool": true,
+        "why": "hip-hop media coverage"
+      },
+      {
+        "handle": "joncaramanica",
+        "inPool": false,
+        "why": "NYT music critic peer"
+      },
+      {
+        "handle": "robsheff",
+        "inPool": false,
+        "why": "music journalist peer"
+      }
+    ]
+  },
+  {
+    "handle": "sh_reya",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI industry leader"
+      },
+      {
+        "handle": "emollick",
+        "inPool": false,
+        "why": "AI educator frequent retweet"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "ML engineer icon"
+      },
+      {
+        "handle": "fchollet",
+        "inPool": false,
+        "why": "ML framework creator"
+      },
+      {
+        "handle": "rasbt",
+        "inPool": false,
+        "why": "ML educator peer"
+      }
+    ]
+  },
+  {
+    "handle": "brendlewhat",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist humor peer"
+      },
+      {
+        "handle": "jonnysun",
+        "inPool": true,
+        "why": "whimsical humor peer"
+      },
+      {
+        "handle": "meganamram",
+        "inPool": true,
+        "why": "comedy writer peer"
+      },
+      {
+        "handle": "sosadtoday",
+        "inPool": true,
+        "why": "absurdist humor peer"
+      },
+      {
+        "handle": "trumpetcake",
+        "inPool": true,
+        "why": "Twitter humor peer"
+      },
+      {
+        "handle": "MagicRealismBot",
+        "inPool": true,
+        "why": "weird Twitter peer"
+      },
+      {
+        "handle": "joshgondelman",
+        "inPool": true,
+        "why": "humor writer peer"
+      }
+    ]
+  },
+  {
+    "handle": "trumpetcake",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist humor peer"
+      },
+      {
+        "handle": "brendlewhat",
+        "inPool": true,
+        "why": "weird Twitter peer"
+      },
+      {
+        "handle": "jonnysun",
+        "inPool": true,
+        "why": "whimsical humor peer"
+      },
+      {
+        "handle": "meganamram",
+        "inPool": true,
+        "why": "comedy writer peer"
+      },
+      {
+        "handle": "sosadtoday",
+        "inPool": true,
+        "why": "absurdist humor peer"
+      },
+      {
+        "handle": "MagicRealismBot",
+        "inPool": true,
+        "why": "weird Twitter peer"
+      },
+      {
+        "handle": "InternetHippo",
+        "inPool": false,
+        "why": "weird Twitter peer"
+      }
+    ]
+  },
+  {
+    "handle": "USFWSNortheast",
+    "circle": [
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "wildlife media partner"
+      },
+      {
+        "handle": "Rainmaker1973",
+        "inPool": true,
+        "why": "nature content amplifier"
+      },
+      {
+        "handle": "NatlParkService",
+        "inPool": false,
+        "why": "federal land agency sibling"
+      },
+      {
+        "handle": "Interior",
+        "inPool": false,
+        "why": "parent department"
+      },
+      {
+        "handle": "audubonsociety",
+        "inPool": false,
+        "why": "bird conservation partner"
+      },
+      {
+        "handle": "World_Wildlife",
+        "inPool": false,
+        "why": "wildlife conservation partner"
+      }
+    ]
+  },
+  {
+    "handle": "taraobrady",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "food world figure"
+      },
+      {
+        "handle": "PadmaLakshmi",
+        "inPool": true,
+        "why": "food TV peer"
+      },
+      {
+        "handle": "kenjilopezalt",
+        "inPool": false,
+        "why": "food writer peer"
+      },
+      {
+        "handle": "CiaoSamin",
+        "inPool": false,
+        "why": "cookbook author peer"
+      },
+      {
+        "handle": "clairesaffitz",
+        "inPool": false,
+        "why": "cookbook author peer"
+      },
+      {
+        "handle": "mollybaz",
+        "inPool": false,
+        "why": "food media colleague"
+      }
+    ]
+  },
+  {
+    "handle": "PHealthD",
+    "circle": [
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "science communicator"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communicator"
+      },
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "science communicator peer"
+      },
+      {
+        "handle": "HelenBranswell",
+        "inPool": false,
+        "why": "pandemic journalist"
+      },
+      {
+        "handle": "apoorva_nyc",
+        "inPool": false,
+        "why": "health journalist"
+      },
+      {
+        "handle": "nataliexdean",
+        "inPool": false,
+        "why": "biostatistics colleague"
+      },
+      {
+        "handle": "EricTopol",
+        "inPool": false,
+        "why": "medical researcher peer"
+      }
+    ]
+  },
+  {
+    "handle": "chefedwardlee",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "celebrity chef peer"
+      },
+      {
+        "handle": "PadmaLakshmi",
+        "inPool": true,
+        "why": "Top Chef judge/host"
+      },
+      {
+        "handle": "altonbrown",
+        "inPool": true,
+        "why": "food TV peer"
+      },
+      {
+        "handle": "davidchang",
+        "inPool": false,
+        "why": "chef peer, food media"
+      },
+      {
+        "handle": "chefjoseandres",
+        "inPool": false,
+        "why": "chef humanitarian peer"
+      },
+      {
+        "handle": "CiaoSamin",
+        "inPool": false,
+        "why": "food writer/chef peer"
+      },
+      {
+        "handle": "kenjilopezalt",
+        "inPool": false,
+        "why": "food writer/chef peer"
+      }
+    ]
+  },
+  {
+    "handle": "hettymckinnon",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "food world figure"
+      },
+      {
+        "handle": "PadmaLakshmi",
+        "inPool": true,
+        "why": "food TV peer"
+      },
+      {
+        "handle": "altonbrown",
+        "inPool": true,
+        "why": "food educator"
+      },
+      {
+        "handle": "CiaoSamin",
+        "inPool": false,
+        "why": "cookbook author peer"
+      },
+      {
+        "handle": "Ottolenghi",
+        "inPool": false,
+        "why": "veg-forward cookbook peer"
+      },
+      {
+        "handle": "kenjilopezalt",
+        "inPool": false,
+        "why": "food writer peer"
+      },
+      {
+        "handle": "SmittenKitchen",
+        "inPool": false,
+        "why": "home cook food peer"
+      }
+    ]
+  }
+]

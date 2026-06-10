@@ -1,0 +1,8733 @@
+[
+ [
+  {
+   "handle": "ChelseaFC",
+   "name": "Chelsea FC",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "LFC",
+   "name": "Liverpool FC",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Arsenal",
+   "name": "Arsenal",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "iamcardib",
+   "name": "Cardi B",
+   "tags": [
+    "music",
+    "pop-culture",
+    "humor"
+   ]
+  },
+  {
+   "handle": "LilTunechi",
+   "name": "Lil Wayne",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ManCity",
+   "name": "Manchester City",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "kendricklamar",
+   "name": "Kendrick Lamar",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "trvisXX",
+   "name": "Travis Scott",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ABC",
+   "name": "ABC News",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "mindykaling",
+   "name": "Mindy Kaling",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "IvankaTrump",
+   "name": "Ivanka Trump",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "andersoncooper",
+   "name": "Anderson Cooper",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "trevornoah",
+   "name": "Trevor Noah",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "media"
+   ]
+  },
+  {
+   "handle": "AdamSchefter",
+   "name": "Adam Schefter",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "DUALIPA",
+   "name": "Dua Lipa",
+   "tags": [
+    "music",
+    "pop-culture",
+    "iconic"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "rioferdy5",
+   "name": "Rio Ferdinand",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "serenawilliams",
+   "name": "Serena Williams",
+   "tags": [
+    "sports",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "Twitch",
+   "name": "Twitch",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "maddow",
+   "name": "Rachel Maddow",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "TheNotoriousMMA",
+   "name": "Conor McGregor",
+   "tags": [
+    "sports",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "goal",
+   "name": "GOAL",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "IGN",
+   "name": "IGN",
+   "tags": [
+    "tech",
+    "pop-culture",
+    "media"
+   ]
+  },
+  {
+   "handle": "WIRED",
+   "name": "WIRED",
+   "tags": [
+    "tech",
+    "media"
+   ]
+  },
+  {
+   "handle": "TechCrunch",
+   "name": "TechCrunch",
+   "tags": [
+    "tech",
+    "media"
+   ]
+  },
+  {
+   "handle": "RonDeSantis",
+   "name": "Ron DeSantis",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "usainbolt",
+   "name": "Usain St. Leo Bolt",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Apple",
+   "name": "Apple",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "newyorker",
+   "name": "The New Yorker",
+   "tags": [
+    "books",
+    "media",
+    "humor"
+   ]
+  },
+  {
+   "handle": "tylerthecreator",
+   "name": "Tyler, The Creator",
+   "tags": [
+    "music",
+    "pop-culture",
+    "humor"
+   ]
+  },
+  {
+   "handle": "Steam",
+   "name": "Steam",
+   "tags": [
+    "gaming",
+    "tech"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "cz_binance",
+   "name": "CZ 🔶 BNB",
+   "tags": [
+    "finance",
+    "tech"
+   ]
+  },
+  {
+   "handle": "Minecraft",
+   "name": "Minecraft",
+   "tags": [
+    "tech",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "CallofDuty",
+   "name": "Call of Duty",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "GaryLineker",
+   "name": "Gary Lineker",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "dog_rates",
+   "name": "WeRateDogs",
+   "tags": [
+    "animals",
+    "humor",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "NPR",
+   "name": "NPR",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "SpursOfficial",
+   "name": "Tottenham Hotspur",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "SteveMartinToGo",
+   "name": "Steve Martin",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "SkySportsNews",
+   "name": "Sky Sports News",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "Sethrogen",
+   "name": "Seth Rogen",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "asvpxrocky",
+   "name": "A$AP Rocky",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "LanaDelRey",
+   "name": "Lana Del Rey",
+   "tags": [
+    "music",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "BBCSport",
+   "name": "BBC Sport",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "ESPNNBA",
+   "name": "NBA on ESPN",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "chancetherapper",
+   "name": "Chance The Rapper",
+   "tags": [
+    "pop-culture"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "SamuelLJackson",
+   "name": "Samuel L. Jackson",
+   "tags": [
+    "film-tv",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "LeagueOfLegends",
+   "name": "League of Legends",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "LewisHamilton",
+   "name": "Lewis Hamilton",
+   "tags": [
+    "sports",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "1future",
+   "name": "Future",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "LilNasX",
+   "name": "Lil Nas X",
+   "tags": [
+    "music",
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "GordonRamsay",
+   "name": "Gordon Ramsay",
+   "tags": [
+    "food",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "JColeNC",
+   "name": "J. Cole",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "NBCNews",
+   "name": "NBC News",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "Charles_Leclerc",
+   "name": "Charles Leclerc",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "benshapiro",
+   "name": "Ben Shapiro",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "acmilan",
+   "name": "AC Milan",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Mike_Pence",
+   "name": "Mike Pence",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "NHL",
+   "name": "NHL",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "THR",
+   "name": "The Hollywood Reporter",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "ewarren",
+   "name": "Elizabeth Warren",
+   "tags": [
+    "politics-left"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "theestallion",
+   "name": "Megan Thee Stallion",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "21savage",
+   "name": "21 Savage",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "StephenKing",
+   "name": "Stephen King",
+   "tags": [
+    "pop-culture",
+    "politics-left",
+    "humor"
+   ]
+  },
+  {
+   "handle": "billboardcharts",
+   "name": "Billboard Charts",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "dbongino",
+   "name": "Dan Bongino",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "chelseahandler",
+   "name": "Chelsea Handler",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "seanhannity",
+   "name": "Sean Hannity",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "tedcruz",
+   "name": "Ted Cruz",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "JeffBezos",
+   "name": "Jeff Bezos",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "jack",
+   "name": "jack",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "hubermanlab",
+   "name": "Andrew Huberman",
+   "tags": [
+    "tech",
+    "media"
+   ]
+  },
+  {
+   "handle": "IMDb",
+   "name": "IMDb",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "sza",
+   "name": "SZA",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "jamieoliver",
+   "name": "Jamie Oliver",
+   "tags": [
+    "food",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "billieeilish",
+   "name": "Billie Eilish",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "BillNye",
+   "name": "Bill Nye",
+   "tags": [
+    "science",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "ErlingHaaland",
+   "name": "Erling Haaland",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Amazon",
+   "name": "Amazon",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "coinbase",
+   "name": "Coinbase",
+   "tags": [
+    "finance",
+    "tech"
+   ]
+  },
+  {
+   "handle": "EW",
+   "name": "Entertainment Weekly",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "GameSpot",
+   "name": "GameSpot",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "RollingStone",
+   "name": "Rolling Stone",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "RealCandaceO",
+   "name": "Candace Owens",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "wojespn",
+   "name": "Adrian Wojnarowski",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "BillSimmons",
+   "name": "Bill Simmons",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "TheTweetOfGod",
+   "name": "God",
+   "tags": [
+    "humor",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "lorde",
+   "name": "Lorde",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "MKBHD",
+   "name": "Marques Brownlee",
+   "tags": [
+    "tech",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ESPNFC",
+   "name": "ESPN FC",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "Nas",
+   "name": "Nas",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "IngrahamAngle",
+   "name": "Laura Ingraham",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "JeremyRenner",
+   "name": "Jeremy Renner",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "JohnCleese",
+   "name": "John Cleese",
+   "tags": [
+    "humor",
+    "film-tv",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "GretaThunberg",
+   "name": "Greta Thunberg",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "VitalikButerin",
+   "name": "vitalik.eth",
+   "tags": [
+    "finance",
+    "tech"
+   ]
+  },
+  {
+   "handle": "jordanbpeterson",
+   "name": "Dr Jordan B Peterson",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "CDCgov",
+   "name": "CDC",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "PeteButtigieg",
+   "name": "Pete Buttigieg",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "DojaCat",
+   "name": "Doja Cat",
+   "tags": [
+    "music",
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "stephenasmith",
+   "name": "Stephen A Smith",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "LILUZIVERT",
+   "name": "Lil Uzi Vert",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "GNev2",
+   "name": "Gary Neville",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "charliekirk11",
+   "name": "Charlie Kirk",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "DineshDSouza",
+   "name": "Dinesh D'Souza",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "SkySportsPL",
+   "name": "Sky Sports Premier League",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "TheAtlantic",
+   "name": "The Atlantic",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "Carra23",
+   "name": "Jamie Carragher",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "PSG_English",
+   "name": "Paris Saint-Germain",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "RandPaul",
+   "name": "Rand Paul",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "sundarpichai",
+   "name": "Sundar Pichai",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "StationCDRKelly",
+   "name": "Scott Kelly",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "youngthug",
+   "name": "Young Thug",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "CBSNews",
+   "name": "CBS News",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "marklevinshow",
+   "name": "Mark R. Levin",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "paulkrugman",
+   "name": "Paul Krugman",
+   "tags": [
+    "finance",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "MarkHamill",
+   "name": "Mark Hamill",
+   "tags": [
+    "film-tv",
+    "iconic",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "lexfridman",
+   "name": "Lex Fridman",
+   "tags": [
+    "tech",
+    "media"
+   ]
+  },
+  {
+   "handle": "marcorubio",
+   "name": "Marco Rubio",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "CNBC",
+   "name": "CNBC",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "GavinNewsom",
+   "name": "Gavin Newsom",
+   "tags": [
+    "politics-left"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "RealSkipBayless",
+   "name": "Skip Bayless",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "AMAZlNGNATURE",
+   "name": "Nature is Amazing",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "lilbaby4PF",
+   "name": "Lil Baby",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "politico",
+   "name": "POLITICO",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "TigerWoods",
+   "name": "Tiger Woods",
+   "tags": [
+    "sports",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "Space_Station",
+   "name": "International Space Station",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "AlYankovic",
+   "name": "Al Yankovic",
+   "tags": [
+    "music",
+    "humor"
+   ]
+  },
+  {
+   "handle": "questlove",
+   "name": "Questlove",
+   "tags": [
+    "music",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "oliviarodrigo",
+   "name": "Olivia Rodrigo",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "mtgreenee",
+   "name": "Marjorie Taylor Greene",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "newscientist",
+   "name": "New Scientist",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "Tfue",
+   "name": "Tfue",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "nflnetwork",
+   "name": "NFL Network",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "IanWright0",
+   "name": "Ian Wright",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "AnimalPlanet",
+   "name": "Animal Planet",
+   "tags": [
+    "animals",
+    "media",
+    "science"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "JDVance",
+   "name": "JD Vance",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "OpenAI",
+   "name": "OpenAI",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "MarketWatch",
+   "name": "MarketWatch",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "pokimane",
+   "name": "pokimane",
+   "tags": [
+    "gaming",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "timthetatman",
+   "name": "timthetatman",
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
+   "handle": "RecordingAcad",
+   "name": "Recording Academy / GRAMMYs",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "MarsCuriosity",
+   "name": "Curiosity Rover",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "sciam",
+   "name": "Scientific American",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "WWF",
+   "name": "WWF",
+   "tags": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "handle": "AltonBrown",
+   "name": "Alton Brown",
+   "tags": [
+    "food",
+    "humor"
+   ]
+  },
+  {
+   "handle": "JordanPeele",
+   "name": "Jordan Peele",
+   "tags": [
+    "film-tv",
+    "iconic",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "johngreen",
+   "name": "John Green",
+   "tags": [
+    "books",
+    "pop-culture",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "MetroBoomin",
+   "name": "Metro Boomin",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "SabrinaAnnLynn",
+   "name": "Sabrina Carpenter",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "saylor",
+   "name": "Michael Saylor",
+   "tags": [
+    "finance",
+    "tech"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "libsoftiktok",
+   "name": "Libs of TikTok",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "dog_feelings",
+   "name": "Thoughts of Dog",
+   "tags": [
+    "animals",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "pattonoswalt",
+   "name": "Patton Oswalt",
+   "tags": [
+    "film-tv",
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "TheAcademy",
+   "name": "The Academy",
+   "tags": [
+    "film-tv",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "charli_xcx",
+   "name": "Charli XCX",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "MattWalshBlog",
+   "name": "Matt Walsh",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "Wendys",
+   "name": "Wendy's",
+   "tags": [
+    "food",
+    "humor"
+   ]
+  },
+  {
+   "handle": "bonappetit",
+   "name": "Bon Appetit",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "MarthaStewart",
+   "name": "Martha Stewart",
+   "tags": [
+    "food",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "lukadoncic",
+   "name": "Luka Doncic",
+   "tags": [
+    "sports",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "bennyjohnson",
+   "name": "Benny Johnson",
+   "tags": [
+    "politics-right",
+    "humor"
+   ]
+  },
+  {
+   "handle": "FaZeClan",
+   "name": "FaZe Clan",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "XXL",
+   "name": "XXL Magazine",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "NASAJPL",
+   "name": "NASA JPL",
+   "tags": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "handle": "Max33Verstappen",
+   "name": "Max Verstappen",
+   "tags": [
+    "sports"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "PGATOUR",
+   "name": "PGA TOUR",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "MMFlint",
+   "name": "Michael Moore",
+   "tags": [
+    "politics-left",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "pitchfork",
+   "name": "Pitchfork",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "TheBabylonBee",
+   "name": "The Babylon Bee",
+   "tags": [
+    "humor",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "buitengebieden",
+   "name": "Buitengebieden",
+   "tags": [
+    "wholesome",
+    "animals",
+    "humor"
+   ]
+  },
+  {
+   "handle": "Lin_Manuel",
+   "name": "Lin-Manuel Miranda",
+   "tags": [
+    "film-tv",
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "DrDisrespect",
+   "name": "Dr Disrespect",
+   "tags": [
+    "gaming",
+    "humor",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "sama",
+   "name": "Sam Altman",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "satyanadella",
+   "name": "Satya Nadella",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "RottenTomatoes",
+   "name": "Rotten Tomatoes",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "PlayApex",
+   "name": "Apex Legends",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "MeidasTouch",
+   "name": "MeidasTouch",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "SoVeryBritish",
+   "name": "Very British Problems",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "oliviawilde",
+   "name": "Olivia Wilde",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "HIDEO_KOJIMA_EN",
+   "name": "Hideo Kojima",
+   "tags": [
+    "gaming",
+    "film-tv",
+    "iconic"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "PUSHA_T",
+   "name": "Pusha T",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "GuyFieri",
+   "name": "Guy Fieri",
+   "tags": [
+    "food",
+    "pop-culture",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "NateSilver538",
+   "name": "Nate Silver",
+   "tags": [
+    "politics-left",
+    "media",
+    "finance"
+   ]
+  },
+  {
+   "handle": "VivekGRamaswamy",
+   "name": "Vivek Ramaswamy",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "ShamsCharania",
+   "name": "Shams Charania",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "PatMcAfeeShow",
+   "name": "Pat McAfee",
+   "tags": [
+    "sports",
+    "media",
+    "humor"
+   ]
+  },
+  {
+   "handle": "LandoNorris",
+   "name": "Lando Norris",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Giannis_An34",
+   "name": "Giannis Antetokounmpo",
+   "tags": [
+    "sports",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "jimgaffigan",
+   "name": "Jim Gaffigan",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "WatcherGuru",
+   "name": "Watcher Guru",
+   "tags": [
+    "crypto",
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "GoldmanSachs",
+   "name": "Goldman Sachs",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "Timbaland",
+   "name": "Timbaland",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "jaytatum0",
+   "name": "Jayson Tatum",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "megynkelly",
+   "name": "Megyn Kelly",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "garyvee",
+   "name": "Gary Vaynerchuk",
+   "tags": [
+    "finance",
+    "tech"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "JackPosobiec",
+   "name": "Jack Posobiec",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "BR_NBA",
+   "name": "Bleacher Report NBA",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "NWS",
+   "name": "National Weather Service",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "catturd2",
+   "name": "Catturd ™",
+   "tags": [
+    "politics-right",
+    "humor"
+   ]
+  },
+  {
+   "handle": "nvidia",
+   "name": "NVIDIA",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "Variety",
+   "name": "Variety",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "NICKMERCS",
+   "name": "NICKMERCS",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "IlhanMN",
+   "name": "Ilhan Omar",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "ProfBrianCox",
+   "name": "Brian Cox",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "David_Ornstein",
+   "name": "David Ornstein",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "GeorgeTakei",
+   "name": "George Takei",
+   "tags": [
+    "film-tv",
+    "iconic",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "michaelb4jordan",
+   "name": "Michael B. Jordan",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "AdamSandler",
+   "name": "Adam Sandler",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "Kehlani",
+   "name": "Kehlani",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "McIlroyRory",
+   "name": "Rory McIlroy",
+   "tags": [
+    "sports"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "richarddawkins",
+   "name": "Richard Dawkins",
+   "tags": [
+    "science",
+    "books"
+   ]
+  },
+  {
+   "handle": "NASAPersevere",
+   "name": "NASA's Perseverance Mars Rover",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "neilhimself",
+   "name": "Neil Gaiman",
+   "tags": [
+    "books",
+    "pop-culture",
+    "media"
+   ]
+  },
+  {
+   "handle": "JaMorant",
+   "name": "Ja Morant",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "JonnyBones",
+   "name": "Jon Jones",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "ezraklein",
+   "name": "Ezra Klein",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "lenadunham",
+   "name": "Lena Dunham",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "Valkyrae",
+   "name": "Valkyrae",
+   "tags": [
+    "gaming",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "wemby",
+   "name": "Victor Wembanyama",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "TomiLahren",
+   "name": "Tomi Lahren",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "juventusfcen",
+   "name": "Juventus FC",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "DiscussingFilm",
+   "name": "DiscussingFilm",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "moistcr1tikal",
+   "name": "Cr1TiKaL",
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
+   "handle": "ProjectLincoln",
+   "name": "The Lincoln Project",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "esa",
+   "name": "European Space Agency",
+   "tags": [
+    "science"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "RapSheet",
+   "name": "Ian Rapoport",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "kumailn",
+   "name": "Kumail Nanjiani",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "SkySportsF1",
+   "name": "Sky Sports F1",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "github",
+   "name": "GitHub",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "CERN",
+   "name": "CERN",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "RayDalio",
+   "name": "Ray Dalio",
+   "tags": [
+    "finance",
+    "books"
+   ]
+  },
+  {
+   "handle": "Nigella_Lawson",
+   "name": "Nigella Lawson",
+   "tags": [
+    "food",
+    "books"
+   ]
+  },
+  {
+   "handle": "nytimesbooks",
+   "name": "New York Times Books",
+   "tags": [
+    "books",
+    "media"
+   ]
+  },
+  {
+   "handle": "NBAonTNT",
+   "name": "NBA on TNT",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "Timcast",
+   "name": "Tim Pool",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "naval",
+   "name": "Naval",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "mtaibbi",
+   "name": "Matt Taibbi",
+   "tags": [
+    "media",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "GovRonDeSantis",
+   "name": "Ron DeSantis",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "JamesGunn",
+   "name": "James Gunn",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "100Thieves",
+   "name": "100 Thieves",
+   "tags": [
+    "gaming"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "PopCrave",
+   "name": "Pop Crave",
+   "tags": [
+    "pop-culture",
+    "media",
+    "music"
+   ]
+  },
+  {
+   "handle": "NatlParkService",
+   "name": "National Park Service",
+   "tags": [
+    "humor",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "faker",
+   "name": "Faker",
+   "tags": [
+    "gaming",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "Akademiks",
+   "name": "DJ Akademiks",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "PatrickMahomes",
+   "name": "Patrick Mahomes",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "CollinRugg",
+   "name": "Collin Rugg",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "shroud",
+   "name": "shroud",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "chrislhayes",
+   "name": "Chris Hayes",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "Rainmaker1973",
+   "name": "Massimo",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "Interior",
+   "name": "US Department of the Interior",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "thegameawards",
+   "name": "The Game Awards",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "BrotherNature",
+   "name": "Brother Nature",
+   "tags": [
+    "animals",
+    "wholesome",
+    "humor"
+   ]
+  },
+  {
+   "handle": "lolesports",
+   "name": "LoL Esports",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "chartdata",
+   "name": "chart data",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "Cmdr_Hadfield",
+   "name": "Chris Hadfield",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "Jon_Favreau",
+   "name": "Jon Favreau",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "NASAHubble",
+   "name": "NASA Hubble",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "jimcramer",
+   "name": "Jim Cramer",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "unusual_whales",
+   "name": "unusual_whales",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "EmrgencyKittens",
+   "name": "Emergency Kittens",
+   "tags": [
+    "animals",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "nytmag",
+   "name": "NY Times Magazine",
+   "tags": [
+    "books",
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "cthagod",
+   "name": "Charlamagne Tha God",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "DangeRussWilson",
+   "name": "Russell Wilson",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "GeorgeRussell63",
+   "name": "George Russell",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "ggreenwald",
+   "name": "Glenn Greenwald",
+   "tags": [
+    "media",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "AsteroidWatch",
+   "name": "NASA Asteroid Watch",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "paulfeig",
+   "name": "Paul Feig",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "evilhag",
+   "name": "Aubrey Plaza",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "boburnham",
+   "name": "Bo Burnham",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "music"
+   ]
+  },
+  {
+   "handle": "JakeTapper",
+   "name": "Jake Tapper",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "Money23Green",
+   "name": "Draymond Green",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "AaronRodgers12",
+   "name": "Aaron Rodgers",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "realDailyWire",
+   "name": "The Daily Wire",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "MrAncelotti",
+   "name": "Carlo Ancelotti",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "paulg",
+   "name": "Paul Graham",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "ConcernedApe",
+   "name": "ConcernedApe",
+   "tags": [
+    "gaming",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "JoyAnnReid",
+   "name": "Joy-Ann Reid",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "PopBase",
+   "name": "Pop Base",
+   "tags": [
+    "pop-culture",
+    "media",
+    "music"
+   ]
+  },
+  {
+   "handle": "NASAWebb",
+   "name": "NASA Webb Telescope",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "michaelianblack",
+   "name": "Michael Ian Black",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "HotNewHipHop",
+   "name": "HotNewHipHop",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "NickKristof",
+   "name": "Nicholas Kristof",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "ProFootballTalk",
+   "name": "ProFootballTalk",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "mehdirhasan",
+   "name": "Mehdi Hasan",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "billyeichner",
+   "name": "Billy Eichner",
+   "tags": [
+    "film-tv",
+    "humor",
+    "pop-culture"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "MargaretAtwood",
+   "name": "Margaret E Atwood",
+   "tags": [
+    "books",
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "100trillionUSD",
+   "name": "PlanB",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "Sykkuno",
+   "name": "Sykkuno",
+   "tags": [
+    "gaming",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "axios",
+   "name": "Axios",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "DailyCaller",
+   "name": "Daily Caller",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "ESA_Hubble",
+   "name": "ESA Hubble",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "CuteEmergency",
+   "name": "Cute Emergency",
+   "tags": [
+    "animals",
+    "wholesome",
+    "humor"
+   ]
+  },
+  {
+   "handle": "dril",
+   "name": "wint",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "zerohedge",
+   "name": "zerohedge",
+   "tags": [
+    "finance",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "chamath",
+   "name": "Chamath Palihapitiya",
+   "tags": [
+    "finance",
+    "tech",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "foodandwine",
+   "name": "Food & Wine",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "Kotaku",
+   "name": "Kotaku",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "HERMusicx",
+   "name": "H.E.R.",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ananavarro",
+   "name": "Ana Navarro",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "ClutchPoints",
+   "name": "ClutchPoints",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "cheetah",
+   "name": "Tyreek Hill",
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "APompliano",
+   "name": "Anthony Pompliano",
+   "tags": [
+    "finance",
+    "tech"
+   ]
+  },
+  {
+   "handle": "FilmUpdates",
+   "name": "Film Updates",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "PFTCommenter",
+   "name": "PFT Commenter",
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "BillAckman",
+   "name": "Bill Ackman",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "ComplexMusic",
+   "name": "Complex Music",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "karaswisher",
+   "name": "Kara Swisher",
+   "tags": [
+    "media",
+    "tech"
+   ]
+  },
+  {
+   "handle": "TheTraeYoung",
+   "name": "Trae Young",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "NBCSports",
+   "name": "NBC Sports",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "StephenM",
+   "name": "Stephen Miller",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "hasanthehun",
+   "name": "Hasan Piker",
+   "tags": [
+    "politics-left",
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "CathieDWood",
+   "name": "Cathie Wood",
+   "tags": [
+    "finance",
+    "tech"
+   ]
+  },
+  {
+   "handle": "karpathy",
+   "name": "Andrej Karpathy",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "theantedwards_",
+   "name": "Anthony Edwards",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Genius",
+   "name": "Genius",
+   "tags": [
+    "music",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "RubinReport",
+   "name": "Dave Rubin",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "TPUSA",
+   "name": "Turning Point USA",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "pmarca",
+   "name": "Marc Andreessen",
+   "tags": [
+    "tech",
+    "finance",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "edgarwright",
+   "name": "Edgar Wright",
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "RBReich",
+   "name": "Robert Reich",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "BBCEarth",
+   "name": "BBC Earth",
+   "tags": [
+    "science",
+    "animals",
+    "media"
+   ]
+  },
+  {
+   "handle": "Nick_Offerman",
+   "name": "Nick Offerman",
+   "tags": [
+    "film-tv",
+    "humor",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "AndrewYNg",
+   "name": "Andrew Ng",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "jonstewart",
+   "name": "Jon Stewart",
+   "tags": [
+    "humor",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "geoffkeighley",
+   "name": "Geoff Keighley",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "pcgamer",
+   "name": "PC Gamer",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "IAMSUMMERWALKER",
+   "name": "Summer Walker",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "JoeBudden",
+   "name": "Joe Budden",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "maggieNYT",
+   "name": "Maggie Haberman",
+   "tags": [
+    "media",
+    "politics-left",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "PFF",
+   "name": "Pro Football Focus",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "LauraLoomer",
+   "name": "Laura Loomer",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "MMAFighting",
+   "name": "MMA Fighting",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "A24",
+   "name": "A24",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "RealGDT",
+   "name": "Guillermo del Toro",
+   "tags": [
+    "film-tv",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "ChrisMurphyCT",
+   "name": "Chris Murphy",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "Erdayastronaut",
+   "name": "Everyday Astronaut",
+   "tags": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "handle": "brian_armstrong",
+   "name": "Brian Armstrong",
+   "tags": [
+    "crypto",
+    "tech"
+   ]
+  },
+  {
+   "handle": "TaikaWaititi",
+   "name": "Taika Waititi",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "mulaney",
+   "name": "John Mulaney",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "wolfblitzer",
+   "name": "Wolf Blitzer",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "RonanFarrow",
+   "name": "Ronan Farrow",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "CJMcCollum",
+   "name": "CJ McCollum",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "laralogan",
+   "name": "Lara Logan",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "michaeljknowles",
+   "name": "Michael Knowles",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "MicahRichards",
+   "name": "Micah Richards",
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "BukayoSaka87",
+   "name": "Bukayo Saka",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "m8arteta",
+   "name": "Mikel Arteta",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Ken_Rosenthal",
+   "name": "Ken Rosenthal",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "arielhelwani",
+   "name": "Ariel Helwani",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "PhilMickelson",
+   "name": "Phil Mickelson",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "DavidSacks",
+   "name": "David Sacks",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "chelseaperetti",
+   "name": "Chelsea Peretti",
+   "tags": [
+    "humor",
+    "film-tv",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "DEADLINE",
+   "name": "Deadline Hollywood",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "ddale8",
+   "name": "Daniel Dale",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "hankgreen",
+   "name": "Hank Green",
+   "tags": [
+    "science",
+    "humor"
+   ]
+  },
+  {
+   "handle": "robdelaney",
+   "name": "rob delaney",
+   "tags": [
+    "humor",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "davidchang",
+   "name": "Dave Chang",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "chefjoseandres",
+   "name": "Jose Andres",
+   "tags": [
+    "food",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "ruthreichl",
+   "name": "Ruth Reichl",
+   "tags": [
+    "food",
+    "books"
+   ]
+  },
+  {
+   "handle": "nytfood",
+   "name": "NYT Food",
+   "tags": [
+    "food",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "TheAmandaGorman",
+   "name": "Amanda Gorman",
+   "tags": [
+    "books",
+    "politics-left",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "DLoesch",
+   "name": "Dana Loesch",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "ClayTravis",
+   "name": "Clay Travis",
+   "tags": [
+    "politics-right",
+    "sports"
+   ]
+  },
+  {
+   "handle": "OptaJoe",
+   "name": "OptaJoe",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "JimCantore",
+   "name": "Jim Cantore",
+   "tags": [
+    "science",
+    "media",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "davidhogg111",
+   "name": "David Hogg",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "MerriamWebster",
+   "name": "Merriam-Webster",
+   "tags": [
+    "books",
+    "humor"
+   ]
+  },
+  {
+   "handle": "RexChapman",
+   "name": "Rex Chapman",
+   "tags": [
+    "sports",
+    "wholesome",
+    "humor"
+   ]
+  },
+  {
+   "handle": "ava",
+   "name": "Ava DuVernay",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "tanehisicoates",
+   "name": "Ta-Nehisi Coates",
+   "tags": [
+    "books",
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "PFTompkins",
+   "name": "Paul F. Tompkins",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "BitcoinMagazine",
+   "name": "Bitcoin Magazine",
+   "tags": [
+    "crypto",
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "andrewzimmern",
+   "name": "Andrew Zimmern",
+   "tags": [
+    "food",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "Asmongold",
+   "name": "Asmongold",
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
+   "handle": "Polygon",
+   "name": "Polygon",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "DrLupo",
+   "name": "DrLupo",
+   "tags": [
+    "gaming",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "1GunnaGunna",
+   "name": "Gunna",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ChrisCuomo",
+   "name": "Chris Cuomo",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "kylegriffin1",
+   "name": "Kyle Griffin",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "Lj_era8",
+   "name": "Lamar Jackson",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "LyricaLemonade",
+   "name": "Lyrical Lemonade",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "NASA_Artemis",
+   "name": "NASA Artemis",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "Squawka",
+   "name": "Squawka Football",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "MMAJunkie",
+   "name": "MMA Junkie",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "OscarPiastri",
+   "name": "Oscar Piastri",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "NatGeoWild",
+   "name": "Nat Geo Wild",
+   "tags": [
+    "animals",
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "atrupar",
+   "name": "Aaron Rupar",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "BrianGreene",
+   "name": "Brian Greene",
+   "tags": [
+    "science",
+    "books"
+   ]
+  },
+  {
+   "handle": "SarcasticRover",
+   "name": "SarcasticRover",
+   "tags": [
+    "science",
+    "humor"
+   ]
+  },
+  {
+   "handle": "PeterSchiff",
+   "name": "Peter Schiff",
+   "tags": [
+    "finance",
+    "crypto"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "balajis",
+   "name": "Balaji Srinivasan",
+   "tags": [
+    "crypto",
+    "tech"
+   ]
+  },
+  {
+   "handle": "Eater",
+   "name": "Eater",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "ReformedBroker",
+   "name": "Josh Brown",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "markets",
+   "name": "Bloomberg Markets",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "GDeLaurentiis",
+   "name": "Giada De Laurentiis",
+   "tags": [
+    "food",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "xQc",
+   "name": "xQc",
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
+   "handle": "eurogamer",
+   "name": "Eurogamer",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "AriMelber",
+   "name": "Ari Melber",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "ProPublica",
+   "name": "ProPublica",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "thenation",
+   "name": "The Nation",
+   "tags": [
+    "politics-left",
+    "media",
+    "books"
+   ]
+  },
+  {
+   "handle": "ericbolling",
+   "name": "Eric Bolling",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "GuillemBalague",
+   "name": "Guillem Balague",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "TSNBobMcKenzie",
+   "name": "Bob McKenzie",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "World_Wildlife",
+   "name": "World Wildlife Fund",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "AnthropicAI",
+   "name": "Anthropic",
+   "tags": [
+    "tech"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "bariweiss",
+   "name": "Bari Weiss",
+   "tags": [
+    "media",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "RaoulGMI",
+   "name": "Raoul Pal",
+   "tags": [
+    "finance",
+    "crypto"
+   ]
+  },
+  {
+   "handle": "SalmanRushdie",
+   "name": "Salman Rushdie",
+   "tags": [
+    "books",
+    "media"
+   ]
+  },
+  {
+   "handle": "scottmelker",
+   "name": "The Wolf Of All Streets",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "intocryptoverse",
+   "name": "Benjamin Cowen",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "LudwigAhgren",
+   "name": "Ludwig",
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
+   "handle": "Liz_Wheeler",
+   "name": "Liz Wheeler",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "JamesPearceLFC",
+   "name": "James Pearce",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "DarrenDreger",
+   "name": "Darren Dreger",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "GhostPanther",
+   "name": "Adam McKay",
+   "tags": [
+    "film-tv",
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "SimuLiu",
+   "name": "Simu Liu",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "atletienglish",
+   "name": "Atletico de Madrid",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "ZachLowe_NBA",
+   "name": "Zach Lowe",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "Wario64",
+   "name": "Wario64",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "theneedledrop",
+   "name": "Anthony Fantano",
+   "tags": [
+    "music",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "RealSaavedra",
+   "name": "Ryan Saavedra",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "TheNBACentral",
+   "name": "NBACentral",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "ylecun",
+   "name": "Yann LeCun",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "ChimamandaReal",
+   "name": "Chimamanda Ngozi Adichie",
+   "tags": [
+    "books",
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "hasanminhaj",
+   "name": "Hasan Minhaj",
+   "tags": [
+    "humor",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "njokic",
+   "name": "Nikola Jokic",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "rianjohnson",
+   "name": "Rian Johnson",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "theintercept",
+   "name": "The Intercept",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "carlosalcaraz",
+   "name": "Carlos Alcaraz",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "FriedgeHNIC",
+   "name": "Elliotte Friedman",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "jason",
+   "name": "Jason Calacanis",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "minakimes",
+   "name": "Mina Kimes",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "IndieWire",
+   "name": "IndieWire",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "krystalball",
+   "name": "Krystal Ball",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "bmeiselas",
+   "name": "Ben Meiselas",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "MZHemingway",
+   "name": "Mollie Hemingway",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "seanmdav",
+   "name": "Sean Davis",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "realchrisrufo",
+   "name": "Christopher F. Rufo",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "robbystarbuck",
+   "name": "Robby Starbuck",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "TheSteinLine",
+   "name": "Marc Stein",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "ClickHole",
+   "name": "ClickHole",
+   "tags": [
+    "humor",
+    "media"
+   ]
+  },
+  {
+   "handle": "meganamram",
+   "name": "Megan Amram",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "KobeissiLetter",
+   "name": "The Kobeissi Letter",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "cdixon",
+   "name": "Chris Dixon",
+   "tags": [
+    "crypto",
+    "tech"
+   ]
+  },
+  {
+   "handle": "WholesomeMeme",
+   "name": "Wholesome Memes",
+   "tags": [
+    "wholesome",
+    "humor"
+   ]
+  },
+  {
+   "handle": "MontereyAq",
+   "name": "Monterey Bay Aquarium",
+   "tags": [
+    "animals",
+    "science",
+    "humor"
+   ]
+  },
+  {
+   "handle": "seriouseats",
+   "name": "Serious Eats",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "RMcElhenney",
+   "name": "Rob McElhenney",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "elijahwood",
+   "name": "Elijah Wood",
+   "tags": [
+    "film-tv",
+    "iconic",
+    "music"
+   ]
+  },
+  {
+   "handle": "summit1g",
+   "name": "summit1g",
+   "tags": [
+    "gaming"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "KillerMike",
+   "name": "Killer Mike",
+   "tags": [
+    "music",
+    "pop-culture",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "JoshAllenQB",
+   "name": "Josh Allen",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "EpochTimes",
+   "name": "The Epoch Times",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "cenkuygur",
+   "name": "Cenk Uygur (TYT)",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "a16z",
+   "name": "Andreessen Horowitz",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "patrickc",
+   "name": "Patrick Collison",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "DocumentingBTC",
+   "name": "Documenting Bitcoin",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "ReedTimmerUSA",
+   "name": "Reed Timmer",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "normmacdonald",
+   "name": "Norm Macdonald",
+   "tags": [
+    "humor",
+    "film-tv",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "KatiePavlich",
+   "name": "Katie Pavlich",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "RNCResearch",
+   "name": "RNC Research",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "NASASpaceflight",
+   "name": "NASASpaceflight.com",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "ZachXBT",
+   "name": "ZachXBT",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "DisguisedToast",
+   "name": "Disguised Toast",
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
+   "handle": "JacobsBen",
+   "name": "Ben Jacobs",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "ebertchicago",
+   "name": "Roger Ebert",
+   "tags": [
+    "film-tv",
+    "media",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "rgay",
+   "name": "Roxane Gay",
+   "tags": [
+    "books",
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "WuBlockchain",
+   "name": "Wu Blockchain",
+   "tags": [
+    "crypto",
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "MLBTradeRumors",
+   "name": "MLB Trade Rumors",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "NME",
+   "name": "NME",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "TheAVClub",
+   "name": "The A.V. Club",
+   "tags": [
+    "film-tv",
+    "media",
+    "humor"
+   ]
+  },
+  {
+   "handle": "goldenglobes",
+   "name": "Golden Globes",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "SonySantaMonica",
+   "name": "Santa Monica Studio",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "jacobin",
+   "name": "Jacobin",
+   "tags": [
+    "politics-left",
+    "media",
+    "books"
+   ]
+  },
+  {
+   "handle": "stereogum",
+   "name": "Stereogum",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "mitskileaks",
+   "name": "Mitski",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "greg_price11",
+   "name": "Greg Price",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "JesseKellyDC",
+   "name": "Jesse Kelly",
+   "tags": [
+    "politics-right",
+    "humor"
+   ]
+  },
+  {
+   "handle": "LegionHoops",
+   "name": "Legion Hoops",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "OldTakesExposed",
+   "name": "Freezing Cold Takes",
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "TennisTV",
+   "name": "Tennis TV",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "DeItaone",
+   "name": "Walter Bloomberg",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "andrewrsorkin",
+   "name": "Andrew Ross Sorkin",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "GRDecter",
+   "name": "Genevieve Roch-Decter",
+   "tags": [
+    "finance",
+    "humor"
+   ]
+  },
+  {
+   "handle": "litcapital",
+   "name": "Litquidity",
+   "tags": [
+    "finance",
+    "humor"
+   ]
+  },
+  {
+   "handle": "PepitoTheCat",
+   "name": "Pepito The Cat",
+   "tags": [
+    "animals",
+    "wholesome",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "PadmaLakshmi",
+   "name": "Padma Lakshmi",
+   "tags": [
+    "food",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "quintabrunson",
+   "name": "Quinta Brunson",
+   "tags": [
+    "film-tv",
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "cobie",
+   "name": "cobie",
+   "tags": [
+    "crypto",
+    "finance",
+    "humor"
+   ]
+  },
+  {
+   "handle": "CryptoHayes",
+   "name": "Arthur Hayes",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "federalreserve",
+   "name": "Federal Reserve",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "drfeifei",
+   "name": "Fei-Fei Li",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "EricTopol",
+   "name": "Eric Topol",
+   "tags": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "handle": "weatherchannel",
+   "name": "The Weather Channel",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "jaboukie",
+   "name": "Jaboukie Young-White",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "Fandango",
+   "name": "Fandango",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "ryangrim",
+   "name": "Ryan Grim",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "darth",
+   "name": "darth",
+   "tags": [
+    "humor",
+    "wholesome",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "elerianm",
+   "name": "Mohamed A. El-Erian",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "LynAldenContact",
+   "name": "Lyn Alden",
+   "tags": [
+    "finance",
+    "crypto"
+   ]
+  },
+  {
+   "handle": "CryptoCobain",
+   "name": "Cobie",
+   "tags": [
+    "crypto",
+    "humor"
+   ]
+  },
+  {
+   "handle": "lookonchain",
+   "name": "Lookonchain",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "JJettas2",
+   "name": "Justin Jefferson",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "TheAthleticFC",
+   "name": "The Athletic Football",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "KonstantinKisin",
+   "name": "Konstantin Kisin",
+   "tags": [
+    "politics-right",
+    "humor",
+    "media"
+   ]
+  },
+  {
+   "handle": "alexisohanian",
+   "name": "Alexis Ohanian",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "penguinrandom",
+   "name": "Penguin Random House",
+   "tags": [
+    "books",
+    "media"
+   ]
+  },
+  {
+   "handle": "Coin_Bureau",
+   "name": "Coin Bureau",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "sundanceorg",
+   "name": "Sundance Film Festival",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "JeffPassan",
+   "name": "Jeff Passan",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "letterboxd",
+   "name": "Letterboxd",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "DevolverDigital",
+   "name": "Devolver Digital",
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
+   "handle": "NoMansSky",
+   "name": "No Man's Sky",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "jasonschreier",
+   "name": "Jason Schreier",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "RepJayapal",
+   "name": "Rep. Pramila Jayapal",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "zanelowe",
+   "name": "Zane Lowe",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "residentadvisor",
+   "name": "Resident Advisor",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "TheHoopCentral",
+   "name": "Hoop Central",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "WorldWideWob",
+   "name": "Rob Perez",
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "sosadtoday",
+   "name": "so sad today",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "Nouriel",
+   "name": "Nouriel Roubini",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "PeterLBrandt",
+   "name": "Peter Brandt",
+   "tags": [
+    "finance",
+    "crypto"
+   ]
+  },
+  {
+   "handle": "ErikVoorhees",
+   "name": "Erik Voorhees",
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "handle": "mrbobodenkirk",
+   "name": "Bob Odenkirk",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "Sodapoppintv",
+   "name": "Sodapoppin",
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "AriLennox",
+   "name": "Ari Lennox",
+   "tags": [
+    "music",
+    "pop-culture",
+    "humor"
+   ]
+  },
+  {
+   "handle": "runjewels",
+   "name": "Run The Jewels",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "JonathanKarl",
+   "name": "Jonathan Karl",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "marceelias",
+   "name": "Marc Elias",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "metcalf_dk",
+   "name": "DK Metcalf",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "NYLONMAG",
+   "name": "NYLON",
+   "tags": [
+    "music",
+    "pop-culture",
+    "media"
+   ]
+  },
+  {
+   "handle": "CMcDavid97",
+   "name": "Connor McDavid",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "dhh",
+   "name": "David Heinemeier Hansson",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "kylenabecker",
+   "name": "Kyle Becker",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "penguinbooks",
+   "name": "Penguin Books",
+   "tags": [
+    "books",
+    "media"
+   ]
+  },
+  {
+   "handle": "nprbooks",
+   "name": "NPR Books",
+   "tags": [
+    "books",
+    "media"
+   ]
+  },
+  {
+   "handle": "MicahhParsons11",
+   "name": "Micah Parsons",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "phoebe_bridgers",
+   "name": "Phoebe Bridgers",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "paulscheer",
+   "name": "Paul Scheer",
+   "tags": [
+    "humor",
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "Collider",
+   "name": "Collider",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "SPIN",
+   "name": "SPIN",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "BuckSexton",
+   "name": "Buck Sexton",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "BadAstronomer",
+   "name": "Phil Plait",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "AriMeirov",
+   "name": "Ari Meirov",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "huggingface",
+   "name": "Hugging Face",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "MarcMaron",
+   "name": "Marc Maron",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "media"
+   ]
+  },
+  {
+   "handle": "tae15adams",
+   "name": "Davante Adams",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "PierreVLeBrun",
+   "name": "Pierre LeBrun",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "SkySportsGolf",
+   "name": "Sky Sports Golf",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "SanDiegoZoo",
+   "name": "San Diego Zoo Wildlife Alliance",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "zackfox",
+   "name": "Zack Fox",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "music"
+   ]
+  },
+  {
+   "handle": "gdb",
+   "name": "Greg Brockman",
+   "tags": [
+    "ai",
+    "tech",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "ChrisBHaynes",
+   "name": "Chris Haynes",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "NickAdamsinUSA",
+   "name": "Nick Adams",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "TomPelissero",
+   "name": "Tom Pelissero",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "townhallcom",
+   "name": "Townhall",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "PeterAttiaMD",
+   "name": "Peter Attia",
+   "tags": [
+    "science",
+    "fitness"
+   ]
+  },
+  {
+   "handle": "iga_swiatek",
+   "name": "Iga Swiatek",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "WeirdMedieval",
+   "name": "weird medieval guys",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "Slasher",
+   "name": "Rod Breslau",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "nhannahjones",
+   "name": "Nikole Hannah-Jones",
+   "tags": [
+    "politics-left",
+    "media",
+    "books"
+   ]
+  },
+  {
+   "handle": "jackantonoff",
+   "name": "Jack Antonoff",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "ulalaunch",
+   "name": "United Launch Alliance",
+   "tags": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "handle": "NFL_DovKleiman",
+   "name": "Dov Kleiman",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "jonnysun",
+   "name": "jonny sun",
+   "tags": [
+    "humor",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "charliebilello",
+   "name": "Charlie Bilello",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "NickTimiraos",
+   "name": "Nick Timiraos",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "morganhousel",
+   "name": "Morgan Housel",
+   "tags": [
+    "finance",
+    "books"
+   ]
+  },
+  {
+   "handle": "NationalZoo",
+   "name": "Smithsonian's National Zoo",
+   "tags": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "handle": "SUEtheTrex",
+   "name": "SUE the T. rex",
+   "tags": [
+    "science",
+    "humor",
+    "wholesome"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "kenjilopezalt",
+   "name": "J. Kenji Lopez-Alt",
+   "tags": [
+    "food",
+    "books"
+   ]
+  },
+  {
+   "handle": "KenTremendous",
+   "name": "Michael Schur",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "TheBlock__",
+   "name": "The Block",
+   "tags": [
+    "crypto",
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "Food52",
+   "name": "Food52",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "Doublelift1",
+   "name": "Doublelift",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "peterbakernyt",
+   "name": "Peter Baker",
+   "tags": [
+    "media",
+    "politics-right",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "kwelkernbc",
+   "name": "Kristen Welker",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "aparnapkin",
+   "name": "Aparna Nancherla",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "conservmillen",
+   "name": "Allie Beth Stuckey",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "biancoresearch",
+   "name": "Jim Bianco",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "parisreview",
+   "name": "The Paris Review",
+   "tags": [
+    "books",
+    "media",
+    "humor"
+   ]
+  },
+  {
+   "handle": "MustStopMurad",
+   "name": "Murad Mahmudov",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "TayeDiggs",
+   "name": "Taye Diggs",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "fchollet",
+   "name": "François Chollet",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "aantonop",
+   "name": "Andreas Antonopoulos",
+   "tags": [
+    "crypto",
+    "tech"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "MelKiperESPN",
+   "name": "Mel Kiper Jr.",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "anneapplebaum",
+   "name": "Anne Applebaum",
+   "tags": [
+    "books",
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "ConceptualJames",
+   "name": "James Lindsay",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "PrestonPysh",
+   "name": "Preston Pysh",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "BFI",
+   "name": "BFI (British Film Institute)",
+   "tags": [
+    "film-tv",
+    "media",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "FieldYates",
+   "name": "Field Yates",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "mirandadevine",
+   "name": "Miranda Devine",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "SciGuySpace",
+   "name": "Eric Berger",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "demishassabis",
+   "name": "Demis Hassabis",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "firstwefeast",
+   "name": "First We Feast",
+   "tags": [
+    "food",
+    "pop-culture",
+    "media"
+   ]
+  },
+  {
+   "handle": "s1mpleO",
+   "name": "s1mple",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "Yamiche",
+   "name": "Yamiche Alcindor",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "Real10jayy__",
+   "name": "Ja'Marr Chase",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "NizaarKinsella",
+   "name": "Nizaar Kinsella",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "JannikSinner",
+   "name": "Jannik Sinner",
+   "tags": [
+    "sports"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "KyleKulinski",
+   "name": "Kyle Kulinski (Secular Talk)",
+   "tags": [
+    "politics-left",
+    "media",
+    "humor"
+   ]
+  },
+  {
+   "handle": "TheJudge44",
+   "name": "Aaron Judge",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "EarthPix",
+   "name": "Earth Pix",
+   "tags": [
+    "animals",
+    "wholesome",
+    "science"
+   ]
+  },
+  {
+   "handle": "tiff_net",
+   "name": "TIFF",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "democracynow",
+   "name": "Democracy Now!",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "StefonDiggs014",
+   "name": "Stefon Diggs",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "ShaanVP",
+   "name": "Shaan Puri",
+   "tags": [
+    "tech",
+    "humor"
+   ]
+  },
+  {
+   "handle": "day9tv",
+   "name": "Day[9]",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "SamSeder",
+   "name": "Sam Seder",
+   "tags": [
+    "politics-left",
+    "media",
+    "humor"
+   ]
+  },
+  {
+   "handle": "okayplayer",
+   "name": "Okayplayer",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "oldmanebro",
+   "name": "Ebro Darden",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "ColumbiaBugle",
+   "name": "The Columbia Bugle",
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "redsteeze",
+   "name": "Stephen L. Miller",
+   "tags": [
+    "politics-right",
+    "humor"
+   ]
+  },
+  {
+   "handle": "SpaceflightNow",
+   "name": "Spaceflight Now",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "markminervini",
+   "name": "Mark Minervini",
+   "tags": [
+    "finance"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "PossumEveryHour",
+   "name": "Possum Every Hour",
+   "tags": [
+    "animals",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "humansofny",
+   "name": "Humans of New York",
+   "tags": [
+    "wholesome",
+    "media"
+   ]
+  },
+  {
+   "handle": "OliverBabish",
+   "name": "Andrew Rea (Babish)",
+   "tags": [
+    "food",
+    "humor"
+   ]
+  },
+  {
+   "handle": "Dan_Harmon",
+   "name": "Dan Harmon",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "pentoshi",
+   "name": "Pentoshi",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "bflay",
+   "name": "Bobby Flay",
+   "tags": [
+    "food",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "SmittenKitchen",
+   "name": "Smitten Kitchen",
+   "tags": [
+    "food",
+    "books"
+   ]
+  },
+  {
+   "handle": "REALMizkif",
+   "name": "Mizkif",
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
+   "handle": "GothamChess",
+   "name": "Levy Rozman (GothamChess)",
+   "tags": [
+    "gaming",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "deray",
+   "name": "DeRay Mckesson",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "thefader",
+   "name": "The FADER",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "emollick",
+   "name": "Ethan Mollick",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "nybooks",
+   "name": "NY Review of Books",
+   "tags": [
+    "books",
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "bgurley",
+   "name": "Bill Gurley",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "iamwandasykes",
+   "name": "Wanda Sykes",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "NikkiGlaser",
+   "name": "Nikki Glaser",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "briebriejoy",
+   "name": "Briahna Joy Gray",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "joshgondelman",
+   "name": "Josh Gondelman",
+   "tags": [
+    "humor",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "HoopsHype",
+   "name": "HoopsHype",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "MoveTheSticks",
+   "name": "Daniel Jeremiah",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "DrKaranRajan",
+   "name": "Dr Karan Rajan",
+   "tags": [
+    "science",
+    "humor"
+   ]
+  },
+  {
+   "handle": "honigstein",
+   "name": "Raphael Honigstein",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "garrytan",
+   "name": "Garry Tan",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "realsambee",
+   "name": "Samantha Bee",
+   "tags": [
+    "humor",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "MacroAlf",
+   "name": "Alfonso Peccatiello",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "NorthmanTrader",
+   "name": "Sven Henrich",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "rasbt",
+   "name": "Sebastian Raschka",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "larianstudios",
+   "name": "Larian Studios",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "davidsirota",
+   "name": "David Sirota",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "AdamSerwer",
+   "name": "Adam Serwer",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "MorePerfectUS",
+   "name": "More Perfect Union",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "exploreplanets",
+   "name": "The Planetary Society",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "AstroKatie",
+   "name": "Katie Mack",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "BackAftaThis",
+   "name": "Funhouse",
+   "tags": [
+    "sports",
+    "humor",
+    "media"
+   ]
+  },
+  {
+   "handle": "dasharez0ne",
+   "name": "da share z0ne",
+   "tags": [
+    "humor",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "LizAnnSonders",
+   "name": "Liz Ann Sonders",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "lisaabramowicz1",
+   "name": "Lisa Abramowicz",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "corybarlog",
+   "name": "Cory Barlog",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "levelsio",
+   "name": "Pieter Levels",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "existentialcoms",
+   "name": "Existential Comics",
+   "tags": [
+    "politics-left",
+    "humor",
+    "books"
+   ]
+  },
+  {
+   "handle": "xkcd",
+   "name": "xkcd",
+   "tags": [
+    "science",
+    "humor",
+    "tech"
+   ]
+  },
+  {
+   "handle": "ChappellRoan",
+   "name": "Chappell Roan",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "mubi",
+   "name": "MUBI",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "MikeGarafolo",
+   "name": "Mike Garafolo",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "BaseballAmerica",
+   "name": "Baseball America",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "ramonashelburne",
+   "name": "Ramona Shelburne",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "JeffDean",
+   "name": "Jeff Dean",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "benthompson",
+   "name": "Ben Thompson",
+   "tags": [
+    "ai",
+    "tech",
+    "media"
+   ]
+  },
+  {
+   "handle": "slashfilm",
+   "name": "/Film",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "G2NiKo",
+   "name": "NiKo",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "_CeeDeeThree",
+   "name": "CeeDee Lamb",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "SharpFootball",
+   "name": "Warren Sharp",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "SkyKaveh",
+   "name": "Kaveh Solhekol",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "jonmorosi",
+   "name": "Jon Morosi",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "eladgil",
+   "name": "Elad Gil",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "USGS",
+   "name": "US Geological Survey",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "gracieabrams",
+   "name": "Gracie Abrams",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "michelleisawolf",
+   "name": "Michelle Wolf",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "media"
+   ]
+  },
+  {
+   "handle": "bittman",
+   "name": "Mark Bittman",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "Criterion",
+   "name": "The Criterion Collection",
+   "tags": [
+    "film-tv",
+    "iconic"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "PigsAndPlans",
+   "name": "Pigeons & Planes",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "iowahawkblog",
+   "name": "David Burge",
+   "tags": [
+    "humor",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "awfulannouncing",
+   "name": "Awful Announcing",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "TheStalwart",
+   "name": "Joe Weisenthal",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "nic__carter",
+   "name": "Nic Carter",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "IvePetThatDog",
+   "name": "I've Pet That Dog",
+   "tags": [
+    "animals",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "Bodegacats_",
+   "name": "Bodega Cats",
+   "tags": [
+    "animals",
+    "wholesome",
+    "humor"
+   ]
+  },
+  {
+   "handle": "HidekiKamiya_X",
+   "name": "Hideki Kamiya",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "AbbyDPhillip",
+   "name": "Abby Phillip",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "WajahatAli",
+   "name": "Wajahat Ali",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "theyoungturks",
+   "name": "The Young Turks",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "jimjefferies",
+   "name": "Jim Jefferies",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "LukeGromen",
+   "name": "Luke Gromen",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "DrewHLive",
+   "name": "Drew Hernandez",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "Cannes_Market",
+   "name": "Cannes Film Festival",
+   "tags": [
+    "film-tv",
+    "media",
+    "iconic"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "WindhorstESPN",
+   "name": "Brian Windhorst",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "CALEBcsw",
+   "name": "Caleb Williams",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "NoiseyMusic",
+   "name": "Noisey",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "ZachWeiner",
+   "name": "Zach Weinersmith",
+   "tags": [
+    "science",
+    "humor"
+   ]
+  },
+  {
+   "handle": "lennysan",
+   "name": "Lenny Rachitsky",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "bokamotoESPN",
+   "name": "Brett Okamoto",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "HC_Richardson",
+   "name": "Heather Cox Richardson",
+   "tags": [
+    "books",
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "Outkick",
+   "name": "OutKick",
+   "tags": [
+    "politics-right",
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "jon_bois",
+   "name": "Jon Bois",
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "joshtpm",
+   "name": "Josh Marshall (TPM)",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "tcm",
+   "name": "TCM (Turner Classic Movies)",
+   "tags": [
+    "film-tv",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "SupergiantGames",
+   "name": "Supergiant Games",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "ZhugeEX",
+   "name": "Daniel Ahmad",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "MaxwellFrostFL",
+   "name": "Maxwell Alejandro Frost",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "QuantaMagazine",
+   "name": "Quanta Magazine",
+   "tags": [
+    "science",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "cjzero",
+   "name": "CJ Fogler",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "IrvineWelsh",
+   "name": "Irvine Welsh",
+   "tags": [
+    "books",
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "RektCapital",
+   "name": "Rekt Capital",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "therealcliffyb",
+   "name": "Cliff Bleszinski",
+   "tags": [
+    "gaming",
+    "tech"
+   ]
+  },
+  {
+   "handle": "pierrebourne",
+   "name": "Pi'erre Bourne",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "RevoltTV",
+   "name": "REVOLT",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "DMRussini",
+   "name": "Dianna Russini",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "uproxx",
+   "name": "UPROXX",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "beabad00bee",
+   "name": "beabadoobee",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "AlexAndBooks_",
+   "name": "Alex and Books",
+   "tags": [
+    "books",
+    "wholesome",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "jason_blum",
+   "name": "Jason Blum",
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ibramxk",
+   "name": "Ibram X. Kendi",
+   "tags": [
+    "books",
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "JuddLegum",
+   "name": "Judd Legum",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "consequence",
+   "name": "Consequence",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "GergelyOrosz",
+   "name": "Gergely Orosz",
+   "tags": [
+    "tech"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "cburniske",
+   "name": "Chris Burniske",
+   "tags": [
+    "crypto",
+    "finance",
+    "tech"
+   ]
+  },
+  {
+   "handle": "ClintSmithIII",
+   "name": "Clint Smith",
+   "tags": [
+    "politics-left",
+    "books",
+    "media"
+   ]
+  },
+  {
+   "handle": "susanorlean",
+   "name": "Susan Orlean",
+   "tags": [
+    "books",
+    "humor",
+    "media"
+   ]
+  },
+  {
+   "handle": "nihilist_arbys",
+   "name": "Nihilist Arby's",
+   "tags": [
+    "humor",
+    "food"
+   ]
+  },
+  {
+   "handle": "lhfang",
+   "name": "Lee Fang",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "fredwilson",
+   "name": "Fred Wilson",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "TrungTPhan",
+   "name": "Trung Phan",
+   "tags": [
+    "tech",
+    "humor"
+   ]
+  },
+  {
+   "handle": "ProBirdRights",
+   "name": "birdsrightsactivist",
+   "tags": [
+    "humor",
+    "animals",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "AoDespair",
+   "name": "David Simon",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "carlzimmer",
+   "name": "Carl Zimmer",
+   "tags": [
+    "science",
+    "books"
+   ]
+  },
+  {
+   "handle": "ilyasut",
+   "name": "Ilya Sutskever",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "AswathDamodaran",
+   "name": "Aswath Damodaran",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "BreeNewsome",
+   "name": "Bree Newsome Bass",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "KendrickPerkins",
+   "name": "Kendrick Perkins",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "nfldraftscout",
+   "name": "Matt Miller",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "PasteMagazine",
+   "name": "Paste Magazine",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "RealAmVoice",
+   "name": "Real America's Voice",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "DrJenGunter",
+   "name": "Jen Gunter",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "devisridhar",
+   "name": "Devi Sridhar",
+   "tags": [
+    "science",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "CincinnatiZoo",
+   "name": "Cincinnati Zoo",
+   "tags": [
+    "animals",
+    "wholesome",
+    "science"
+   ]
+  },
+  {
+   "handle": "davidehrlich",
+   "name": "David Ehrlich",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "jeremyphoward",
+   "name": "Jeremy Howard",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "adam_tooze",
+   "name": "Adam Tooze",
+   "tags": [
+    "books",
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "laurashin",
+   "name": "Laura Shin",
+   "tags": [
+    "crypto",
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "SantiagoAuFund",
+   "name": "Santiago Capital",
+   "tags": [
+    "finance",
+    "crypto"
+   ]
+  },
+  {
+   "handle": "thekitchn",
+   "name": "The Kitchn",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "19problemz",
+   "name": "Deebo Samuel",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "McShay13",
+   "name": "Todd McShay",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "NoLayingUp",
+   "name": "No Laying Up",
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "EmmaVigeland",
+   "name": "Emma Vigeland",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "TheFilmStage",
+   "name": "The Film Stage",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "scottderrickson",
+   "name": "Scott Derrickson",
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "remedygames",
+   "name": "Remedy Entertainment",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "kexp",
+   "name": "KEXP",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "electrolemon",
+   "name": "Demi Adejuyigbe",
+   "tags": [
+    "humor",
+    "music"
+   ]
+  },
+  {
+   "handle": "Ottolenghi",
+   "name": "Yotam Ottolenghi",
+   "tags": [
+    "food",
+    "books"
+   ]
+  },
+  {
+   "handle": "wentworthmiller",
+   "name": "Wentworth Miller",
+   "tags": [
+    "film-tv",
+    "books"
+   ]
+  },
+  {
+   "handle": "wkamaubell",
+   "name": "W. Kamau Bell",
+   "tags": [
+    "humor",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "DegenSpartan",
+   "name": "Degen Spartan",
+   "tags": [
+    "crypto",
+    "humor"
+   ]
+  },
+  {
+   "handle": "murdabeatz",
+   "name": "Murda Beatz",
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "SamLee",
+   "name": "Sam Lee",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "ronaldacunajr24",
+   "name": "Ronald Acuña Jr.",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "sassal0x",
+   "name": "Anthony Sassano",
+   "tags": [
+    "crypto",
+    "tech"
+   ]
+  },
+  {
+   "handle": "NextGenStats",
+   "name": "Next Gen Stats",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "tribeca",
+   "name": "Tribeca Film Festival",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "shudder",
+   "name": "Shudder",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "WifeyAlpha",
+   "name": "Wifey Alpha",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "VinayPrasad_MD",
+   "name": "Vinay Prasad",
+   "tags": [
+    "science",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "USForestService",
+   "name": "USDA Forest Service",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "SteveDeaceShow",
+   "name": "Steve Deace",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "brooklynvegan",
+   "name": "BrooklynVegan",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "MoonPie",
+   "name": "MoonPie",
+   "tags": [
+    "food",
+    "humor"
+   ]
+  },
+  {
+   "handle": "alphatrends",
+   "name": "Brian Shannon",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "DarioAmodei",
+   "name": "Dario Amodei",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "DJBooth",
+   "name": "DJBooth",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ninaturner",
+   "name": "Nina Turner",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "sam_amick",
+   "name": "Sam Amick",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "AndyMitten",
+   "name": "Andy Mitten",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "OptaAce",
+   "name": "OptaAce (Tennis Stats)",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "YellowstoneNPS",
+   "name": "Yellowstone National Park",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "JosinaAnderson",
+   "name": "Josina Anderson",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "nathanwpyle",
+   "name": "Nathan W. Pyle",
+   "tags": [
+    "humor",
+    "wholesome",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "nansen_ai",
+   "name": "Nansen",
+   "tags": [
+    "crypto",
+    "finance",
+    "tech"
+   ]
+  },
+  {
+   "handle": "Hannahgadsby",
+   "name": "Hannah Gadsby",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "pixelatedboat",
+   "name": "pixelatedboat aka \"mr tweets\"",
+   "tags": [
+    "humor",
+    "media",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "jonlemire",
+   "name": "Jonathan Lemire",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "mwseibel",
+   "name": "Michael Seibel",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "hasufl",
+   "name": "Hasu",
+   "tags": [
+    "crypto",
+    "tech"
+   ]
+  },
+  {
+   "handle": "bookriot",
+   "name": "Book Riot",
+   "tags": [
+    "books",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ERCboxoffice",
+   "name": "Entertainment Research Co.",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "seanmcarroll",
+   "name": "Sean Carroll",
+   "tags": [
+    "science",
+    "books"
+   ]
+  },
+  {
+   "handle": "ritholtz",
+   "name": "Barry Ritholtz",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "Delphi_Digital",
+   "name": "Delphi Digital",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "stanikulechov",
+   "name": "Stani Kulechov",
+   "tags": [
+    "crypto",
+    "tech"
+   ]
+  },
+  {
+   "handle": "grubstreet",
+   "name": "Grub Street",
+   "tags": [
+    "food",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "Hiko",
+   "name": "Hiko",
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "MegynKellyShow",
+   "name": "The Megyn Kelly Show",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "sunrisemvmt",
+   "name": "Sunrise Movement",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "KrangTNelson",
+   "name": "Krang T. Nelson",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "PramilaJayapal",
+   "name": "Pramila Jayapal (personal)",
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "stephentotilo",
+   "name": "Stephen Totilo",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "torybruno",
+   "name": "Tory Bruno",
+   "tags": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "handle": "awealthofcs",
+   "name": "Ben Carlson",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "GaryMarcus",
+   "name": "Gary Marcus",
+   "tags": [
+    "ai",
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "thelithub",
+   "name": "Literary Hub",
+   "tags": [
+    "books",
+    "media"
+   ]
+  },
+  {
+   "handle": "espn_macmahon",
+   "name": "Tim MacMahon",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "CT_Bergstrom",
+   "name": "Carl T. Bergstrom",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "packyM",
+   "name": "Packy McCormick",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "CarolLeonnig",
+   "name": "Carol Leonnig",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "TheTennisLetter",
+   "name": "The Tennis Letter",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "adamscochran",
+   "name": "Adam Cochran",
+   "tags": [
+    "crypto",
+    "finance",
+    "tech"
+   ]
+  },
+  {
+   "handle": "rapalert6",
+   "name": "Rap Alert",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "MsPackyetti",
+   "name": "Brittany Packnett Cunningham",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "michaelshermer",
+   "name": "Michael Shermer",
+   "tags": [
+    "science",
+    "books"
+   ]
+  },
+  {
+   "handle": "collision",
+   "name": "John Collison",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "audubonsociety",
+   "name": "National Audubon Society",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "commondreams",
+   "name": "Common Dreams",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "natebargatze",
+   "name": "Nate Bargatze",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "leonardmaltin",
+   "name": "Leonard Maltin",
+   "tags": [
+    "film-tv",
+    "media",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "clmazin",
+   "name": "Craig Mazin (Scriptnotes)",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "anthonyVslater",
+   "name": "Anthony Slater",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "JeffDarlington",
+   "name": "Jeff Darlington",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "YosemiteNPS",
+   "name": "Yosemite National Park",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "ThePhotoHour",
+   "name": "The Photo Hour",
+   "tags": [
+    "wholesome",
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "handle": "JamilSmith",
+   "name": "Jamil Smith",
+   "tags": [
+    "politics-left",
+    "media",
+    "pop-culture"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "Horse_ebooks",
+   "name": "Horse ebooks",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "mattzollerseitz",
+   "name": "Matt Zoller Seitz",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "ChrisMedlandF1",
+   "name": "Chris Medland",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "steak_umm",
+   "name": "Steak-umm",
+   "tags": [
+    "food",
+    "humor"
+   ]
+  },
+  {
+   "handle": "DrJimFan",
+   "name": "Jim Fan",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "bespokeinvest",
+   "name": "Bespoke Investment Group",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "TaviCosta",
+   "name": "Tavi Costa",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "dominiqueansel",
+   "name": "Dominique Ansel",
+   "tags": [
+    "food",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "isikoff",
+   "name": "Michael Isikoff",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "SIChrisMannix",
+   "name": "Chris Mannix",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "xboygeniusx",
+   "name": "boygenius",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "karol",
+   "name": "Karol Markowicz",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "NHLdotcom",
+   "name": "NHL.com",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "SWildlifepics",
+   "name": "Stunning Wildlife",
+   "tags": [
+    "animals",
+    "wholesome",
+    "science"
+   ]
+  },
+  {
+   "handle": "AFI",
+   "name": "American Film Institute",
+   "tags": [
+    "film-tv",
+    "media",
+    "iconic"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "hmeisler",
+   "name": "Helene Meisler",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "MySportsUpdate",
+   "name": "Ari Meirov",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "RealSexyCyborg",
+   "name": "Naomi Wu",
+   "tags": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "handle": "patio11",
+   "name": "Patrick McKenzie",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "shutupmikeginn",
+   "name": "mike ginn",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "aoscott",
+   "name": "A.O. Scott",
+   "tags": [
+    "film-tv",
+    "media",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "ThePlaylistNews",
+   "name": "The Playlist",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "RiskReversal",
+   "name": "Dan Nathan",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "jacobinmag",
+   "name": "Jacobin Mag",
+   "tags": [
+    "politics-left",
+    "media",
+    "books"
+   ]
+  },
+  {
+   "handle": "driverminnie",
+   "name": "Minnie Driver",
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "skdh",
+   "name": "Sabine Hossenfelder",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "timnitGebru",
+   "name": "Timnit Gebru",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "0xfoobar",
+   "name": "foobar",
+   "tags": [
+    "crypto",
+    "tech"
+   ]
+  },
+  {
+   "handle": "saveurmag",
+   "name": "Saveur",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "Kurrco",
+   "name": "Kurrco",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "mcten",
+   "name": "Dave McMenamin",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "DraymondShow",
+   "name": "The Draymond Green Show",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "BabyAnimalPics_",
+   "name": "Baby Animal Pics",
+   "tags": [
+    "animals",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "Popjustice",
+   "name": "Popjustice",
+   "tags": [
+    "music",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ClayAndBuck",
+   "name": "Clay Travis & Buck Sexton Show",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "scalzi",
+   "name": "John Scalzi",
+   "tags": [
+    "books",
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "dailychartbook",
+   "name": "Daily Chartbook",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "david_perell",
+   "name": "David Perell",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "willstancil",
+   "name": "Will Stancil",
+   "tags": [
+    "politics-left",
+    "humor"
+   ]
+  },
+  {
+   "handle": "bfeld",
+   "name": "Brad Feld",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "CalebJHull",
+   "name": "Caleb Hull",
+   "tags": [
+    "politics-right",
+    "humor"
+   ]
+  },
+  {
+   "handle": "CaitlinLong_",
+   "name": "Caitlin Long",
+   "tags": [
+    "finance",
+    "crypto"
+   ]
+  },
+  {
+   "handle": "majorityfm",
+   "name": "The Majority Report",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "BenjiSales",
+   "name": "Benji-Sales",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "planet4589",
+   "name": "Jonathan McDowell",
+   "tags": [
+    "science"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "BenRothenberg",
+   "name": "Ben Rothenberg",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "tracyalloway",
+   "name": "Tracy Alloway",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "OregonZoo",
+   "name": "Oregon Zoo",
+   "tags": [
+    "animals",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "ElectricLit",
+   "name": "Electric Literature",
+   "tags": [
+    "books",
+    "media",
+    "humor"
+   ]
+  },
+  {
+   "handle": "neonrated",
+   "name": "NEON",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "christinatosi",
+   "name": "Christina Tosi",
+   "tags": [
+    "food",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "benedictevans",
+   "name": "Benedict Evans",
+   "tags": [
+    "tech",
+    "media"
+   ]
+  },
+  {
+   "handle": "zooborns",
+   "name": "ZooBorns",
+   "tags": [
+    "animals",
+    "wholesome",
+    "science"
+   ]
+  },
+  {
+   "handle": "johnaugust",
+   "name": "John August (Scriptnotes)",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "KevinOConnorNBA",
+   "name": "Kevin O'Connor",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "jasonlk",
+   "name": "Jason Lemkin",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "kibblesmith",
+   "name": "Daniel Kibblesmith",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "alistairmilne",
+   "name": "Alistair Milne",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "thedefiedge",
+   "name": "The DeFi Edge",
+   "tags": [
+    "crypto",
+    "finance",
+    "tech"
+   ]
+  },
+  {
+   "handle": "katiehalper",
+   "name": "Katie Halper",
+   "tags": [
+    "politics-left",
+    "media",
+    "humor"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "GrandCanyonNPS",
+   "name": "Grand Canyon National Park",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "jchervinsky",
+   "name": "Jake Chervinsky",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "IanShepherdson",
+   "name": "Ian Shepherdson",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "HelenBranswell",
+   "name": "Helen Branswell",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "fart",
+   "name": "Jon Hendren",
+   "tags": [
+    "humor",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "adamkucharski",
+   "name": "Adam Kucharski",
+   "tags": [
+    "science",
+    "books"
+   ]
+  },
+  {
+   "handle": "FilmIndependent",
+   "name": "Film Independent",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "Seinfeld2000",
+   "name": "Seinfeld Current Day",
+   "tags": [
+    "humor",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "Granta",
+   "name": "Granta Magazine",
+   "tags": [
+    "books",
+    "media"
+   ]
+  },
+  {
+   "handle": "MaraWilson",
+   "name": "Mara Wilson",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "wassielawyer",
+   "name": "Wassiελawyer",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "TomKeene",
+   "name": "Tom Keene",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "SamSifton",
+   "name": "Sam Sifton",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "GarrettHaake",
+   "name": "Garrett Haake",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "professor_crunk",
+   "name": "Brittney Cooper",
+   "tags": [
+    "politics-left",
+    "books",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "JakeLFischer",
+   "name": "Jake Fischer",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "HumanEvents",
+   "name": "Human Events",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "DrPaulOffit",
+   "name": "Paul Offit",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "chipro",
+   "name": "Chip Huyen",
+   "tags": [
+    "tech",
+    "ai"
+   ]
+  },
+  {
+   "handle": "nikitabier",
+   "name": "Nikita Bier",
+   "tags": [
+    "tech",
+    "humor"
+   ]
+  },
+  {
+   "handle": "vornietom",
+   "name": "Siobhan Thompson",
+   "tags": [
+    "humor",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "OKWildlifeDept",
+   "name": "Oklahoma Dept. of Wildlife Conservation",
+   "tags": [
+    "animals",
+    "humor",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "apoorva_nyc",
+   "name": "Apoorva Mandavilli",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "101Cookbooks",
+   "name": "Heidi Swanson",
+   "tags": [
+    "food",
+    "books"
+   ]
+  },
+  {
+   "handle": "colsonwhitehead",
+   "name": "Colson Whitehead",
+   "tags": [
+    "books",
+    "humor",
+    "media"
+   ]
+  },
+  {
+   "handle": "juliussharpe",
+   "name": "Julius Sharpe",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "cullenroche",
+   "name": "Cullen Roche",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "clairesaffitz",
+   "name": "Claire Saffitz",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "tha_rami",
+   "name": "Rami Ismail",
+   "tags": [
+    "gaming",
+    "tech"
+   ]
+  },
+  {
+   "handle": "gamedevdotcom",
+   "name": "Game Developer",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "KenDilanianNBC",
+   "name": "Ken Dilanian",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "JasonLeopold",
+   "name": "Jason Leopold",
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "adamjohnsonCHI",
+   "name": "Adam H. Johnson",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "NFLDraftNetwork",
+   "name": "NFL Draft Network",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "willchamberlain",
+   "name": "Will Chamberlain",
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "KylePorterCBS",
+   "name": "Kyle Porter",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "NHM_WPY",
+   "name": "Wildlife Photographer of the Year",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "MagicRealismBot",
+   "name": "Magic Realism Bot",
+   "tags": [
+    "humor",
+    "books"
+   ]
+  },
+  {
+   "handle": "danaschwartzzz",
+   "name": "Dana Schwartz",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "books"
+   ]
+  },
+  {
+   "handle": "JeffWeniger",
+   "name": "Jeff Weniger",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "NaomiOreskes",
+   "name": "Naomi Oreskes",
+   "tags": [
+    "science",
+    "books"
+   ]
+  },
+  {
+   "handle": "PleaseBeGneiss",
+   "name": "slate",
+   "tags": [
+    "humor",
+    "science"
+   ]
+  },
+  {
+   "handle": "IncredibleCulk",
+   "name": "Macaulay Culkin",
+   "tags": [
+    "film-tv",
+    "humor",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "jill_lepore",
+   "name": "Jill Lepore",
+   "tags": [
+    "books",
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "JustinCChang",
+   "name": "Justin Chang",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "hkuppy",
+   "name": "Harris Kupperman",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "TruthoutOrg",
+   "name": "Truthout",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "nataliexdean",
+   "name": "Natalie Dean",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "zachsilberberg",
+   "name": "zach silberberg",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "FionaHippo",
+   "name": "Fiona The Baby Hippo",
+   "tags": [
+    "animals",
+    "wholesome",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "GiteshPandya",
+   "name": "Gitesh Pandya",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "JuliaLaRoche",
+   "name": "Julia La Roche",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "Connor_J_Hughes",
+   "name": "Connor Hughes",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "Julian",
+   "name": "Julian Shapiro",
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "OsitaNwanevu",
+   "name": "Osita Nwanevu",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "DadBoner",
+   "name": "Karl Welzein",
+   "tags": [
+    "humor",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "seb_ruder",
+   "name": "Sebastian Ruder",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "dril_gpt2",
+   "name": "wint but Al",
+   "tags": [
+    "ai",
+    "humor"
+   ]
+  },
+  {
+   "handle": "swyx",
+   "name": "Shawn Wang",
+   "tags": [
+    "ai",
+    "tech",
+    "media"
+   ]
+  },
+  {
+   "handle": "gaborgurbacs",
+   "name": "Gabor Gurbacs",
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "tnyfrontrow",
+   "name": "Richard Brody",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "FilmLinc",
+   "name": "Film at Lincoln Center",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "EddyElfenbein",
+   "name": "Eddy Elfenbein",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "FerroTV",
+   "name": "Jonathan Ferro",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "VGC_News",
+   "name": "Video Games Chronicle",
+   "tags": [
+    "gaming",
+    "media"
+   ]
+  },
+  {
+   "handle": "LeverNews",
+   "name": "The Lever",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "tomhaberstroh",
+   "name": "Tom Haberstroh",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "KatherineJWu",
+   "name": "Katherine J. Wu",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "jodrell_bank",
+   "name": "Jodrell Bank",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "TarongaZoo",
+   "name": "Taronga Zoo",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "OurOcean",
+   "name": "Ocean Conservancy",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "TriciaLockwood",
+   "name": "Patricia Lockwood",
+   "tags": [
+    "humor",
+    "books",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "tayvano_",
+   "name": "Taylor Monahan",
+   "tags": [
+    "crypto",
+    "tech"
+   ]
+  },
+  {
+   "handle": "dariusmdekker",
+   "name": "Darius Dale",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "workingfamilies",
+   "name": "Working Families Party",
+   "tags": [
+    "politics-left"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "m2jr",
+   "name": "Mike Maples Jr.",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "willmenaker",
+   "name": "Will Menaker",
+   "tags": [
+    "humor",
+    "media"
+   ]
+  },
+  {
+   "handle": "FilmCritHULK",
+   "name": "Film Crit Hulk",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "marynmck",
+   "name": "Maryn McKenna",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "GaryGulman",
+   "name": "Gary Gulman",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "GuyInYourMFA",
+   "name": "Guy In Your MFA",
+   "tags": [
+    "humor",
+    "books"
+   ]
+  },
+  {
+   "handle": "jackclarkSF",
+   "name": "Jack Clark",
+   "tags": [
+    "ai",
+    "tech",
+    "media"
+   ]
+  },
+  {
+   "handle": "Frances_Coppola",
+   "name": "Frances Coppola",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "StockCats",
+   "name": "StockCats",
+   "tags": [
+    "finance",
+    "humor"
+   ]
+  },
+  {
+   "handle": "mollybaz",
+   "name": "Molly Baz",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "askagamedev",
+   "name": "Ask a Game Dev",
+   "tags": [
+    "gaming",
+    "tech"
+   ]
+  },
+  {
+   "handle": "currentaffairs",
+   "name": "Current Affairs Magazine",
+   "tags": [
+    "politics-left",
+    "media",
+    "humor"
+   ]
+  },
+  {
+   "handle": "InternetHippo",
+   "name": "Internet Hippo",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "WaxworkRecords",
+   "name": "Waxwork Records",
+   "tags": [
+    "film-tv",
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "AnnieLinskey",
+   "name": "Annie Linskey",
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "BadFaithPod",
+   "name": "Bad Faith Podcast",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "joncaramanica",
+   "name": "Jon Caramanica",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "Kristen_Arnett",
+   "name": "Kristen Arnett",
+   "tags": [
+    "books",
+    "humor",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "hardmaru",
+   "name": "David Ha",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "thehighsign",
+   "name": "Dana Stevens",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "SoberLook",
+   "name": "Walter Kurtz",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "Tjonesonthenba",
+   "name": "Tony Jones",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "Schultz_Report",
+   "name": "Jordan Schultz",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "robsheff",
+   "name": "Rob Sheffield",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "DrZoeHyde",
+   "name": "Zoe Hyde",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "DystopianYA",
+   "name": "Dystopian YA Novel",
+   "tags": [
+    "humor",
+    "books"
+   ]
+  },
+  {
+   "handle": "LouisPeitzman",
+   "name": "Louis Peitzman",
+   "tags": [
+    "humor",
+    "media",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "alisoneroman",
+   "name": "Alison Roman",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "kateberlant",
+   "name": "Kate Berlant",
+   "tags": [
+    "humor",
+    "pop-culture",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "blankcheckpod",
+   "name": "Blank Check Podcast",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "TimDuy",
+   "name": "Tim Duy",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "SylviaEarle",
+   "name": "Sylvia Earle",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "priyakrishna",
+   "name": "Priya Krishna",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "leyawn",
+   "name": "leon chang",
+   "tags": [
+    "humor",
+    "music",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "AnimaAnandkumar",
+   "name": "Anima Anandkumar",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "HanifKureishi",
+   "name": "Hanif Kureishi",
+   "tags": [
+    "books",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ZooAtl",
+   "name": "Zoo Atlanta",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "samgrittner",
+   "name": "Sam Grittner",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "RememberThisPod",
+   "name": "You Must Remember This",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "modestproposal1",
+   "name": "Dario Perkins",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "markets_live",
+   "name": "Bloomberg Markets Live",
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "garyshilling",
+   "name": "Gary Shilling",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "haymarketbooks",
+   "name": "Haymarket Books",
+   "tags": [
+    "politics-left",
+    "books"
+   ]
+  },
+  {
+   "handle": "WideAsleepNima",
+   "name": "Nima Shirazi",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "GuyLodge",
+   "name": "Guy Lodge",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "Michael_Nielsen",
+   "name": "Michael Nielsen",
+   "tags": [
+    "science",
+    "ai"
+   ]
+  },
+  {
+   "handle": "baddestmamajama",
+   "name": "Jessica Ellis",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "NIMactual",
+   "name": "Nature Is Metal",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "omarsar0",
+   "name": "Elvis Saravia",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "taniaganguli",
+   "name": "Tania Ganguli",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "PompeyOnSixers",
+   "name": "Keith Pompey",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "gorillavsbear",
+   "name": "gorilla vs. bear",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "netcapgirl",
+   "name": "Anu Atluru",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "harikunzru",
+   "name": "Hari Kunzru",
+   "tags": [
+    "books",
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "kateyrich",
+   "name": "Katey Rich",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "MoMAFilm",
+   "name": "MoMA Film",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "DougKass",
+   "name": "Doug Kass",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "mmitchell_ai",
+   "name": "Margaret Mitchell",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "emilymbender",
+   "name": "Emily M. Bender",
+   "tags": [
+    "ai",
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "handle": "jesmimi",
+   "name": "Jesmyn Ward",
+   "tags": [
+    "books",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "filmspotting",
+   "name": "Filmspotting",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "lamag",
+   "name": "Los Angeles Magazine Film",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "kimseverson",
+   "name": "Kim Severson",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "InTheseTimes",
+   "name": "In These Times",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "annkpowers",
+   "name": "Ann Powers",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "MGleiser",
+   "name": "Marcelo Gleiser",
+   "tags": [
+    "science",
+    "books"
+   ]
+  },
+  {
+   "handle": "briannekimmel",
+   "name": "Brianne Kimmel",
+   "tags": [
+    "tech",
+    "finance"
+   ]
+  },
+  {
+   "handle": "donni",
+   "name": "donni saphire",
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "HourlyOtters",
+   "name": "Hourly Otters",
+   "tags": [
+    "animals",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "AcadiaNPS",
+   "name": "Acadia National Park",
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "CiaoSamin",
+   "name": "Samin Nosrat",
+   "tags": [
+    "food",
+    "books"
+   ]
+  },
+  {
+   "handle": "profplum99",
+   "name": "Peter Cecchini",
+   "tags": [
+    "finance"
+   ]
+  },
+  {
+   "handle": "SibleyGuides",
+   "name": "Sibley Guides",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "indieshuffle",
+   "name": "Indie Shuffle",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "telluridefest",
+   "name": "Telluride Film Festival",
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "CitationsPod",
+   "name": "Citations Needed Podcast",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "drbecky_",
+   "name": "Dr Becky Smethurst",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "EamonLynch",
+   "name": "Eamon Lynch",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "arthurmensch",
+   "name": "Arthur Mensch",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "pete_wells",
+   "name": "Pete Wells",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "Warren_Spector",
+   "name": "Warren Spector",
+   "tags": [
+    "gaming",
+    "tech"
+   ]
+  },
+  {
+   "handle": "HamelHusain",
+   "name": "Hamel Husain",
+   "tags": [
+    "tech",
+    "ai"
+   ]
+  },
+  {
+   "handle": "GeraldBourguet",
+   "name": "Gerald Bourguet",
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "abidlabs",
+   "name": "Abubakar Abid",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "metrograph",
+   "name": "Metrograph",
+   "tags": [
+    "film-tv",
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "tejalrao",
+   "name": "Tejal Rao",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "telescopelive",
+   "name": "Telescope Live",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "sfzoo",
+   "name": "San Francisco Zoo",
+   "tags": [
+    "animals",
+    "wholesome",
+    "science"
+   ]
+  },
+  {
+   "handle": "Francis_Lam",
+   "name": "Francis Lam",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "BAKKOOONN",
+   "name": "BAKOON",
+   "tags": [
+    "humor",
+    "iconic"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "PitchforkFilm",
+   "name": "Pitchfork Film",
+   "tags": [
+    "film-tv",
+    "media",
+    "music"
+   ]
+  },
+  {
+   "handle": "qualityrye",
+   "name": "Ryan Sutton",
+   "tags": [
+    "food",
+    "media"
+   ]
+  },
+  {
+   "handle": "GadflyMD",
+   "name": "Jonathan Howard",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "arankomatsuzaki",
+   "name": "Aran Komatsuzaki",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "kchonyc",
+   "name": "Kyunghyun Cho",
+   "tags": [
+    "ai",
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "dulcesloan",
+   "name": "Dulcé Sloan",
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "MusicMesfin",
+   "name": "Mesfin Fekadu",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "sh_reya",
+   "name": "Shreya Shankar",
+   "tags": [
+    "tech",
+    "ai"
+   ]
+  },
+  {
+   "handle": "brendlewhat",
+   "name": "brendle",
+   "tags": [
+    "humor",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "trumpetcake",
+   "name": "Ted Travelstead",
+   "tags": [
+    "humor",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "USFWSNortheast",
+   "name": "USFWS Northeast",
+   "tags": [
+    "animals",
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "taraobrady",
+   "name": "Tara O'Brady",
+   "tags": [
+    "food",
+    "books"
+   ]
+  },
+  {
+   "handle": "PHealthD",
+   "name": "Prabhat Jha",
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "chefedwardlee",
+   "name": "Edward Lee",
+   "tags": [
+    "food",
+    "books"
+   ]
+  },
+  {
+   "handle": "hettymckinnon",
+   "name": "Hetty Lui McKinnon",
+   "tags": [
+    "food",
+    "books"
+   ]
+  }
+ ],
+ [
+  {
+   "handle": "scalawagmag",
+   "name": "Scalawag Magazine",
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "ballofdirt",
+   "name": "Dave Mosher",
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "HourlyLynxes",
+   "name": "Hourly Lynxes",
+   "tags": [
+    "animals",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "GarthGreenwell",
+   "name": "Garth Greenwell",
+   "tags": [
+    "books",
+    "media"
+   ]
+  },
+  {
+   "handle": "ChefJJ",
+   "name": "JJ Johnson",
+   "tags": [
+    "food",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "jillianmapes",
+   "name": "Jillian Mapes",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "amandapetrusich",
+   "name": "Amanda Petrusich",
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "hotdogsladies",
+   "name": "Merlin Mann",
+   "tags": [
+    "humor",
+    "iconic"
+   ]
+  }
+ ]
+]

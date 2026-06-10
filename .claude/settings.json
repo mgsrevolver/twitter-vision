@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "frontend-design-pro@frontend-design-pro": true,
+    "frontend-design@claude-plugins-official": true
+  }
+}

@@ -1,0 +1,447 @@
+[
+  {
+    "handle": "Hiko",
+    "circle": [
+      {
+        "handle": "shroud",
+        "inPool": false,
+        "why": "fellow ex-pro gaming streamer"
+      },
+      {
+        "handle": "100Thieves",
+        "inPool": false,
+        "why": "former 100 Thieves org"
+      },
+      {
+        "handle": "FaZeClan",
+        "inPool": false,
+        "why": "rival esports org"
+      },
+      {
+        "handle": "tarik",
+        "inPool": false,
+        "why": "CS:GO scene peer"
+      }
+    ]
+  },
+  {
+    "handle": "MegynKellyShow",
+    "circle": [
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "conservative media ally"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "conservative media peer"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News colleague"
+      },
+      {
+        "handle": "seanhannity",
+        "inPool": false,
+        "why": "Fox News colleague"
+      },
+      {
+        "handle": "charliekirk11",
+        "inPool": false,
+        "why": "conservative movement ally"
+      }
+    ]
+  },
+  {
+    "handle": "sunrisemvmt",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "key political ally"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive champion"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive ally"
+      },
+      {
+        "handle": "IlhanMN",
+        "inPool": true,
+        "why": "Squad climate ally"
+      },
+      {
+        "handle": "GretaThunberg",
+        "inPool": true,
+        "why": "global climate ally"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "sympathetic media coverage"
+      }
+    ]
+  },
+  {
+    "handle": "KrangTNelson",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist Twitter peer"
+      },
+      {
+        "handle": "jonnysun",
+        "inPool": true,
+        "why": "alt-Twitter humor community"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "left-media adjacent"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media peer"
+      }
+    ]
+  },
+  {
+    "handle": "PramilaJayapal",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "Squad colleague"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive caucus ally"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive Senate ally"
+      },
+      {
+        "handle": "IlhanMN",
+        "inPool": true,
+        "why": "Squad member"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "frequent MSNBC appearance"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media ally"
+      },
+      {
+        "handle": "GretaThunberg",
+        "inPool": true,
+        "why": "climate policy alignment"
+      }
+    ]
+  },
+  {
+    "handle": "stephentotilo",
+    "circle": [
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "major game creator coverage"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "gaming industry figure"
+      },
+      {
+        "handle": "IGN",
+        "inPool": true,
+        "why": "gaming media peer"
+      },
+      {
+        "handle": "WIRED",
+        "inPool": true,
+        "why": "tech/gaming media"
+      },
+      {
+        "handle": "jasonschreier",
+        "inPool": false,
+        "why": "gaming journalism peer"
+      }
+    ]
+  },
+  {
+    "handle": "torybruno",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "SpaceX competitor/rival"
+      },
+      {
+        "handle": "SpaceX",
+        "inPool": true,
+        "why": "competitor in launch"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "primary customer"
+      },
+      {
+        "handle": "jeff_foust",
+        "inPool": true,
+        "why": "space journalist"
+      },
+      {
+        "handle": "SciGuySpace",
+        "inPool": true,
+        "why": "space reporter"
+      },
+      {
+        "handle": "CNSpaceflight",
+        "inPool": true,
+        "why": "space media"
+      }
+    ]
+  },
+  {
+    "handle": "awealthofcs",
+    "circle": [
+      {
+        "handle": "ReformedBroker",
+        "inPool": false,
+        "why": "financial blog peer Josh Brown"
+      },
+      {
+        "handle": "michaelbatnick",
+        "inPool": false,
+        "why": "Ritholtz Wealth colleague"
+      },
+      {
+        "handle": "Naval",
+        "inPool": true,
+        "why": "finance/investing thinker"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "tech/venture investor"
+      },
+      {
+        "handle": "TrungTPhan",
+        "inPool": true,
+        "why": "business/finance Twitter writer"
+      }
+    ]
+  },
+  {
+    "handle": "GaryMarcus",
+    "circle": [
+      {
+        "handle": "ESYudkowsky",
+        "inPool": true,
+        "why": "AI risk debater"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI to critique"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "AI commentary target"
+      },
+      {
+        "handle": "ilyasut",
+        "inPool": false,
+        "why": "AI researcher figure"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "AI researcher to debate"
+      }
+    ]
+  },
+  {
+    "handle": "thelithub",
+    "circle": [
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "major author"
+      },
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "prominent author"
+      },
+      {
+        "handle": "nytimesbooks",
+        "inPool": false,
+        "why": "books media peer"
+      },
+      {
+        "handle": "jonnysun",
+        "inPool": true,
+        "why": "literary humor crossover"
+      }
+    ]
+  },
+  {
+    "handle": "espn_macmahon",
+    "circle": [
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "ESPN colleague"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "rival NBA insider"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "ESPN colleague"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "basketball media figure"
+      },
+      {
+        "handle": "RealSkipBayless",
+        "inPool": true,
+        "why": "ESPN colleague"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "ESPN show"
+      }
+    ]
+  },
+  {
+    "handle": "CT_Bergstrom",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "target of criticism"
+      },
+      {
+        "handle": "ESYudkowsky",
+        "inPool": true,
+        "why": "AI/rationalism debate"
+      },
+      {
+        "handle": "GretaThunberg",
+        "inPool": true,
+        "why": "science communication ally"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "media ally"
+      }
+    ]
+  },
+  {
+    "handle": "packyM",
+    "circle": [
+      {
+        "handle": "TrungTPhan",
+        "inPool": true,
+        "why": "business Twitter peer"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "venture investor to follow"
+      },
+      {
+        "handle": "Naval",
+        "inPool": true,
+        "why": "tech/investing thinker"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI/tech figure"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "tech commentary subject"
+      }
+    ]
+  },
+  {
+    "handle": "CarolLeonnig",
+    "circle": [
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "employer"
+      },
+      {
+        "handle": "maggieNYT",
+        "inPool": false,
+        "why": "rival political reporter"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "media peer"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media figure"
+      }
+    ]
+  },
+  {
+    "handle": "TheTennisLetter",
+    "circle": [
+      {
+        "handle": "OptaAce",
+        "inPool": true,
+        "why": "tennis stats media peer"
+      },
+      {
+        "handle": "WTA",
+        "inPool": true,
+        "why": "women tennis organization"
+      },
+      {
+        "handle": "atptour",
+        "inPool": true,
+        "why": "men tennis tour"
+      },
+      {
+        "handle": "Tennis",
+        "inPool": true,
+        "why": "tennis media peer"
+      }
+    ]
+  }
+]

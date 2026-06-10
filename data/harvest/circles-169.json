@@ -1,0 +1,164 @@
+[
+  {
+    "handle": "CitationsPod",
+    "circle": [
+      {"handle": "MorePerfectUS", "inPool": true, "why": "fellow left media podcast"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media colleague"},
+      {"handle": "WideAsleepNima", "inPool": false, "why": "co-host Nima Shirazi"},
+      {"handle": "adamjohnsonCHI", "inPool": false, "why": "co-host Adam Johnson"},
+      {"handle": "lhfang", "inPool": false, "why": "media criticism beat overlap"},
+      {"handle": "davidsirota", "inPool": false, "why": "left media colleague"}
+    ]
+  },
+  {
+    "handle": "drbecky_",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "space agency content frequent retweets"},
+      {"handle": "NASAWebb", "inPool": true, "why": "Webb telescope images shared frequently"},
+      {"handle": "neiltyson", "inPool": true, "why": "fellow science communicator"},
+      {"handle": "BillNye", "inPool": true, "why": "fellow science communicator"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "UK physics communicator peer"},
+      {"handle": "hankgreen", "inPool": true, "why": "science YouTube peer"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "astronaut space community"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "astronaut science communicator"}
+    ]
+  },
+  {
+    "handle": "EamonLynch",
+    "circle": [
+      {"handle": "PhilMickelson", "inPool": true, "why": "covers Phil extensively"},
+      {"handle": "livgolf_league", "inPool": true, "why": "LIV Golf beat reporter"},
+      {"handle": "PGATOUR", "inPool": false, "why": "primary beat coverage"},
+      {"handle": "McIlroyRory", "inPool": false, "why": "covers Rory regularly"},
+      {"handle": "TigerWoods", "inPool": false, "why": "Tiger coverage mainstay"},
+      {"handle": "NoLayingUp", "inPool": false, "why": "golf media colleague"}
+    ]
+  },
+  {
+    "handle": "arthurmensch",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "AI CEO peer, OpenAI competitor"},
+      {"handle": "ylecun", "inPool": false, "why": "PhD advisor at Meta, mentor"},
+      {"handle": "DarioAmodei", "inPool": false, "why": "AI lab CEO peer"},
+      {"handle": "karpathy", "inPool": false, "why": "AI researcher peer"},
+      {"handle": "huggingface", "inPool": false, "why": "open source AI partner"}
+    ]
+  },
+  {
+    "handle": "pete_wells",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "reviewed restaurants, feuded"},
+      {"handle": "AltonBrown", "inPool": true, "why": "food world mutual"},
+      {"handle": "SamSifton", "inPool": false, "why": "NYT food colleague"},
+      {"handle": "davidchang", "inPool": false, "why": "chef reviewed multiple times"},
+      {"handle": "kenjilopezalt", "inPool": false, "why": "food science writer peer"},
+      {"handle": "ruthreichl", "inPool": false, "why": "predecessor NYT critic"}
+    ]
+  },
+  {
+    "handle": "Warren_Spector",
+    "circle": [
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "gaming auteur peer, mutual respect"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards host, industry presence"},
+      {"handle": "Kotaku", "inPool": false, "why": "gaming press coverage"},
+      {"handle": "Polygon", "inPool": false, "why": "gaming press feature coverage"},
+      {"handle": "jasonschreier", "inPool": false, "why": "games journalist coverage"}
+    ]
+  },
+  {
+    "handle": "HamelHusain",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "AI industry lead figure"},
+      {"handle": "huggingface", "inPool": false, "why": "open source ML community"},
+      {"handle": "karpathy", "inPool": false, "why": "AI researcher influence"},
+      {"handle": "emollick", "inPool": false, "why": "AI research communicator"}
+    ]
+  },
+  {
+    "handle": "GeraldBourguet",
+    "circle": [
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA insider peer"},
+      {"handle": "wojespn", "inPool": true, "why": "NBA insider peer"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN NBA personality"},
+      {"handle": "BR_NBA", "inPool": false, "why": "NBA media outlet"},
+      {"handle": "TheNBACentral", "inPool": false, "why": "NBA fan media outlet"},
+      {"handle": "NBAonTNT", "inPool": false, "why": "NBA broadcast partner"}
+    ]
+  },
+  {
+    "handle": "abidlabs",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "AI industry lead"},
+      {"handle": "huggingface", "inPool": false, "why": "employer, Gradio acquired"},
+      {"handle": "emollick", "inPool": false, "why": "AI researcher peer"},
+      {"handle": "karpathy", "inPool": false, "why": "AI researcher community"},
+      {"handle": "fchollet", "inPool": false, "why": "ML framework builder peer"}
+    ]
+  },
+  {
+    "handle": "metrograph",
+    "circle": [
+      {"handle": "mattzollerseitz", "inPool": true, "why": "frequent film critic contributor"},
+      {"handle": "RealGDT", "inPool": true, "why": "Guillermo del Toro arthouse enthusiast"},
+      {"handle": "rianjohnson", "inPool": true, "why": "director arthouse champion"},
+      {"handle": "edgarwright", "inPool": true, "why": "director uses Metrograph"},
+      {"handle": "MUBI", "inPool": false, "why": "arthouse streaming peer"},
+      {"handle": "letterboxd", "inPool": false, "why": "film community platform"},
+      {"handle": "A24", "inPool": false, "why": "arthouse distributor partner"}
+    ]
+  },
+  {
+    "handle": "tejalrao",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "prominent chef food world"},
+      {"handle": "AltonBrown", "inPool": true, "why": "food media personality"},
+      {"handle": "SamSifton", "inPool": false, "why": "NYT food colleague"},
+      {"handle": "kenjilopezalt", "inPool": false, "why": "food writer peer"},
+      {"handle": "davidchang", "inPool": false, "why": "chef/food media peer"},
+      {"handle": "ruthreichl", "inPool": false, "why": "food writing elder peer"}
+    ]
+  },
+  {
+    "handle": "telescopelive",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "space agency content partner"},
+      {"handle": "NASAWebb", "inPool": true, "why": "Webb images shared regularly"},
+      {"handle": "drbecky_", "inPool": true, "why": "astrophysics communicator"},
+      {"handle": "neiltyson", "inPool": true, "why": "space public communicator"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "physics communicator"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "astronaut space enthusiasm"},
+      {"handle": "esa", "inPool": false, "why": "European space agency partner"}
+    ]
+  },
+  {
+    "handle": "sfzoo",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "wildlife content frequent RT"},
+      {"handle": "SanDiegoZoo", "inPool": false, "why": "zoo peer social media"},
+      {"handle": "NationalZoo", "inPool": false, "why": "zoo peer social media"},
+      {"handle": "CincinnatiZoo", "inPool": false, "why": "zoo peer, Fiona fame"},
+      {"handle": "OregonZoo", "inPool": false, "why": "zoo peer community"}
+    ]
+  },
+  {
+    "handle": "Francis_Lam",
+    "circle": [
+      {"handle": "AltonBrown", "inPool": true, "why": "Splendid Table predecessor host"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "food media prominent figure"},
+      {"handle": "SamSifton", "inPool": false, "why": "NYT food colleague"},
+      {"handle": "kenjilopezalt", "inPool": false, "why": "food science writer peer"},
+      {"handle": "davidchang", "inPool": false, "why": "chef food media presence"},
+      {"handle": "ruthreichl", "inPool": false, "why": "food editor mentor figure"}
+    ]
+  },
+  {
+    "handle": "BAKKOOONN",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist Twitter peer icon"},
+      {"handle": "meganamram", "inPool": true, "why": "comedy Twitter circle"},
+      {"handle": "Horse_ebooks", "inPool": true, "why": "absurdist Twitter canon"},
+      {"handle": "pixelatedboat", "inPool": false, "why": "weird Twitter peer"},
+      {"handle": "fart", "inPool": false, "why": "absurdist Twitter community"}
+    ]
+  }
+]

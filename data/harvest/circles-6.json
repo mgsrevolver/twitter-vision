@@ -1,0 +1,153 @@
+[
+  {
+    "handle": "Reuters",
+    "circle": [
+      {"handle": "AFP", "inPool": true, "why": "wire service peer/competitor"},
+      {"handle": "elonmusk", "inPool": true, "why": "covers/receives replies from"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "major story subject"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "political figure covered"},
+      {"handle": "JoeBiden", "inPool": true, "why": "political figure covered"},
+      {"handle": "berniesanders", "inPool": true, "why": "political figure covered"},
+      {"handle": "narendramodi", "inPool": true, "why": "major world leader covered"},
+      {"handle": "AP", "inPool": false, "why": "primary wire service rival"},
+      {"handle": "BBCBreaking", "inPool": false, "why": "breaking-news peer"},
+      {"handle": "nytimes", "inPool": false, "why": "frequently cited news peer"},
+      {"handle": "CNN", "inPool": false, "why": "major broadcast news rival"}
+    ]
+  },
+  {
+    "handle": "NatGeo",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "space/science collaboration"},
+      {"handle": "LeoDiCaprio", "inPool": true, "why": "environment advocacy overlap"},
+      {"handle": "WHO", "inPool": true, "why": "health/science content overlap"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communication peer"},
+      {"handle": "BillNye", "inPool": true, "why": "science education peer"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "science humor cross-content"},
+      {"handle": "elonmusk", "inPool": true, "why": "space/environment coverage"},
+      {"handle": "UN", "inPool": false, "why": "environment/climate campaigns"},
+      {"handle": "GretaThunberg", "inPool": false, "why": "climate advocacy overlap"},
+      {"handle": "Zendaya", "inPool": false, "why": "NatGeo ambassador/campaigns"}
+    ]
+  },
+  {
+    "handle": "FabrizioRomano",
+    "circle": [
+      {"handle": "FCBarcelona", "inPool": true, "why": "top transfer-news subject"},
+      {"handle": "OptaJoe", "inPool": true, "why": "football stats peer engagement"},
+      {"handle": "SportsCenter", "inPool": true, "why": "sports media amplifier"},
+      {"handle": "espn", "inPool": true, "why": "main broadcast partner"},
+      {"handle": "BleacherReport", "inPool": true, "why": "sports media engagement"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "sports-scoop peer different sport"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL scoop peer cross-RT"},
+      {"handle": "KingJames", "inPool": true, "why": "major sports subject"},
+      {"handle": "NBA", "inPool": true, "why": "cross-sport news coverage"},
+      {"handle": "ManUtd", "inPool": false, "why": "key transfer news subject"}
+    ]
+  },
+  {
+    "handle": "Tesla",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "founder/CEO main voice"},
+      {"handle": "SpaceX", "inPool": true, "why": "Musk-linked sister company"},
+      {"handle": "sama", "inPool": true, "why": "AI/tech industry peer"},
+      {"handle": "jeffbezos", "inPool": true, "why": "EV/tech rival coverage"},
+      {"handle": "BillNye", "inPool": true, "why": "EV science communication"},
+      {"handle": "NASA", "inPool": true, "why": "space tech adjacent"},
+      {"handle": "Xbox", "inPool": true, "why": "consumer tech brand peer"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "regulatory/political coverage"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "consumer brand social peer"},
+      {"handle": "Microsoft", "inPool": false, "why": "major tech industry peer"}
+    ]
+  },
+  {
+    "handle": "NintendoAmerica",
+    "circle": [
+      {"handle": "Xbox", "inPool": true, "why": "direct gaming rival/banter"},
+      {"handle": "RockstarGames", "inPool": true, "why": "major game publisher peer"},
+      {"handle": "GeoffKeighley", "inPool": true, "why": "The Game Awards host"},
+      {"handle": "MrBeast", "inPool": true, "why": "collab/gaming cross-promo"},
+      {"handle": "Marvel", "inPool": true, "why": "cross-brand gaming collab"},
+      {"handle": "jacksfilms", "inPool": true, "why": "Nintendo-adjacent content humor"},
+      {"handle": "PlayStation", "inPool": false, "why": "direct gaming rival/banter"},
+      {"handle": "PewDiePie", "inPool": false, "why": "major Nintendo content creator"},
+      {"handle": "Markiplier", "inPool": false, "why": "Nintendo fan/content creator"},
+      {"handle": "Ninja", "inPool": false, "why": "gaming influencer cross-promo"}
+    ]
+  },
+  {
+    "handle": "coldplay",
+    "circle": [
+      {"handle": "Harry_Styles", "inPool": true, "why": "UK pop peer/fan overlap"},
+      {"handle": "KingJames", "inPool": true, "why": "known Coldplay fan concerts"},
+      {"handle": "U2", "inPool": true, "why": "Bono/Chris Martin real friendship"},
+      {"handle": "LiamGallagher", "inPool": true, "why": "UK rock peer/Brit Awards"},
+      {"handle": "PaulMcCartney", "inPool": true, "why": "UK music legend mentorship"},
+      {"handle": "Marvel", "inPool": true, "why": "soundtrack/cross-content"},
+      {"handle": "BTS_twt", "inPool": false, "why": "My Universe collab frequent reply"},
+      {"handle": "edsheeran", "inPool": false, "why": "UK peer/touring collaboration"},
+      {"handle": "ArianaGrande", "inPool": false, "why": "concert/charity overlap"},
+      {"handle": "taylorswift13", "inPool": false, "why": "mutual pop crossover engagement"}
+    ]
+  },
+  {
+    "handle": "PewDiePie",
+    "circle": [
+      {"handle": "MrBeast", "inPool": true, "why": "YouTube peer/subscriber rivalry"},
+      {"handle": "jacksfilms", "inPool": true, "why": "YouTube peer/recurring joke target"},
+      {"handle": "xQc", "inPool": true, "why": "streaming-adjacent peer"},
+      {"handle": "RockstarGames", "inPool": true, "why": "frequent gaming content subject"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "Nintendo content frequent"},
+      {"handle": "Netflix", "inPool": true, "why": "content crossover watch content"},
+      {"handle": "KingJames", "inPool": true, "why": "wide pop-culture reference"},
+      {"handle": "Markiplier", "inPool": false, "why": "YouTube gaming peer"},
+      {"handle": "Ninja", "inPool": false, "why": "gaming influencer peer"},
+      {"handle": "YouTube", "inPool": false, "why": "platform home channel engagement"}
+    ]
+  },
+  {
+    "handle": "Eminem",
+    "circle": [
+      {"handle": "Drake", "inPool": true, "why": "documented beef/diss track history"},
+      {"handle": "50cent", "inPool": true, "why": "longtime collaborator/G-Unit ally"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "Dr. Dre network peer"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "former relationship/collaboration"},
+      {"handle": "iamcardib", "inPool": true, "why": "hip-hop peer/RT target"},
+      {"handle": "rihanna", "inPool": true, "why": "pop-rap crossover/mutual RT"},
+      {"handle": "AvrilLavigne", "inPool": true, "why": "collaborated on Hello"},
+      {"handle": "Marvel", "inPool": true, "why": "Venom soundtrack song"},
+      {"handle": "kanyewest", "inPool": false, "why": "hip-hop peer/occasional beef"},
+      {"handle": "joerogan", "inPool": false, "why": "podcast guest/interview history"}
+    ]
+  },
+  {
+    "handle": "vancityreynolds",
+    "circle": [
+      {"handle": "TheRock", "inPool": true, "why": "Red Notice / frequent banter"},
+      {"handle": "BenAffleck", "inPool": true, "why": "superhero film peer/banter"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "frequent TV/comedy cross"},
+      {"handle": "rickygervais", "inPool": true, "why": "UK humor peer/mutual follows"},
+      {"handle": "MarkRuffalo", "inPool": true, "why": "MCU-adjacent collab/banter"},
+      {"handle": "iamcardib", "inPool": true, "why": "pop culture cross-banter"},
+      {"handle": "elonmusk", "inPool": true, "why": "celebrity vs Musk reply culture"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "pop-culture comedy overlap"},
+      {"handle": "KevinHart4real", "inPool": false, "why": "frequent comedy co-promotion"},
+      {"handle": "chrissyteigen", "inPool": false, "why": "social media banter regular"}
+    ]
+  },
+  {
+    "handle": "Netflix",
+    "circle": [
+      {"handle": "MarvelStudios", "inPool": true, "why": "content partnership history"},
+      {"handle": "DisneyPlus", "inPool": true, "why": "streaming rival/comparison"},
+      {"handle": "Hulu", "inPool": true, "why": "streaming rival comparison"},
+      {"handle": "Marvel", "inPool": true, "why": "IP licensing/series history"},
+      {"handle": "TheRock", "inPool": true, "why": "major Netflix film talent"},
+      {"handle": "MrBeast", "inPool": true, "why": "Netflix partnership/content deal"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "Netflix documentary talent"},
+      {"handle": "KingJames", "inPool": true, "why": "Netflix documentary subject"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "comedy content cross-promo"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech/media industry commentary"}
+    ]
+  }
+]

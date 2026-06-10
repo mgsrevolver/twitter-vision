@@ -1,0 +1,200 @@
+[
+  {
+    "handle": "adamscochran",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "crypto/tech overlap, frequent engagement"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum ecosystem debates"},
+      {"handle": "cz_binance", "inPool": true, "why": "crypto exchange boss peer"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maxi debate partner"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO crypto peer"},
+      {"handle": "stablekwon", "inPool": true, "why": "Terra/Luna drama interlocutor"},
+      {"handle": "SBF_FTX", "inPool": true, "why": "FTX collapse coverage"},
+      {"handle": "Cobie", "inPool": true, "why": "crypto Twitter banter pal"},
+      {"handle": "cburniske", "inPool": true, "why": "crypto researcher peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech/crypto investor overlap"},
+      {"handle": "chamath", "inPool": true, "why": "tech investor debate target"}
+    ]
+  },
+  {
+    "handle": "rapalert6",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "music media coverage peer"},
+      {"handle": "RollingStone", "inPool": true, "why": "music media outlet peer"},
+      {"handle": "XXL", "inPool": true, "why": "hip-hop media peer"},
+      {"handle": "chartdata", "inPool": true, "why": "chart tracking peer account"},
+      {"handle": "PopBase", "inPool": true, "why": "pop culture news peer"},
+      {"handle": "billboardcharts", "inPool": true, "why": "chart data source"},
+      {"handle": "Drake", "inPool": true, "why": "top rap artist covered"},
+      {"handle": "iamcardib", "inPool": true, "why": "major rap artist covered"},
+      {"handle": "MetroBoomin", "inPool": true, "why": "producer news subject"},
+      {"handle": "LilNasX", "inPool": true, "why": "viral rap artist covered"},
+      {"handle": "Eminem", "inPool": true, "why": "rap legend news subject"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "rap artist frequently covered"}
+    ]
+  },
+  {
+    "handle": "MsPackyetti",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive politics ally"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive senator she covers"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive icon she amplifies"},
+      {"handle": "IlhanMN", "inPool": true, "why": "Squad member ally"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media colleague"},
+      {"handle": "atrupar", "inPool": true, "why": "political media peer"},
+      {"handle": "nytimes", "inPool": true, "why": "major news outlet she engages"},
+      {"handle": "RBReich", "inPool": true, "why": "progressive commentator peer"},
+      {"handle": "thehill", "inPool": true, "why": "political media she references"},
+      {"handle": "MMFlint", "inPool": true, "why": "progressive documentarian ally"}
+    ]
+  },
+  {
+    "handle": "michaelshermer",
+    "circle": [
+      {"handle": "neiltyson", "inPool": true, "why": "fellow science communicator"},
+      {"handle": "BillNye", "inPool": true, "why": "science public figure peer"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "physicist science communicator"},
+      {"handle": "pennjillette", "inPool": true, "why": "fellow skeptic atheist"},
+      {"handle": "StephenKing", "inPool": true, "why": "public intellectual he engages"},
+      {"handle": "jk_rowling", "inPool": true, "why": "controversial debate subject"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "fellow contrarian intellectual"}
+    ]
+  },
+  {
+    "handle": "collision",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "fellow tech CEO peer"},
+      {"handle": "pmarca", "inPool": true, "why": "VC investor relationship"},
+      {"handle": "paulg", "inPool": true, "why": "YC/startup scene peer"},
+      {"handle": "naval", "inPool": true, "why": "tech entrepreneur philosophy peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech investor peer"},
+      {"handle": "chamath", "inPool": true, "why": "tech investor peer"},
+      {"handle": "elonmusk", "inPool": true, "why": "big tech personality engagement"}
+    ]
+  },
+  {
+    "handle": "audubonsociety",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "nature/wildlife media partner"},
+      {"handle": "NASA", "inPool": true, "why": "science institution peer"},
+      {"handle": "MarsCuriosity", "inPool": true, "why": "science engagement peer"},
+      {"handle": "NASAPersevere", "inPool": true, "why": "NASA science account peer"},
+      {"handle": "Rainmaker1973", "inPool": true, "why": "nature content curator peer"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "science wonder engagement"}
+    ]
+  },
+  {
+    "handle": "commondreams",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive politics amplifies"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive icon they cover"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive senator covered"},
+      {"handle": "IlhanMN", "inPool": true, "why": "Squad politics they cover"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media ecosystem peer"},
+      {"handle": "MMFlint", "inPool": true, "why": "progressive documentarian peer"},
+      {"handle": "RBReich", "inPool": true, "why": "progressive commentator they RT"},
+      {"handle": "thehill", "inPool": true, "why": "political news site they engage"}
+    ]
+  },
+  {
+    "handle": "natebargatze",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "late night comedian peer"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show appearance host"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "late night appearance host"},
+      {"handle": "jimgaffigan", "inPool": true, "why": "clean comedy peer he vibes with"},
+      {"handle": "mulaney", "inPool": true, "why": "stand-up comedy peer"},
+      {"handle": "SethMacFarlane", "inPool": true, "why": "comedy entertainment peer"},
+      {"handle": "seinfeldtv", "inPool": true, "why": "comedy legend he admires"}
+    ]
+  },
+  {
+    "handle": "leonardmaltin",
+    "circle": [
+      {"handle": "edgarwright", "inPool": true, "why": "film director who loves classics"},
+      {"handle": "RealGDT", "inPool": true, "why": "cinephile director peer"},
+      {"handle": "Jon_Favreau", "inPool": true, "why": "filmmaker he engages"},
+      {"handle": "THR", "inPool": true, "why": "Hollywood trade outlet peer"},
+      {"handle": "Variety", "inPool": true, "why": "entertainment trade peer"},
+      {"handle": "DEADLINE", "inPool": true, "why": "film industry news outlet"},
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "cinephile game creator peer"},
+      {"handle": "afi", "inPool": true, "why": "film preservation institution peer"}
+    ]
+  },
+  {
+    "handle": "clmazin",
+    "circle": [
+      {"handle": "edgarwright", "inPool": true, "why": "filmmaker Scriptnotes guest"},
+      {"handle": "RealGDT", "inPool": true, "why": "director podcast interlocutor"},
+      {"handle": "Jon_Favreau", "inPool": true, "why": "writer-director peer"},
+      {"handle": "THR", "inPool": true, "why": "Hollywood trade he engages"},
+      {"handle": "Variety", "inPool": true, "why": "entertainment trade coverage"},
+      {"handle": "DEADLINE", "inPool": true, "why": "industry news outlet"},
+      {"handle": "neilhimself", "inPool": true, "why": "writer peer he engages"},
+      {"handle": "StephenKing", "inPool": true, "why": "horror author adaptation source"}
+    ]
+  },
+  {
+    "handle": "anthonyVslater",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "NBA insider colleague"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "rival NBA insider"},
+      {"handle": "BillSimmons", "inPool": true, "why": "NBA media figure he engages"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN NBA analyst peer"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "ESPN/Fox NBA pundit"},
+      {"handle": "KingJames", "inPool": true, "why": "covers LeBron frequently"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "primary beat player Warriors"},
+      {"handle": "KDTrey5", "inPool": true, "why": "former Warriors star he covered"},
+      {"handle": "NBA", "inPool": true, "why": "league account he engages"},
+      {"handle": "warriors", "inPool": true, "why": "team account beat reporter"}
+    ]
+  },
+  {
+    "handle": "JeffDarlington",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "ESPN NFL colleague"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "NFL media personality he appears with"},
+      {"handle": "NFL", "inPool": true, "why": "league account he covers"},
+      {"handle": "ESPN", "inPool": true, "why": "employer outlet"},
+      {"handle": "TomBrady", "inPool": true, "why": "top QB he covered extensively"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "sports media pundit peer"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN colleague"}
+    ]
+  },
+  {
+    "handle": "YosemiteNPS",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "nature photography media partner"},
+      {"handle": "NASA", "inPool": true, "why": "science/nature institution peer"},
+      {"handle": "MarsCuriosity", "inPool": true, "why": "science wonder account peer"},
+      {"handle": "NASAPersevere", "inPool": true, "why": "NASA peer account"},
+      {"handle": "NASAWebb", "inPool": true, "why": "NASA peer account"},
+      {"handle": "Rainmaker1973", "inPool": true, "why": "nature content peer"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "science wonder communicator"}
+    ]
+  },
+  {
+    "handle": "ThePhotoHour",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "nature photography institution"},
+      {"handle": "NASA", "inPool": true, "why": "space photography source"},
+      {"handle": "Rainmaker1973", "inPool": true, "why": "nature image curator peer"},
+      {"handle": "NASAWebb", "inPool": true, "why": "stunning space imagery source"},
+      {"handle": "NASAPersevere", "inPool": true, "why": "Mars photography source"}
+    ]
+  },
+  {
+    "handle": "JamilSmith",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive politics he covers"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive senator he covers"},
+      {"handle": "IlhanMN", "inPool": true, "why": "Squad politics he amplifies"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media peer"},
+      {"handle": "atrupar", "inPool": true, "why": "political media clip peer"},
+      {"handle": "nytimes", "inPool": true, "why": "major news outlet he engages"},
+      {"handle": "washingtonpost", "inPool": true, "why": "major news outlet he engages"},
+      {"handle": "RollingStone", "inPool": true, "why": "outlet he writes for"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive icon he covers"},
+      {"handle": "mulaney", "inPool": true, "why": "pop culture figure he engages"}
+    ]
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "2064164302441869689",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "2064116279888183780",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "2064123774962717111",
+    "keep": false,
+    "tags": []
+  },
+  {
+    "id": "2064285245977817310",
+    "keep": false,
+    "tags": []
+  },
+  {
+    "id": "2064230771305693408",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "2064154224406184301",
+    "keep": false,
+    "tags": []
+  },
+  {
+    "id": "2064373413108748365",
+    "keep": false,
+    "tags": []
+  },
+  {
+    "id": "2064387930051981648",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "2064463757514834052",
+    "keep": false,
+    "tags": []
+  },
+  {
+    "id": "2064320843770220754",
+    "keep": false,
+    "tags": []
+  },
+  {
+    "id": "2064097492312945067",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "2064316274218336525",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "2064029206124654760",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "2064169055800394162",
+    "keep": true,
+    "tags": ["politics-right", "pop-culture"]
+  },
+  {
+    "id": "2064125917283143938",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "2064230844303364285",
+    "keep": true,
+    "tags": ["politics-right", "humor"]
+  },
+  {
+    "id": "2064441961243877640",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "2064434535773667825",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "2063633787343282240",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "1324109209110282240",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "1330483789160656896",
+    "keep": true,
+    "tags": ["humor", "politics-right"]
+  },
+  {
+    "id": "1571440550305300480",
+    "keep": true,
+    "tags": ["politics-right", "humor"]
+  },
+  {
+    "id": "1509338433600335873",
+    "keep": true,
+    "tags": ["politics-right"]
+  },
+  {
+    "id": "1647251668373839878",
+    "keep": true,
+    "tags": ["politics-right", "science"]
+  },
+  {
+    "id": "1519422483929182209",
+    "keep": false,
+    "tags": []
+  },
+  {
+    "id": "1352340910483386369",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "1396810561548083202",
+    "keep": true,
+    "tags": ["politics-right", "science"]
+  },
+  {
+    "id": "1209210313884798984",
+    "keep": true,
+    "tags": ["politics-right", "humor"]
+  },
+  {
+    "id": "1209168414868148224",
+    "keep": true,
+    "tags": ["politics-right", "humor"]
+  },
+  {
+    "id": "1209130719861202945",
+    "keep": true,
+    "tags": ["politics-right", "humor"]
+  },
+  {
+    "id": "1872312139945234507",
+    "keep": true,
+    "tags": ["politics-right", "tech", "iconic"]
+  },
+  {
+    "id": "1580959834630782976",
+    "keep": false,
+    "tags": []
+  },
+  {
+    "id": "1812256998588662068",
+    "keep": true,
+    "tags": ["politics-right", "iconic"]
+  },
+  {
+    "id": "1966191886177361972",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "1965882795210977411",
+    "keep": true,
+    "tags": ["politics-right", "iconic"]
+  },
+  {
+    "id": "1965880323067003011",
+    "keep": true,
+    "tags": ["politics-right"]
+  },
+  {
+    "id": "1965879496223109581",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "1965985360606888182",
+    "keep": true,
+    "tags": ["politics-right", "iconic"]
+  },
+  {
+    "id": "1965912743107768690",
+    "keep": true,
+    "tags": ["politics-right"]
+  },
+  {
+    "id": "1965886297140244838",
+    "keep": true,
+    "tags": ["politics-right", "media", "iconic"]
+  },
+  {
+    "id": "1965895799298003067",
+    "keep": true,
+    "tags": ["politics-right"]
+  },
+  {
+    "id": "1965880170952471002",
+    "keep": true,
+    "tags": ["politics-right"]
+  },
+  {
+    "id": "1965949685169795513",
+    "keep": true,
+    "tags": ["politics-right"]
+  },
+  {
+    "id": "1965913961179557981",
+    "keep": true,
+    "tags": ["politics-right", "iconic"]
+  },
+  {
+    "id": "821344302651555840",
+    "keep": true,
+    "tags": ["politics-right"]
+  },
+  {
+    "id": "728297587418247168",
+    "keep": true,
+    "tags": ["politics-right", "iconic", "humor"]
+  },
+  {
+    "id": "332308211321425920",
+    "keep": true,
+    "tags": ["politics-right", "iconic", "humor"]
+  },
+  {
+    "id": "265895292191248385",
+    "keep": true,
+    "tags": ["politics-right", "iconic"]
+  },
+  {
+    "id": "1325442336957018112",
+    "keep": true,
+    "tags": ["politics-right"]
+  },
+  {
+    "id": "1337052585547755523",
+    "keep": true,
+    "tags": ["politics-right", "iconic"]
+  },
+  {
+    "id": "1311892190680014849",
+    "keep": true,
+    "tags": ["politics-right", "iconic"]
+  },
+  {
+    "id": "1295677035466162177",
+    "keep": true,
+    "tags": ["politics-right"]
+  },
+  {
+    "id": "1188909031403900928",
+    "keep": true,
+    "tags": ["politics-right", "humor"]
+  },
+  {
+    "id": "1267132763116838913",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "1150381394234941448",
+    "keep": true,
+    "tags": ["politics-right", "iconic"]
+  },
+  {
+    "id": "1052213711295930368",
+    "keep": true,
+    "tags": ["politics-right", "humor"]
+  },
+  {
+    "id": "1009916650622251009",
+    "keep": true,
+    "tags": ["politics-right"]
+  },
+  {
+    "id": "976765417908776963",
+    "keep": true,
+    "tags": ["politics-right", "humor"]
+  },
+  {
+    "id": "954788467069870081",
+    "keep": true,
+    "tags": ["politics-right", "humor"]
+  },
+  {
+    "id": "971013841395027968",
+    "keep": true,
+    "tags": ["politics-right", "humor"]
+  },
+  {
+    "id": "948359545767841792",
+    "keep": true,
+    "tags": ["politics-right", "media"]
+  },
+  {
+    "id": "948355557022420992",
+    "keep": true,
+    "tags": ["politics-right", "iconic"]
+  },
+  {
+    "id": "869858333477523458",
+    "keep": true,
+    "tags": ["politics-right", "iconic", "humor"]
+  },
+  {
+    "id": "1787685542681100295",
+    "keep": true,
+    "tags": ["music", "humor"]
+  },
+  {
+    "id": "1785349344087929019",
+    "keep": false,
+    "tags": []
+  },
+  {
+    "id": "1788712376604233848",
+    "keep": true,
+    "tags": ["music", "humor"]
+  },
+  {
+    "id": "1786391247223201831",
+    "keep": false,
+    "tags": []
+  },
+  {
+    "id": "1787693650878599219",
+    "keep": true,
+    "tags": ["music", "humor"]
+  },
+  {
+    "id": "1787854818046095365",
+    "keep": true,
+    "tags": ["music", "humor"]
+  },
+  {
+    "id": "1786612293238763860",
+    "keep": true,
+    "tags": ["music", "humor", "iconic"]
+  }
+]

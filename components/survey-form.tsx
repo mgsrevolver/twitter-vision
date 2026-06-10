@@ -2,41 +2,55 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import type { Tag } from "@/lib/types";
+import type { Lean, OnlineLevel, Tag } from "@/lib/types";
 
-const LEANS = [
-  { value: "left", label: "Leans left" },
+const LEANS: { value: Lean; label: string; hint?: string }[] = [
+  { value: "progressive", label: "Progressive left" },
+  { value: "liberal", label: "Liberal" },
+  { value: "centrist", label: "Centrist" },
+  { value: "libertarian", label: "Libertarian" },
+  { value: "conservative", label: "Old-school conservative" },
+  { value: "maga", label: "MAGA" },
   { value: "none", label: "Doesn't do politics" },
-  { value: "right", label: "Leans right" },
-] as const;
+];
 
 const INTERESTS: { value: Tag; label: string }[] = [
   { value: "tech", label: "Tech" },
+  { value: "ai", label: "AI" },
+  { value: "science", label: "Science" },
   { value: "sports", label: "Sports" },
-  { value: "pop-culture", label: "Pop culture" },
+  { value: "music", label: "Music" },
+  { value: "film-tv", label: "Movies & TV" },
+  { value: "gaming", label: "Gaming" },
   { value: "finance", label: "Money & markets" },
+  { value: "crypto", label: "Crypto" },
+  { value: "food", label: "Food" },
+  { value: "books", label: "Books" },
+  { value: "fitness", label: "Fitness" },
+  { value: "animals", label: "Animals" },
   { value: "media", label: "News junkie" },
+  { value: "pop-culture", label: "Pop culture" },
   { value: "humor", label: "Shitposts" },
 ];
 
-const VIBES = [
-  { value: "chaotic", label: "Chaotic", hint: "feral, unhinged, online" },
-  { value: "wholesome", label: "Wholesome", hint: "still thinks it's 2012 twitter" },
-  { value: "intense", label: "Intense", hint: "argues with strangers at 1am" },
-] as const;
+const ONLINE: { value: OnlineLevel; label: string; hint: string }[] = [
+  { value: "normal", label: "A normal amount", hint: "sees what everyone else saw" },
+  { value: "toomuch", label: "Too much", hint: "knows the discourse before you do" },
+  { value: "terminal", label: "Terminally", hint: "fluent in posts with 43 likes" },
+];
 
 export function SurveyForm() {
   const router = useRouter();
-  const [lean, setLean] = useState<(typeof LEANS)[number]["value"]>("none");
+  const [lean, setLean] = useState<Lean>("none");
   const [interests, setInterests] = useState<Tag[]>([]);
-  const [vibe, setVibe] = useState<(typeof VIBES)[number]["value"]>("chaotic");
+  const [online, setOnline] = useState<OnlineLevel>("toomuch");
 
   function toggleInterest(t: Tag) {
     setInterests((cur) => (cur.includes(t) ? cur.filter((x) => x !== t) : [...cur, t]));
   }
 
   function submit() {
-    const params = new URLSearchParams({ lean, vibe });
+    const params = new URLSearchParams({ lean, online });
     if (interests.length) params.set("i", interests.join(","));
     params.set("s", Math.random().toString(36).slice(2, 8));
     router.push(`/feed?${params}`);
@@ -44,13 +58,13 @@ export function SurveyForm() {
 
   const chip = (selected: boolean) =>
     `rounded-full border px-3.5 py-1.5 text-sm transition-colors ${
-      selected ? "border-accent bg-accent-soft text-ink" : "border-line bg-card text-ink-soft hover:border-accent/50"
+      selected ? "border-accent bg-accent-soft text-ink" : "border-line bg-card text-ink-soft hover:border-accent/60"
     }`;
 
   return (
     <div className="space-y-5">
       <fieldset>
-        <legend className="mb-2 text-sm font-medium text-ink-soft">Whose politics?</legend>
+        <legend className="mb-2 text-sm font-medium text-ink-soft">Where do they sit politically?</legend>
         <div className="flex flex-wrap gap-2">
           {LEANS.map((o) => (
             <button key={o.value} type="button" onClick={() => setLean(o.value)} className={chip(lean === o.value)}>
@@ -77,14 +91,14 @@ export function SurveyForm() {
       </fieldset>
 
       <fieldset>
-        <legend className="mb-2 text-sm font-medium text-ink-soft">What&apos;s the vibe?</legend>
+        <legend className="mb-2 text-sm font-medium text-ink-soft">How online are they?</legend>
         <div className="flex flex-wrap gap-2">
-          {VIBES.map((o) => (
+          {ONLINE.map((o) => (
             <button
               key={o.value}
               type="button"
-              onClick={() => setVibe(o.value)}
-              className={chip(vibe === o.value)}
+              onClick={() => setOnline(o.value)}
+              className={chip(online === o.value)}
               title={o.hint}
             >
               {o.label}
@@ -96,7 +110,7 @@ export function SurveyForm() {
       <button
         type="button"
         onClick={submit}
-        className="w-full rounded-2xl bg-accent px-4 py-3 font-medium text-white shadow-sm transition-transform hover:scale-[1.01] active:scale-[0.99]"
+        className="w-full rounded-2xl bg-accent px-4 py-3 font-medium text-accent-ink shadow-sm transition-transform hover:scale-[1.01] active:scale-[0.99]"
       >
         Show me this person&apos;s feed →
       </button>

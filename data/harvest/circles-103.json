@@ -1,0 +1,206 @@
+[
+  {
+    "handle": "SamuelLJackson",
+    "circle": [
+      {"handle": "TheRock", "inPool": true, "why": "fellow action movie star banter"},
+      {"handle": "KevinHart4real", "inPool": true, "why": "frequent comedy collab partner"},
+      {"handle": "RobertDowneyJr", "inPool": true, "why": "MCU co-stars interact often"},
+      {"handle": "chrisevans", "inPool": true, "why": "MCU Avengers cast peer"},
+      {"handle": "MarkRuffalo", "inPool": true, "why": "MCU castmate and activist ally"},
+      {"handle": "Marvel", "inPool": true, "why": "his flagship franchise account"},
+      {"handle": "MarvelStudios", "inPool": true, "why": "Nick Fury employer promo replies"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "longtime hip-hop celebrity pal"},
+      {"handle": "iamcardib", "inPool": true, "why": "mutual pop-culture engagement"},
+      {"handle": "Oprah", "inPool": true, "why": "shared cultural-icon peer circle"}
+    ]
+  },
+  {
+    "handle": "LeagueOfLegends",
+    "circle": [
+      {"handle": "lolesports", "inPool": true, "why": "official esports arm of LoL"},
+      {"handle": "Twitch", "inPool": true, "why": "primary streaming platform partner"},
+      {"handle": "rank1official", "inPool": true, "why": "top-ranked player community signal"},
+      {"handle": "LeagueOfLegends", "inPool": true, "why": "self-reference via RT ecosystem"},
+      {"handle": "IGN", "inPool": true, "why": "major gaming media coverage"},
+      {"handle": "WIRED", "inPool": true, "why": "tech and gaming feature coverage"},
+      {"handle": "YouTube", "inPool": true, "why": "VOD and champion-reveal host"},
+      {"handle": "XBOX", "inPool": true, "why": "cross-platform gaming partner promo"},
+      {"handle": "faker", "inPool": false, "why": "world's most famous LoL player"},
+      {"handle": "doublelift", "inPool": false, "why": "iconic NA pro engages official acct"}
+    ]
+  },
+  {
+    "handle": "LewisHamilton",
+    "circle": [
+      {"handle": "MercedesAMGF1", "inPool": true, "why": "his team, constant mutual tagging"},
+      {"handle": "F1", "inPool": true, "why": "official F1 account quotes him often"},
+      {"handle": "McLarenF1", "inPool": true, "why": "former team, historical engagement"},
+      {"handle": "rihanna", "inPool": true, "why": "celebrity friendship public exchanges"},
+      {"handle": "LewisHamilton", "inPool": true, "why": "self-promotional RTs"},
+      {"handle": "SkySportsF1", "inPool": false, "why": "main UK F1 broadcaster interviews"},
+      {"handle": "Max33Verstappen", "inPool": false, "why": "title rival, on-track tension"},
+      {"handle": "Charles_Leclerc", "inPool": false, "why": "fellow F1 star mutual respect"},
+      {"handle": "LandoNorris", "inPool": false, "why": "younger rival friendship dynamic"}
+    ]
+  },
+  {
+    "handle": "1future",
+    "circle": [
+      {"handle": "Drake", "inPool": true, "why": "close collaborator joint projects"},
+      {"handle": "MetroBoomin", "inPool": true, "why": "primary producer frequent collabs"},
+      {"handle": "gucci1017", "inPool": true, "why": "Atlanta scene OG mentor connection"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "fellow rapper touring and features"},
+      {"handle": "youngthug", "inPool": false, "why": "ATL peer collab and co-signs"},
+      {"handle": "21savage", "inPool": false, "why": "fellow Atlanta rapper mutual hype"},
+      {"handle": "trvisXX", "inPool": false, "why": "joint features Astroworld era"},
+      {"handle": "LilUziVert", "inPool": false, "why": "genre peer mutual cosigning"}
+    ]
+  },
+  {
+    "handle": "LilNasX",
+    "circle": [
+      {"handle": "billboardcharts", "inPool": true, "why": "Old Town Road chart milestone posts"},
+      {"handle": "chartdata", "inPool": true, "why": "streaming chart updates he RTs"},
+      {"handle": "iamcardib", "inPool": true, "why": "supportive replies and banter"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "chart competition feud and replies"},
+      {"handle": "charli_xcx", "inPool": true, "why": "mutual pop-star peer engagement"},
+      {"handle": "BillieEilish", "inPool": false, "why": "Gen-Z pop peer co-support"},
+      {"handle": "tylerthecreator", "inPool": false, "why": "creative idol he has cited"},
+      {"handle": "theestallion", "inPool": false, "why": "fellow hip-hop peer mutual hype"}
+    ]
+  },
+  {
+    "handle": "GordonRamsay",
+    "circle": [
+      {"handle": "Sethrogen", "inPool": true, "why": "mutual Twitter banter and humor"},
+      {"handle": "TheRock", "inPool": true, "why": "fellow celebrity brand crossover"},
+      {"handle": "KevinHart4real", "inPool": true, "why": "comedy meets food celebrity cross"},
+      {"handle": "jamieoliver", "inPool": false, "why": "long-running UK food star rivalry"},
+      {"handle": "Nigella_Lawson", "inPool": false, "why": "UK food media peer exchanges"},
+      {"handle": "davidchang", "inPool": false, "why": "fellow celeb chef mutual engagement"},
+      {"handle": "GuyFieri", "inPool": false, "why": "US TV food star cross-promotion"}
+    ]
+  },
+  {
+    "handle": "JColeNC",
+    "circle": [
+      {"handle": "Drake", "inPool": true, "why": "long-running rap peer and beef"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "fellow conscious rap peer"},
+      {"handle": "MetroBoomin", "inPool": true, "why": "producer collab and hype"},
+      {"handle": "billboardcharts", "inPool": true, "why": "chart milestones for albums"},
+      {"handle": "kendricklamar", "inPool": false, "why": "hip-hop peer and diss track dynamic"},
+      {"handle": "PUSHA_T", "inPool": false, "why": "fellow lyricist mutual respect"},
+      {"handle": "21savage", "inPool": false, "why": "Atlanta collab appearances"}
+    ]
+  },
+  {
+    "handle": "NBCNews",
+    "circle": [
+      {"handle": "CNN", "inPool": true, "why": "rival major cable news network"},
+      {"handle": "nytimes", "inPool": true, "why": "major newspaper media peer"},
+      {"handle": "Reuters", "inPool": true, "why": "wire service source and peer"},
+      {"handle": "WhiteHouse", "inPool": true, "why": "primary political beat source"},
+      {"handle": "JakeTapper", "inPool": true, "why": "rival anchor mutual journo cites"},
+      {"handle": "andersoncooper", "inPool": true, "why": "CNN anchor peer journalism"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "contributor and aligned journalist"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC anchor sister-network tie"},
+      {"handle": "RonanFarrow", "inPool": true, "why": "high-profile NBC contributor"},
+      {"handle": "AP", "inPool": true, "why": "wire service news partner citations"}
+    ]
+  },
+  {
+    "handle": "Charles_Leclerc",
+    "circle": [
+      {"handle": "F1", "inPool": true, "why": "official F1 account quotes him often"},
+      {"handle": "MercedesAMGF1", "inPool": true, "why": "rival team constant mention"},
+      {"handle": "LewisHamilton", "inPool": true, "why": "rival then teammate dynamic"},
+      {"handle": "McLarenF1", "inPool": true, "why": "championship rivals 2024 season"},
+      {"handle": "Max33Verstappen", "inPool": false, "why": "primary on-track F1 rival"},
+      {"handle": "LandoNorris", "inPool": false, "why": "friendly rival same generation"},
+      {"handle": "GeorgeRussell63", "inPool": false, "why": "peer F1 driver mutual engagement"},
+      {"handle": "ScuderiaFerrari", "inPool": false, "why": "his team official account"}
+    ]
+  },
+  {
+    "handle": "benshapiro",
+    "circle": [
+      {"handle": "TuckerCarlson", "inPool": true, "why": "conservative media ally and peer"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "ideological ally frequent cites"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "conservative commentator peer"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News host conservative ally"},
+      {"handle": "tedcruz", "inPool": true, "why": "GOP senator ally and mutual promo"},
+      {"handle": "ewarren", "inPool": true, "why": "ideological foil frequent target"},
+      {"handle": "AOC", "inPool": true, "why": "frequent debate target and foil"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA peer conservative ally"},
+      {"handle": "seanhannity", "inPool": false, "why": "Fox News anchor conservative ally"}
+    ]
+  },
+  {
+    "handle": "acmilan",
+    "circle": [
+      {"handle": "FCBarcelona", "inPool": true, "why": "historic European rival club"},
+      {"handle": "ChampionsLeague", "inPool": true, "why": "primary European competition"},
+      {"handle": "F1", "inPool": true, "why": "shared Italian sporting culture"},
+      {"handle": "ESPN", "inPool": true, "why": "US broadcast partner coverage"},
+      {"handle": "NFL", "inPool": true, "why": "cross-sport US fan engagement"},
+      {"handle": "Cristiano", "inPool": true, "why": "former Serie A rival Juventus star"},
+      {"handle": "InterMilan", "inPool": false, "why": "fierce Milan derby rival"},
+      {"handle": "JuventusFC", "inPool": false, "why": "top Serie A rival club"}
+    ]
+  },
+  {
+    "handle": "Mike_Pence",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "former boss, Jan 6 rupture"},
+      {"handle": "tedcruz", "inPool": true, "why": "Senate Republican ally"},
+      {"handle": "JDVance", "inPool": true, "why": "VP successor and Trump ally"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "Trump family foe post-Jan 6"},
+      {"handle": "IvankaTrump", "inPool": true, "why": "Trump family White House ties"},
+      {"handle": "RonDeSantis", "inPool": true, "why": "fellow conservative primary rival"},
+      {"handle": "ewarren", "inPool": true, "why": "ideological Senate opponent"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "conservative intellectual ally"}
+    ]
+  },
+  {
+    "handle": "NHL",
+    "circle": [
+      {"handle": "ESPN", "inPool": true, "why": "US broadcast rights partner"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN highlight reels partner"},
+      {"handle": "NFL", "inPool": true, "why": "fellow major North American league"},
+      {"handle": "NBA", "inPool": true, "why": "fellow pro sports league peer"},
+      {"handle": "MLB", "inPool": true, "why": "fellow North American pro league"},
+      {"handle": "NHLBruins", "inPool": true, "why": "one of biggest franchise accounts"},
+      {"handle": "StephenASmith", "inPool": true, "why": "ESPN personality cross-sport coverage"}
+    ]
+  },
+  {
+    "handle": "THR",
+    "circle": [
+      {"handle": "Variety", "inPool": true, "why": "direct industry rival publication"},
+      {"handle": "DEADLINE", "inPool": true, "why": "fellow entertainment trade rival"},
+      {"handle": "RollingStone", "inPool": true, "why": "culture media peer publication"},
+      {"handle": "nytimes", "inPool": true, "why": "major media peer with arts coverage"},
+      {"handle": "TheAcademy", "inPool": false, "why": "Oscars coverage source"},
+      {"handle": "SamuelLJackson", "inPool": true, "why": "frequent interview subject"},
+      {"handle": "Marvel", "inPool": true, "why": "major entertainment story source"},
+      {"handle": "andersoncooper", "inPool": true, "why": "media world peer cross-cite"},
+      {"handle": "piersmorgan", "inPool": true, "why": "media personality interview subject"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "entertainment figure coverage"}
+    ]
+  },
+  {
+    "handle": "ewarren",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive caucus close ally"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive ideological partner"},
+      {"handle": "JoeBiden", "inPool": true, "why": "Democratic Party colleague"},
+      {"handle": "KamalaHarris", "inPool": true, "why": "Senate Democratic colleague"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC ally frequent platform"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media ally platform"},
+      {"handle": "RonanFarrow", "inPool": true, "why": "investigative journalism ally"},
+      {"handle": "nytimes", "inPool": true, "why": "primary media platform for policy"},
+      {"handle": "benshapiro", "inPool": true, "why": "conservative foil frequent target"},
+      {"handle": "tedcruz", "inPool": true, "why": "Senate Republican rival debates"}
+    ]
+  }
+]

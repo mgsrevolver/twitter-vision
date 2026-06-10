@@ -1,0 +1,193 @@
+[
+  {
+    "handle": "PUSHA_T",
+    "circle": [
+      {"handle": "kanyewest", "inPool": true, "why": "longtime G.O.O.D. Music label boss"},
+      {"handle": "Drake", "inPool": true, "why": "famous beef / rap feud"},
+      {"handle": "Eminem", "inPool": true, "why": "mutual respect, rap peer"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "hip-hop elder peer"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "rap era colleague"},
+      {"handle": "Akademiks", "inPool": false, "why": "hip-hop media frequent interactions"},
+      {"handle": "XXL", "inPool": true, "why": "rap media coverage"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "hip-hop peer, same era"}
+    ]
+  },
+  {
+    "handle": "GuyFieri",
+    "circle": [
+      {"handle": "AltonBrown", "inPool": true, "why": "Food Network colleague"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "celebrity chef peer"},
+      {"handle": "KevinHart4real", "inPool": true, "why": "frequent celeb guest on show"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "Flavortown collab, close friendship"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "mutual sports-entertainment crossover"},
+      {"handle": "MarthaStewart", "inPool": false, "why": "food celebrity peer"},
+      {"handle": "Wendys", "inPool": false, "why": "food brand Twitter banter"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "frequent Tonight Show food segments"}
+    ]
+  },
+  {
+    "handle": "NateSilver538",
+    "circle": [
+      {"handle": "ewarren", "inPool": true, "why": "political topic engagement"},
+      {"handle": "axios", "inPool": true, "why": "media peer, data journalism"},
+      {"handle": "thehill", "inPool": true, "why": "political media peer"},
+      {"handle": "ezraklein", "inPool": false, "why": "policy wonk peer, mutual engagement"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC media peer"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "political media peer"},
+      {"handle": "BernieSanders", "inPool": true, "why": "polls frequently about Bernie"},
+      {"handle": "JakeTapper", "inPool": true, "why": "CNN election analyst peer"}
+    ]
+  },
+  {
+    "handle": "VivekGRamaswamy",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "right-media peer, frequent ally"},
+      {"handle": "tedcruz", "inPool": true, "why": "GOP political peer"},
+      {"handle": "JDVance", "inPool": true, "why": "MAGA ally, political colleague"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "conservative media peer"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech-right ally, mutual engagement"},
+      {"handle": "pmarca", "inPool": true, "why": "tech-right venture capitalist ally"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA conservative media ally"},
+      {"handle": "RonDeSantis", "inPool": true, "why": "GOP primary rival then ally"}
+    ]
+  },
+  {
+    "handle": "ShamsCharania",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "direct NBA scoop rival"},
+      {"handle": "NBA", "inPool": true, "why": "primary beat coverage"},
+      {"handle": "ESPN", "inPool": true, "why": "employer network"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN colleague, on-air partner"},
+      {"handle": "BillSimmons", "inPool": true, "why": "basketball media peer"},
+      {"handle": "KingJames", "inPool": true, "why": "LeBron frequently covers"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "covers Warriors star"},
+      {"handle": "KDTrey5", "inPool": true, "why": "covers KD trades/moves"}
+    ]
+  },
+  {
+    "handle": "PatMcAfeeShow",
+    "circle": [
+      {"handle": "officialmcafee", "inPool": true, "why": "same person's alt/personal account"},
+      {"handle": "AaronRodgers12", "inPool": false, "why": "long-running weekly show guest"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "ESPN colleague, NFL news peer"},
+      {"handle": "NFL", "inPool": true, "why": "primary content domain"},
+      {"handle": "ESPN", "inPool": true, "why": "employer/platform"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN on-air colleague"},
+      {"handle": "KevinHart4real", "inPool": true, "why": "celebrity entertainment crossover"},
+      {"handle": "Ninja", "inPool": true, "why": "gaming-sports crossover friend"}
+    ]
+  },
+  {
+    "handle": "LandoNorris",
+    "circle": [
+      {"handle": "McLarenF1", "inPool": true, "why": "McLaren team account"},
+      {"handle": "F1", "inPool": true, "why": "Formula 1 official"},
+      {"handle": "Max33Verstappen", "inPool": false, "why": "on-track rival, friendship"},
+      {"handle": "Charles_Leclerc", "inPool": false, "why": "F1 peer, gaming buddy"},
+      {"handle": "GeorgeRussell63", "inPool": false, "why": "British F1 peer"},
+      {"handle": "MrBeast", "inPool": true, "why": "gaming/content creator crossover"},
+      {"handle": "xQc", "inPool": true, "why": "streamer friend, gaming content"}
+    ]
+  },
+  {
+    "handle": "Giannis_An34",
+    "circle": [
+      {"handle": "KingJames", "inPool": true, "why": "NBA peer, MVP comparisons"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "NBA peer, Finals rival"},
+      {"handle": "NBA", "inPool": true, "why": "primary league account"},
+      {"handle": "wojespn", "inPool": true, "why": "frequently reported on by Woj"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA reporter, Bucks coverage"},
+      {"handle": "ESPN", "inPool": true, "why": "major coverage platform"},
+      {"handle": "JoelEmbiid", "inPool": true, "why": "MVP rival, mutual engagement"},
+      {"handle": "KDTrey5", "inPool": true, "why": "NBA superstar peer"}
+    ]
+  },
+  {
+    "handle": "jimgaffigan",
+    "circle": [
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy peer, mutual Twitter banter"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "comedy colleague, TV show peer"},
+      {"handle": "mulaney", "inPool": true, "why": "comedy peer, mutual respect"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late night comedy peer"},
+      {"handle": "SteveMartinToGo", "inPool": false, "why": "comedy legend peer"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "stand-up comedy peer"},
+      {"handle": "KevinHart4real", "inPool": true, "why": "comedy peer"},
+      {"handle": "rickygervais", "inPool": true, "why": "comedy peer, Twitter presence"}
+    ]
+  },
+  {
+    "handle": "WatcherGuru",
+    "circle": [
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalist frequent subject"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum founder, crypto news"},
+      {"handle": "cz_binance", "inPool": true, "why": "Binance/crypto exchange news"},
+      {"handle": "elonmusk", "inPool": true, "why": "Dogecoin/crypto market mover"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO crypto news"},
+      {"handle": "unusual_whales", "inPool": false, "why": "sister crypto/finance media account"},
+      {"handle": "zerohedge", "inPool": false, "why": "finance media peer"}
+    ]
+  },
+  {
+    "handle": "GoldmanSachs",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "major market mover they cover"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin/macro finance"},
+      {"handle": "chamath", "inPool": true, "why": "tech venture finance peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech finance commentator"},
+      {"handle": "naval", "inPool": true, "why": "venture/finance thought leader"},
+      {"handle": "jimcramer", "inPool": false, "why": "financial media peer"},
+      {"handle": "unusual_whales", "inPool": false, "why": "financial market tracker"}
+    ]
+  },
+  {
+    "handle": "Timbaland",
+    "circle": [
+      {"handle": "jtimberlake", "inPool": true, "why": "frequent collaborator, close friend"},
+      {"handle": "Drake", "inPool": true, "why": "hip-hop production collaboration"},
+      {"handle": "kanyewest", "inPool": true, "why": "music peer, mutual engagement"},
+      {"handle": "Eminem", "inPool": true, "why": "rap era peer"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "hip-hop elder peer"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "R&B/rap peer"},
+      {"handle": "Missy_Elliott", "inPool": false, "why": "longtime creative partner"}
+    ]
+  },
+  {
+    "handle": "jaytatum0",
+    "circle": [
+      {"handle": "KingJames", "inPool": true, "why": "NBA legend, frequent comparisons"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "NBA rival, Finals opponent"},
+      {"handle": "Giannis_An34", "inPool": true, "why": "NBA superstar peer"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN NBA reporter covers him"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA reporter, Celtics coverage"},
+      {"handle": "NBA", "inPool": true, "why": "league account"},
+      {"handle": "KDTrey5", "inPool": true, "why": "NBA peer, contract/trade talks"},
+      {"handle": "ESPN", "inPool": true, "why": "major coverage platform"}
+    ]
+  },
+  {
+    "handle": "megynkelly",
+    "circle": [
+      {"handle": "TuckerCarlson", "inPool": true, "why": "Fox News peer, conservative media"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News peer colleague"},
+      {"handle": "FoxNews", "inPool": true, "why": "former employer"},
+      {"handle": "benshapiro", "inPool": true, "why": "conservative media peer"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "conservative media peer"},
+      {"handle": "tedcruz", "inPool": true, "why": "GOP figure she covers"},
+      {"handle": "seanhannity", "inPool": false, "why": "Fox News colleague, conservative peer"},
+      {"handle": "elonmusk", "inPool": true, "why": "Twitter/X mutual engagement"}
+    ]
+  },
+  {
+    "handle": "garyvee",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "tech entrepreneur mutual engagement"},
+      {"handle": "pmarca", "inPool": true, "why": "venture capital peer"},
+      {"handle": "naval", "inPool": true, "why": "entrepreneur thought leader peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech venture peer"},
+      {"handle": "chamath", "inPool": true, "why": "tech finance peer"},
+      {"handle": "sama", "inPool": true, "why": "tech CEO peer"},
+      {"handle": "saylor", "inPool": true, "why": "entrepreneur/crypto peer"},
+      {"handle": "paulg", "inPool": true, "why": "startup/VC peer"}
+    ]
+  }
+]

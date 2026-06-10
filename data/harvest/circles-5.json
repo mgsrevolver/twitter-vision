@@ -1,0 +1,577 @@
+[
+  {
+    "handle": "kanyewest",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "public ally, mutual praise"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "political alliance, meetings"
+      },
+      {
+        "handle": "NICKIMINAJ",
+        "inPool": true,
+        "why": "longtime rap collaborator"
+      },
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "famous rap feud rival"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "hip-hop peer, collaborator"
+      },
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "music peer, mutual respect"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "hip-hop peer, occasional banter"
+      },
+      {
+        "handle": "ladygaga",
+        "inPool": true,
+        "why": "Grammy collaborator, fan"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": false,
+        "why": "infamous 2009 VMA feud"
+      },
+      {
+        "handle": "KimKardashian",
+        "inPool": false,
+        "why": "ex-wife, co-parent"
+      },
+      {
+        "handle": "S_C_",
+        "inPool": false,
+        "why": "Jay-Z longtime collaborator"
+      },
+      {
+        "handle": "johnlegend",
+        "inPool": false,
+        "why": "former close friend, broke ties"
+      }
+    ]
+  },
+  {
+    "handle": "Google",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "tech rival, frequent mention"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "partner on research initiatives"
+      },
+      {
+        "handle": "SpaceX",
+        "inPool": true,
+        "why": "cloud and data partnership"
+      },
+      {
+        "handle": "NintendoAmerica",
+        "inPool": true,
+        "why": "gaming platform partner"
+      },
+      {
+        "handle": "YouTube",
+        "inPool": false,
+        "why": "owned platform sibling account"
+      },
+      {
+        "handle": "Microsoft",
+        "inPool": false,
+        "why": "cloud/AI direct competitor"
+      },
+      {
+        "handle": "tim_cook",
+        "inPool": false,
+        "why": "Apple CEO, platform rival"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": false,
+        "why": "founder era, tech ecosystem"
+      }
+    ]
+  },
+  {
+    "handle": "HillaryClinton",
+    "circle": [
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "VP colleague, endorsed her"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "2016 election opponent"
+      },
+      {
+        "handle": "berniesanders",
+        "inPool": true,
+        "why": "2016 primary rival"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive wing, party"
+      },
+      {
+        "handle": "MichelleObama",
+        "inPool": true,
+        "why": "close ally, mutual support"
+      },
+      {
+        "handle": "SpeakerPelosi",
+        "inPool": true,
+        "why": "longtime Democratic colleague"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": false,
+        "why": "president she served under"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": false,
+        "why": "successor, party ally"
+      },
+      {
+        "handle": "POTUS",
+        "inPool": false,
+        "why": "WH account, party dialogue"
+      },
+      {
+        "handle": "UN",
+        "inPool": false,
+        "why": "as Secretary of State"
+      }
+    ]
+  },
+  {
+    "handle": "POTUS",
+    "circle": [
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "account used by Biden"
+      },
+      {
+        "handle": "WhiteHouse",
+        "inPool": true,
+        "why": "companion official account"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "predecessor/rival"
+      },
+      {
+        "handle": "HillaryClinton",
+        "inPool": true,
+        "why": "party colleague, supporter"
+      },
+      {
+        "handle": "berniesanders",
+        "inPool": true,
+        "why": "party left flank dialogue"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "vocal progressive in party"
+      },
+      {
+        "handle": "MichelleObama",
+        "inPool": true,
+        "why": "former First Lady ally"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": false,
+        "why": "VP official account"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": false,
+        "why": "predecessor, party lead"
+      },
+      {
+        "handle": "CNN",
+        "inPool": false,
+        "why": "press interaction, coverage"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": false,
+        "why": "major press interaction"
+      }
+    ]
+  },
+  {
+    "handle": "NICKIMINAJ",
+    "circle": [
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "rap rival, public feuds"
+      },
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "Young Money labelmate"
+      },
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "Caribbean peer, collaborator"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "hip-hop peer, mutual respect"
+      },
+      {
+        "handle": "ladygaga",
+        "inPool": true,
+        "why": "pop collaborator, mutual fans"
+      },
+      {
+        "handle": "MetroBoomin",
+        "inPool": true,
+        "why": "producer, collaborator"
+      },
+      {
+        "handle": "JimGaffigan",
+        "inPool": true,
+        "why": "unexpected Twitter banter"
+      },
+      {
+        "handle": "kanyewest",
+        "inPool": false,
+        "why": "longtime rap collaborator"
+      },
+      {
+        "handle": "KimKardashian",
+        "inPool": false,
+        "why": "celebrity peer, social media"
+      },
+      {
+        "handle": "Eminem",
+        "inPool": false,
+        "why": "collaboration on rap track"
+      },
+      {
+        "handle": "Beyonce",
+        "inPool": false,
+        "why": "pop peer, occasional interaction"
+      }
+    ]
+  },
+  {
+    "handle": "PriyankaChopra",
+    "circle": [
+      {
+        "handle": "iamsrk",
+        "inPool": true,
+        "why": "Bollywood icon, close friend"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "celebrity STEM ambassador"
+      },
+      {
+        "handle": "jtimberlake",
+        "inPool": true,
+        "why": "Hollywood peer, events"
+      },
+      {
+        "handle": "TheRock",
+        "inPool": true,
+        "why": "Hollywood peer, worked together"
+      },
+      {
+        "handle": "Marvel",
+        "inPool": true,
+        "why": "Citadel crossover, Hollywood"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "US talk show appearances"
+      },
+      {
+        "handle": "UN",
+        "inPool": false,
+        "why": "UNICEF Goodwill Ambassador"
+      },
+      {
+        "handle": "Oprah",
+        "inPool": false,
+        "why": "appeared on show, mutual"
+      },
+      {
+        "handle": "TheEllenShow",
+        "inPool": false,
+        "why": "frequent US talk show guest"
+      },
+      {
+        "handle": "KimKardashian",
+        "inPool": false,
+        "why": "celebrity peer, events"
+      }
+    ]
+  },
+  {
+    "handle": "Adele",
+    "circle": [
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "pop peer, mutual respect"
+      },
+      {
+        "handle": "ladygaga",
+        "inPool": true,
+        "why": "pop peer, award shows"
+      },
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "chart interactions, music media"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "frequent US show guest"
+      },
+      {
+        "handle": "coldplay",
+        "inPool": true,
+        "why": "UK music peer, friend"
+      },
+      {
+        "handle": "jk_rowling",
+        "inPool": true,
+        "why": "UK celebrity mutual fan"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": false,
+        "why": "close friends publicly"
+      },
+      {
+        "handle": "edsheeran",
+        "inPool": false,
+        "why": "UK music peer, collaborator"
+      },
+      {
+        "handle": "KimKardashian",
+        "inPool": false,
+        "why": "celebrity peer, social"
+      },
+      {
+        "handle": "TheEllenShow",
+        "inPool": false,
+        "why": "famous Ellen Adele moments"
+      }
+    ]
+  },
+  {
+    "handle": "TheEconomist",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "covers him extensively"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "major political coverage"
+      },
+      {
+        "handle": "HillaryClinton",
+        "inPool": true,
+        "why": "US politics coverage"
+      },
+      {
+        "handle": "berniesanders",
+        "inPool": true,
+        "why": "economic policy coverage"
+      },
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "US presidency coverage"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": false,
+        "why": "frequent citation, philanthropy"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": false,
+        "why": "US politics/foreign policy"
+      },
+      {
+        "handle": "UN",
+        "inPool": false,
+        "why": "global affairs coverage"
+      },
+      {
+        "handle": "tim_cook",
+        "inPool": false,
+        "why": "tech/business coverage"
+      }
+    ]
+  },
+  {
+    "handle": "ConanOBrien",
+    "circle": [
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "late night peer, friendly rival"
+      },
+      {
+        "handle": "StephenAtHome",
+        "inPool": true,
+        "why": "late night colleague"
+      },
+      {
+        "handle": "TheRock",
+        "inPool": true,
+        "why": "frequent celebrity guest"
+      },
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "memorable interview moments"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "cultural commentary target"
+      },
+      {
+        "handle": "rickygervais",
+        "inPool": true,
+        "why": "comedy peer, transatlantic"
+      },
+      {
+        "handle": "NBA",
+        "inPool": true,
+        "why": "basketball comedy content"
+      },
+      {
+        "handle": "JimGaffigan",
+        "inPool": true,
+        "why": "comedian peer, mutual banter"
+      },
+      {
+        "handle": "KevinHart4real",
+        "inPool": false,
+        "why": "comedy peer, toured together"
+      },
+      {
+        "handle": "TheEllenShow",
+        "inPool": false,
+        "why": "daytime TV peer, mutual"
+      },
+      {
+        "handle": "SethMacFarlane",
+        "inPool": false,
+        "why": "comedy industry peer, friend"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": false,
+        "why": "interview guest"
+      }
+    ]
+  },
+  {
+    "handle": "FoxNews",
+    "circle": [
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "main political champion"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "former top anchor"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "tech ally, X relationship"
+      },
+      {
+        "handle": "HillaryClinton",
+        "inPool": true,
+        "why": "frequent political opponent"
+      },
+      {
+        "handle": "WhiteHouse",
+        "inPool": true,
+        "why": "official government coverage"
+      },
+      {
+        "handle": "berniesanders",
+        "inPool": true,
+        "why": "political opposition covered"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "frequent progressive target"
+      },
+      {
+        "handle": "DonaldJTrumpJr",
+        "inPool": true,
+        "why": "frequent guest/ally"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": false,
+        "why": "frequent political opponent"
+      },
+      {
+        "handle": "CNN",
+        "inPool": false,
+        "why": "direct media rival"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": false,
+        "why": "mainstream media rival"
+      },
+      {
+        "handle": "joerogan",
+        "inPool": false,
+        "why": "overlapping audience/guests"
+      }
+    ]
+  }
+]

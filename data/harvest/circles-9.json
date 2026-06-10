@@ -1,0 +1,552 @@
+[
+  {
+    "handle": "TuckerCarlson",
+    "circle": [
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "mutual amplification, frequent praise"
+      },
+      {
+        "handle": "DonaldJTrumpJr",
+        "inPool": true,
+        "why": "right-media ally, cross-promotion"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "X platform interviews, ideological overlap"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "right-media peer, shared audiences"
+      },
+      {
+        "handle": "RandPaul",
+        "inPool": true,
+        "why": "libertarian-right alignment, mutual RTs"
+      },
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "Republican politician, regular engagement"
+      },
+      {
+        "handle": "joerogan",
+        "inPool": false,
+        "why": "podcast peer, audience crossover"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "political foil, frequent sparring"
+      },
+      {
+        "handle": "piersmorgan",
+        "inPool": true,
+        "why": "media peer, trans-Atlantic commentary"
+      },
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "primary attack target presidency era"
+      }
+    ]
+  },
+  {
+    "handle": "UN",
+    "circle": [
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "US presidency, UNGA engagement"
+      },
+      {
+        "handle": "MichelleObama",
+        "inPool": true,
+        "why": "UN Women advocacy partner"
+      },
+      {
+        "handle": "narendramodi",
+        "inPool": true,
+        "why": "major member state leader"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "SDGs science collaboration content"
+      },
+      {
+        "handle": "HillaryClinton",
+        "inPool": true,
+        "why": "former SoS global affairs mentions"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "tension over humanitarian policy"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "US withdrawal/funding controversy"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": false,
+        "why": "VP multilateral diplomacy mentions"
+      },
+      {
+        "handle": "Pontifex",
+        "inPool": false,
+        "why": "Vatican humanitarian peace overlap"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": false,
+        "why": "UNGA speeches, climate leadership"
+      }
+    ]
+  },
+  {
+    "handle": "AP",
+    "circle": [
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "frequent fake-news attack target"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "X platform access disputes, media war"
+      },
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "extensively covered, press pool access"
+      },
+      {
+        "handle": "narendramodi",
+        "inPool": true,
+        "why": "major international news subject"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "frequently quoted in political coverage"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "science/space coverage collaboration"
+      },
+      {
+        "handle": "SpaceX",
+        "inPool": true,
+        "why": "space launch news sourcing"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "sports news competitor/co-cite"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "NFL news beat overlap"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "NBA beat reporter peer"
+      }
+    ]
+  },
+  {
+    "handle": "Marvel",
+    "circle": [
+      {
+        "handle": "MarvelStudios",
+        "inPool": true,
+        "why": "sibling account, constant cross-posts"
+      },
+      {
+        "handle": "RobertDowneyJr",
+        "inPool": true,
+        "why": "Iron Man era collab and promos"
+      },
+      {
+        "handle": "TheRock",
+        "inPool": true,
+        "why": "Marvel adjacent hype collaborations"
+      },
+      {
+        "handle": "MarkRuffalo",
+        "inPool": true,
+        "why": "Hulk actor, regular Marvel promo"
+      },
+      {
+        "handle": "Netflix",
+        "inPool": true,
+        "why": "Daredevil/Defenders streaming deals"
+      },
+      {
+        "handle": "DisneyPlus",
+        "inPool": true,
+        "why": "primary streaming distribution partner"
+      },
+      {
+        "handle": "StarWars",
+        "inPool": true,
+        "why": "Disney sibling brand, joint campaigns"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "Iron Man/Elon pop-culture meme overlap"
+      },
+      {
+        "handle": "ChrisEvans",
+        "inPool": false,
+        "why": "Captain America promo engagement"
+      },
+      {
+        "handle": "Lin_Manuel",
+        "inPool": true,
+        "why": "Hamilton/Marvel crossover fan content"
+      }
+    ]
+  },
+  {
+    "handle": "Ninja",
+    "circle": [
+      {
+        "handle": "MrBeast",
+        "inPool": true,
+        "why": "top creator peer, collab content"
+      },
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "streaming peer, shared gaming audience"
+      },
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "famous Fortnite stream collab 2018"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "gaming fan, Ninja-Fortnite mentions"
+      },
+      {
+        "handle": "FortniteGame",
+        "inPool": false,
+        "why": "primary game, historic 1M stream"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "celebrity gaming crossover"
+      },
+      {
+        "handle": "Markiplier",
+        "inPool": false,
+        "why": "YouTube gaming peer, mutual engagement"
+      },
+      {
+        "handle": "PewDiePie",
+        "inPool": false,
+        "why": "biggest gaming YouTuber, era overlap"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "esports coverage feature subject"
+      },
+      {
+        "handle": "KevinHart4real",
+        "inPool": false,
+        "why": "celebrity gamer, gaming streams"
+      }
+    ]
+  },
+  {
+    "handle": "RafaelNadal",
+    "circle": [
+      {
+        "handle": "rogerfederer",
+        "inPool": false,
+        "why": "GOAT rivalry, mutual respect posts"
+      },
+      {
+        "handle": "atptour",
+        "inPool": true,
+        "why": "governing body, tournament official posts"
+      },
+      {
+        "handle": "CaroWozniacki",
+        "inPool": true,
+        "why": "friend, mutual tennis congratulations"
+      },
+      {
+        "handle": "Cristiano",
+        "inPool": false,
+        "why": "Spanish sports icon peers, mutual follows"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "GOAT debate peer, sports icon"
+      },
+      {
+        "handle": "TheRock",
+        "inPool": true,
+        "why": "sports celebrity cross-mentions"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "primary US tennis media coverage"
+      },
+      {
+        "handle": "narendramodi",
+        "inPool": true,
+        "why": "Indian tennis following, state visit"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "global celebrity mutual mentions"
+      },
+      {
+        "handle": "F1",
+        "inPool": true,
+        "why": "Spanish sports fan, F1 crossover"
+      }
+    ]
+  },
+  {
+    "handle": "9GAG",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "meme king overlap, Elon joke reposts"
+      },
+      {
+        "handle": "TheRock",
+        "inPool": true,
+        "why": "viral content subject, meme fodder"
+      },
+      {
+        "handle": "MrBeast",
+        "inPool": true,
+        "why": "viral video creator crossover audience"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "comedy content crossover audience"
+      },
+      {
+        "handle": "PewDiePie",
+        "inPool": false,
+        "why": "shared meme/gaming humor audience"
+      },
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "viral celebrity meme content"
+      },
+      {
+        "handle": "GuyInYourMFA",
+        "inPool": true,
+        "why": "humor account mutual audience"
+      },
+      {
+        "handle": "rickygervais",
+        "inPool": true,
+        "why": "dark humor comedy overlap"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "meme-ready celebrity content"
+      },
+      {
+        "handle": "KevinHart4real",
+        "inPool": false,
+        "why": "humor content crossover"
+      }
+    ]
+  },
+  {
+    "handle": "berniesanders",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "closest political ally, co-legislation"
+      },
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "primary rival turned coalition partner"
+      },
+      {
+        "handle": "HillaryClinton",
+        "inPool": true,
+        "why": "2016 primary rival, party tension"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "billionaire class target, famous spat"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "political adversary, frequent rebuttal"
+      },
+      {
+        "handle": "SpeakerPelosi",
+        "inPool": true,
+        "why": "House leader, legislative partner"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "labor rights mutual support"
+      },
+      {
+        "handle": "narendramodi",
+        "inPool": true,
+        "why": "international labor/democracy topics"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": false,
+        "why": "fellow 2020 primary candidate"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": false,
+        "why": "Democratic party relationship"
+      }
+    ]
+  },
+  {
+    "handle": "Beyonce",
+    "circle": [
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "pop queen peers, era rivalry/respect"
+      },
+      {
+        "handle": "ladygaga",
+        "inPool": true,
+        "why": "Telephone collab, mutual praise"
+      },
+      {
+        "handle": "katyperry",
+        "inPool": true,
+        "why": "pop era peer, mutual industry circles"
+      },
+      {
+        "handle": "NICKIMINAJ",
+        "inPool": true,
+        "why": "hip-hop collab Feeling Myself"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "hip-hop collaboration, mutual praise"
+      },
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "OVO/Roc Nation circles, industry peer"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": false,
+        "why": "pop music peer, awards era"
+      },
+      {
+        "handle": "MetroBoomin",
+        "inPool": true,
+        "why": "production circles, music collab"
+      },
+      {
+        "handle": "Oprah",
+        "inPool": false,
+        "why": "cultural icon friendship, Lemonade feature"
+      },
+      {
+        "handle": "kanyewest",
+        "inPool": false,
+        "why": "VMAs history, Jay-Z industry link"
+      }
+    ]
+  },
+  {
+    "handle": "tim_cook",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "tech rival, App Store public dispute"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI/tech CEO peer circles"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "VC tech ecosystem overlap"
+      },
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "White House business council participant"
+      },
+      {
+        "handle": "narendramodi",
+        "inPool": true,
+        "why": "India manufacturing investment meetings"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "tariff/manufacturing political engagement"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech policy, AI czar adjacent"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "Apple/NASA partnership content"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "crypto/tech ecosystem mentions"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": false,
+        "why": "tech elder statesman peer"
+      }
+    ]
+  }
+]

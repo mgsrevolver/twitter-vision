@@ -1,0 +1,188 @@
+[
+  {
+    "handle": "BukayoSaka87",
+    "circle": [
+      {"handle": "GNev2", "inPool": true, "why": "Sky Sports pundit covers Arsenal regularly"},
+      {"handle": "IanWright0", "inPool": true, "why": "Arsenal legend, mentor figure to Saka"},
+      {"handle": "GaryLineker", "inPool": true, "why": "England coverage, Match of the Day host"},
+      {"handle": "ManUtd", "inPool": true, "why": "Premier League rival club banter"},
+      {"handle": "SpursOfficial", "inPool": true, "why": "North London derby rival engagement"},
+      {"handle": "FCBarcelona", "inPool": true, "why": "Champions League fixture interactions"},
+      {"handle": "Arsenal", "inPool": false, "why": "His own club's official account"},
+      {"handle": "Carra23", "inPool": false, "why": "Sky Sports pundit, England punditry"}
+    ]
+  },
+  {
+    "handle": "m8arteta",
+    "circle": [
+      {"handle": "GNev2", "inPool": true, "why": "Former teammate at Man City, punditry colleague"},
+      {"handle": "IanWright0", "inPool": true, "why": "Arsenal legend, frequent club booster"},
+      {"handle": "GaryLineker", "inPool": true, "why": "BBC pundit covers Arsenal extensively"},
+      {"handle": "FCBarcelona", "inPool": true, "why": "Former club, Pep Guardiola disciple ties"},
+      {"handle": "ManUtd", "inPool": true, "why": "Premier League rival banter"},
+      {"handle": "SpursOfficial", "inPool": true, "why": "North London derby rivalry"},
+      {"handle": "Arsenal", "inPool": false, "why": "Club he manages, official channel"},
+      {"handle": "David_Ornstein", "inPool": false, "why": "Athletic journalist covers Arsenal transfers"}
+    ]
+  },
+  {
+    "handle": "Ken_Rosenthal",
+    "circle": [
+      {"handle": "MLB", "inPool": true, "why": "Beat reporter, constant MLB interaction"},
+      {"handle": "espn", "inPool": true, "why": "Former ESPN, media crossover"},
+      {"handle": "SportsCenter", "inPool": true, "why": "Baseball news amplified via SportsCenter"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "Fellow sports reporter peer"},
+      {"handle": "BleacherReport", "inPool": true, "why": "Baseball news aggregation engagement"},
+      {"handle": "WSJ", "inPool": true, "why": "Established sports journalism outlet"},
+      {"handle": "nytimes", "inPool": true, "why": "NYT sports desk peers"},
+      {"handle": "JeffPassan", "inPool": false, "why": "ESPN baseball reporter, peer/rival"}
+    ]
+  },
+  {
+    "handle": "arielhelwani",
+    "circle": [
+      {"handle": "ufc", "inPool": true, "why": "Primary beat, constant UFC coverage"},
+      {"handle": "joerogan", "inPool": true, "why": "UFC commentator, podcast crossover"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "Sports media debate show interactions"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN colleague, sports media"},
+      {"handle": "TheNotoriousMMA", "inPool": false, "why": "McGregor interviews, beat access"},
+      {"handle": "JonnyBones", "inPool": false, "why": "Jon Jones coverage and interviews"},
+      {"handle": "MMAFighting", "inPool": false, "why": "Competitor MMA outlet"}
+    ]
+  },
+  {
+    "handle": "PhilMickelson",
+    "circle": [
+      {"handle": "livgolf_league", "inPool": true, "why": "LIV Golf figurehead, major advocate"},
+      {"handle": "joerogan", "inPool": true, "why": "Podcast appearances and promotions"},
+      {"handle": "stephenasmith", "inPool": true, "why": "LIV Golf controversy debates on ESPN"},
+      {"handle": "espn", "inPool": true, "why": "Golf coverage on ESPN"},
+      {"handle": "TigerWoods", "inPool": false, "why": "Long-time rival and occasional collaborator"},
+      {"handle": "McIlroyRory", "inPool": false, "why": "PGA Tour defender, public feud over LIV"},
+      {"handle": "PGATOUR", "inPool": false, "why": "Former tour he publicly criticized"}
+    ]
+  },
+  {
+    "handle": "DavidSacks",
+    "circle": [
+      {"handle": "jason", "inPool": true, "why": "All-In Podcast co-host"},
+      {"handle": "chamath", "inPool": true, "why": "All-In Podcast co-host"},
+      {"handle": "pmarca", "inPool": true, "why": "Frequent tech/politics debate partner"},
+      {"handle": "naval", "inPool": true, "why": "Silicon Valley contrarian peer"},
+      {"handle": "paulg", "inPool": true, "why": "YC founder, VC thought-leader peer"},
+      {"handle": "sama", "inPool": true, "why": "AI/tech policy debates"},
+      {"handle": "elonmusk", "inPool": true, "why": "Close ally, WH AI/crypto czar role"},
+      {"handle": "JDVance", "inPool": true, "why": "Political ally, MAGA-adjacent tech sphere"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "Shared political orbit"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "Appointed crypto/AI czar by Trump"}
+    ]
+  },
+  {
+    "handle": "chelseaperetti",
+    "circle": [
+      {"handle": "billyeichner", "inPool": true, "why": "Friend and comedy peer"},
+      {"handle": "mulaney", "inPool": true, "why": "Comedy scene mutual"},
+      {"handle": "Sethrogen", "inPool": true, "why": "Comedy circle crossover"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "NBC/late-night appearances"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "Comedy TV crossover appearances"},
+      {"handle": "JordanPeele", "inPool": false, "why": "Her husband, direct personal tie"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "Comedy peer, mutual engagement"}
+    ]
+  },
+  {
+    "handle": "DEADLINE",
+    "circle": [
+      {"handle": "THR", "inPool": true, "why": "Direct competitor, trade publication peer"},
+      {"handle": "Variety", "inPool": true, "why": "Direct competitor, trade publication peer"},
+      {"handle": "CNN", "inPool": true, "why": "Breaking entertainment news amplification"},
+      {"handle": "nytimes", "inPool": true, "why": "Film coverage cross-reference"},
+      {"handle": "TheAcademy", "inPool": false, "why": "Oscars awards-season primary coverage"},
+      {"handle": "IMDb", "inPool": false, "why": "Film data partner/peer"},
+      {"handle": "EW", "inPool": false, "why": "Entertainment Weekly, trade peer"}
+    ]
+  },
+  {
+    "handle": "ddale8",
+    "circle": [
+      {"handle": "CNN", "inPool": true, "why": "His employer, constant interaction"},
+      {"handle": "andersoncooper", "inPool": true, "why": "CNN colleague, on-air appearances"},
+      {"handle": "JakeTapper", "inPool": true, "why": "CNN colleague, collaborative fact-checks"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC peer, media fact-check circle"},
+      {"handle": "washingtonpost", "inPool": true, "why": "Peer fact-checking outlet"},
+      {"handle": "KamalaHarris", "inPool": true, "why": "Subjects of political fact-checks"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "Primary fact-check subject for years"}
+    ]
+  },
+  {
+    "handle": "hankgreen",
+    "circle": [
+      {"handle": "neiltyson", "inPool": true, "why": "Science communicator peer"},
+      {"handle": "BillNye", "inPool": true, "why": "Science communicator elder, peer"},
+      {"handle": "sciam", "inPool": true, "why": "Science media mutual amplification"},
+      {"handle": "NASA", "inPool": true, "why": "Science content frequent engagement"},
+      {"handle": "nytimes", "inPool": true, "why": "Media outlet covering his work"},
+      {"handle": "johngreen", "inPool": false, "why": "His brother, Vlogbrothers co-creator"},
+      {"handle": "SciShow", "inPool": false, "why": "His YouTube channel brand"}
+    ]
+  },
+  {
+    "handle": "robdelaney",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "Frequent Conan guest, comedy pal"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "Late-night comedy circuit peer"},
+      {"handle": "mulaney", "inPool": true, "why": "Stand-up/comedy scene peer"},
+      {"handle": "Sethrogen", "inPool": true, "why": "Comedy circuit mutual"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Late-night appearance circuit"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "Twitter comedy peer, long-term mutual"},
+      {"handle": "chelseahandler", "inPool": false, "why": "Comedy peer, mutual Twitter presence"}
+    ]
+  },
+  {
+    "handle": "davidchang",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "Celebrity chef peer, mutual engagement"},
+      {"handle": "altonbrown", "inPool": true, "why": "Food TV peer, mutual respect"},
+      {"handle": "PadmaLakshmi", "inPool": true, "why": "Top Chef and food world colleague"},
+      {"handle": "nytimes", "inPool": true, "why": "NYT food coverage regular feature"},
+      {"handle": "chefjoseandres", "inPool": false, "why": "Chef peer, humanitarian work overlap"},
+      {"handle": "ruthreichl", "inPool": false, "why": "Food critic peer, Gourmet magazine era"},
+      {"handle": "bonappetit", "inPool": false, "why": "Food media that covers his work"}
+    ]
+  },
+  {
+    "handle": "chefjoseandres",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "Celebrity chef peer"},
+      {"handle": "altonbrown", "inPool": true, "why": "Food TV and chef community peer"},
+      {"handle": "PadmaLakshmi", "inPool": true, "why": "Food media and humanitarian overlap"},
+      {"handle": "nytimes", "inPool": true, "why": "NYT coverage of humanitarian work"},
+      {"handle": "CNN", "inPool": true, "why": "CNN humanitarian food relief coverage"},
+      {"handle": "davidchang", "inPool": false, "why": "Fellow acclaimed chef, peer"},
+      {"handle": "ruthreichl", "inPool": false, "why": "Food writing and critic community"}
+    ]
+  },
+  {
+    "handle": "ruthreichl",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "Celebrity chef world crossover"},
+      {"handle": "altonbrown", "inPool": true, "why": "Food media/TV peer"},
+      {"handle": "PadmaLakshmi", "inPool": true, "why": "Food culture media, Top Chef"},
+      {"handle": "nytimes", "inPool": true, "why": "Former NYT restaurant critic, strong ties"},
+      {"handle": "davidchang", "inPool": false, "why": "Chef whose work she has reviewed/covered"},
+      {"handle": "chefjoseandres", "inPool": false, "why": "Food world humanitarian peer"},
+      {"handle": "nytfood", "inPool": false, "why": "NYT food section, her former home"}
+    ]
+  },
+  {
+    "handle": "nytfood",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "Parent publication account"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "Celebrity chef coverage"},
+      {"handle": "altonbrown", "inPool": true, "why": "Food TV personality coverage"},
+      {"handle": "PadmaLakshmi", "inPool": true, "why": "Top Chef and food culture figure"},
+      {"handle": "chefjoseandres", "inPool": false, "why": "Featured chef, humanitarian tie-ins"},
+      {"handle": "davidchang", "inPool": false, "why": "Momofuku chef, frequent feature subject"},
+      {"handle": "bonappetit", "inPool": false, "why": "Competitor/peer food media outlet"}
+    ]
+  }
+]

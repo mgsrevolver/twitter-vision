@@ -1,0 +1,145 @@
+[
+  {
+    "handle": "MZHemingway",
+    "circle": [
+      { "handle": "seanmdav", "inPool": false, "why": "Federalist co-founder daily collaborator" },
+      { "handle": "TuckerCarlson", "inPool": true, "why": "Fox News ideological ally frequent RT" },
+      { "handle": "benshapiro", "inPool": true, "why": "conservative media peer amplifier" },
+      { "handle": "JackPosobiec", "inPool": false, "why": "right-media mutual booster" },
+      { "handle": "dbongino", "inPool": true, "why": "Fox colleague regular interaction" },
+      { "handle": "IngrahamAngle", "inPool": true, "why": "Fox News ally regular RT" },
+      { "handle": "FoxNews", "inPool": true, "why": "Fox contributor home outlet" }
+    ]
+  },
+  {
+    "handle": "seanmdav",
+    "circle": [
+      { "handle": "MZHemingway", "inPool": false, "why": "Federalist co-founder daily collaborator" },
+      { "handle": "benshapiro", "inPool": true, "why": "conservative media peer amplifier" },
+      { "handle": "TuckerCarlson", "inPool": true, "why": "ideological ally frequent RT" },
+      { "handle": "dbongino", "inPool": true, "why": "conservative media radio peer" },
+      { "handle": "charliekirk11", "inPool": false, "why": "TPUSA conservative movement ally" }
+    ]
+  },
+  {
+    "handle": "realchrisrufo",
+    "circle": [
+      { "handle": "benshapiro", "inPool": true, "why": "conservative media amplifier ally" },
+      { "handle": "charliekirk11", "inPool": false, "why": "TPUSA ally frequent amplification" },
+      { "handle": "jordanbpeterson", "inPool": true, "why": "anti-woke ideological fellow traveler" },
+      { "handle": "TuckerCarlson", "inPool": true, "why": "Fox platform gave him reach" },
+      { "handle": "robbystarbuck", "inPool": false, "why": "anti-DEI corporate campaign partner" },
+      { "handle": "FoxNews", "inPool": true, "why": "frequent Fox guest amplifier" }
+    ]
+  },
+  {
+    "handle": "robbystarbuck",
+    "circle": [
+      { "handle": "realchrisrufo", "inPool": false, "why": "anti-DEI movement co-campaigner" },
+      { "handle": "benshapiro", "inPool": true, "why": "conservative media peer booster" },
+      { "handle": "charliekirk11", "inPool": false, "why": "TPUSA conservative movement ally" },
+      { "handle": "TuckerCarlson", "inPool": true, "why": "Fox platform amplified reach" }
+    ]
+  },
+  {
+    "handle": "TheSteinLine",
+    "circle": [
+      { "handle": "wojespn", "inPool": true, "why": "ESPN NBA insider peer" },
+      { "handle": "ShamsCharania", "inPool": true, "why": "rival NBA insider competitor" },
+      { "handle": "BillSimmons", "inPool": true, "why": "long-time NBA media colleague" },
+      { "handle": "RealSkipBayless", "inPool": true, "why": "ESPN NBA debate show peer" },
+      { "handle": "AdamSchefter", "inPool": true, "why": "ESPN insider media colleague" },
+      { "handle": "espn", "inPool": true, "why": "former employer regular mention" },
+      { "handle": "NBA", "inPool": true, "why": "beat reporter NBA official account" }
+    ]
+  },
+  {
+    "handle": "ClickHole",
+    "circle": [
+      { "handle": "TheOnion", "inPool": true, "why": "parent company satire sibling" },
+      { "handle": "SethMacFarlane", "inPool": true, "why": "comedy account mutual amplification" },
+      { "handle": "mindykaling", "inPool": true, "why": "comedy fans frequently share" },
+      { "handle": "robdelaney", "inPool": true, "why": "absurdist comedy Twitter peer" }
+    ]
+  },
+  {
+    "handle": "meganamram",
+    "circle": [
+      { "handle": "mulaney", "inPool": true, "why": "comedy writer friend peer" },
+      { "handle": "mindykaling", "inPool": true, "why": "comedy TV writer colleague" },
+      { "handle": "SethMacFarlane", "inPool": true, "why": "TV comedy writer network" },
+      { "handle": "robdelaney", "inPool": true, "why": "absurdist Twitter humor peer" },
+      { "handle": "TheOnion", "inPool": true, "why": "comedy brand frequent sharer" }
+    ]
+  },
+  {
+    "handle": "KobeissiLetter",
+    "circle": [
+      { "handle": "naval", "inPool": true, "why": "finance tech thought leader cited" },
+      { "handle": "chamath", "inPool": true, "why": "finance commentary peer" },
+      { "handle": "pmarca", "inPool": true, "why": "tech finance influencer peer" },
+      { "handle": "DavidSacks", "inPool": true, "why": "finance tech commentator ally" },
+      { "handle": "ParikPatelCFA", "inPool": true, "why": "financial satire peer account" },
+      { "handle": "elonmusk", "inPool": true, "why": "macro finance commentary frequent" },
+      { "handle": "RayDalio", "inPool": true, "why": "macro finance authority cited" }
+    ]
+  },
+  {
+    "handle": "cdixon",
+    "circle": [
+      { "handle": "sama", "inPool": true, "why": "a16z tech founder peer" },
+      { "handle": "VitalikButerin", "inPool": true, "why": "crypto ecosystem collaborator" },
+      { "handle": "naval", "inPool": true, "why": "crypto tech philosophy peer" },
+      { "handle": "pmarca", "inPool": true, "why": "a16z partner close colleague" },
+      { "handle": "DavidSacks", "inPool": true, "why": "crypto tech VC peer" },
+      { "handle": "brian_armstrong", "inPool": true, "why": "Coinbase crypto ecosystem ally" },
+      { "handle": "cz_binance", "inPool": true, "why": "crypto exchange leader peer" },
+      { "handle": "saylor", "inPool": true, "why": "Bitcoin maximalist crypto ally" }
+    ]
+  },
+  {
+    "handle": "WholesomeMeme",
+    "circle": [
+      { "handle": "dog_rates", "inPool": true, "why": "wholesome animal meme peer" }
+    ]
+  },
+  {
+    "handle": "MontereyAq",
+    "circle": [
+      { "handle": "NASA", "inPool": true, "why": "science outreach peer account" }
+    ]
+  },
+  {
+    "handle": "seriouseats",
+    "circle": [
+      { "handle": "GordonRamsay", "inPool": true, "why": "food media authority peer" }
+    ]
+  },
+  {
+    "handle": "RMcElhenney",
+    "circle": [
+      { "handle": "VancityReynolds", "inPool": true, "why": "Wrexham co-owner close partner" },
+      { "handle": "mulaney", "inPool": true, "why": "comedy writer friend peer" },
+      { "handle": "SethMacFarlane", "inPool": true, "why": "TV comedy network peer" },
+      { "handle": "chrisevans", "inPool": true, "why": "Hollywood actor social peer" }
+    ]
+  },
+  {
+    "handle": "elijahwood",
+    "circle": [
+      { "handle": "VancityReynolds", "inPool": true, "why": "Hollywood actor social media" },
+      { "handle": "neilhimself", "inPool": true, "why": "genre fiction fan collaborator" },
+      { "handle": "StephenKing", "inPool": true, "why": "horror genre fan interaction" },
+      { "handle": "chrisevans", "inPool": true, "why": "fellow Marvel-era actor peer" }
+    ]
+  },
+  {
+    "handle": "summit1g",
+    "circle": [
+      { "handle": "xQc", "inPool": true, "why": "streaming peer frequent rival" },
+      { "handle": "Ninja", "inPool": true, "why": "FPS streaming peer OG era" },
+      { "handle": "timthetatman", "inPool": false, "why": "close streaming friend group" },
+      { "handle": "NICKMERCS", "inPool": false, "why": "streaming friend FPS peer" }
+    ]
+  }
+]

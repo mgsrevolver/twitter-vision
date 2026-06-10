@@ -1,0 +1,497 @@
+[
+  {
+    "handle": "KenDilanianNBC",
+    "circle": [
+      {
+        "handle": "NBCNews",
+        "inPool": true,
+        "why": "employer network account"
+      },
+      {
+        "handle": "JakeTapper",
+        "inPool": true,
+        "why": "peer national security reporter"
+      },
+      {
+        "handle": "RonanFarrow",
+        "inPool": true,
+        "why": "fellow investigative journalist"
+      },
+      {
+        "handle": "atrupar",
+        "inPool": true,
+        "why": "DC media colleague frequent RT"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "cross-network news org"
+      },
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "links and scoops shared"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC colleague"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "MSNBC colleague debate"
+      }
+    ]
+  },
+  {
+    "handle": "JasonLeopold",
+    "circle": [
+      {
+        "handle": "JakeTapper",
+        "inPool": true,
+        "why": "fellow FOIA/national-security reporter"
+      },
+      {
+        "handle": "atrupar",
+        "inPool": true,
+        "why": "DC political media peer"
+      },
+      {
+        "handle": "RonanFarrow",
+        "inPool": true,
+        "why": "investigative journalism peer"
+      },
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "news links sharing"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "competing outlet cross-coverage"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "competing national outlet"
+      }
+    ]
+  },
+  {
+    "handle": "adamjohnsonCHI",
+    "circle": [
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "media criticism peer frequent RT"
+      },
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "media criticism colleague"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive politics alignment"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "left-media colleague"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "progressive media figure"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive policy support"
+      }
+    ]
+  },
+  {
+    "handle": "NFLDraftNetwork",
+    "circle": [
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "top NFL news source"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "main league account"
+      },
+      {
+        "handle": "PFTCommenter",
+        "inPool": true,
+        "why": "NFL media peer humor"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "competitor/partner coverage"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "NFL media personality"
+      },
+      {
+        "handle": "RapSheet",
+        "inPool": false,
+        "why": "NFL insider peer"
+      }
+    ]
+  },
+  {
+    "handle": "willchamberlain",
+    "circle": [
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "aligned political figure"
+      },
+      {
+        "handle": "DonaldJTrumpJr",
+        "inPool": true,
+        "why": "right media ally"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "right-wing media peer"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "right media ally"
+      },
+      {
+        "handle": "catturd2",
+        "inPool": true,
+        "why": "MAGA social media peer"
+      },
+      {
+        "handle": "Acyn",
+        "inPool": true,
+        "why": "clips account he engages/disputes"
+      }
+    ]
+  },
+  {
+    "handle": "KylePorterCBS",
+    "circle": [
+      {
+        "handle": "PhilMickelson",
+        "inPool": true,
+        "why": "golf star covered"
+      },
+      {
+        "handle": "livgolf_league",
+        "inPool": true,
+        "why": "LIV golf beat coverage"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "sports media cross promo"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "competitor sports outlet"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "sports media figure"
+      }
+    ]
+  },
+  {
+    "handle": "NHM_WPY",
+    "circle": [
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "wildlife photography peer account"
+      },
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "science communication outreach"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communication peer"
+      },
+      {
+        "handle": "billmckibben",
+        "inPool": true,
+        "why": "environmental cause alignment"
+      }
+    ]
+  },
+  {
+    "handle": "MagicRealismBot",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist Twitter bot peer"
+      },
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "wholesome/humor Twitter peer"
+      },
+      {
+        "handle": "iamdevloper",
+        "inPool": true,
+        "why": "comedic bot/account peer"
+      }
+    ]
+  },
+  {
+    "handle": "danaschwartzzz",
+    "circle": [
+      {
+        "handle": "SarahKSilverman",
+        "inPool": true,
+        "why": "comedy writer peer"
+      },
+      {
+        "handle": "robdelaney",
+        "inPool": true,
+        "why": "comedy writer friend"
+      },
+      {
+        "handle": "AnnaKendrick47",
+        "inPool": true,
+        "why": "pop-culture humor peer"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "books/pop-culture colleague"
+      },
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "author she engages"
+      },
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist humor inspiration"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "comedy writer former employer"
+      }
+    ]
+  },
+  {
+    "handle": "JeffWeniger",
+    "circle": [
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "bitcoin/macro finance peer"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "finance/tech investor peer"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "finance/startup philosophy peer"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "tech-finance commentary peer"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "finance/tech commentary peer"
+      }
+    ]
+  },
+  {
+    "handle": "NaomiOreskes",
+    "circle": [
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "science communication ally"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science public outreach peer"
+      },
+      {
+        "handle": "GretaThunberg",
+        "inPool": true,
+        "why": "climate activism alignment"
+      },
+      {
+        "handle": "billmckibben",
+        "inPool": true,
+        "why": "climate advocacy peer"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "Green New Deal support"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive policy alignment"
+      }
+    ]
+  },
+  {
+    "handle": "PleaseBeGneiss",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist humor community"
+      },
+      {
+        "handle": "iamdevloper",
+        "inPool": true,
+        "why": "niche comedic account peer"
+      },
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "wholesome humor community"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science popularizer engagement"
+      }
+    ]
+  },
+  {
+    "handle": "IncredibleCulk",
+    "circle": [
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "late night humor peer"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "comedy actor peer"
+      },
+      {
+        "handle": "SarahKSilverman",
+        "inPool": true,
+        "why": "comedy peer"
+      },
+      {
+        "handle": "robdelaney",
+        "inPool": true,
+        "why": "comedy Twitter peer"
+      },
+      {
+        "handle": "TheEllenShow",
+        "inPool": true,
+        "why": "daytime celebrity banter"
+      },
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist Twitter humor peer"
+      }
+    ]
+  },
+  {
+    "handle": "jill_lepore",
+    "circle": [
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "author peer engagement"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "literary figure engagement"
+      },
+      {
+        "handle": "jk_rowling",
+        "inPool": true,
+        "why": "prominent author peer"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "frequent contributor outlet"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive politics alignment"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive policy voice"
+      }
+    ]
+  },
+  {
+    "handle": "JustinCChang",
+    "circle": [
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "director he frequently covers"
+      },
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "filmmaker he covers/praises"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "peer trade publication"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "peer trade publication"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "film industry news peer"
+      },
+      {
+        "handle": "KateyRich",
+        "inPool": true,
+        "why": "film critic peer"
+      }
+    ]
+  }
+]

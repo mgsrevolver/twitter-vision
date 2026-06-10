@@ -1,0 +1,211 @@
+[
+  {
+    "handle": "RubinReport",
+    "circle": [
+      {"handle": "charliekirk11", "inPool": false, "why": "frequent TPUSA ally and co-host"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "regular podcast guest, ideological ally"},
+      {"handle": "benshapiro", "inPool": true, "why": "ideological ally, frequent retweeter"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "right-media orbit, mutual amplification"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News right-media colleague"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "fellow heterodox right commentator"},
+      {"handle": "elonmusk", "inPool": true, "why": "free-speech ally, frequent engagement"},
+      {"handle": "pmarca", "inPool": true, "why": "tech-right crossover figure he engages"},
+      {"handle": "joerogan", "inPool": true, "why": "podcast peer, ideological crossover"},
+      {"handle": "naval", "inPool": true, "why": "intellectual libertarian he frequently RTs"}
+    ]
+  },
+  {
+    "handle": "TPUSA",
+    "circle": [
+      {"handle": "charliekirk11", "inPool": false, "why": "founder and primary face of org"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "TPUSA speaker circuit regular"},
+      {"handle": "benshapiro", "inPool": true, "why": "allied right-media org amplification"},
+      {"handle": "RBReich", "inPool": true, "why": "frequent ideological sparring target"},
+      {"handle": "AOC", "inPool": true, "why": "recurring opponent in culture-war content"},
+      {"handle": "elonmusk", "inPool": true, "why": "endorsed and amplified by TPUSA"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "organizational patron, Trump supporter"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "ideological ally in right media"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News ally amplifying TPUSA content"}
+    ]
+  },
+  {
+    "handle": "pmarca",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "close tech peer, Andreessen invested in OpenAI era"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech ally, frequent intellectual exchanges"},
+      {"handle": "naval", "inPool": true, "why": "libertarian tech philosophy peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "a16z peer and All-In podcast colleague"},
+      {"handle": "chamath", "inPool": true, "why": "All-In podcast co-host, longtime ally"},
+      {"handle": "jason", "inPool": true, "why": "All-In podcast co-host"},
+      {"handle": "paulg", "inPool": true, "why": "startup/VC peer, mutual admiration"},
+      {"handle": "saylor", "inPool": true, "why": "tech-finance crossover he engages"},
+      {"handle": "karaswisher", "inPool": false, "why": "longtime tech-press adversary"},
+      {"handle": "tim_cook", "inPool": true, "why": "Big Tech figure he critiques/engages"}
+    ]
+  },
+  {
+    "handle": "edgarwright",
+    "circle": [
+      {"handle": "SimonPegg", "inPool": false, "why": "Cornetto trilogy collaborator and best friend"},
+      {"handle": "NickFrost", "inPool": false, "why": "Cornetto trilogy co-star"},
+      {"handle": "VancityReynolds", "inPool": true, "why": "film peer, mutual Hollywood banter"},
+      {"handle": "rianjohnson", "inPool": true, "why": "director peer, cinephile exchanges"},
+      {"handle": "JamesGunn", "inPool": false, "why": "director peer, frequent film discussion"},
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "film-games auteur he engages with"},
+      {"handle": "DEADLINE", "inPool": true, "why": "trades coverage he interacts with"},
+      {"handle": "THR", "inPool": true, "why": "film trades he engages regularly"},
+      {"handle": "Variety", "inPool": true, "why": "film industry media he references"}
+    ]
+  },
+  {
+    "handle": "RBReich",
+    "circle": [
+      {"handle": "BernieSanders", "inPool": true, "why": "close policy ally, frequent mutual RTs"},
+      {"handle": "ewarren", "inPool": true, "why": "economic policy ally, frequent amplification"},
+      {"handle": "AOC", "inPool": true, "why": "progressive ally he often amplifies"},
+      {"handle": "elonmusk", "inPool": true, "why": "frequent critical target on inequality"},
+      {"handle": "JoeBiden", "inPool": true, "why": "Democratic administration figure he comments on"},
+      {"handle": "BarackObama", "inPool": true, "why": "Obama-era colleague, ideological ally"},
+      {"handle": "nytimes", "inPool": true, "why": "frequent op-ed contributor, shares coverage"},
+      {"handle": "washingtonpost", "inPool": true, "why": "regular media he engages and shares"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC progressive peer"},
+      {"handle": "KamalaHarris", "inPool": true, "why": "Democratic politician he supports"}
+    ]
+  },
+  {
+    "handle": "BBCEarth",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "fellow nature/wildlife media peer"},
+      {"handle": "NASA", "inPool": true, "why": "science media they cross-amplify"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communicator they engage"},
+      {"handle": "SpaceX", "inPool": true, "why": "STEM content cross-promotion"},
+      {"handle": "BBCBreaking", "inPool": true, "why": "same BBC family of accounts"},
+      {"handle": "Reuters", "inPool": true, "why": "news peer they cross-reference"}
+    ]
+  },
+  {
+    "handle": "Nick_Offerman",
+    "circle": [
+      {"handle": "AmyPoehler", "inPool": false, "why": "Parks & Rec castmate, close friend"},
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy peer and collaborator"},
+      {"handle": "mulaney", "inPool": true, "why": "comedy world peer he engages"},
+      {"handle": "VancityReynolds", "inPool": true, "why": "comedy film peer"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "late-night comedy world peer"},
+      {"handle": "SarahKSilverman", "inPool": true, "why": "comedy community peer"},
+      {"handle": "billyeichner", "inPool": true, "why": "comedy community peer"},
+      {"handle": "rianjohnson", "inPool": true, "why": "director he has worked with/engaged"}
+    ]
+  },
+  {
+    "handle": "AndrewYNg",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "AI field leader, mutual engagement"},
+      {"handle": "elonmusk", "inPool": true, "why": "AI safety debates and industry engagement"},
+      {"handle": "pmarca", "inPool": true, "why": "tech-AI crossover investor he engages"},
+      {"handle": "karpathy", "inPool": false, "why": "former colleague at OpenAI/Stanford AI"},
+      {"handle": "ylecun", "inPool": false, "why": "deep learning peer, AI research community"},
+      {"handle": "NASA", "inPool": true, "why": "STEM content he amplifies"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communication peer"},
+      {"handle": "tim_cook", "inPool": true, "why": "Big Tech AI figure he engages"},
+      {"handle": "OpenAI", "inPool": false, "why": "central AI org he comments on"},
+      {"handle": "naval", "inPool": true, "why": "tech philosophy peer he engages"}
+    ]
+  },
+  {
+    "handle": "jonstewart",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "late-night comedy peer and friend"},
+      {"handle": "SarahKSilverman", "inPool": true, "why": "comedy peer, political humor ally"},
+      {"handle": "StephenKing", "inPool": true, "why": "political commentary peer"},
+      {"handle": "BarackObama", "inPool": true, "why": "appeared on Daily Show, mutual respect"},
+      {"handle": "BernieSanders", "inPool": true, "why": "political figure he frequently covered"},
+      {"handle": "elonmusk", "inPool": true, "why": "frequent critical commentary target"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "core comedy/political target"},
+      {"handle": "mulaney", "inPool": true, "why": "comedy protégé and close friend"},
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy peer, political ally"},
+      {"handle": "billyeichner", "inPool": true, "why": "comedy and political crossover peer"}
+    ]
+  },
+  {
+    "handle": "geoffkeighley",
+    "circle": [
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "close friend, TGA regular collaborator"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "major partner for TGA/gaming events"},
+      {"handle": "PlayStation", "inPool": true, "why": "major platform TGA partner"},
+      {"handle": "Xbox", "inPool": true, "why": "major platform TGA partner"},
+      {"handle": "IGN", "inPool": true, "why": "gaming media peer he engages"},
+      {"handle": "Ninja", "inPool": true, "why": "gaming personality TGA crossover"},
+      {"handle": "Pilestedt", "inPool": true, "why": "game dev he's covered at TGA"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech figure he engages on gaming topics"},
+      {"handle": "sama", "inPool": true, "why": "AI-gaming crossover he engages"}
+    ]
+  },
+  {
+    "handle": "pcgamer",
+    "circle": [
+      {"handle": "IGN", "inPool": true, "why": "gaming media peer and rival"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "gaming brand they cover and engage"},
+      {"handle": "Xbox", "inPool": true, "why": "gaming platform they cover"},
+      {"handle": "PlayStation", "inPool": true, "why": "gaming platform they cover"},
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "auteur game dev they cover closely"},
+      {"handle": "Pilestedt", "inPool": true, "why": "Helldivers 2 dev with Twitter presence"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "TGA partner, gaming events overlap"},
+      {"handle": "xQc", "inPool": true, "why": "PC gaming streamer they cover"},
+      {"handle": "Ninja", "inPool": true, "why": "gaming personality they cover/engage"}
+    ]
+  },
+  {
+    "handle": "IAMSUMMERWALKER",
+    "circle": [
+      {"handle": "MetroBoomin", "inPool": true, "why": "close collaborator, produced her music"},
+      {"handle": "Drake", "inPool": true, "why": "collaborated on tracks, mutual engagement"},
+      {"handle": "charli_xcx", "inPool": true, "why": "R&B/pop peer era"},
+      {"handle": "SZA", "inPool": false, "why": "R&B peer and collaborator"},
+      {"handle": "billboardcharts", "inPool": true, "why": "music charts coverage she engages"},
+      {"handle": "pitchfork", "inPool": true, "why": "music media that has covered her"},
+      {"handle": "RollingStone", "inPool": true, "why": "music media that covers R&B"}
+    ]
+  },
+  {
+    "handle": "JoeBudden",
+    "circle": [
+      {"handle": "Drake", "inPool": true, "why": "famous public feud, beef history"},
+      {"handle": "Akademiks", "inPool": false, "why": "former Everyday Struggle co-host"},
+      {"handle": "cthagod", "inPool": false, "why": "media peer, Breakfast Club crossover"},
+      {"handle": "questlove", "inPool": false, "why": "hip-hop media elder peer"},
+      {"handle": "XXL", "inPool": true, "why": "hip-hop media he interacts with"},
+      {"handle": "MetroBoomin", "inPool": true, "why": "producer in his hip-hop orbit"},
+      {"handle": "RollingStone", "inPool": true, "why": "music media he engages/critiques"},
+      {"handle": "pitchfork", "inPool": true, "why": "music media he references"}
+    ]
+  },
+  {
+    "handle": "maggieNYT",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "employer, she shares their content constantly"},
+      {"handle": "JakeTapper", "inPool": true, "why": "DC media peer, frequent exchanges"},
+      {"handle": "andersoncooper", "inPool": true, "why": "CNN peer she engages with"},
+      {"handle": "washingtonpost", "inPool": true, "why": "rival paper but mutual media orbit"},
+      {"handle": "axios", "inPool": true, "why": "DC political media peer"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "primary beat subject, frequent target"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC media peer she engages"},
+      {"handle": "elonmusk", "inPool": true, "why": "frequent engagement/criticism of Twitter owner"},
+      {"handle": "BernieSanders", "inPool": true, "why": "political figure she covers and engages"},
+      {"handle": "KamalaHarris", "inPool": true, "why": "major political subject she covers"}
+    ]
+  },
+  {
+    "handle": "PFF",
+    "circle": [
+      {"handle": "espn", "inPool": true, "why": "major sports media they feed data to"},
+      {"handle": "NFL", "inPool": true, "why": "core subject and partner"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL reporter who uses PFF data"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "NFL media personality using PFF stats"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN sports media peer they engage"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "sports media analyst using PFF grades"},
+      {"handle": "BillSimmons", "inPool": true, "why": "sports media personality in NFL orbit"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "sports reporter peer they engage"},
+      {"handle": "OptaJoe", "inPool": true, "why": "fellow sports statistics media peer"}
+    ]
+  }
+]

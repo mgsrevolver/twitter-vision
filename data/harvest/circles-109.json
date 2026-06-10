@@ -1,0 +1,201 @@
+[
+  {
+    "handle": "JDVance",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "close ally, frequent mutual engagement"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "VP to Trump, constant alignment"},
+      {"handle": "benshapiro", "inPool": true, "why": "right-media peer collaboration"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "MAGA orbit mutual support"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "nationalist-right media ally"},
+      {"handle": "RonDeSantis", "inPool": true, "why": "GOP political peer"},
+      {"handle": "tedcruz", "inPool": true, "why": "Senate Republican colleague"},
+      {"handle": "ewarren", "inPool": true, "why": "political debate sparring"},
+      {"handle": "pmarca", "inPool": true, "why": "tech-right ideological alignment"},
+      {"handle": "DavidSacks", "inPool": true, "why": "PayPal mafia tech-right ally"}
+    ]
+  },
+  {
+    "handle": "OpenAI",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "CEO leads OpenAI account"},
+      {"handle": "Microsoft", "inPool": true, "why": "major investor and partner"},
+      {"handle": "elonmusk", "inPool": true, "why": "founder turned high-profile critic"},
+      {"handle": "karpathy", "inPool": false, "why": "former research director alum"},
+      {"handle": "Google", "inPool": true, "why": "chief competitor in AI space"},
+      {"handle": "nvidia", "inPool": true, "why": "GPU supplier ecosystem partner"},
+      {"handle": "pmarca", "inPool": true, "why": "venture backer tech commentary"},
+      {"handle": "naval", "inPool": true, "why": "AI tech discourse participant"},
+      {"handle": "DavidSacks", "inPool": true, "why": "AI policy critic and commentator"}
+    ]
+  },
+  {
+    "handle": "MarketWatch",
+    "circle": [
+      {"handle": "WSJ", "inPool": true, "why": "sibling Dow Jones publication"},
+      {"handle": "CNBC", "inPool": true, "why": "financial media competitor"},
+      {"handle": "Reuters", "inPool": true, "why": "wire service content partner"},
+      {"handle": "Forbes", "inPool": true, "why": "finance media peer outlet"},
+      {"handle": "JeffBezos", "inPool": true, "why": "covers major business figures"},
+      {"handle": "elonmusk", "inPool": true, "why": "frequent business news subject"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin finance news subject"},
+      {"handle": "RayDalio", "inPool": true, "why": "macro investing commentary cited"}
+    ]
+  },
+  {
+    "handle": "pokimane",
+    "circle": [
+      {"handle": "xQc", "inPool": true, "why": "top streamer peer, OTV adjacent"},
+      {"handle": "Twitch", "inPool": true, "why": "platform she helped define"},
+      {"handle": "Ninja", "inPool": true, "why": "fellow top-tier streamer peer"},
+      {"handle": "markiplier", "inPool": true, "why": "YouTube/gaming crossover peer"},
+      {"handle": "timthetatman", "inPool": false, "why": "fellow streamer in same orbit"},
+      {"handle": "shroud", "inPool": false, "why": "Twitch peer, OTV overlap"},
+      {"handle": "Valkyrae", "inPool": false, "why": "close friend and streamer peer"},
+      {"handle": "Sykkuno", "inPool": false, "why": "OTV housemate close friend"}
+    ]
+  },
+  {
+    "handle": "timthetatman",
+    "circle": [
+      {"handle": "xQc", "inPool": true, "why": "frequent collab and FPS peer"},
+      {"handle": "Ninja", "inPool": true, "why": "Warzone squad teammate streamer"},
+      {"handle": "Twitch", "inPool": true, "why": "home platform institution"},
+      {"handle": "NICKMERCS", "inPool": false, "why": "close friend Warzone squad"},
+      {"handle": "shroud", "inPool": false, "why": "FPS partner streamer collab"},
+      {"handle": "DrDisrespect", "inPool": false, "why": "streaming contemporary peer"},
+      {"handle": "pokimane", "inPool": false, "why": "Twitch peer mutual engagement"},
+      {"handle": "markiplier", "inPool": true, "why": "YouTube gaming crossover"}
+    ]
+  },
+  {
+    "handle": "RecordingAcad",
+    "circle": [
+      {"handle": "billboardcharts", "inPool": true, "why": "music charts partner media"},
+      {"handle": "billboard", "inPool": true, "why": "music industry trade partner"},
+      {"handle": "RollingStone", "inPool": true, "why": "music media mutual coverage"},
+      {"handle": "taylorswift13", "inPool": true, "why": "multiple GRAMMY winner performer"},
+      {"handle": "Harry_Styles", "inPool": true, "why": "GRAMMY winner and frequent artist"},
+      {"handle": "charli_xcx", "inPool": true, "why": "nominated artist engagement"},
+      {"handle": "pitchfork", "inPool": true, "why": "music criticism media peer"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "GRAMMY nominated rap artist"},
+      {"handle": "iamcardib", "inPool": true, "why": "GRAMMY winner engagement"}
+    ]
+  },
+  {
+    "handle": "MarsCuriosity",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "parent organization mission control"},
+      {"handle": "SpaceX", "inPool": true, "why": "Mars mission partner frequent tag"},
+      {"handle": "NASAPersevere", "inPool": true, "why": "sibling Mars rover account"},
+      {"handle": "NASAWebb", "inPool": true, "why": "sibling NASA science mission"},
+      {"handle": "Space_Station", "inPool": false, "why": "fellow NASA space outpost"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "astronaut space science ally"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communicator mutual boost"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "astronaut science ambassador"},
+      {"handle": "sciam", "inPool": true, "why": "science media frequent coverage"}
+    ]
+  },
+  {
+    "handle": "sciam",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "science institution regular coverage"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communicator peer"},
+      {"handle": "BillNye", "inPool": true, "why": "public science advocate partner"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "science media peer coverage"},
+      {"handle": "MarsCuriosity", "inPool": true, "why": "space science mutual amplify"},
+      {"handle": "NASAWebb", "inPool": true, "why": "astronomy science coverage"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "astronaut science commentary"},
+      {"handle": "hankgreen", "inPool": true, "why": "science communication collaborator"}
+    ]
+  },
+  {
+    "handle": "WWF",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "nature media partner and peer"},
+      {"handle": "NASA", "inPool": true, "why": "climate science institutional ally"},
+      {"handle": "BillNye", "inPool": true, "why": "environmental advocacy alignment"},
+      {"handle": "sciam", "inPool": true, "why": "science media amplification peer"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "Earth observation astronaut ally"},
+      {"handle": "hankgreen", "inPool": true, "why": "environmental science communicator"}
+    ]
+  },
+  {
+    "handle": "AltonBrown",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "celebrity chef peer engagement"},
+      {"handle": "Sethrogen", "inPool": true, "why": "comedian foodie Twitter mutual"},
+      {"handle": "neiltyson", "inPool": true, "why": "fellow science-curious nerd"},
+      {"handle": "bonappetit", "inPool": false, "why": "food media peer publication"},
+      {"handle": "davidchang", "inPool": false, "why": "celebrity chef food-world peer"},
+      {"handle": "StephenKing", "inPool": true, "why": "mutual Twitter buddy banter"}
+    ]
+  },
+  {
+    "handle": "JordanPeele",
+    "circle": [
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy-horror filmmaking peer"},
+      {"handle": "StephenKing", "inPool": true, "why": "horror legend mutual admiration"},
+      {"handle": "elonmusk", "inPool": true, "why": "cultural figure general discourse"},
+      {"handle": "edgarwright", "inPool": true, "why": "genre film peer cinephile bond"},
+      {"handle": "neilhimself", "inPool": true, "why": "horror/fantasy author peer"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary-cultural commentary peer"},
+      {"handle": "Lin_Manuel", "inPool": true, "why": "Black creative arts peer ally"},
+      {"handle": "SamuelLJackson", "inPool": true, "why": "Us/Get Out era collaboration"},
+      {"handle": "keegan", "inPool": false, "why": "Key and Peele longtime partner"}
+    ]
+  },
+  {
+    "handle": "johngreen",
+    "circle": [
+      {"handle": "hankgreen", "inPool": true, "why": "brother and longtime collaborator"},
+      {"handle": "neilhimself", "inPool": true, "why": "author peer and Twitter friend"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary peer and mutual fan"},
+      {"handle": "Lin_Manuel", "inPool": true, "why": "creative arts fan and friend"},
+      {"handle": "jk_rowling", "inPool": true, "why": "YA/fantasy author peer overlap"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communicator nerdfighter"},
+      {"handle": "edgarwright", "inPool": true, "why": "film fan peer mutual engagement"}
+    ]
+  },
+  {
+    "handle": "MetroBoomin",
+    "circle": [
+      {"handle": "Drake", "inPool": true, "why": "long-time collaborator producer"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "rap scene peer collaboration"},
+      {"handle": "iamcardib", "inPool": true, "why": "hip-hop feature collaborator"},
+      {"handle": "KiDCuDi", "inPool": true, "why": "Spider-Man soundtrack collaborator"},
+      {"handle": "Eminem", "inPool": true, "why": "rap pantheon peer"},
+      {"handle": "LilNasX", "inPool": true, "why": "new-era rap peer"},
+      {"handle": "billboardcharts", "inPool": true, "why": "chart tracker music industry"},
+      {"handle": "XXL", "inPool": true, "why": "hip-hop media frequent coverage"},
+      {"handle": "pitchfork", "inPool": true, "why": "music criticism coverage outlet"}
+    ]
+  },
+  {
+    "handle": "SabrinaAnnLynn",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": true, "why": "close friend and tour opener"},
+      {"handle": "charli_xcx", "inPool": true, "why": "pop peer and mutual fan"},
+      {"handle": "Harry_Styles", "inPool": true, "why": "pop music peer collaborator"},
+      {"handle": "billboardcharts", "inPool": true, "why": "chart presence pop media"},
+      {"handle": "RollingStone", "inPool": true, "why": "pop coverage music media"},
+      {"handle": "billboard", "inPool": true, "why": "chart tracking music industry"},
+      {"handle": "RecordingAcad", "inPool": false, "why": "GRAMMY voting institution"},
+      {"handle": "LilNasX", "inPool": true, "why": "pop-crossover generation peer"},
+      {"handle": "iamcardib", "inPool": true, "why": "pop culture mutual engagement"}
+    ]
+  },
+  {
+    "handle": "saylor",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "Bitcoin discourse frequent ally"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "crypto world debate target"},
+      {"handle": "cz_binance", "inPool": true, "why": "crypto exchange peer engagement"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO crypto ally"},
+      {"handle": "naval", "inPool": true, "why": "crypto-tech philosophy alignment"},
+      {"handle": "chamath", "inPool": true, "why": "tech-finance peer, Bitcoin discourse"},
+      {"handle": "DavidSacks", "inPool": true, "why": "crypto-right tech ally"},
+      {"handle": "pmarca", "inPool": true, "why": "a16z tech-finance peer"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "Bitcoin advocate proximity"}
+    ]
+  }
+]

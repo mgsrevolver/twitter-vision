@@ -1,0 +1,164 @@
+[
+  {
+    "handle": "letterboxd",
+    "circle": [
+      {"handle": "RealGDT", "inPool": true, "why": "frequent film conversation partner"},
+      {"handle": "edgarwright", "inPool": true, "why": "cinephile director mutual engagement"},
+      {"handle": "pitchfork", "inPool": true, "why": "arts media cross-promotion"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film news outlet regular RT target"},
+      {"handle": "THR", "inPool": true, "why": "Hollywood Reporter industry overlap"},
+      {"handle": "DEADLINE", "inPool": true, "why": "film trade media peer"},
+      {"handle": "mulaney", "inPool": true, "why": "celeb user engagement"},
+      {"handle": "A24", "inPool": false, "why": "arthouse studio frequent collaborator"},
+      {"handle": "RottenTomatoes", "inPool": false, "why": "ratings site peer in film coverage"},
+      {"handle": "mubi", "inPool": false, "why": "fellow film platform community overlap"}
+    ]
+  },
+  {
+    "handle": "DevolverDigital",
+    "circle": [
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "indie auteur mutual appreciation"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards show regular presence"},
+      {"handle": "IGN", "inPool": true, "why": "gaming media coverage target"},
+      {"handle": "jasonschreier", "inPool": false, "why": "games journalist frequent source"},
+      {"handle": "Kotaku", "inPool": false, "why": "gaming press coverage outlet"}
+    ]
+  },
+  {
+    "handle": "NoMansSky",
+    "circle": [
+      {"handle": "SpaceX", "inPool": true, "why": "space theme brand engagement"},
+      {"handle": "NASA", "inPool": true, "why": "space imagery retweet target"},
+      {"handle": "NASAWebb", "inPool": true, "why": "Webb telescope imagery aligns brand"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards featured game"},
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "indie auteur peer engagement"}
+    ]
+  },
+  {
+    "handle": "jasonschreier",
+    "circle": [
+      {"handle": "IGN", "inPool": true, "why": "gaming media peer outlet"},
+      {"handle": "WIRED", "inPool": true, "why": "tech media colleague overlap"},
+      {"handle": "TechCrunch", "inPool": true, "why": "tech industry news peer"},
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "covers Kojima games closely"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards industry colleague"},
+      {"handle": "Kotaku", "inPool": false, "why": "former employer/competitor"},
+      {"handle": "DevolverDigital", "inPool": false, "why": "indie publisher he covers"}
+    ]
+  },
+  {
+    "handle": "RepJayapal",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "Squad member close political ally"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive caucus partner"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive Senate ally"},
+      {"handle": "IlhanMN", "inPool": true, "why": "Squad colleague"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "progressive intellectual engagement"},
+      {"handle": "PeteButtigieg", "inPool": false, "why": "Democratic Party colleague"},
+      {"handle": "mehdirhasan", "inPool": false, "why": "left media frequent interviews"}
+    ]
+  },
+  {
+    "handle": "zanelowe",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": true, "why": "iconic Apple Music interviews"},
+      {"handle": "Harry_Styles", "inPool": true, "why": "frequent Apple Music interview subject"},
+      {"handle": "Adele", "inPool": true, "why": "major Apple Music exclusive interviews"},
+      {"handle": "pitchfork", "inPool": true, "why": "music media peer"},
+      {"handle": "RollingStone", "inPool": true, "why": "music journalism peer"},
+      {"handle": "sama", "inPool": true, "why": "Apple exec world overlap"},
+      {"handle": "Apple", "inPool": false, "why": "employer Apple Music host"}
+    ]
+  },
+  {
+    "handle": "residentadvisor",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "music media peer outlet"},
+      {"handle": "RollingStone", "inPool": true, "why": "music journalism peer"}
+    ]
+  },
+  {
+    "handle": "TheHoopCentral",
+    "circle": [
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA breaking news source RT"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN NBA reporter news source"},
+      {"handle": "NBA", "inPool": true, "why": "official league account engagement"},
+      {"handle": "stephenasmith", "inPool": true, "why": "hot-take banter target"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "debate content repost target"},
+      {"handle": "BR_NBA", "inPool": false, "why": "Bleacher Report NBA content peer"}
+    ]
+  },
+  {
+    "handle": "WorldWideWob",
+    "circle": [
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA insider peer and rival"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN NBA reporter peer"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN colleague frequent interaction"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "hot-take content peer engagement"},
+      {"handle": "NBA", "inPool": true, "why": "league account engagement"},
+      {"handle": "BR_NBA", "inPool": false, "why": "Bleacher Report NBA peer outlet"}
+    ]
+  },
+  {
+    "handle": "sosadtoday",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist humor Twitter peer"},
+      {"handle": "robdelaney", "inPool": true, "why": "dark humor Twitter peer"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "comedian Twitter mutual"}
+    ]
+  },
+  {
+    "handle": "Nouriel",
+    "circle": [
+      {"handle": "RayDalio", "inPool": true, "why": "macro finance peer engagement"},
+      {"handle": "chamath", "inPool": true, "why": "tech finance debate partner"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin debate opponent"},
+      {"handle": "naval", "inPool": true, "why": "finance philosophy peer"},
+      {"handle": "pmarca", "inPool": true, "why": "tech finance ideological sparring"},
+      {"handle": "paulkrugman", "inPool": false, "why": "economics peer media pundit"}
+    ]
+  },
+  {
+    "handle": "PeterLBrandt",
+    "circle": [
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin market discussion partner"},
+      {"handle": "cz_binance", "inPool": true, "why": "crypto exchange engagement"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "crypto market commentary"},
+      {"handle": "naval", "inPool": true, "why": "finance/crypto philosophy overlap"},
+      {"handle": "APompliano", "inPool": false, "why": "crypto finance media peer"}
+    ]
+  },
+  {
+    "handle": "ErikVoorhees",
+    "circle": [
+      {"handle": "VitalikButerin", "inPool": true, "why": "crypto philosophy frequent debates"},
+      {"handle": "cz_binance", "inPool": true, "why": "exchange operator peer engagement"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalism discussions"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "crypto industry colleague"},
+      {"handle": "naval", "inPool": true, "why": "crypto libertarian philosophy peer"},
+      {"handle": "APompliano", "inPool": false, "why": "crypto media personality peer"}
+    ]
+  },
+  {
+    "handle": "mrbobodenkirk",
+    "circle": [
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy actor friend/collaborator"},
+      {"handle": "mulaney", "inPool": true, "why": "comedian peer friendship"},
+      {"handle": "SamuelLJackson", "inPool": true, "why": "industry actor peer engagement"},
+      {"handle": "edgarwright", "inPool": true, "why": "film director fan/collaborator"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "comedy peer Twitter mutual"},
+      {"handle": "boburnham", "inPool": false, "why": "comedy writer peer"},
+      {"handle": "RealGDT", "inPool": true, "why": "genre filmmaker mutual admiration"}
+    ]
+  },
+  {
+    "handle": "Sodapoppintv",
+    "circle": [
+      {"handle": "xQc", "inPool": true, "why": "streaming rival and frequent topic"},
+      {"handle": "Ninja", "inPool": true, "why": "streaming era peer"},
+      {"handle": "timthetatman", "inPool": false, "why": "streamer friend and collaborator"},
+      {"handle": "pokimane", "inPool": false, "why": "Twitch community peer"},
+      {"handle": "REALMizkif", "inPool": false, "why": "Twitch drama frequent mention"}
+    ]
+  }
+]

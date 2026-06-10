@@ -1,0 +1,447 @@
+[
+  {
+    "handle": "m2jr",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "fellow tech founder/VC circle"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "fellow top-tier VC"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "Y Combinator, VC peer"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "angel investor, philosophy overlap"
+      },
+      {
+        "handle": "jason",
+        "inPool": true,
+        "why": "tech VC podcast All-In"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "high-profile VC, same circle"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "All-In pod cohost, VC"
+      }
+    ]
+  },
+  {
+    "handle": "willmenaker",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "leftist Twitter icon, mutual"
+      },
+      {
+        "handle": "SamSeder",
+        "inPool": false,
+        "why": "left media adjacent orbit"
+      },
+      {
+        "handle": "KyleKulinski",
+        "inPool": false,
+        "why": "left podcast world overlap"
+      },
+      {
+        "handle": "hasanthehun",
+        "inPool": false,
+        "why": "left streamer Chapo-adjacent"
+      },
+      {
+        "handle": "briebriejoy",
+        "inPool": false,
+        "why": "left media peer"
+      }
+    ]
+  },
+  {
+    "handle": "FilmCritHULK",
+    "circle": [
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "film director, respects writing"
+      },
+      {
+        "handle": "rianjohnson",
+        "inPool": true,
+        "why": "director interacts with critics"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "writer/creator mutual"
+      },
+      {
+        "handle": "mulaney",
+        "inPool": true,
+        "why": "comedy/film world crossover"
+      },
+      {
+        "handle": "pattonoswalt",
+        "inPool": false,
+        "why": "comedy/film crossover mutual"
+      }
+    ]
+  },
+  {
+    "handle": "marynmck",
+    "circle": [
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "science communication peer"
+      },
+      {
+        "handle": "CT_Bergstrom",
+        "inPool": false,
+        "why": "science journalism peer"
+      },
+      {
+        "handle": "HelenBranswell",
+        "inPool": false,
+        "why": "health journalism colleague"
+      },
+      {
+        "handle": "apoorva_nyc",
+        "inPool": false,
+        "why": "NYT science journalist colleague"
+      },
+      {
+        "handle": "EricTopol",
+        "inPool": false,
+        "why": "medical science communicator"
+      }
+    ]
+  },
+  {
+    "handle": "GaryGulman",
+    "circle": [
+      {
+        "handle": "JimGaffigan",
+        "inPool": true,
+        "why": "fellow stand-up comedian mutual"
+      },
+      {
+        "handle": "mulaney",
+        "inPool": true,
+        "why": "fellow stand-up comic friend"
+      },
+      {
+        "handle": "robdelaney",
+        "inPool": true,
+        "why": "comedian mutual on Twitter"
+      },
+      {
+        "handle": "billyeichner",
+        "inPool": true,
+        "why": "comedy world mutual"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "comedy world peer"
+      },
+      {
+        "handle": "pattonoswalt",
+        "inPool": false,
+        "why": "comedy community mutual"
+      }
+    ]
+  },
+  {
+    "handle": "GuyInYourMFA",
+    "circle": [
+      {
+        "handle": "meganamram",
+        "inPool": true,
+        "why": "comedy Twitter peer"
+      },
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "alt-comedy Twitter icon mutual"
+      },
+      {
+        "handle": "jonnysun",
+        "inPool": true,
+        "why": "literary/comedy Twitter mutual"
+      },
+      {
+        "handle": "TriciaLockwood",
+        "inPool": true,
+        "why": "literary Twitter peer"
+      },
+      {
+        "handle": "sosadtoday",
+        "inPool": false,
+        "why": "alt literary Twitter peer"
+      }
+    ]
+  },
+  {
+    "handle": "jackclarkSF",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "former OpenAI CEO, close colleague"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "former OpenAI colleague"
+      },
+      {
+        "handle": "ilyasut",
+        "inPool": false,
+        "why": "former OpenAI chief scientist"
+      },
+      {
+        "handle": "gdb",
+        "inPool": false,
+        "why": "former OpenAI co-founder"
+      },
+      {
+        "handle": "DarioAmodei",
+        "inPool": false,
+        "why": "AI safety peer, Anthropic"
+      }
+    ]
+  },
+  {
+    "handle": "Frances_Coppola",
+    "circle": [
+      {
+        "handle": "markets",
+        "inPool": true,
+        "why": "finance media Bloomberg adjacent"
+      },
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "finance/econ journalist mutual"
+      },
+      {
+        "handle": "tracyalloway",
+        "inPool": false,
+        "why": "Bloomberg finance journalist peer"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": false,
+        "why": "macroeconomics, debates"
+      },
+      {
+        "handle": "ReformedBroker",
+        "inPool": false,
+        "why": "finance media personality"
+      }
+    ]
+  },
+  {
+    "handle": "StockCats",
+    "circle": [
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "finance media mutual"
+      },
+      {
+        "handle": "markets",
+        "inPool": true,
+        "why": "finance media interacts"
+      },
+      {
+        "handle": "unusual_whales",
+        "inPool": false,
+        "why": "finance Twitter mutual"
+      },
+      {
+        "handle": "jimcramer",
+        "inPool": false,
+        "why": "comedy material source"
+      },
+      {
+        "handle": "ReformedBroker",
+        "inPool": false,
+        "why": "finance personality mutual"
+      }
+    ]
+  },
+  {
+    "handle": "mollybaz",
+    "circle": [
+      {
+        "handle": "clairesaffitz",
+        "inPool": false,
+        "why": "Bon Appetit alum, close colleague"
+      },
+      {
+        "handle": "bonappetit",
+        "inPool": false,
+        "why": "former Bon Appetit editor"
+      },
+      {
+        "handle": "davidchang",
+        "inPool": false,
+        "why": "food world figure mutual"
+      },
+      {
+        "handle": "kenjilopezalt",
+        "inPool": false,
+        "why": "food writing peer, Serious Eats"
+      }
+    ]
+  },
+  {
+    "handle": "askagamedev",
+    "circle": [
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "Game Awards, games industry"
+      },
+      {
+        "handle": "IGN",
+        "inPool": true,
+        "why": "games media, shares audience"
+      },
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "famous game dev relevant"
+      },
+      {
+        "handle": "jasonschreier",
+        "inPool": false,
+        "why": "games journalist often interacts"
+      },
+      {
+        "handle": "Polygon",
+        "inPool": false,
+        "why": "games media publication"
+      }
+    ]
+  },
+  {
+    "handle": "currentaffairs",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "leftist Twitter icon overlap"
+      },
+      {
+        "handle": "democracynow",
+        "inPool": false,
+        "why": "left media aligned"
+      },
+      {
+        "handle": "SamSeder",
+        "inPool": false,
+        "why": "left podcast mutual"
+      },
+      {
+        "handle": "KyleKulinski",
+        "inPool": false,
+        "why": "left media aligned"
+      },
+      {
+        "handle": "briebriejoy",
+        "inPool": false,
+        "why": "Bad Faith pod left media"
+      }
+    ]
+  },
+  {
+    "handle": "InternetHippo",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist Twitter mutual icon"
+      },
+      {
+        "handle": "Horse_ebooks",
+        "inPool": true,
+        "why": "classic weird Twitter peer"
+      },
+      {
+        "handle": "meganamram",
+        "inPool": true,
+        "why": "comedy Twitter mutual"
+      },
+      {
+        "handle": "jonnysun",
+        "inPool": true,
+        "why": "wholesome alt-Twitter mutual"
+      }
+    ]
+  },
+  {
+    "handle": "WaxworkRecords",
+    "circle": [
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "horror film director, mutual fan"
+      },
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "film/soundtrack enthusiast"
+      },
+      {
+        "handle": "shudder",
+        "inPool": false,
+        "why": "horror streaming adjacent audience"
+      }
+    ]
+  },
+  {
+    "handle": "AnnieLinskey",
+    "circle": [
+      {
+        "handle": "jaketapper",
+        "inPool": true,
+        "why": "political media CNN anchor"
+      },
+      {
+        "handle": "maggieNYT",
+        "inPool": false,
+        "why": "political journalism colleague"
+      },
+      {
+        "handle": "peterbakernyt",
+        "inPool": false,
+        "why": "NYT political journalist peer"
+      },
+      {
+        "handle": "CarolLeonnig",
+        "inPool": false,
+        "why": "WaPo colleague investigative"
+      },
+      {
+        "handle": "kwelkernbc",
+        "inPool": false,
+        "why": "political journalism peer NBC"
+      }
+    ]
+  }
+]

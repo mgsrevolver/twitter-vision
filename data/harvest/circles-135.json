@@ -1,0 +1,172 @@
+[
+  {
+    "handle": "AriLennox",
+    "circle": [
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "frequent R&B/rap peer banter"},
+      {"handle": "iamcardib", "inPool": true, "why": "mutual support, Black women in rap"},
+      {"handle": "Drake", "inPool": true, "why": "Atlantic label orbit, collabs"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "hip-hop touring circuit crossover"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "mutual shoutouts, legacy R&B events"},
+      {"handle": "rihanna", "inPool": true, "why": "peer admiration, fashion-music overlap"},
+      {"handle": "chancetherapper", "inPool": true, "why": "same-era conscious rap circle"}
+    ]
+  },
+  {
+    "handle": "runjewels",
+    "circle": [
+      {"handle": "IlhanMN", "inPool": true, "why": "KillerMike political ally, squad"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politics alignment, mutual RTs"},
+      {"handle": "BernieSanders", "inPool": true, "why": "KillerMike campaigned for Bernie"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "hip-hop peer, touring circuit"},
+      {"handle": "Drake", "inPool": true, "why": "hip-hop scene overlap"},
+      {"handle": "pitchfork", "inPool": true, "why": "critical darlings, frequent coverage"},
+      {"handle": "joerogan", "inPool": true, "why": "KillerMike frequent podcast guest"}
+    ]
+  },
+  {
+    "handle": "JonathanKarl",
+    "circle": [
+      {"handle": "ABCPolitics", "inPool": true, "why": "ABC News chief Washington correspondent"},
+      {"handle": "atrupar", "inPool": true, "why": "political media beat colleagues"},
+      {"handle": "chrislhayes", "inPool": true, "why": "political journalist peer"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "political press corps colleague"},
+      {"handle": "ewarren", "inPool": true, "why": "interviews politicians, regular subject"},
+      {"handle": "AOC", "inPool": true, "why": "covers progressive lawmakers regularly"}
+    ]
+  },
+  {
+    "handle": "marceelias",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive legal-political alignment"},
+      {"handle": "ewarren", "inPool": true, "why": "election law defender, Warren ally"},
+      {"handle": "BernieSanders", "inPool": true, "why": "Democratic legal strategist orbit"},
+      {"handle": "IlhanMN", "inPool": true, "why": "election law fights, mutual RTs"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC appearances, mutual amplify"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "frequent MSNBC guest, mutual RTs"},
+      {"handle": "atrupar", "inPool": true, "why": "voting/election media beat overlap"}
+    ]
+  },
+  {
+    "handle": "metcalf_dk",
+    "circle": [
+      {"handle": "Seahawks", "inPool": true, "why": "plays for Seattle Seahawks"},
+      {"handle": "espn", "inPool": true, "why": "ESPN covers him constantly"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlight reel regular feature"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL insider covers his news"},
+      {"handle": "NFL", "inPool": true, "why": "NFL official account features him"},
+      {"handle": "stephenasmith", "inPool": true, "why": "SAS debates his value regularly"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "Skip hot takes on him often"},
+      {"handle": "KingJames", "inPool": true, "why": "DK fan of LeBron, mutual respect"}
+    ]
+  },
+  {
+    "handle": "NYLONMAG",
+    "circle": [
+      {"handle": "charli_xcx", "inPool": true, "why": "frequent NYLON cover subject"},
+      {"handle": "taylorswift13", "inPool": true, "why": "major pop coverage feature"},
+      {"handle": "iamcardib", "inPool": true, "why": "hip-hop/fashion crossover coverage"},
+      {"handle": "rihanna", "inPool": true, "why": "fashion-music icon regular coverage"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "pop culture/fashion coverage"},
+      {"handle": "Drake", "inPool": true, "why": "hip-hop/pop crossover coverage"}
+    ]
+  },
+  {
+    "handle": "CMcDavid97",
+    "circle": [
+      {"handle": "NHL", "inPool": true, "why": "the face of the NHL"},
+      {"handle": "PierreVLeBrun", "inPool": true, "why": "top NHL reporter covers him most"},
+      {"handle": "espn", "inPool": true, "why": "ESPN hockey coverage features him"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlight reel anchor"}
+    ]
+  },
+  {
+    "handle": "dhh",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "tech founders debate AI and building"},
+      {"handle": "paulg", "inPool": true, "why": "VC/founder philosophy debates"},
+      {"handle": "naval", "inPool": true, "why": "bootstrapper philosophy alignment"},
+      {"handle": "pmarca", "inPool": true, "why": "tech ideology debates, mutual follows"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech journalist covers controversies"},
+      {"handle": "joerogan", "inPool": true, "why": "appeared on podcast, debates"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "DHH right-coded turn, mutual RTs"}
+    ]
+  },
+  {
+    "handle": "kylenabecker",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "right-wing media colleague, RTs"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "Tucker content amplifier"},
+      {"handle": "catturd2", "inPool": true, "why": "right-wing Twitter peer circle"},
+      {"handle": "atrupar", "inPool": true, "why": "adversarial, quote-tweets critically"},
+      {"handle": "chrislhayes", "inPool": true, "why": "left media target, adversarial RTs"}
+    ]
+  },
+  {
+    "handle": "penguinbooks",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": true, "why": "promotes books Taylor endorses"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive authors they publish"},
+      {"handle": "AOC", "inPool": true, "why": "social justice titles promotion"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "comedy/books overlap, mutual RTs"}
+    ]
+  },
+  {
+    "handle": "nprbooks",
+    "circle": [
+      {"handle": "BernieSanders", "inPool": true, "why": "NPR book coverage of policy titles"},
+      {"handle": "ewarren", "inPool": true, "why": "covers Warren books and policy"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politics book beat"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "comedy/culture books coverage"},
+      {"handle": "taylorswift13", "inPool": true, "why": "celebrity reading list coverage"}
+    ]
+  },
+  {
+    "handle": "MicahhParsons11",
+    "circle": [
+      {"handle": "CowboyFB", "inPool": true, "why": "plays for Dallas Cowboys"},
+      {"handle": "NFL", "inPool": true, "why": "NFL official covers him prominently"},
+      {"handle": "espn", "inPool": true, "why": "ESPN defensive player coverage"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlight reel regular"},
+      {"handle": "stephenasmith", "inPool": true, "why": "SAS debates Cowboys/Parsons"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL insider, contract news"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "Skip loves Cowboys, debates"},
+      {"handle": "KingJames", "inPool": true, "why": "cross-sport mutual admiration"}
+    ]
+  },
+  {
+    "handle": "phoebe_bridgers",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": true, "why": "Taylor fan and collaborator friend"},
+      {"handle": "charli_xcx", "inPool": true, "why": "indie-pop peer, mutual support"},
+      {"handle": "pitchfork", "inPool": true, "why": "critically acclaimed by Pitchfork"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "appeared on show, mutual humor"},
+      {"handle": "mulaney", "inPool": true, "why": "comedy-music celebrity orbit friend"},
+      {"handle": "robdelaney", "inPool": true, "why": "alt-twitter humor crowd overlap"}
+    ]
+  },
+  {
+    "handle": "paulscheer",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "comedy circuit peers, mutual RTs"},
+      {"handle": "mulaney", "inPool": true, "why": "stand-up/TV comedy colleague"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late-night comedy orbit"},
+      {"handle": "robdelaney", "inPool": true, "why": "alt-comedy Twitter peer"},
+      {"handle": "joerogan", "inPool": true, "why": "appeared on podcast, comedy peer"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "HDTGM film culture overlap"},
+      {"handle": "Variety", "inPool": true, "why": "trade press covers his projects"},
+      {"handle": "THR", "inPool": true, "why": "Hollywood Reporter features his work"}
+    ]
+  },
+  {
+    "handle": "Collider",
+    "circle": [
+      {"handle": "Variety", "inPool": true, "why": "rival trade film media outlet"},
+      {"handle": "THR", "inPool": true, "why": "trade media beat partner/rival"},
+      {"handle": "DEADLINE", "inPool": true, "why": "industry news competitor"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "same film media niche, mutual RTs"},
+      {"handle": "IGN", "inPool": true, "why": "same entertainment media ecosystem"},
+      {"handle": "mulaney", "inPool": true, "why": "covers his projects, mutual engagement"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "entertainment media covers him"}
+    ]
+  }
+]

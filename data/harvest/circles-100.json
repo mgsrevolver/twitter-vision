@@ -1,0 +1,787 @@
+[
+  {
+    "handle": "ChelseaFC",
+    "circle": [
+      {
+        "handle": "LFC",
+        "inPool": false,
+        "why": "fierce Premier League rivals"
+      },
+      {
+        "handle": "Arsenal",
+        "inPool": false,
+        "why": "fierce London rivals"
+      },
+      {
+        "handle": "ManCity",
+        "inPool": false,
+        "why": "title rivals frequently engaged"
+      },
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "covers Chelsea transfers extensively"
+      },
+      {
+        "handle": "garylineker",
+        "inPool": true,
+        "why": "BBC pundit comments on Chelsea"
+      },
+      {
+        "handle": "spursofficial",
+        "inPool": true,
+        "why": "London derby rivalry"
+      },
+      {
+        "handle": "WayneRooney",
+        "inPool": true,
+        "why": "ex-rival pundit commentary"
+      },
+      {
+        "handle": "footballdaily",
+        "inPool": true,
+        "why": "regularly features Chelsea content"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "global broadcast partner"
+      },
+      {
+        "handle": "fifacom",
+        "inPool": true,
+        "why": "FIFA institutional partner engagement"
+      }
+    ]
+  },
+  {
+    "handle": "LFC",
+    "circle": [
+      {
+        "handle": "ChelseaFC",
+        "inPool": false,
+        "why": "top-four Premier League rivals"
+      },
+      {
+        "handle": "ManCity",
+        "inPool": false,
+        "why": "title rivals constant engagement"
+      },
+      {
+        "handle": "Arsenal",
+        "inPool": false,
+        "why": "Premier League top-four rivals"
+      },
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "covers Liverpool transfers closely"
+      },
+      {
+        "handle": "garylineker",
+        "inPool": true,
+        "why": "BBC pundit often covers LFC"
+      },
+      {
+        "handle": "WayneRooney",
+        "inPool": true,
+        "why": "rival turned pundit commentary"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "Champions League broadcast partner"
+      },
+      {
+        "handle": "footballdaily",
+        "inPool": true,
+        "why": "regular Liverpool highlight coverage"
+      },
+      {
+        "handle": "spursofficial",
+        "inPool": true,
+        "why": "historic rivalry frequent banter"
+      }
+    ]
+  },
+  {
+    "handle": "Arsenal",
+    "circle": [
+      {
+        "handle": "ChelseaFC",
+        "inPool": false,
+        "why": "London rival derby engagement"
+      },
+      {
+        "handle": "LFC",
+        "inPool": false,
+        "why": "Premier League top-four rivals"
+      },
+      {
+        "handle": "ManCity",
+        "inPool": false,
+        "why": "title rivals regular Twitter banter"
+      },
+      {
+        "handle": "spursofficial",
+        "inPool": true,
+        "why": "North London derby intense rivalry"
+      },
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "covers Arsenal transfers closely"
+      },
+      {
+        "handle": "garylineker",
+        "inPool": true,
+        "why": "former Arsenal player BBC pundit"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "global coverage partner"
+      },
+      {
+        "handle": "footballdaily",
+        "inPool": true,
+        "why": "frequent Arsenal highlight clips"
+      },
+      {
+        "handle": "WayneRooney",
+        "inPool": true,
+        "why": "longtime rival pundit"
+      }
+    ]
+  },
+  {
+    "handle": "iamcardib",
+    "circle": [
+      {
+        "handle": "nickiminaj",
+        "inPool": true,
+        "why": "famous public feud and rivalry"
+      },
+      {
+        "handle": "drake",
+        "inPool": true,
+        "why": "collaboration and mutual support"
+      },
+      {
+        "handle": "kanyewest",
+        "inPool": true,
+        "why": "collaborated frequent mutual tweets"
+      },
+      {
+        "handle": "chancetherapper",
+        "inPool": true,
+        "why": "hip-hop peers occasional replies"
+      },
+      {
+        "handle": "bigsean",
+        "inPool": true,
+        "why": "hip-hop peers mutual engagement"
+      },
+      {
+        "handle": "beyonce",
+        "inPool": true,
+        "why": "expressed admiration publicly"
+      },
+      {
+        "handle": "kimkardashian",
+        "inPool": true,
+        "why": "celebrity friends social media banter"
+      },
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "chart achievements frequent coverage"
+      },
+      {
+        "handle": "xxl",
+        "inPool": true,
+        "why": "hip-hop media career coverage"
+      },
+      {
+        "handle": "Offset",
+        "inPool": false,
+        "why": "husband constant co-presence"
+      }
+    ]
+  },
+  {
+    "handle": "LilTunechi",
+    "circle": [
+      {
+        "handle": "nickiminaj",
+        "inPool": true,
+        "why": "Young Money labelmate and prot\u00e9g\u00e9"
+      },
+      {
+        "handle": "drake",
+        "inPool": true,
+        "why": "Young Money labelmate close bond"
+      },
+      {
+        "handle": "kanyewest",
+        "inPool": true,
+        "why": "hip-hop peer mutual public respect"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "hip-hop peer collaborative era"
+      },
+      {
+        "handle": "realdonaldtrump",
+        "inPool": true,
+        "why": "publicly praised Trump met him"
+      },
+      {
+        "handle": "chancetherapper",
+        "inPool": true,
+        "why": "hip-hop generation peer"
+      },
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "legendary chart history coverage"
+      },
+      {
+        "handle": "xxl",
+        "inPool": true,
+        "why": "hip-hop media legacy coverage"
+      },
+      {
+        "handle": "postmalone",
+        "inPool": true,
+        "why": "collaborated and mutual admiration"
+      }
+    ]
+  },
+  {
+    "handle": "ManCity",
+    "circle": [
+      {
+        "handle": "LFC",
+        "inPool": false,
+        "why": "Premier League title rivals"
+      },
+      {
+        "handle": "Arsenal",
+        "inPool": false,
+        "why": "title rivals frequent engagement"
+      },
+      {
+        "handle": "ChelseaFC",
+        "inPool": false,
+        "why": "Premier League rivals"
+      },
+      {
+        "handle": "spursofficial",
+        "inPool": true,
+        "why": "league rivals banter"
+      },
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "covers City transfers closely"
+      },
+      {
+        "handle": "garylineker",
+        "inPool": true,
+        "why": "BBC Match of the Day host"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "global Champions League coverage"
+      },
+      {
+        "handle": "footballdaily",
+        "inPool": true,
+        "why": "regular City content features"
+      },
+      {
+        "handle": "fifacom",
+        "inPool": true,
+        "why": "FIFA institutional engagement"
+      }
+    ]
+  },
+  {
+    "handle": "kendricklamar",
+    "circle": [
+      {
+        "handle": "drake",
+        "inPool": true,
+        "why": "famous rap beef and feud"
+      },
+      {
+        "handle": "kanyewest",
+        "inPool": true,
+        "why": "hip-hop peer mutual respect"
+      },
+      {
+        "handle": "nickiminaj",
+        "inPool": true,
+        "why": "hip-hop circle interactions"
+      },
+      {
+        "handle": "beyonce",
+        "inPool": true,
+        "why": "collaborated shared accolades"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": true,
+        "why": "shared Grammy award moments"
+      },
+      {
+        "handle": "bigsean",
+        "inPool": true,
+        "why": "GOOD Music era interactions"
+      },
+      {
+        "handle": "chancetherapper",
+        "inPool": true,
+        "why": "hip-hop peer generation"
+      },
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "critical acclaim frequent coverage"
+      },
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "chart milestones featured"
+      },
+      {
+        "handle": "applemusic",
+        "inPool": true,
+        "why": "exclusive releases and features"
+      }
+    ]
+  },
+  {
+    "handle": "trvisXX",
+    "circle": [
+      {
+        "handle": "drake",
+        "inPool": true,
+        "why": "collaborated multiple times close friend"
+      },
+      {
+        "handle": "kanyewest",
+        "inPool": true,
+        "why": "mentor close collaborator"
+      },
+      {
+        "handle": "nickiminaj",
+        "inPool": true,
+        "why": "hip-hop peer circle"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "hip-hop peers mutual engagement"
+      },
+      {
+        "handle": "postmalone",
+        "inPool": true,
+        "why": "collaborated and toured together"
+      },
+      {
+        "handle": "bigsean",
+        "inPool": true,
+        "why": "hip-hop peers same era"
+      },
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "major chart and album coverage"
+      },
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "Astroworld critical coverage"
+      },
+      {
+        "handle": "applemusic",
+        "inPool": true,
+        "why": "exclusive Astroworld streaming features"
+      }
+    ]
+  },
+  {
+    "handle": "ABC",
+    "circle": [
+      {
+        "handle": "GMA",
+        "inPool": true,
+        "why": "sister show Good Morning America"
+      },
+      {
+        "handle": "ABCWorldNews",
+        "inPool": true,
+        "why": "same network news arm"
+      },
+      {
+        "handle": "ABCPolitics",
+        "inPool": true,
+        "why": "sister political coverage account"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "competing news network coverage"
+      },
+      {
+        "handle": "NBCNews",
+        "inPool": true,
+        "why": "competing broadcast news network"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "competing news network"
+      },
+      {
+        "handle": "BBCBreaking",
+        "inPool": true,
+        "why": "international news partner coverage"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "print media partner competitor"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "print media competitor partner"
+      },
+      {
+        "handle": "ChelseaClinton",
+        "inPool": true,
+        "why": "ABC contributor and guest"
+      }
+    ]
+  },
+  {
+    "handle": "mindykaling",
+    "circle": [
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "celebrity mutual fan exchange"
+      },
+      {
+        "handle": "selenagomez",
+        "inPool": true,
+        "why": "celebrity friends social media"
+      },
+      {
+        "handle": "kimkardashian",
+        "inPool": true,
+        "why": "celebrity acquaintances social banter"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "frequent Tonight Show guest"
+      },
+      {
+        "handle": "kevinhart4real",
+        "inPool": true,
+        "why": "comedy peer crossover projects"
+      },
+      {
+        "handle": "therock",
+        "inPool": true,
+        "why": "celebrity peer mutual tweets"
+      },
+      {
+        "handle": "beyonce",
+        "inPool": true,
+        "why": "expressed admiration publicly"
+      },
+      {
+        "handle": "jimmycarr",
+        "inPool": true,
+        "why": "comedy world connections"
+      },
+      {
+        "handle": "RainnWilson",
+        "inPool": false,
+        "why": "The Office co-star ongoing banter"
+      },
+      {
+        "handle": "bjnovak",
+        "inPool": false,
+        "why": "The Office co-star close friend"
+      }
+    ]
+  },
+  {
+    "handle": "IvankaTrump",
+    "circle": [
+      {
+        "handle": "realdonaldtrump",
+        "inPool": true,
+        "why": "father constant Twitter engagement"
+      },
+      {
+        "handle": "DonaldJTrumpJr",
+        "inPool": true,
+        "why": "brother family political circle"
+      },
+      {
+        "handle": "EricTrump",
+        "inPool": true,
+        "why": "brother Trump family Twitter circle"
+      },
+      {
+        "handle": "kamalaharris",
+        "inPool": true,
+        "why": "political counterpart interactions"
+      },
+      {
+        "handle": "hillaryclinton",
+        "inPool": true,
+        "why": "political rival interactions"
+      },
+      {
+        "handle": "whitehouse",
+        "inPool": true,
+        "why": "White House institutional account"
+      },
+      {
+        "handle": "foxnews",
+        "inPool": true,
+        "why": "favorable media coverage appearances"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "antagonistic media coverage interactions"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "coverage of family business"
+      }
+    ]
+  },
+  {
+    "handle": "andersoncooper",
+    "circle": [
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "anchor primary network account"
+      },
+      {
+        "handle": "CNNbrk",
+        "inPool": true,
+        "why": "CNN breaking news sister account"
+      },
+      {
+        "handle": "NBCNews",
+        "inPool": true,
+        "why": "competing network journalism peers"
+      },
+      {
+        "handle": "ABCWorldNews",
+        "inPool": true,
+        "why": "competing network peers"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "journalistic community peer engagement"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "journalism peer institution"
+      },
+      {
+        "handle": "realdonaldtrump",
+        "inPool": true,
+        "why": "frequent target of Trump tweets"
+      },
+      {
+        "handle": "joebiden",
+        "inPool": true,
+        "why": "presidential interview coverage"
+      },
+      {
+        "handle": "hillaryclinton",
+        "inPool": true,
+        "why": "political figure covered extensively"
+      },
+      {
+        "handle": "kamalaharris",
+        "inPool": true,
+        "why": "political figure covered on CNN"
+      }
+    ]
+  },
+  {
+    "handle": "trevornoah",
+    "circle": [
+      {
+        "handle": "thedailyshow",
+        "inPool": true,
+        "why": "Daily Show host same network"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "late night peer cross-promo"
+      },
+      {
+        "handle": "kevinhart4real",
+        "inPool": true,
+        "why": "comedy friend mutual appearances"
+      },
+      {
+        "handle": "therock",
+        "inPool": true,
+        "why": "celebrity friendship mutual tweets"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "celebrity guests on Daily Show"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "news commentary peer engagement"
+      },
+      {
+        "handle": "beyonce",
+        "inPool": true,
+        "why": "expressed admiration Grammys coverage"
+      },
+      {
+        "handle": "realdonaldtrump",
+        "inPool": true,
+        "why": "frequent Daily Show political target"
+      },
+      {
+        "handle": "IvankaTrump",
+        "inPool": true,
+        "why": "political satire target Daily Show"
+      },
+      {
+        "handle": "kimkardashian",
+        "inPool": true,
+        "why": "celebrity pop culture commentary"
+      }
+    ]
+  },
+  {
+    "handle": "AdamSchefter",
+    "circle": [
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "rival ESPN insider same beat"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "employer primary network account"
+      },
+      {
+        "handle": "sportscenter",
+        "inPool": true,
+        "why": "ESPN flagship show appearances"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "primary beat NFL official account"
+      },
+      {
+        "handle": "NBCNews",
+        "inPool": true,
+        "why": "cross-media TV appearances"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "occasional TV crossover appearances"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "sports journalism peer publication"
+      },
+      {
+        "handle": "IanRapoport",
+        "inPool": false,
+        "why": "NFL Network rival insider"
+      }
+    ]
+  },
+  {
+    "handle": "DUALIPA",
+    "circle": [
+      {
+        "handle": "edsheeran",
+        "inPool": true,
+        "why": "UK pop peer mutual engagement"
+      },
+      {
+        "handle": "kanyewest",
+        "inPool": true,
+        "why": "music industry peer interactions"
+      },
+      {
+        "handle": "beyonce",
+        "inPool": true,
+        "why": "expressed admiration pop royalty"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": true,
+        "why": "pop peer mutual support"
+      },
+      {
+        "handle": "justinbieber",
+        "inPool": true,
+        "why": "pop generation peer"
+      },
+      {
+        "handle": "selenagomez",
+        "inPool": true,
+        "why": "pop celebrity peer mutual tweets"
+      },
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "chart coverage dance pop success"
+      },
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "critical music coverage"
+      },
+      {
+        "handle": "applemusic",
+        "inPool": true,
+        "why": "exclusive radio streaming features"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "Tonight Show performances promo"
+      }
+    ]
+  }
+]

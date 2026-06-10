@@ -1,0 +1,163 @@
+[
+  {
+    "handle": "GrandCanyonNPS",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "space/science govt account banter"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "nature and space crossover fans"},
+      {"handle": "Rainmaker1973", "inPool": true, "why": "nature/science content sharing"},
+      {"handle": "NatlParkService", "inPool": false, "why": "sister NPS account frequent collabs"},
+      {"handle": "Interior", "inPool": false, "why": "parent agency frequent engagement"},
+      {"handle": "YosemiteNPS", "inPool": false, "why": "sibling park account banter"},
+      {"handle": "USGS", "inPool": false, "why": "USGS/geology content crossover"}
+    ]
+  },
+  {
+    "handle": "jchervinsky",
+    "circle": [
+      {"handle": "VitalikButerin", "inPool": true, "why": "crypto legal/policy discussion"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase crypto policy ally"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalism overlap"},
+      {"handle": "naval", "inPool": true, "why": "crypto/tech policy debates"},
+      {"handle": "DavidSacks", "inPool": true, "why": "crypto regulation co-advocacy"},
+      {"handle": "pmarca", "inPool": true, "why": "VC crypto policy alignment"},
+      {"handle": "cobie", "inPool": true, "why": "crypto community figure interaction"}
+    ]
+  },
+  {
+    "handle": "IanShepherdson",
+    "circle": [
+      {"handle": "TheStalwart", "inPool": true, "why": "Bloomberg macro commentary overlap"},
+      {"handle": "DeItaone", "inPool": true, "why": "Bloomberg breaking finance news"},
+      {"handle": "CNBC", "inPool": true, "why": "frequent CNBC appearances/tags"},
+      {"handle": "axios", "inPool": true, "why": "macro economic news sharing"},
+      {"handle": "andrewrsorkin", "inPool": false, "why": "DealBook macro guest/citations"},
+      {"handle": "paulkrugman", "inPool": false, "why": "rival/complementary macro views"}
+    ]
+  },
+  {
+    "handle": "HelenBranswell",
+    "circle": [
+      {"handle": "WHO", "inPool": true, "why": "global health reporting source"},
+      {"handle": "nytimes", "inPool": true, "why": "peer health journalist engagement"},
+      {"handle": "EricTopol", "inPool": false, "why": "frequent co-cited health expert"},
+      {"handle": "apoorva_nyc", "inPool": false, "why": "fellow pandemic science reporter"},
+      {"handle": "CT_Bergstrom", "inPool": false, "why": "epidemiology/misinfo expert"},
+      {"handle": "nataliexdean", "inPool": false, "why": "biostatistics colleague public engagement"}
+    ]
+  },
+  {
+    "handle": "fart",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "core weird Twitter ally"},
+      {"handle": "Horse_ebooks", "inPool": true, "why": "weird Twitter era kinship"},
+      {"handle": "meganamram", "inPool": true, "why": "absurdist humor circle friend"},
+      {"handle": "jonnysun", "inPool": true, "why": "wholesome-weird Twitter overlap"},
+      {"handle": "KrangTNelson", "inPool": false, "why": "weird Twitter comrade"},
+      {"handle": "pixelatedboat", "inPool": false, "why": "absurdist Twitter mutual"}
+    ]
+  },
+  {
+    "handle": "adamkucharski",
+    "circle": [
+      {"handle": "WHO", "inPool": true, "why": "pandemic epidemiology public engagement"},
+      {"handle": "nytimes", "inPool": true, "why": "cited/shared by science journalists"},
+      {"handle": "EricTopol", "inPool": false, "why": "fellow public-health communicator"},
+      {"handle": "CT_Bergstrom", "inPool": false, "why": "misinformation/epi science peer"},
+      {"handle": "HelenBranswell", "inPool": false, "why": "health journalist frequent source"},
+      {"handle": "apoorva_nyc", "inPool": false, "why": "NYT science journalist engagement"}
+    ]
+  },
+  {
+    "handle": "FilmIndependent",
+    "circle": [
+      {"handle": "sundanceorg", "inPool": false, "why": "peer indie film festival"},
+      {"handle": "tiff_net", "inPool": false, "why": "major film festival peer"},
+      {"handle": "A24", "inPool": false, "why": "indie film distributor partner"},
+      {"handle": "letterboxd", "inPool": false, "why": "film community platform engagement"}
+    ]
+  },
+  {
+    "handle": "Seinfeld2000",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "canonical weird Twitter peer"},
+      {"handle": "Horse_ebooks", "inPool": true, "why": "absurdist humor era twin"},
+      {"handle": "meganamram", "inPool": true, "why": "absurdist comedy writer overlap"},
+      {"handle": "fart", "inPool": false, "why": "weird Twitter mutual"},
+      {"handle": "KrangTNelson", "inPool": false, "why": "weird Twitter comedy circle"}
+    ]
+  },
+  {
+    "handle": "Granta",
+    "circle": [
+      {"handle": "MargaretAtwood", "inPool": true, "why": "longtime Granta contributor"},
+      {"handle": "SalmanRushdie", "inPool": true, "why": "iconic Granta literary figure"},
+      {"handle": "neilhimself", "inPool": true, "why": "fiction author in their orbit"},
+      {"handle": "ChimamandaReal", "inPool": false, "why": "celebrated literary contributor"},
+      {"handle": "susanorlean", "inPool": false, "why": "literary nonfiction overlap"}
+    ]
+  },
+  {
+    "handle": "MaraWilson",
+    "circle": [
+      {"handle": "jonnysun", "inPool": true, "why": "wholesome Twitter mutual"},
+      {"handle": "meganamram", "inPool": true, "why": "comedy writer Twitter friend"},
+      {"handle": "dril", "inPool": true, "why": "Twitter humor appreciation"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "actor/comedian Twitter mutual"},
+      {"handle": "SoVeryBritish", "inPool": false, "why": "gentle humor affinity retweets"}
+    ]
+  },
+  {
+    "handle": "wassielawyer",
+    "circle": [
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum legal/policy discourse"},
+      {"handle": "cobie", "inPool": true, "why": "crypto humor/commentary circle"},
+      {"handle": "naval", "inPool": true, "why": "crypto philosophy discussions"},
+      {"handle": "DavidSacks", "inPool": true, "why": "crypto regulation policy debate"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase regulatory issues"},
+      {"handle": "cdixon", "inPool": false, "why": "a16z crypto policy alignment"}
+    ]
+  },
+  {
+    "handle": "TomKeene",
+    "circle": [
+      {"handle": "TheStalwart", "inPool": true, "why": "Bloomberg Odd Lots colleague"},
+      {"handle": "DeItaone", "inPool": true, "why": "Bloomberg breaking news peer"},
+      {"handle": "CNBC", "inPool": true, "why": "competing financial TV network"},
+      {"handle": "axios", "inPool": true, "why": "financial news organization"},
+      {"handle": "tracyalloway", "inPool": false, "why": "Bloomberg Odd Lots co-host"},
+      {"handle": "andrewrsorkin", "inPool": false, "why": "CNBC/Bloomberg financial peer"}
+    ]
+  },
+  {
+    "handle": "SamSifton",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "NYT food editor, same masthead"},
+      {"handle": "davidchang", "inPool": false, "why": "chef/food media friend and source"},
+      {"handle": "ruthreichl", "inPool": false, "why": "iconic food critic peer"},
+      {"handle": "chefjoseandres", "inPool": false, "why": "chef engagement and admiration"},
+      {"handle": "kenjilopezalt", "inPool": false, "why": "serious eats food writer peer"}
+    ]
+  },
+  {
+    "handle": "GarrettHaake",
+    "circle": [
+      {"handle": "JakeTapper", "inPool": true, "why": "CNN peer political reporter"},
+      {"handle": "axios", "inPool": true, "why": "political news org interaction"},
+      {"handle": "nytimes", "inPool": true, "why": "breaking political news sharing"},
+      {"handle": "maggieNYT", "inPool": false, "why": "NYT political reporter peer"},
+      {"handle": "peterbakernyt", "inPool": false, "why": "NYT White House reporter peer"},
+      {"handle": "kwelkernbc", "inPool": false, "why": "NBC News colleague"}
+    ]
+  },
+  {
+    "handle": "professor_crunk",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "left politics alignment and banter"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive politics engagement"},
+      {"handle": "ewarren", "inPool": true, "why": "feminist/progressive policy overlap"},
+      {"handle": "nytimes", "inPool": true, "why": "media commentary and citations"},
+      {"handle": "ibramxk", "inPool": false, "why": "racial justice intellectual peer"},
+      {"handle": "tanehisicoates", "inPool": false, "why": "Black intellectual Twitter peer"}
+    ]
+  }
+]

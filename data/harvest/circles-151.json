@@ -1,0 +1,502 @@
+[
+  {
+    "handle": "shudder",
+    "circle": [
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "horror filmmaker collaborator"
+      },
+      {
+        "handle": "ThatKevinSmith",
+        "inPool": true,
+        "why": "horror director Shudder projects"
+      },
+      {
+        "handle": "markiplier",
+        "inPool": true,
+        "why": "gaming-horror audience overlap"
+      },
+      {
+        "handle": "straczynski",
+        "inPool": true,
+        "why": "genre TV writer fan"
+      },
+      {
+        "handle": "SethMacFarlane",
+        "inPool": true,
+        "why": "genre/dark comedy crossover"
+      },
+      {
+        "handle": "rickygervais",
+        "inPool": true,
+        "why": "dark comedy horror adjacency"
+      }
+    ]
+  },
+  {
+    "handle": "WifeyAlpha",
+    "circle": [
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "finance media banter partner"
+      },
+      {
+        "handle": "markets",
+        "inPool": true,
+        "why": "Bloomberg markets colleague"
+      },
+      {
+        "handle": "cobie",
+        "inPool": true,
+        "why": "crypto finance humor peer"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "tech finance influencer circle"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "finance philosophy peer"
+      },
+      {
+        "handle": "GRDecter",
+        "inPool": false,
+        "why": "similar finance humor voice"
+      }
+    ]
+  },
+  {
+    "handle": "VinayPrasad_MD",
+    "circle": [
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "anti-establishment media ally"
+      },
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "COVID skeptic media buddy"
+      },
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "podcast guest COVID discussions"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "rational contrarian peer"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "retweet target right-aligned"
+      },
+      {
+        "handle": "AlexBerenson",
+        "inPool": false,
+        "why": "COVID skeptic colleague"
+      }
+    ]
+  },
+  {
+    "handle": "USForestService",
+    "circle": [
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "federal science agency peer"
+      },
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "nature conservation media partner"
+      },
+      {
+        "handle": "Cmdr_Hadfield",
+        "inPool": true,
+        "why": "outdoors science community"
+      },
+      {
+        "handle": "BBCEarth",
+        "inPool": false,
+        "why": "nature content crossover"
+      }
+    ]
+  },
+  {
+    "handle": "SteveDeaceShow",
+    "circle": [
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "conservative media colleague"
+      },
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "Iowa conservative political ally"
+      },
+      {
+        "handle": "RandPaul",
+        "inPool": true,
+        "why": "libertarian conservative peer"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "right-leaning tech voice"
+      },
+      {
+        "handle": "jordanbpeterson",
+        "inPool": true,
+        "why": "cultural conservative peer"
+      }
+    ]
+  },
+  {
+    "handle": "brooklynvegan",
+    "circle": [
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "indie music media peer"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "music coverage overlap"
+      },
+      {
+        "handle": "NME",
+        "inPool": false,
+        "why": "UK indie music peer outlet"
+      },
+      {
+        "handle": "theneedledrop",
+        "inPool": false,
+        "why": "shared indie music community"
+      },
+      {
+        "handle": "stereogum",
+        "inPool": false,
+        "why": "direct indie music competitor"
+      }
+    ]
+  },
+  {
+    "handle": "MoonPie",
+    "circle": [
+      {
+        "handle": "BurgerKing",
+        "inPool": true,
+        "why": "brand banter pioneer peer"
+      },
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "wholesome humor community"
+      },
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist Twitter predecessor"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "viral banter exchange"
+      },
+      {
+        "handle": "MrBeast",
+        "inPool": true,
+        "why": "collaborative giveaway stunts"
+      },
+      {
+        "handle": "Popeyes",
+        "inPool": true,
+        "why": "brand Twitter peer banter"
+      },
+      {
+        "handle": "Charmin",
+        "inPool": true,
+        "why": "brand Twitter peer banter"
+      }
+    ]
+  },
+  {
+    "handle": "alphatrends",
+    "circle": [
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin trading community overlap"
+      },
+      {
+        "handle": "cobie",
+        "inPool": true,
+        "why": "crypto trading banter"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "tech investor peer"
+      },
+      {
+        "handle": "PeterSchiff",
+        "inPool": true,
+        "why": "gold vs crypto debate"
+      },
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "finance media discussion"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "rational investing philosophy"
+      }
+    ]
+  },
+  {
+    "handle": "DarioAmodei",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI peer-rival AI industry"
+      },
+      {
+        "handle": "satyanadella",
+        "inPool": true,
+        "why": "AI partner at Microsoft"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "YC startup ecosystem peer"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "a16z investor AI discourse"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech philosophy peer"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "tech CEO peer"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "AI policy discussion peer"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "crypto-AI intersection"
+      }
+    ]
+  },
+  {
+    "handle": "DJBooth",
+    "circle": [
+      {
+        "handle": "XXL",
+        "inPool": true,
+        "why": "hip-hop media competitor peer"
+      },
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "music review outlet peer"
+      },
+      {
+        "handle": "chartdata",
+        "inPool": true,
+        "why": "chart data music community"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "music coverage overlap"
+      },
+      {
+        "handle": "Akademiks",
+        "inPool": false,
+        "why": "hip-hop gossip peer media"
+      }
+    ]
+  },
+  {
+    "handle": "ninaturner",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive squad colleague"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "campaign co-chair for Bernie"
+      },
+      {
+        "handle": "IlhanMN",
+        "inPool": true,
+        "why": "Squad progressive ally"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media ally"
+      },
+      {
+        "handle": "RBReich",
+        "inPool": true,
+        "why": "progressive economic peer"
+      },
+      {
+        "handle": "MorePerfectUS",
+        "inPool": true,
+        "why": "progressive media outlet"
+      }
+    ]
+  },
+  {
+    "handle": "sam_amick",
+    "circle": [
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "Athletic NBA colleague"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "competing NBA insider"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "NBA media peer"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "NBA media pundit"
+      },
+      {
+        "handle": "StephenCurry30",
+        "inPool": true,
+        "why": "Warriors beat key subject"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "key NBA story subject"
+      }
+    ]
+  },
+  {
+    "handle": "AndyMitten",
+    "circle": [
+      {
+        "handle": "ManUtd",
+        "inPool": true,
+        "why": "Man United beat journalist"
+      },
+      {
+        "handle": "GNev2",
+        "inPool": true,
+        "why": "Man United legend media peer"
+      },
+      {
+        "handle": "GaryLineker",
+        "inPool": true,
+        "why": "UK football media peer"
+      },
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "transfer news colleague"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "stats source for stories"
+      },
+      {
+        "handle": "David_Ornstein",
+        "inPool": false,
+        "why": "competing football journalist"
+      }
+    ]
+  },
+  {
+    "handle": "OptaAce",
+    "circle": [
+      {
+        "handle": "atptour",
+        "inPool": true,
+        "why": "official ATP tennis partner"
+      },
+      {
+        "handle": "WTA",
+        "inPool": true,
+        "why": "official WTA tennis partner"
+      },
+      {
+        "handle": "RafaelNadal",
+        "inPool": true,
+        "why": "frequent stat subject"
+      },
+      {
+        "handle": "rogerfederer",
+        "inPool": true,
+        "why": "frequent stat subject"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "sister Opta football account"
+      }
+    ]
+  },
+  {
+    "handle": "YellowstoneNPS",
+    "circle": [
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "federal science agency peer"
+      },
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "nature photography partner"
+      },
+      {
+        "handle": "Cmdr_Hadfield",
+        "inPool": true,
+        "why": "science outdoors community"
+      },
+      {
+        "handle": "BBCEarth",
+        "inPool": false,
+        "why": "nature media crossover"
+      }
+    ]
+  }
+]

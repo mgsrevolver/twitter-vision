@@ -1,0 +1,179 @@
+[
+  {
+    "handle": "DrLupo",
+    "circle": [
+      { "handle": "Ninja", "inPool": true, "why": "frequent Twitch collab partner" },
+      { "handle": "xQc", "inPool": true, "why": "fellow top Twitch streamer" },
+      { "handle": "timthetatman", "inPool": false, "why": "longtime streaming best friend" },
+      { "handle": "NICKMERCS", "inPool": false, "why": "fellow FPS gaming streamer" },
+      { "handle": "pokimane", "inPool": false, "why": "Twitch streamer peer" },
+      { "handle": "shroud", "inPool": false, "why": "fellow FPS streamer and peer" }
+    ]
+  },
+  {
+    "handle": "1GunnaGunna",
+    "circle": [
+      { "handle": "MetroBoomin", "inPool": true, "why": "frequent producer collaborator" },
+      { "handle": "Drake", "inPool": true, "why": "collaborator and label ally" },
+      { "handle": "iamcardib", "inPool": true, "why": "hip-hop peer and collaborator" },
+      { "handle": "chartdata", "inPool": true, "why": "charts his music releases" },
+      { "handle": "popbase", "inPool": true, "why": "covers hip-hop pop culture news" },
+      { "handle": "youngthug", "inPool": false, "why": "YSL labelmate and collaborator" },
+      { "handle": "lilbaby4PF", "inPool": false, "why": "Atlanta rap peer collaborator" },
+      { "handle": "21savage", "inPool": false, "why": "Atlanta scene collaborator" }
+    ]
+  },
+  {
+    "handle": "ChrisCuomo",
+    "circle": [
+      { "handle": "andersoncooper", "inPool": true, "why": "CNN colleague and peer" },
+      { "handle": "JakeTapper", "inPool": true, "why": "CNN anchor colleague" },
+      { "handle": "chrislhayes", "inPool": true, "why": "cable news peer at MSNBC" },
+      { "handle": "mehdirhasan", "inPool": true, "why": "left media journalist peer" },
+      { "handle": "CNN", "inPool": true, "why": "former employer and network" },
+      { "handle": "donlemon", "inPool": false, "why": "CNN colleague and friend" },
+      { "handle": "wolfblitzer", "inPool": false, "why": "CNN colleague" }
+    ]
+  },
+  {
+    "handle": "kylegriffin1",
+    "circle": [
+      { "handle": "atrupar", "inPool": true, "why": "fellow political media reporter" },
+      { "handle": "AOC", "inPool": true, "why": "progressive politician he covers" },
+      { "handle": "chrislhayes", "inPool": true, "why": "MSNBC colleague and host" },
+      { "handle": "mehdirhasan", "inPool": true, "why": "MSNBC colleague" },
+      { "handle": "Acyn", "inPool": true, "why": "political clip media peer" },
+      { "handle": "BernieSanders", "inPool": true, "why": "progressive politician he covers" },
+      { "handle": "kurteichenwald", "inPool": true, "why": "left political media peer" }
+    ]
+  },
+  {
+    "handle": "Lj_era8",
+    "circle": [
+      { "handle": "NFL", "inPool": true, "why": "his sport governing body" },
+      { "handle": "espn", "inPool": true, "why": "sports media covering him" },
+      { "handle": "SportsCenter", "inPool": true, "why": "flagship sports news show" },
+      { "handle": "AdamSchefter", "inPool": true, "why": "NFL insider covering him" },
+      { "handle": "stephenasmith", "inPool": true, "why": "ESPN commentator discussing him" },
+      { "handle": "PatrickMahomes", "inPool": false, "why": "rival QB at top of league" },
+      { "handle": "DangeRussWilson", "inPool": false, "why": "fellow star NFL QB" }
+    ]
+  },
+  {
+    "handle": "LyricaLemonade",
+    "circle": [
+      { "handle": "Drake", "inPool": true, "why": "frequent music video subject" },
+      { "handle": "chartdata", "inPool": true, "why": "tracks charts for their artists" },
+      { "handle": "pitchfork", "inPool": true, "why": "music media covering their work" },
+      { "handle": "RollingStone", "inPool": true, "why": "music media covers their videos" },
+      { "handle": "billboardcharts", "inPool": true, "why": "charts music they produce videos for" },
+      { "handle": "popbase", "inPool": true, "why": "pop culture music news outlet" },
+      { "handle": "MetroBoomin", "inPool": true, "why": "hip-hop producer they collaborate with" }
+    ]
+  },
+  {
+    "handle": "NASA_Artemis",
+    "circle": [
+      { "handle": "NASA", "inPool": true, "why": "parent agency account" },
+      { "handle": "SpaceX", "inPool": true, "why": "Artemis commercial launch partner" },
+      { "handle": "NASAWebb", "inPool": true, "why": "NASA sibling telescope account" },
+      { "handle": "MarsCuriosity", "inPool": true, "why": "NASA sibling rover account" },
+      { "handle": "NASAPersevere", "inPool": true, "why": "NASA sibling rover account" },
+      { "handle": "StationCDRKelly", "inPool": true, "why": "astronaut and NASA booster" },
+      { "handle": "Cmdr_Hadfield", "inPool": true, "why": "astronaut promoting NASA missions" },
+      { "handle": "elonmusk", "inPool": true, "why": "SpaceX CEO partnering on Artemis" }
+    ]
+  },
+  {
+    "handle": "Squawka",
+    "circle": [
+      { "handle": "OptaJoe", "inPool": true, "why": "fellow soccer stats media" },
+      { "handle": "FabrizioRomano", "inPool": true, "why": "top transfer news journalist" },
+      { "handle": "GaryLineker", "inPool": true, "why": "prominent soccer pundit" },
+      { "handle": "GNev2", "inPool": true, "why": "soccer pundit and analyst" },
+      { "handle": "IanWright0", "inPool": true, "why": "soccer pundit they cover" },
+      { "handle": "ChampionsLeague", "inPool": true, "why": "top competition they cover stats for" },
+      { "handle": "FCBarcelona", "inPool": true, "why": "major club they frequently cover" }
+    ]
+  },
+  {
+    "handle": "MMAJunkie",
+    "circle": [
+      { "handle": "ufc", "inPool": true, "why": "primary organization they cover" },
+      { "handle": "arielhelwani", "inPool": false, "why": "top MMA journalist peer" },
+      { "handle": "TheNotoriousMMA", "inPool": false, "why": "biggest MMA star they cover" },
+      { "handle": "JonnyBones", "inPool": false, "why": "top UFC champion they cover" },
+      { "handle": "danawhite", "inPool": false, "why": "UFC president they interact with" }
+    ]
+  },
+  {
+    "handle": "OscarPiastri",
+    "circle": [
+      { "handle": "McLarenF1", "inPool": true, "why": "his current F1 team" },
+      { "handle": "F1", "inPool": true, "why": "official Formula 1 account" },
+      { "handle": "LewisHamilton", "inPool": true, "why": "iconic F1 champion peer" },
+      { "handle": "LandoNorris", "inPool": false, "why": "McLaren teammate and friend" },
+      { "handle": "Max33Verstappen", "inPool": false, "why": "dominant F1 rival" },
+      { "handle": "Charles_Leclerc", "inPool": false, "why": "fellow young F1 star" },
+      { "handle": "GeorgeRussell63", "inPool": false, "why": "fellow British F1 peer" }
+    ]
+  },
+  {
+    "handle": "NatGeoWild",
+    "circle": [
+      { "handle": "NatGeo", "inPool": true, "why": "parent brand and sibling account" },
+      { "handle": "NASA", "inPool": true, "why": "science org they often engage" },
+      { "handle": "BBCEarth", "inPool": false, "why": "fellow nature wildlife media peer" },
+      { "handle": "AnimalPlanet", "inPool": false, "why": "fellow wildlife TV channel" },
+      { "handle": "WWF", "inPool": false, "why": "conservation org they align with" }
+    ]
+  },
+  {
+    "handle": "atrupar",
+    "circle": [
+      { "handle": "kylegriffin1", "inPool": true, "why": "MSNBC political media peer" },
+      { "handle": "AOC", "inPool": true, "why": "progressive politician he covers" },
+      { "handle": "Acyn", "inPool": true, "why": "fellow political clip account" },
+      { "handle": "chrislhayes", "inPool": true, "why": "MSNBC host he amplifies" },
+      { "handle": "mehdirhasan", "inPool": true, "why": "left media journalist peer" },
+      { "handle": "benshapiro", "inPool": true, "why": "right-wing figure he clips critiques" },
+      { "handle": "BernieSanders", "inPool": true, "why": "progressive senator he covers" },
+      { "handle": "kurteichenwald", "inPool": true, "why": "fellow political media personality" }
+    ]
+  },
+  {
+    "handle": "BrianGreene",
+    "circle": [
+      { "handle": "neiltyson", "inPool": true, "why": "fellow science communicator peer" },
+      { "handle": "BillNye", "inPool": true, "why": "fellow science popularizer" },
+      { "handle": "ProfBrianCox", "inPool": true, "why": "fellow physicist communicator" },
+      { "handle": "NASA", "inPool": true, "why": "science institution he engages" },
+      { "handle": "sama", "inPool": true, "why": "tech science thought leader" }
+    ]
+  },
+  {
+    "handle": "SarcasticRover",
+    "circle": [
+      { "handle": "NASA", "inPool": true, "why": "agency it parodies and homages" },
+      { "handle": "MarsCuriosity", "inPool": true, "why": "the real rover it spoofs" },
+      { "handle": "NASAPersevere", "inPool": true, "why": "fellow NASA rover sibling" },
+      { "handle": "NASAWebb", "inPool": true, "why": "NASA telescope sibling account" },
+      { "handle": "SpaceX", "inPool": true, "why": "space company in same orbit" },
+      { "handle": "StationCDRKelly", "inPool": true, "why": "astronaut engaging with NASA humor" },
+      { "handle": "Cmdr_Hadfield", "inPool": true, "why": "astronaut appreciating space humor" }
+    ]
+  },
+  {
+    "handle": "PeterSchiff",
+    "circle": [
+      { "handle": "saylor", "inPool": true, "why": "Bitcoin maximalist he debates constantly" },
+      { "handle": "VitalikButerin", "inPool": true, "why": "crypto figure he argues against" },
+      { "handle": "cz_binance", "inPool": true, "why": "crypto exchange CEO he debates" },
+      { "handle": "naval", "inPool": true, "why": "crypto tech investor he counters" },
+      { "handle": "chamath", "inPool": true, "why": "tech investor he debates" },
+      { "handle": "pmarca", "inPool": true, "why": "VC he clashes with on crypto" },
+      { "handle": "WatcherGuru", "inPool": true, "why": "crypto news he monitors critiques" },
+      { "handle": "APompliano", "inPool": false, "why": "Bitcoin bull he debates regularly" }
+    ]
+  }
+]

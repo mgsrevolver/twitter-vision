@@ -1,0 +1,162 @@
+[
+  {
+    "handle": "PossumEveryHour",
+    "circle": [
+      {"handle": "dog_rates", "inPool": true, "why": "fellow animal content account"},
+      {"handle": "dog_feelings", "inPool": false, "why": "peer wholesome animal account"},
+      {"handle": "buitengebieden", "inPool": false, "why": "similar wholesome animal content"},
+      {"handle": "EmrgencyKittens", "inPool": false, "why": "animal/wholesome peer account"}
+    ]
+  },
+  {
+    "handle": "humansofny",
+    "circle": [
+      {"handle": "BrandonStanton", "inPool": false, "why": "creator behind the account"},
+      {"handle": "dog_rates", "inPool": true, "why": "fellow wholesome storytelling account"},
+      {"handle": "nytimes", "inPool": false, "why": "frequent media collaborator/amplifier"}
+    ]
+  },
+  {
+    "handle": "OliverBabish",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "food celebrity he engages"},
+      {"handle": "AltonBrown", "inPool": true, "why": "culinary idol he references"},
+      {"handle": "PadmaLakshmi", "inPool": true, "why": "food TV world colleague"},
+      {"handle": "seriouseats", "inPool": false, "why": "recipe inspiration he cites"},
+      {"handle": "kenjilopezalt", "inPool": false, "why": "culinary peer he interacts with"}
+    ]
+  },
+  {
+    "handle": "Dan_Harmon",
+    "circle": [
+      {"handle": "KenTremendous", "inPool": false, "why": "TV writer peer and collaborator"},
+      {"handle": "edgarwright", "inPool": true, "why": "filmmaker friend he banters with"},
+      {"handle": "rianjohnson", "inPool": true, "why": "director pal frequent banter"},
+      {"handle": "robdelaney", "inPool": true, "why": "comedy writer friend"},
+      {"handle": "NathanFillion", "inPool": true, "why": "Castle Uncharted fancast tweets"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "longtime comedy friend"},
+      {"handle": "JamesGunn", "inPool": false, "why": "Hollywood writer-director pal"}
+    ]
+  },
+  {
+    "handle": "pentoshi",
+    "circle": [
+      {"handle": "cobie", "inPool": true, "why": "crypto CT inner circle banter"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "ETH ecosystem figure he follows"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalist he debates"},
+      {"handle": "naval", "inPool": true, "why": "crypto/startup philosopher he RTs"},
+      {"handle": "stablekwon", "inPool": true, "why": "Luna era crypto circle peer"},
+      {"handle": "chamath", "inPool": true, "why": "tech/crypto crossover he cites"},
+      {"handle": "CryptoHayes", "inPool": false, "why": "trading/crypto blogger he engages"},
+      {"handle": "RaoulGMI", "inPool": false, "why": "macro-crypto analyst he follows"}
+    ]
+  },
+  {
+    "handle": "bflay",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "fellow food celebrity peer"},
+      {"handle": "AltonBrown", "inPool": true, "why": "Food Network colleague"},
+      {"handle": "PadmaLakshmi", "inPool": true, "why": "Top Chef judge colleague"},
+      {"handle": "GuyFieri", "inPool": false, "why": "Food Network co-star"},
+      {"handle": "MarthaStewart", "inPool": false, "why": "food celebrity peer"}
+    ]
+  },
+  {
+    "handle": "SmittenKitchen",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "food world she references"},
+      {"handle": "AltonBrown", "inPool": true, "why": "culinary inspiration figure"},
+      {"handle": "nytfood", "inPool": false, "why": "food media outlet she engages"},
+      {"handle": "kenjilopezalt", "inPool": false, "why": "food writer peer she interacts with"},
+      {"handle": "seriouseats", "inPool": false, "why": "recipe site peer and reference"}
+    ]
+  },
+  {
+    "handle": "REALMizkif",
+    "circle": [
+      {"handle": "xQc", "inPool": true, "why": "top Twitch streamer frequent collab"},
+      {"handle": "Asmongold", "inPool": true, "why": "OTK co-founder and housemate"},
+      {"handle": "markiplier", "inPool": true, "why": "gaming creator he interacts with"},
+      {"handle": "DrLupo", "inPool": true, "why": "streamer peer in same circle"},
+      {"handle": "pokimane", "inPool": false, "why": "Twitch streamer peer"},
+      {"handle": "timthetatman", "inPool": false, "why": "streaming peer and friend"},
+      {"handle": "LudwigAhgren", "inPool": false, "why": "streamer who often banters with"}
+    ]
+  },
+  {
+    "handle": "GothamChess",
+    "circle": [
+      {"handle": "Hikaru", "inPool": false, "why": "chess rival and frequent antagonist"},
+      {"handle": "MagnusCarlsen", "inPool": false, "why": "world champion he covers"},
+      {"handle": "chess24", "inPool": false, "why": "chess media platform partner"},
+      {"handle": "xQc", "inPool": true, "why": "taught chess to gaming streamers"}
+    ]
+  },
+  {
+    "handle": "deray",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive politics ally"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive cause alignment"},
+      {"handle": "ClintSmithIII", "inPool": false, "why": "fellow Black writer and activist"},
+      {"handle": "nhannahjones", "inPool": false, "why": "racial justice journalism peer"},
+      {"handle": "ibramxk", "inPool": false, "why": "racial equity scholar he engages"}
+    ]
+  },
+  {
+    "handle": "thefader",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "music media peer publication"},
+      {"handle": "RollingStone", "inPool": true, "why": "music media peer publication"},
+      {"handle": "okayplayer", "inPool": false, "why": "hip-hop adjacent media peer"},
+      {"handle": "NME", "inPool": false, "why": "UK music media counterpart"}
+    ]
+  },
+  {
+    "handle": "emollick",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "OpenAI CEO he frequently cites"},
+      {"handle": "karpathy", "inPool": false, "why": "AI researcher he engages with"},
+      {"handle": "AndrewYNg", "inPool": false, "why": "AI education figure he references"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech journalist who covers AI"},
+      {"handle": "pmarca", "inPool": true, "why": "tech investor/AI commentator"},
+      {"handle": "GaryMarcus", "inPool": false, "why": "AI skeptic he often debates"},
+      {"handle": "fchollet", "inPool": false, "why": "AI researcher in same discourse"}
+    ]
+  },
+  {
+    "handle": "nybooks",
+    "circle": [
+      {"handle": "MargaretAtwood", "inPool": true, "why": "published author who engages"},
+      {"handle": "neilhimself", "inPool": true, "why": "author they profile and promote"},
+      {"handle": "newyorker", "inPool": false, "why": "peer literary publication"},
+      {"handle": "parisreview", "inPool": false, "why": "peer literary magazine"},
+      {"handle": "nytimesbooks", "inPool": false, "why": "book media peer publication"}
+    ]
+  },
+  {
+    "handle": "bgurley",
+    "circle": [
+      {"handle": "pmarca", "inPool": true, "why": "VC peer in same circles"},
+      {"handle": "paulg", "inPool": true, "why": "startup investor he often cites"},
+      {"handle": "chamath", "inPool": true, "why": "VC peer and debate sparring partner"},
+      {"handle": "sama", "inPool": true, "why": "AI/tech leader he engages"},
+      {"handle": "jason", "inPool": true, "why": "Angel/VC podcaster peer"},
+      {"handle": "naval", "inPool": true, "why": "startup philosopher he interacts with"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech journalist who covers his views"}
+    ]
+  },
+  {
+    "handle": "iamwandasykes",
+    "circle": [
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy peer and collaborator"},
+      {"handle": "realsambee", "inPool": true, "why": "comedy and political humor peer"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "late night comedy colleague"},
+      {"handle": "mindykaling", "inPool": true, "why": "comedy writer and actor peer"},
+      {"handle": "billyeichner", "inPool": true, "why": "comedy peer and LGBTQ ally"},
+      {"handle": "desusnice", "inPool": true, "why": "comedy and culture peer"},
+      {"handle": "mulaney", "inPool": true, "why": "stand-up comedy peer"},
+      {"handle": "jimgaffigan", "inPool": true, "why": "stand-up comedy circle peer"},
+      {"handle": "rickygervais", "inPool": true, "why": "comedy awards crossover peer"}
+    ]
+  }
+]

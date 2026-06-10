@@ -1,0 +1,176 @@
+[
+  {
+    "handle": "Michael_Nielsen",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "tech/AI intellectual mutual interest"},
+      {"handle": "pmarca", "inPool": true, "why": "tech ideas and futures discourse"},
+      {"handle": "naval", "inPool": true, "why": "science/philosophy overlap"},
+      {"handle": "DavidSacks", "inPool": true, "why": "AI and tech policy discussion"},
+      {"handle": "timberners_lee", "inPool": true, "why": "open knowledge collaborator"},
+      {"handle": "karpathy", "inPool": false, "why": "deep learning peer exchange"},
+      {"handle": "fchollet", "inPool": false, "why": "AI capabilities debate"},
+      {"handle": "GaryMarcus", "inPool": false, "why": "AI skepticism discourse"}
+    ]
+  },
+  {
+    "handle": "baddestmamajama",
+    "circle": [
+      {"handle": "AoDespair", "inPool": true, "why": "TV industry critical commentary"},
+      {"handle": "edgarwright", "inPool": true, "why": "film/TV mutual appreciation"},
+      {"handle": "mattzollerseitz", "inPool": true, "why": "TV criticism peer"},
+      {"handle": "mulaney", "inPool": true, "why": "comedy writing community"},
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy/film world overlap"},
+      {"handle": "clmazin", "inPool": false, "why": "Scriptnotes podcast/screenwriting"},
+      {"handle": "johnaugust", "inPool": false, "why": "screenwriting community"},
+      {"handle": "wkamaubell", "inPool": false, "why": "TV commentary mutual"}
+    ]
+  },
+  {
+    "handle": "NIMactual",
+    "circle": [
+      {"handle": "dog_rates", "inPool": true, "why": "animal content niche peer"},
+      {"handle": "NatGeo", "inPool": true, "why": "wildlife content overlap"},
+      {"handle": "BrotherNature", "inPool": false, "why": "viral animal content peer"},
+      {"handle": "AMAZlNGNATURE", "inPool": false, "why": "nature content community"}
+    ]
+  },
+  {
+    "handle": "omarsar0",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "OpenAI ecosystem discussion"},
+      {"handle": "karpathy", "inPool": false, "why": "ML practitioner peer"},
+      {"handle": "AndrewYNg", "inPool": false, "why": "AI education community"},
+      {"handle": "jeremyphoward", "inPool": false, "why": "fast.ai/practical ML community"},
+      {"handle": "ilyasut", "inPool": false, "why": "AI research peer"}
+    ]
+  },
+  {
+    "handle": "taniaganguli",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "NBA beat reporter peer"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA news competitor/peer"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN NBA commentary"},
+      {"handle": "espn", "inPool": true, "why": "employer media outlet"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN brand amplification"},
+      {"handle": "KingJames", "inPool": true, "why": "Lakers coverage subject"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "ESPN colleague"}
+    ]
+  },
+  {
+    "handle": "PompeyOnSixers",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "NBA reporter peer"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA breaking news peer"},
+      {"handle": "JoelEmbiid", "inPool": true, "why": "Sixers coverage subject"},
+      {"handle": "SportsCenter", "inPool": true, "why": "media amplification channel"},
+      {"handle": "espn", "inPool": true, "why": "NBA media ecosystem"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN NBA commentary"}
+    ]
+  },
+  {
+    "handle": "gorillavsbear",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "indie music media peer"},
+      {"handle": "RollingStone", "inPool": true, "why": "music media ecosystem"},
+      {"handle": "chartdata", "inPool": true, "why": "music charts data overlap"},
+      {"handle": "PopBase", "inPool": true, "why": "music pop culture media"},
+      {"handle": "brooklynvegan", "inPool": false, "why": "indie music blog peer"},
+      {"handle": "kexp", "inPool": false, "why": "indie music radio community"},
+      {"handle": "consequence", "inPool": false, "why": "music criticism peer"}
+    ]
+  },
+  {
+    "handle": "netcapgirl",
+    "circle": [
+      {"handle": "naval", "inPool": true, "why": "tech/crypto ideas overlap"},
+      {"handle": "pmarca", "inPool": true, "why": "VC/tech writing community"},
+      {"handle": "cburniske", "inPool": true, "why": "crypto/web3 intellectual circle"},
+      {"handle": "sassal0x", "inPool": true, "why": "Ethereum community peer"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum ecosystem discussion"},
+      {"handle": "sama", "inPool": true, "why": "AI/tech intersection discourse"}
+    ]
+  },
+  {
+    "handle": "harikunzru",
+    "circle": [
+      {"handle": "neilhimself", "inPool": true, "why": "literary fiction mutual"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary fiction peer"},
+      {"handle": "jk_rowling", "inPool": true, "why": "prominent novelist community"},
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "literary humor exchange"},
+      {"handle": "TriciaLockwood", "inPool": true, "why": "literary Twitter overlap"},
+      {"handle": "PaperFury", "inPool": true, "why": "book community engagement"},
+      {"handle": "susanorlean", "inPool": false, "why": "literary nonfiction peer"},
+      {"handle": "scalzi", "inPool": false, "why": "sci-fi literary community"}
+    ]
+  },
+  {
+    "handle": "kateyrich",
+    "circle": [
+      {"handle": "THR", "inPool": true, "why": "entertainment trade publication"},
+      {"handle": "Variety", "inPool": true, "why": "film/TV trade peer outlet"},
+      {"handle": "DEADLINE", "inPool": true, "why": "entertainment news peer"},
+      {"handle": "mattzollerseitz", "inPool": true, "why": "film criticism peer"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film coverage overlap"},
+      {"handle": "AoDespair", "inPool": true, "why": "TV criticism community"},
+      {"handle": "aoscott", "inPool": false, "why": "NYT film criticism peer"},
+      {"handle": "davidehrlich", "inPool": false, "why": "film critic community"}
+    ]
+  },
+  {
+    "handle": "MoMAFilm",
+    "circle": [
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film culture coverage"},
+      {"handle": "mattzollerseitz", "inPool": true, "why": "film criticism community"},
+      {"handle": "Criterion", "inPool": true, "why": "cinephile/arthouse film"},
+      {"handle": "THR", "inPool": true, "why": "film industry media"},
+      {"handle": "Variety", "inPool": true, "why": "film industry media"},
+      {"handle": "AoDespair", "inPool": true, "why": "film/TV culture discourse"},
+      {"handle": "neonrated", "inPool": false, "why": "arthouse film distributor"}
+    ]
+  },
+  {
+    "handle": "DougKass",
+    "circle": [
+      {"handle": "chamath", "inPool": true, "why": "finance/investing debate"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech/finance discourse"},
+      {"handle": "sama", "inPool": true, "why": "AI/market commentary"},
+      {"handle": "naval", "inPool": true, "why": "investing philosophy"},
+      {"handle": "jimcramer", "inPool": false, "why": "financial media peer/rival"},
+      {"handle": "ritholtz", "inPool": false, "why": "markets commentary peer"},
+      {"handle": "BillAckman", "inPool": false, "why": "prominent investor discourse"}
+    ]
+  },
+  {
+    "handle": "mmitchell_ai",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "OpenAI/AI ethics discourse"},
+      {"handle": "timnitGebru", "inPool": false, "why": "co-authored stochastic parrots paper"},
+      {"handle": "GaryMarcus", "inPool": false, "why": "AI criticism community"},
+      {"handle": "emilymbender", "inPool": false, "why": "stochastic parrots co-author"},
+      {"handle": "karpathy", "inPool": false, "why": "ML community discourse"}
+    ]
+  },
+  {
+    "handle": "emilymbender",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "LLM critique target/discourse"},
+      {"handle": "mmitchell_ai", "inPool": false, "why": "stochastic parrots co-author"},
+      {"handle": "timnitGebru", "inPool": false, "why": "AI ethics close collaborator"},
+      {"handle": "GaryMarcus", "inPool": false, "why": "AI criticism alignment"},
+      {"handle": "karpathy", "inPool": false, "why": "ML community debate"}
+    ]
+  },
+  {
+    "handle": "jesmimi",
+    "circle": [
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary fiction community"},
+      {"handle": "neilhimself", "inPool": true, "why": "genre/literary overlap"},
+      {"handle": "jk_rowling", "inPool": true, "why": "prominent author community"},
+      {"handle": "StephenKing", "inPool": true, "why": "literary/fiction peer"},
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "literary Twitter humor"},
+      {"handle": "TriciaLockwood", "inPool": true, "why": "literary Twitter peer"},
+      {"handle": "ibramxk", "inPool": false, "why": "Black intellectual community"},
+      {"handle": "ClintSmithIII", "inPool": false, "why": "Black literary/poetry peer"}
+    ]
+  }
+]

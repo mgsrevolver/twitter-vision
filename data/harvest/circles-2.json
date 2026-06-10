@@ -1,0 +1,157 @@
+[
+  {
+    "handle": "CNN",
+    "circle": [
+      {"handle": "andersoncooper", "inPool": true, "why": "anchor host, constant CNN interaction"},
+      {"handle": "jaketapper", "inPool": true, "why": "anchor host, CNN flagship correspondent"},
+      {"handle": "ChrisCuomo", "inPool": true, "why": "former CNN anchor, high-profile tenure"},
+      {"handle": "NBCNews", "inPool": true, "why": "rival network, mutual story amplification"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "Trump repeatedly attacked CNN as enemy"},
+      {"handle": "thehill", "inPool": true, "why": "frequent mutual political story citation"},
+      {"handle": "karaswisher", "inPool": true, "why": "media critic, regular CNN commentary guest"},
+      {"handle": "nytimes", "inPool": true, "why": "co-cited frequently on breaking stories"},
+      {"handle": "Reuters", "inPool": false, "why": "wire service CNN draws from regularly"},
+      {"handle": "FoxNews", "inPool": false, "why": "direct rival, mutual antagonism on platform"},
+      {"handle": "MSNBC", "inPool": false, "why": "rival cable news network, frequent comparisons"}
+    ]
+  },
+  {
+    "handle": "cnnbrk",
+    "circle": [
+      {"handle": "CNN", "inPool": true, "why": "parent account, breaking news feed sibling"},
+      {"handle": "andersoncooper", "inPool": true, "why": "CNN anchor driving breaking coverage"},
+      {"handle": "jaketapper", "inPool": true, "why": "CNN anchor amplified by cnnbrk"},
+      {"handle": "nytimes", "inPool": true, "why": "rival breaking news account, mutual RT target"},
+      {"handle": "NBCNews", "inPool": true, "why": "competing breaking news broadcaster"},
+      {"handle": "Reuters", "inPool": false, "why": "wire service source for CNN breaking items"},
+      {"handle": "AP", "inPool": false, "why": "primary wire service for breaking news"},
+      {"handle": "BBCBreaking", "inPool": true, "why": "international equivalent, mutual breaking news"},
+      {"handle": "washingtonpost", "inPool": false, "why": "prominent news outlet, story competition"},
+      {"handle": "MSNBC", "inPool": false, "why": "cable news rival on breaking stories"}
+    ]
+  },
+  {
+    "handle": "nytimes",
+    "circle": [
+      {"handle": "CNN", "inPool": true, "why": "media peer, frequent mutual story reference"},
+      {"handle": "jaketapper", "inPool": true, "why": "CNN anchor citing NYT reporting regularly"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech columnist with NYT Sway podcast"},
+      {"handle": "NBCNews", "inPool": true, "why": "broadcast news peer, mutual story amplification"},
+      {"handle": "thehill", "inPool": true, "why": "political news, frequent cross-citation"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "Trump attacked NYT as fake news repeatedly"},
+      {"handle": "washingtonpost", "inPool": false, "why": "direct competitor, Beltway press rivalry"},
+      {"handle": "Reuters", "inPool": false, "why": "wire partner, shared breaking story sourcing"},
+      {"handle": "FoxNews", "inPool": false, "why": "ideological foil, frequent attacks from Fox"},
+      {"handle": "Politico", "inPool": false, "why": "DC media peer, staff crossover and citations"}
+    ]
+  },
+  {
+    "handle": "britneyspears",
+    "circle": [
+      {"handle": "justinbieber", "inPool": false, "why": "pop successor, frequently compared"},
+      {"handle": "ladygaga", "inPool": true, "why": "pop peer, mutual public support"},
+      {"handle": "katyperry", "inPool": true, "why": "pop contemporary, industry friendship"},
+      {"handle": "rihanna", "inPool": true, "why": "pop contemporary, public mutual admiration"},
+      {"handle": "KimKardashian", "inPool": false, "why": "close friend, conservatorship support"},
+      {"handle": "ParisHilton", "inPool": false, "why": "2000s BFF, iconic tabloid pairing"},
+      {"handle": "xtina", "inPool": true, "why": "Christina Aguilera, iconic 2000s rival turned ally"},
+      {"handle": "Drake", "inPool": true, "why": "sampled her music, public affection for Britney"},
+      {"handle": "ArianaGrande", "inPool": false, "why": "pop successor who cited Britney as influence"}
+    ]
+  },
+  {
+    "handle": "shakira",
+    "circle": [
+      {"handle": "Pitbull", "inPool": true, "why": "collaboration on multiple hit songs"},
+      {"handle": "wyclef", "inPool": true, "why": "Wyclef Jean produced her breakthrough Laundry Service"},
+      {"handle": "rihanna", "inPool": true, "why": "pop peer, co-cited on Latin crossover"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "Can't Remember to Forget You collaboration"},
+      {"handle": "KingJames", "inPool": true, "why": "performed at World Cup, LeBron celebrated publicly"},
+      {"handle": "Drake", "inPool": true, "why": "hip-hop crossover peer, mutual mentions"},
+      {"handle": "JLo", "inPool": false, "why": "Super Bowl halftime co-performer 2020"},
+      {"handle": "Maluma", "inPool": false, "why": "frequent collaborator on Latin hits"},
+      {"handle": "CarlosVives", "inPool": false, "why": "Colombian music icon, cultural peer"},
+      {"handle": "RickyMartin", "inPool": false, "why": "Latin music contemporary, public mutual support"}
+    ]
+  },
+  {
+    "handle": "KingJames",
+    "circle": [
+      {"handle": "KDTrey5", "inPool": true, "why": "Kevin Durant, generation rival turned teammate"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "Finals rival, mutual NBA respect"},
+      {"handle": "NBA", "inPool": true, "why": "league account, constant interaction"},
+      {"handle": "espn", "inPool": true, "why": "primary coverage outlet, frequent mentions"},
+      {"handle": "wojespn", "inPool": true, "why": "Woj breaks LeBron news regularly"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlight and news broadcast, frequent tags"},
+      {"handle": "MagicJohnson", "inPool": true, "why": "Lakers predecessor, Lakers front office peer"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "top NBA reporter covering LeBron"},
+      {"handle": "Cavs", "inPool": true, "why": "former team, loyal history and fan base"},
+      {"handle": "blakegriffin23", "inPool": true, "why": "NBA peer, known Twitter banter"},
+      {"handle": "DWade", "inPool": false, "why": "best friend and Heat teammate, constant interaction"},
+      {"handle": "CP3", "inPool": false, "why": "close friend, Team USA and NBA peer"}
+    ]
+  },
+  {
+    "handle": "ddlovato",
+    "circle": [
+      {"handle": "selenagomez", "inPool": false, "why": "childhood best friend, complex public friendship"},
+      {"handle": "NickJonas", "inPool": false, "why": "ex-boyfriend, Camp Rock co-star"},
+      {"handle": "JoeJonas", "inPool": true, "why": "Jonas Brothers, Camp Rock collaboration"},
+      {"handle": "taylorswift13", "inPool": false, "why": "teen pop contemporary, complex public dynamic"},
+      {"handle": "MileyCyrus", "inPool": false, "why": "Disney peer, public solidarity and friendship"},
+      {"handle": "rihanna", "inPool": true, "why": "pop inspiration, public admiration expressed"},
+      {"handle": "ladygaga", "inPool": true, "why": "mental health advocacy peer, mutual support"},
+      {"handle": "katyperry", "inPool": true, "why": "pop contemporary, known public interaction"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "rap collaboration Simply Complicated mentions"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "Cool for the Summer remix, social media banter"}
+    ]
+  },
+  {
+    "handle": "BBCBreaking",
+    "circle": [
+      {"handle": "cnnbrk", "inPool": true, "why": "US equivalent breaking news account"},
+      {"handle": "Reuters", "inPool": false, "why": "primary wire service for BBC breaking items"},
+      {"handle": "AP", "inPool": false, "why": "wire service partner for breaking coverage"},
+      {"handle": "BBCPhilipSim", "inPool": true, "why": "BBC journalist actively breaks news on Twitter"},
+      {"handle": "Channel4News", "inPool": true, "why": "UK broadcast rival, simultaneous breaking coverage"},
+      {"handle": "ITV", "inPool": true, "why": "UK broadcast rival, breaking news competition"},
+      {"handle": "BBCBreakfast", "inPool": true, "why": "sibling BBC account, morning news amplification"},
+      {"handle": "BBCClick", "inPool": true, "why": "sibling tech news BBC account"},
+      {"handle": "nytimes", "inPool": true, "why": "transatlantic news partner, mutual story citation"},
+      {"handle": "CNN", "inPool": true, "why": "US media counterpart, joint breaking coverage"},
+      {"handle": "SkyNews", "inPool": false, "why": "direct UK rival breaking news broadcaster"}
+    ]
+  },
+  {
+    "handle": "RobertDowneyJr",
+    "circle": [
+      {"handle": "MarvelStudios", "inPool": true, "why": "Iron Man franchise home, official Marvel account"},
+      {"handle": "Marvel", "inPool": true, "why": "publisher/brand, Tony Stark identity"},
+      {"handle": "MarkRuffalo", "inPool": true, "why": "Avengers co-star, known Twitter friendship"},
+      {"handle": "ChrisEvans", "inPool": false, "why": "Captain America, iconic MCU co-star"},
+      {"handle": "Jon_Favreau", "inPool": true, "why": "Iron Man director, long creative partnership"},
+      {"handle": "DisneyPlus", "inPool": true, "why": "MCU streaming home, Iron Man content"},
+      {"handle": "VancityReynolds", "inPool": false, "why": "Hollywood peer, known social media humor banter"},
+      {"handle": "TheRock", "inPool": true, "why": "Hollywood A-lister peer, mutual hype and respect"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "frequent late night guest, known comic chemistry"},
+      {"handle": "ChrisHemsworth", "inPool": false, "why": "Thor co-star, Avengers ensemble"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "frequent Tonight Show appearance and banter"}
+    ]
+  },
+  {
+    "handle": "jimmyfallon",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "late night peer, NBC predecessor, public camaraderie"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "late night rival, Late Show CBS competitor"},
+      {"handle": "NBCNews", "inPool": true, "why": "NBC family account, network sibling"},
+      {"handle": "justinbieber", "inPool": false, "why": "frequent Tonight Show guest, known rapport"},
+      {"handle": "Harry_Styles", "inPool": true, "why": "recurring Tonight Show guest, fan favorite segments"},
+      {"handle": "RobertDowneyJr", "inPool": true, "why": "frequent high-energy Tonight Show visits"},
+      {"handle": "TheRock", "inPool": true, "why": "recurring guest, viral slow jam segments"},
+      {"handle": "taylorswift13", "inPool": false, "why": "multiple viral Tonight Show appearances"},
+      {"handle": "edsheeran", "inPool": false, "why": "musical guest, viral lip sync battle"},
+      {"handle": "JimmyKimmelLive", "inPool": false, "why": "direct ABC late night rival, on-air banter"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "recurring guest, known Tonight Show chemistry"}
+    ]
+  }
+]

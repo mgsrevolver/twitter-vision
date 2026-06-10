@@ -1,0 +1,497 @@
+[
+  {
+    "handle": "Jon_Favreau",
+    "circle": [
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "former boss, frequent shout-outs"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "aligned politics, pod guest"
+      },
+      {
+        "handle": "HillaryClinton",
+        "inPool": true,
+        "why": "Democratic orbit regular"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "left-wing policy amplification"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC ally, media overlap"
+      },
+      {
+        "handle": "JakeTapper",
+        "inPool": true,
+        "why": "CNN collaborator, mutual fans"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive cause retweets"
+      },
+      {
+        "handle": "MichelleObama",
+        "inPool": true,
+        "why": "Obama family ties"
+      }
+    ]
+  },
+  {
+    "handle": "NASAHubble",
+    "circle": [
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "parent agency account"
+      },
+      {
+        "handle": "NASAWebb",
+        "inPool": true,
+        "why": "sibling space telescope"
+      },
+      {
+        "handle": "NASAPersevere",
+        "inPool": true,
+        "why": "fellow NASA mission"
+      },
+      {
+        "handle": "MarsCuriosity",
+        "inPool": true,
+        "why": "NASA rover sibling account"
+      },
+      {
+        "handle": "Rainmaker1973",
+        "inPool": true,
+        "why": "popular science amplifier"
+      },
+      {
+        "handle": "Cmdr_Hadfield",
+        "inPool": true,
+        "why": "astronaut shares space imagery"
+      },
+      {
+        "handle": "StationCDRKelly",
+        "inPool": true,
+        "why": "astronaut, space enthusiast"
+      }
+    ]
+  },
+  {
+    "handle": "jimcramer",
+    "circle": [
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "his network, frequent cross-posts"
+      },
+      {
+        "handle": "carlquintanilla",
+        "inPool": true,
+        "why": "CNBC co-anchor"
+      },
+      {
+        "handle": "davidfaber",
+        "inPool": true,
+        "why": "CNBC colleague"
+      },
+      {
+        "handle": "unusual_whales",
+        "inPool": false,
+        "why": "tracks inverse-Cramer bets"
+      },
+      {
+        "handle": "RampCapitalLLC",
+        "inPool": true,
+        "why": "finance meme account, dunks Cramer"
+      },
+      {
+        "handle": "ParikPatelCFA",
+        "inPool": true,
+        "why": "finance commentary, Cramer critic"
+      }
+    ]
+  },
+  {
+    "handle": "unusual_whales",
+    "circle": [
+      {
+        "handle": "RampCapitalLLC",
+        "inPool": true,
+        "why": "finance meme peer"
+      },
+      {
+        "handle": "ParikPatelCFA",
+        "inPool": true,
+        "why": "fintwit data commentary"
+      },
+      {
+        "handle": "PolymarketIntel",
+        "inPool": true,
+        "why": "prediction market overlap"
+      },
+      {
+        "handle": "jimcramer",
+        "inPool": false,
+        "why": "tracks inverse Cramer signal"
+      },
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "financial news source citations"
+      },
+      {
+        "handle": "Snowden",
+        "inPool": true,
+        "why": "political transparency alignment"
+      }
+    ]
+  },
+  {
+    "handle": "EmrgencyKittens",
+    "circle": [
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "animal content peer account"
+      }
+    ]
+  },
+  {
+    "handle": "nytmag",
+    "circle": [
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "parent publication account"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": false,
+        "why": "NYT columnist contributor"
+      },
+      {
+        "handle": "ezraklein",
+        "inPool": false,
+        "why": "NYT opinion contributor"
+      },
+      {
+        "handle": "NickKristof",
+        "inPool": false,
+        "why": "longtime NYT columnist"
+      },
+      {
+        "handle": "JakeTapper",
+        "inPool": true,
+        "why": "media cross-promotion"
+      },
+      {
+        "handle": "TheAtlantic",
+        "inPool": false,
+        "why": "peer longform magazine"
+      }
+    ]
+  },
+  {
+    "handle": "cthagod",
+    "circle": [
+      {
+        "handle": "desusnice",
+        "inPool": true,
+        "why": "media/podcast peer, mutual support"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "Breakfast Club frequent guest"
+      },
+      {
+        "handle": "XXL",
+        "inPool": true,
+        "why": "hip-hop media overlap"
+      },
+      {
+        "handle": "JoeBiden",
+        "inPool": true,
+        "why": "famous You Ain't Black interview"
+      },
+      {
+        "handle": "LilNasX",
+        "inPool": true,
+        "why": "recurring Breakfast Club guest"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "political guest engagement"
+      }
+    ]
+  },
+  {
+    "handle": "DangeRussWilson",
+    "circle": [
+      {
+        "handle": "Ciara",
+        "inPool": true,
+        "why": "wife, constant mutual posts"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "league account tags him"
+      },
+      {
+        "handle": "Seahawks",
+        "inPool": true,
+        "why": "former team, long tenure"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "athlete peer community"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "NFL reporter covers his moves"
+      },
+      {
+        "handle": "ESPN",
+        "inPool": true,
+        "why": "sports media coverage"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "highlight amplification"
+      }
+    ]
+  },
+  {
+    "handle": "GeorgeRussell63",
+    "circle": [
+      {
+        "handle": "LewisHamilton",
+        "inPool": true,
+        "why": "Mercedes teammate, close bond"
+      },
+      {
+        "handle": "McLarenF1",
+        "inPool": true,
+        "why": "rival F1 team banter"
+      },
+      {
+        "handle": "F1",
+        "inPool": true,
+        "why": "official F1 account tags him"
+      },
+      {
+        "handle": "LandoNorris",
+        "inPool": false,
+        "why": "British F1 peer, friendly rivalry"
+      },
+      {
+        "handle": "Max33Verstappen",
+        "inPool": false,
+        "why": "championship rival"
+      },
+      {
+        "handle": "mercedesamgf1",
+        "inPool": true,
+        "why": "his team account"
+      }
+    ]
+  },
+  {
+    "handle": "ggreenwald",
+    "circle": [
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "fellow contrarian journalist"
+      },
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "frequent podcast guest"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "Tucker interview/alignment"
+      },
+      {
+        "handle": "Snowden",
+        "inPool": true,
+        "why": "NSA story collaborator, ally"
+      },
+      {
+        "handle": "Acyn",
+        "inPool": true,
+        "why": "media critic peer"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "left media debate sparring"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "shared contrarian politics"
+      }
+    ]
+  },
+  {
+    "handle": "AsteroidWatch",
+    "circle": [
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "parent agency"
+      },
+      {
+        "handle": "NASAWebb",
+        "inPool": true,
+        "why": "sibling NASA science account"
+      },
+      {
+        "handle": "MarsCuriosity",
+        "inPool": true,
+        "why": "NASA mission sibling"
+      },
+      {
+        "handle": "NASAPersevere",
+        "inPool": true,
+        "why": "NASA rover sibling"
+      },
+      {
+        "handle": "Rainmaker1973",
+        "inPool": true,
+        "why": "science amplifier account"
+      },
+      {
+        "handle": "Cmdr_Hadfield",
+        "inPool": true,
+        "why": "astronaut engages space news"
+      }
+    ]
+  },
+  {
+    "handle": "paulfeig",
+    "circle": [
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "comedy circle peer"
+      },
+      {
+        "handle": "MarkRuffalo",
+        "inPool": true,
+        "why": "Hollywood colleague"
+      },
+      {
+        "handle": "Netflix",
+        "inPool": true,
+        "why": "streaming partner promotion"
+      }
+    ]
+  },
+  {
+    "handle": "evilhag",
+    "circle": [
+      {
+        "handle": "AnnaKendrick47",
+        "inPool": true,
+        "why": "Parks/Hollywood peer banter"
+      },
+      {
+        "handle": "Nick_Offerman",
+        "inPool": false,
+        "why": "Parks and Recreation co-star"
+      },
+      {
+        "handle": "MarkRuffalo",
+        "inPool": true,
+        "why": "Marvel/indie film overlap"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "comedy community peer"
+      }
+    ]
+  },
+  {
+    "handle": "boburnham",
+    "circle": [
+      {
+        "handle": "Netflix",
+        "inPool": true,
+        "why": "Inside/comedy specials home"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": true,
+        "why": "directed Eras Tour film"
+      },
+      {
+        "handle": "MarkRuffalo",
+        "inPool": true,
+        "why": "fan/celebrity mutual"
+      },
+      {
+        "handle": "ladygaga",
+        "inPool": true,
+        "why": "celeb mutual fan engagement"
+      }
+    ]
+  },
+  {
+    "handle": "JakeTapper",
+    "circle": [
+      {
+        "handle": "AndersonCooper",
+        "inPool": true,
+        "why": "CNN colleague"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "his network"
+      },
+      {
+        "handle": "ChrisCuomo",
+        "inPool": true,
+        "why": "former CNN colleague"
+      },
+      {
+        "handle": "maggieNYT",
+        "inPool": false,
+        "why": "political journalist peer"
+      },
+      {
+        "handle": "Jon_Favreau",
+        "inPool": true,
+        "why": "Democratic media ally"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "media industry peer"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "media personality overlap"
+      }
+    ]
+  }
+]

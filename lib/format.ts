@@ -9,7 +9,14 @@ export function formatTweetDate(iso: string): string {
   return d.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 }
 
-/** Strip trailing t.co media links — the card shows its own media hint. */
+/** Strip trailing t.co media links and decode the entities X leaves in tweet text. */
 export function cleanTweetText(text: string): string {
-  return text.replace(/\s*https:\/\/t\.co\/\w+\s*$/g, "").trim();
+  return text
+    .replace(/(?:\s*https:\/\/t\.co\/\w+)+\s*$/g, "")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&amp;/g, "&")
+    .trim();
 }

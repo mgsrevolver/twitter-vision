@@ -1,0 +1,183 @@
+[
+  {
+    "handle": "KillerMike",
+    "circle": [
+      {"handle": "BernieSanders", "inPool": true, "why": "vocal progressive political ally"},
+      {"handle": "AOC", "inPool": true, "why": "progressive congresswoman ally"},
+      {"handle": "IlhanMN", "inPool": true, "why": "squad progressive ally"},
+      {"handle": "RashidaTlaib", "inPool": true, "why": "squad member alliance"},
+      {"handle": "KDTrey5", "inPool": true, "why": "mutual rapper-athlete respect"},
+      {"handle": "runjewels", "inPool": false, "why": "RTJ co-member Run The Jewels"},
+      {"handle": "deray", "inPool": false, "why": "racial justice activist overlap"},
+      {"handle": "cenkuygur", "inPool": false, "why": "left media frequent guest"}
+    ]
+  },
+  {
+    "handle": "JoshAllenQB",
+    "circle": [
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "frequent Pat McAfee Show guest"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL reporter covers him"},
+      {"handle": "KingJames", "inPool": true, "why": "cross-sport athlete camaraderie"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "cross-sport athlete mutual"},
+      {"handle": "Giannis_An34", "inPool": true, "why": "cross-sport athlete mutual"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN NFL reporter"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "sports news reporter"},
+      {"handle": "StefonDiggs014", "inPool": false, "why": "former Bills teammate"}
+    ]
+  },
+  {
+    "handle": "EpochTimes",
+    "circle": [
+      {"handle": "TuckerCarlson", "inPool": true, "why": "right-media ideological alignment"},
+      {"handle": "benshapiro", "inPool": true, "why": "right-media content sharing"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "pro-Trump coverage frequent"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News right-media ally"},
+      {"handle": "mtgreenee", "inPool": true, "why": "MAGA GOP amplify mutual"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA ideological ally"},
+      {"handle": "seanhannity", "inPool": false, "why": "Fox News right-media ally"}
+    ]
+  },
+  {
+    "handle": "cenkuygur",
+    "circle": [
+      {"handle": "BernieSanders", "inPool": true, "why": "endorsed, frequent guest"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politician ally"},
+      {"handle": "IlhanMN", "inPool": true, "why": "progressive squad ally"},
+      {"handle": "SamSeder", "inPool": false, "why": "left media buddy frequent"},
+      {"handle": "KyleKulinski", "inPool": false, "why": "TYT network alumni"},
+      {"handle": "briebriejoy", "inPool": false, "why": "progressive media peer"},
+      {"handle": "krystalball", "inPool": false, "why": "left media colleague"}
+    ]
+  },
+  {
+    "handle": "a16z",
+    "circle": [
+      {"handle": "pmarca", "inPool": true, "why": "co-founder Marc Andreessen"},
+      {"handle": "sama", "inPool": true, "why": "Sam Altman VC ally"},
+      {"handle": "naval", "inPool": true, "why": "venture-angel orbit overlap"},
+      {"handle": "DavidSacks", "inPool": true, "why": "PayPal-VC mutual orbit"},
+      {"handle": "chamath", "inPool": true, "why": "SPAC-VC peer frequent"},
+      {"handle": "jason", "inPool": true, "why": "All-In Pod co-host"},
+      {"handle": "paulg", "inPool": true, "why": "YC-VC ecosystem peer"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech-VC mutual amplify"}
+    ]
+  },
+  {
+    "handle": "patrickc",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "YC-OpenAI tech peer"},
+      {"handle": "pmarca", "inPool": true, "why": "VC-tech mutual respect"},
+      {"handle": "paulg", "inPool": true, "why": "YC-VC orbit peer"},
+      {"handle": "naval", "inPool": true, "why": "tech-startup philosophy peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "PayPal-mafia adjacent"},
+      {"handle": "elonmusk", "inPool": true, "why": "tech CEO mutual"},
+      {"handle": "collision", "inPool": false, "why": "Stripe co-founder brother"},
+      {"handle": "dhh", "inPool": false, "why": "contrarian tech peer"}
+    ]
+  },
+  {
+    "handle": "DocumentingBTC",
+    "circle": [
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalist ally"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "crypto figure frequent cite"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO coverage"},
+      {"handle": "cz_binance", "inPool": true, "why": "exchange CEO coverage"},
+      {"handle": "SBF_FTX", "inPool": true, "why": "FTX fraud coverage target"},
+      {"handle": "stablekwon", "inPool": true, "why": "Terra collapse coverage"},
+      {"handle": "APompliano", "inPool": false, "why": "Bitcoin media peer"},
+      {"handle": "100trillionUSD", "inPool": false, "why": "BTC stock-to-flow creator"}
+    ]
+  },
+  {
+    "handle": "ReedTimmerUSA",
+    "circle": [
+      {"handle": "NWSVegas", "inPool": true, "why": "NWS office frequent tag"},
+      {"handle": "NASA", "inPool": true, "why": "atmospheric science cross"},
+      {"handle": "JimCantore", "inPool": false, "why": "Weather Channel colleague"},
+      {"handle": "NWS", "inPool": false, "why": "official weather service tag"}
+    ]
+  },
+  {
+    "handle": "normmacdonald",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "close friend frequent banter"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late night peer"},
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy mutual admiration"},
+      {"handle": "mulaney", "inPool": true, "why": "standup comedy peer"},
+      {"handle": "jimgaffigan", "inPool": true, "why": "standup comedy peer"},
+      {"handle": "SteveMartinToGo", "inPool": false, "why": "comedy hero idol"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "comedy peer Twitter friend"}
+    ]
+  },
+  {
+    "handle": "KatiePavlich",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "Daily Wire right-media peer"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News colleague"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "Fox News colleague mutual"},
+      {"handle": "mtgreenee", "inPool": true, "why": "MAGA conservative ally"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "Trump supporter amplify"},
+      {"handle": "DLoesch", "inPool": false, "why": "conservative media peer"},
+      {"handle": "MZHemingway", "inPool": false, "why": "Federalist colleague"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA conservative ally"},
+      {"handle": "seanhannity", "inPool": false, "why": "Fox News colleague"}
+    ]
+  },
+  {
+    "handle": "RNCResearch",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "RNC amplifies Trump content"},
+      {"handle": "benshapiro", "inPool": true, "why": "conservative media partner"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "conservative media ally"},
+      {"handle": "mtgreenee", "inPool": true, "why": "MAGA GOP amplify"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News ally"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA conservative ally"}
+    ]
+  },
+  {
+    "handle": "NASASpaceflight",
+    "circle": [
+      {"handle": "SpaceX", "inPool": true, "why": "primary launch coverage"},
+      {"handle": "NASA", "inPool": true, "why": "primary agency coverage"},
+      {"handle": "SciGuySpace", "inPool": true, "why": "space journalist peer"},
+      {"handle": "CNSpaceflight", "inPool": true, "why": "spaceflight news peer"},
+      {"handle": "RocketLab", "inPool": true, "why": "launch provider coverage"},
+      {"handle": "elonmusk", "inPool": true, "why": "SpaceX CEO news source"},
+      {"handle": "torybruno", "inPool": true, "why": "ULA CEO news source"},
+      {"handle": "Erdayastronaut", "inPool": false, "why": "spaceflight content peer"}
+    ]
+  },
+  {
+    "handle": "ZachXBT",
+    "circle": [
+      {"handle": "cobie", "inPool": true, "why": "crypto Twitter peer mutual"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase coverage target"},
+      {"handle": "SBF_FTX", "inPool": true, "why": "FTX fraud investigator target"},
+      {"handle": "stablekwon", "inPool": true, "why": "Terra collapse investigator"},
+      {"handle": "CelsiusNetwork", "inPool": true, "why": "Celsius fraud coverage"},
+      {"handle": "justinsuntron", "inPool": true, "why": "Tron-Justin Sun exposure"},
+      {"handle": "zhusu", "inPool": true, "why": "3AC founder coverage"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum community mutual"}
+    ]
+  },
+  {
+    "handle": "DisguisedToast",
+    "circle": [
+      {"handle": "xQc", "inPool": true, "why": "streaming peer frequent collab"},
+      {"handle": "Ninja", "inPool": true, "why": "streaming icon mutual"},
+      {"handle": "pokimane", "inPool": false, "why": "OfflineTV co-member friend"},
+      {"handle": "Sykkuno", "inPool": false, "why": "OfflineTV Among Us peer"},
+      {"handle": "Valkyrae", "inPool": false, "why": "100T streamer peer"},
+      {"handle": "LudwigAhgren", "inPool": false, "why": "streaming content peer"}
+    ]
+  },
+  {
+    "handle": "JacobsBen",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL reporter colleague"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN reporter peer"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA reporter peer"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "sports media mutual"}
+    ]
+  }
+]

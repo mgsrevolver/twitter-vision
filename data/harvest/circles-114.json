@@ -1,0 +1,547 @@
+[
+  {
+    "handle": "richarddawkins",
+    "circle": [
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "frequent scientific banter and support"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "fellow science communicator peer"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "friendly intellectual exchange"
+      },
+      {
+        "handle": "GretaThunberg",
+        "inPool": true,
+        "why": "retweets climate activism content"
+      },
+      {
+        "handle": "piersmorgan",
+        "inPool": true,
+        "why": "traded barbs on religion"
+      },
+      {
+        "handle": "StephenKing",
+        "inPool": true,
+        "why": "mutual retweets liberal politics"
+      }
+    ]
+  },
+  {
+    "handle": "NASAPersevere",
+    "circle": [
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "parent agency official account"
+      },
+      {
+        "handle": "MarsCuriosity",
+        "inPool": true,
+        "why": "sibling Mars rover banter"
+      },
+      {
+        "handle": "NASAWebb",
+        "inPool": true,
+        "why": "frequent cross-NASA engagement"
+      },
+      {
+        "handle": "Space_Station",
+        "inPool": false,
+        "why": "sister NASA mission account"
+      },
+      {
+        "handle": "esa",
+        "inPool": false,
+        "why": "partner agency Mars coverage"
+      },
+      {
+        "handle": "NASAJPL",
+        "inPool": false,
+        "why": "built and operates Perseverance"
+      }
+    ]
+  },
+  {
+    "handle": "neilhimself",
+    "circle": [
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "close literary friends, frequent replies"
+      },
+      {
+        "handle": "StephenKing",
+        "inPool": true,
+        "why": "mutual admiration, retweets"
+      },
+      {
+        "handle": "jk_rowling",
+        "inPool": true,
+        "why": "longtime literary peer"
+      },
+      {
+        "handle": "Lin_Manuel",
+        "inPool": true,
+        "why": "American Gods collaboration praise"
+      },
+      {
+        "handle": "GuyInYourMFA",
+        "inPool": true,
+        "why": "enjoys and retweets literary humor"
+      },
+      {
+        "handle": "rickygervais",
+        "inPool": true,
+        "why": "Old friends from UK creative world"
+      }
+    ]
+  },
+  {
+    "handle": "JaMorant",
+    "circle": [
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "mutual NBA star shoutouts"
+      },
+      {
+        "handle": "KDTrey5",
+        "inPool": true,
+        "why": "NBA peer engagement"
+      },
+      {
+        "handle": "StephenCurry30",
+        "inPool": true,
+        "why": "competing guard, mutual replies"
+      },
+      {
+        "handle": "Giannis_An34",
+        "inPool": true,
+        "why": "NBA star mutual engagement"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "insider broke Grizzlies news"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "featured heavily on ESPN"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "Woj broke key Grizzlies transactions"
+      },
+      {
+        "handle": "NBA",
+        "inPool": true,
+        "why": "official league featured highlights"
+      }
+    ]
+  },
+  {
+    "handle": "JonnyBones",
+    "circle": [
+      {
+        "handle": "ufc",
+        "inPool": true,
+        "why": "UFC org frequent engagement"
+      },
+      {
+        "handle": "TheNotoriousMMA",
+        "inPool": false,
+        "why": "rival trash talk history"
+      },
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "fan interaction, cooking tweet replies"
+      },
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "UFC commentator, Jones podcast guest"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "mutual celeb sports fan banter"
+      }
+    ]
+  },
+  {
+    "handle": "ezraklein",
+    "circle": [
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "fellow left media, mutual engagement"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC peer, frequent replies"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "NYT colleague cross-promotion"
+      },
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "policy media peer outlet"
+      },
+      {
+        "handle": "JakeTapper",
+        "inPool": true,
+        "why": "DC media peer interaction"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "interviewed, covered extensively"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "Vox/NYT policy coverage of Warren"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive politics coverage"
+      }
+    ]
+  },
+  {
+    "handle": "lenadunham",
+    "circle": [
+      {
+        "handle": "mindykaling",
+        "inPool": true,
+        "why": "longtime friends, frequent replies"
+      },
+      {
+        "handle": "VancityReynolds",
+        "inPool": true,
+        "why": "Hollywood peer banter"
+      },
+      {
+        "handle": "LeoDiCaprio",
+        "inPool": true,
+        "why": "social cause mutual retweets"
+      },
+      {
+        "handle": "jk_rowling",
+        "inPool": true,
+        "why": "literary feminist exchange (pre-split)"
+      },
+      {
+        "handle": "chrisevans",
+        "inPool": true,
+        "why": "political tweet mutual engagement"
+      }
+    ]
+  },
+  {
+    "handle": "Valkyrae",
+    "circle": [
+      {
+        "handle": "pokimane",
+        "inPool": false,
+        "why": "best friends, co-stream frequently"
+      },
+      {
+        "handle": "Sykkuno",
+        "inPool": false,
+        "why": "OfflineTV crewmate, frequent collabs"
+      },
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "frequent collab streams, mutual fans"
+      },
+      {
+        "handle": "markiplier",
+        "inPool": true,
+        "why": "gaming content creator peer"
+      },
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "top streamer mutual recognition"
+      }
+    ]
+  },
+  {
+    "handle": "wemby",
+    "circle": [
+      {
+        "handle": "NBA",
+        "inPool": true,
+        "why": "league official featured him heavily"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "LeBron praised him publicly"
+      },
+      {
+        "handle": "Giannis_An34",
+        "inPool": true,
+        "why": "compared and mutual NBA star replies"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "broke Wembanyama NBA news"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "featured top prospect coverage"
+      }
+    ]
+  },
+  {
+    "handle": "TomiLahren",
+    "circle": [
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "Fox News colleague, mutual promotion"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "conservative media peer, retweets"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "Fox Nation host, org account"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News colleague engagement"
+      },
+      {
+        "handle": "DineshDSouza",
+        "inPool": true,
+        "why": "right-media peer, mutual retweets"
+      },
+      {
+        "handle": "JDVance",
+        "inPool": true,
+        "why": "aligned politically, retweets"
+      },
+      {
+        "handle": "RandPaul",
+        "inPool": true,
+        "why": "libertarian-right overlap content"
+      }
+    ]
+  },
+  {
+    "handle": "juventusfcen",
+    "circle": [
+      {
+        "handle": "ChampionsLeague",
+        "inPool": true,
+        "why": "UCL official featuring Juventus"
+      },
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "historic rival, banter content"
+      },
+      {
+        "handle": "SpursOfficial",
+        "inPool": true,
+        "why": "European competition engagement"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "stats provider features Juve data"
+      },
+      {
+        "handle": "GaryLineker",
+        "inPool": true,
+        "why": "pundit covers Serie A"
+      },
+      {
+        "handle": "GNev2",
+        "inPool": true,
+        "why": "pundit covers European football"
+      },
+      {
+        "handle": "IanWright0",
+        "inPool": true,
+        "why": "pundit covers European games"
+      }
+    ]
+  },
+  {
+    "handle": "DiscussingFilm",
+    "circle": [
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "trades in same film news space"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "entertainment trade peer outlet"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "film news competitor, cross-coverage"
+      },
+      {
+        "handle": "MarkHamill",
+        "inPool": true,
+        "why": "pop culture icon they cover"
+      },
+      {
+        "handle": "RobertDowneyJr",
+        "inPool": true,
+        "why": "Marvel news they frequently break"
+      },
+      {
+        "handle": "chrisevans",
+        "inPool": true,
+        "why": "Marvel actor they cover"
+      },
+      {
+        "handle": "VancityReynolds",
+        "inPool": true,
+        "why": "frequently cover Reynolds films"
+      }
+    ]
+  },
+  {
+    "handle": "moistcr1tikal",
+    "circle": [
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "fellow top streamer, drama overlap"
+      },
+      {
+        "handle": "markiplier",
+        "inPool": true,
+        "why": "gaming/commentary creator peer"
+      },
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "big streamer he has discussed"
+      },
+      {
+        "handle": "DrLupo",
+        "inPool": true,
+        "why": "streaming community peer"
+      },
+      {
+        "handle": "pokimane",
+        "inPool": false,
+        "why": "streamer he has commented on"
+      },
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "commentary style mutual content"
+      }
+    ]
+  },
+  {
+    "handle": "ProjectLincoln",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "anti-Trump coordination retweets"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "mutual opposition content"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "overlapping anti-Trump messaging"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC amplified their content"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "left media amplified their ads"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "endorsed and mutual retweets"
+      },
+      {
+        "handle": "chrisevans",
+        "inPool": true,
+        "why": "celebrity activist amplified content"
+      }
+    ]
+  },
+  {
+    "handle": "esa",
+    "circle": [
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "partner space agency constant cross-post"
+      },
+      {
+        "handle": "NASAPersevere",
+        "inPool": true,
+        "why": "Mars mission partner coverage"
+      },
+      {
+        "handle": "MarsCuriosity",
+        "inPool": true,
+        "why": "Mars exploration sibling mission"
+      },
+      {
+        "handle": "NASAWebb",
+        "inPool": true,
+        "why": "ESA co-built James Webb telescope"
+      },
+      {
+        "handle": "Space_Station",
+        "inPool": false,
+        "why": "ISS partner agency interaction"
+      },
+      {
+        "handle": "StationCDRKelly",
+        "inPool": true,
+        "why": "ISS astronaut ESA engagement"
+      }
+    ]
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "handle": "RealSkipBayless",
+    "circle": [
+      {"handle": "stephenasmith", "inPool": true, "why": "longtime First Take co-host"},
+      {"handle": "espn", "inPool": true, "why": "employer and broadcast home"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN flagship he appears on"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN colleague and beat reporter"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "rival sports media personality"},
+      {"handle": "BillSimmons", "inPool": true, "why": "rival sports media figure"},
+      {"handle": "KingJames", "inPool": true, "why": "frequent criticism target"},
+      {"handle": "KDTrey5", "inPool": true, "why": "frequent criticism target"},
+      {"handle": "NFL", "inPool": true, "why": "main sports beat coverage"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA news he reacts to"}
+    ]
+  },
+  {
+    "handle": "AMAZlNGNATURE",
+    "circle": []
+  },
+  {
+    "handle": "lilbaby4PF",
+    "circle": [
+      {"handle": "gucci1017", "inPool": true, "why": "labelmate and mentor figure"},
+      {"handle": "MetroBoomin", "inPool": true, "why": "frequent producer collaborator"},
+      {"handle": "Drake", "inPool": true, "why": "collaborated and toured together"},
+      {"handle": "KingJames", "inPool": true, "why": "close friendship, mutual support"},
+      {"handle": "XXL", "inPool": true, "why": "covered his rise extensively"},
+      {"handle": "chartdata", "inPool": true, "why": "charts his streaming numbers"},
+      {"handle": "iamcardib", "inPool": true, "why": "fellow chart rival and collaborator"},
+      {"handle": "Timbaland", "inPool": true, "why": "music industry engagement"},
+      {"handle": "pitchfork", "inPool": true, "why": "reviewed his albums"},
+      {"handle": "HotNewHipHop", "inPool": false, "why": "primary hip-hop coverage outlet"}
+    ]
+  },
+  {
+    "handle": "politico",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "peer political news outlet"},
+      {"handle": "washingtonpost", "inPool": true, "why": "peer political news outlet"},
+      {"handle": "axios", "inPool": true, "why": "direct competitor in DC coverage"},
+      {"handle": "CNN", "inPool": true, "why": "sister political media brand"},
+      {"handle": "cnnbrk", "inPool": true, "why": "breaking news peer"},
+      {"handle": "Reuters", "inPool": true, "why": "wire service partner"},
+      {"handle": "AP", "inPool": true, "why": "wire service partner"},
+      {"handle": "thehill", "inPool": true, "why": "DC-focused media peer"},
+      {"handle": "AOC", "inPool": true, "why": "frequently covered politician"},
+      {"handle": "tedcruz", "inPool": true, "why": "frequently covered politician"},
+      {"handle": "ewarren", "inPool": true, "why": "frequently covered politician"},
+      {"handle": "BernieSanders", "inPool": true, "why": "frequently covered politician"}
+    ]
+  },
+  {
+    "handle": "TigerWoods",
+    "circle": [
+      {"handle": "PhilMickelson", "inPool": true, "why": "longtime tour rival"},
+      {"handle": "espn", "inPool": true, "why": "primary sports broadcaster"},
+      {"handle": "SportsCenter", "inPool": true, "why": "major golf news coverage"},
+      {"handle": "Nike", "inPool": false, "why": "major long-term sponsor"},
+      {"handle": "PGATOUR", "inPool": false, "why": "his home tour"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "sports media engagement"}
+    ]
+  },
+  {
+    "handle": "Space_Station",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "operating agency home"},
+      {"handle": "SpaceX", "inPool": true, "why": "crew transport partner"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "former commander who tweets"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communicator engagement"},
+      {"handle": "NASAWebb", "inPool": true, "why": "sibling NASA account"},
+      {"handle": "MarsCuriosity", "inPool": true, "why": "sibling NASA rover account"},
+      {"handle": "NASAPersevere", "inPool": true, "why": "sibling NASA rover account"},
+      {"handle": "BillNye", "inPool": true, "why": "science communicator engagement"}
+    ]
+  },
+  {
+    "handle": "AlYankovic",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "longtime comedy peer and friend"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "late-night comedy peer"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late-night comedy engagement"},
+      {"handle": "rickygervais", "inPool": true, "why": "comedy peer mutual engagement"},
+      {"handle": "lin_manuel", "inPool": true, "why": "music-comedy crossover friend"},
+      {"handle": "mulaney", "inPool": true, "why": "comedy peer engagement"},
+      {"handle": "MikeDrucker", "inPool": true, "why": "comedy writer pal"},
+      {"handle": "neilhimself", "inPool": true, "why": "pop-culture friendship"},
+      {"handle": "SethMacFarlane", "inPool": true, "why": "comedy music peer"},
+      {"handle": "MarkHamill", "inPool": true, "why": "longtime pop-culture friend"}
+    ]
+  },
+  {
+    "handle": "questlove",
+    "circle": [
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show bandleader and host"},
+      {"handle": "Timbaland", "inPool": true, "why": "music producer peer engagement"},
+      {"handle": "lin_manuel", "inPool": true, "why": "Hamilton collaboration close friend"},
+      {"handle": "taylorswift13", "inPool": true, "why": "music industry engagement"},
+      {"handle": "ladygaga", "inPool": true, "why": "music industry engagement"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "hip-hop elder peer"},
+      {"handle": "Eminem", "inPool": true, "why": "hip-hop peer engagement"},
+      {"handle": "wizkhalifa", "inPool": true, "why": "hip-hop peer engagement"},
+      {"handle": "neilhimself", "inPool": true, "why": "creative arts friendship"},
+      {"handle": "KiDCuDi", "inPool": true, "why": "frequent music collaborator"},
+      {"handle": "pitchfork", "inPool": true, "why": "music media engagement"},
+      {"handle": "RollingStone", "inPool": true, "why": "music media engagement"}
+    ]
+  },
+  {
+    "handle": "oliviarodrigo",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": true, "why": "mentor and idol she credits"},
+      {"handle": "charli_xcx", "inPool": true, "why": "pop peer and collaborator"},
+      {"handle": "chartdata", "inPool": true, "why": "tracks her chart records"},
+      {"handle": "pitchfork", "inPool": true, "why": "reviewed her albums critically"},
+      {"handle": "RollingStone", "inPool": true, "why": "major press coverage outlet"},
+      {"handle": "PopBase", "inPool": true, "why": "pop culture news covering her"},
+      {"handle": "billieeilish", "inPool": false, "why": "gen-z pop peer"},
+      {"handle": "SabrinaAnnLynn", "inPool": false, "why": "Disney-era peer Sabrina Carpenter"}
+    ]
+  },
+  {
+    "handle": "mtgreenee",
+    "circle": [
+      {"handle": "tedcruz", "inPool": true, "why": "congressional ally"},
+      {"handle": "dbongino", "inPool": true, "why": "right-media amplifier"},
+      {"handle": "FoxNews", "inPool": true, "why": "primary friendly broadcast outlet"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA ally and amplifier"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "staunch Trump supporter"},
+      {"handle": "libsoftiktok", "inPool": false, "why": "right-wing media ally"},
+      {"handle": "IlhanMN", "inPool": true, "why": "frequent political antagonist"},
+      {"handle": "AOC", "inPool": true, "why": "frequent political antagonist"},
+      {"handle": "ewarren", "inPool": true, "why": "frequent political antagonist"}
+    ]
+  },
+  {
+    "handle": "newscientist",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "science news primary source"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communicator engagement"},
+      {"handle": "BillNye", "inPool": true, "why": "science communicator engagement"},
+      {"handle": "Reuters", "inPool": true, "why": "wire service news peer"},
+      {"handle": "NASAWebb", "inPool": true, "why": "telescope discovery coverage"},
+      {"handle": "SpaceX", "inPool": true, "why": "space technology coverage"},
+      {"handle": "MarsCuriosity", "inPool": true, "why": "Mars mission coverage"}
+    ]
+  },
+  {
+    "handle": "Tfue",
+    "circle": [
+      {"handle": "Ninja", "inPool": true, "why": "rival top Fortnite streamer"},
+      {"handle": "xQc", "inPool": true, "why": "top streaming peer"},
+      {"handle": "shroud", "inPool": false, "why": "FPS gaming peer streamer"},
+      {"handle": "timthetatman", "inPool": false, "why": "streaming peer and rival"},
+      {"handle": "NICKMERCS", "inPool": false, "why": "Warzone/FPS streaming peer"},
+      {"handle": "FaZeClan", "inPool": false, "why": "former org; had public dispute"}
+    ]
+  },
+  {
+    "handle": "nflnetwork",
+    "circle": [
+      {"handle": "NFL", "inPool": true, "why": "parent organization"},
+      {"handle": "espn", "inPool": true, "why": "major sports media competitor"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL reporter they cover"},
+      {"handle": "RapSheet", "inPool": true, "why": "NFL insider and reporter"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "NFL media peer partnership"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN rival broadcast"},
+      {"handle": "PFTCommenter", "inPool": true, "why": "NFL media parody engagement"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN sports personality"},
+      {"handle": "ProFootballTalk", "inPool": false, "why": "NFL news competitor outlet"}
+    ]
+  },
+  {
+    "handle": "IanWright0",
+    "circle": [
+      {"handle": "GaryLineker", "inPool": true, "why": "Match of the Day co-presenter"},
+      {"handle": "Carra23", "inPool": false, "why": "Sky Sports pundit peer"},
+      {"handle": "GNev2", "inPool": true, "why": "pundit peer at Sky Sports"},
+      {"handle": "Arsenal", "inPool": false, "why": "former club he champions"},
+      {"handle": "rioferdy5", "inPool": false, "why": "pundit peer and friend"},
+      {"handle": "stephenasmith", "inPool": true, "why": "sports media peer engagement"},
+      {"handle": "BukayoSaka87", "inPool": false, "why": "Arsenal star he supports"}
+    ]
+  },
+  {
+    "handle": "AnimalPlanet",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "sister nature media brand"},
+      {"handle": "BBCEarth", "inPool": false, "why": "international nature media peer"},
+      {"handle": "dog_rates", "inPool": true, "why": "animal content peer account"},
+      {"handle": "NASA", "inPool": true, "why": "science and nature engagement"},
+      {"handle": "BrotherNature", "inPool": false, "why": "viral animal content creator"}
+    ]
+  }
+]

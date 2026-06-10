@@ -1,0 +1,190 @@
+[
+  {
+    "handle": "TennisTV",
+    "circle": [
+      {"handle": "atptour", "inPool": true, "why": "official ATP broadcast partner"},
+      {"handle": "WTA", "inPool": true, "why": "women's tour broadcast partner"},
+      {"handle": "Tennis", "inPool": true, "why": "same tennis media beat"},
+      {"handle": "usopen", "inPool": true, "why": "major tournament they cover"},
+      {"handle": "rogerfederer", "inPool": true, "why": "marquee player featured heavily"},
+      {"handle": "RafaelNadal", "inPool": true, "why": "marquee player featured heavily"},
+      {"handle": "SportsCenter", "inPool": true, "why": "cross-sport highlight sharing"},
+      {"handle": "espn", "inPool": true, "why": "US tennis broadcast partner"}
+    ]
+  },
+  {
+    "handle": "DeItaone",
+    "circle": [
+      {"handle": "TheStalwart", "inPool": true, "why": "fellow finance news aggregator"},
+      {"handle": "CNBC", "inPool": true, "why": "source he frequently amplifies"},
+      {"handle": "WSJ", "inPool": true, "why": "primary news source cited"},
+      {"handle": "nytimes", "inPool": true, "why": "major news source cited"},
+      {"handle": "carlquintanilla", "inPool": true, "why": "CNBC anchor in same space"},
+      {"handle": "RampCapitalLLC", "inPool": true, "why": "finance Twitter peer engagement"},
+      {"handle": "ParikPatelCFA", "inPool": true, "why": "finance commentary overlap"},
+      {"handle": "axios", "inPool": true, "why": "news source frequently cited"}
+    ]
+  },
+  {
+    "handle": "andrewrsorkin",
+    "circle": [
+      {"handle": "CNBC", "inPool": true, "why": "his employer Squawk Box"},
+      {"handle": "carlquintanilla", "inPool": true, "why": "Squawk Box co-anchor"},
+      {"handle": "nytimes", "inPool": true, "why": "his DealBook newsletter home"},
+      {"handle": "WSJ", "inPool": true, "why": "rival business press beat"},
+      {"handle": "sama", "inPool": true, "why": "DealBook Summit featured guest"},
+      {"handle": "TheEconomist", "inPool": true, "why": "business journalism overlap"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech/media journalist peer"},
+      {"handle": "pmarca", "inPool": true, "why": "venture capital subject coverage"}
+    ]
+  },
+  {
+    "handle": "GRDecter",
+    "circle": [
+      {"handle": "TheStalwart", "inPool": true, "why": "finance media Twitter peer"},
+      {"handle": "ParikPatelCFA", "inPool": true, "why": "finance humor account peer"},
+      {"handle": "RampCapitalLLC", "inPool": true, "why": "markets humor account overlap"},
+      {"handle": "CNBC", "inPool": true, "why": "financial media she covers"},
+      {"handle": "chamath", "inPool": true, "why": "tech-finance personality covered"},
+      {"handle": "naval", "inPool": true, "why": "investor she engages with"},
+      {"handle": "WSJ", "inPool": true, "why": "source for finance commentary"},
+      {"handle": "pmarca", "inPool": true, "why": "VC voice in her orbit"}
+    ]
+  },
+  {
+    "handle": "litcapital",
+    "circle": [
+      {"handle": "ParikPatelCFA", "inPool": true, "why": "finance humor account peer"},
+      {"handle": "RampCapitalLLC", "inPool": true, "why": "finance meme account peer"},
+      {"handle": "TheStalwart", "inPool": true, "why": "finance media they riff on"},
+      {"handle": "CNBC", "inPool": true, "why": "content they parody/engage"},
+      {"handle": "GRDecter", "inPool": false, "why": "finance humor account in same niche"},
+      {"handle": "chamath", "inPool": true, "why": "VC personality they satirize"},
+      {"handle": "naval", "inPool": true, "why": "finance influencer they engage"},
+      {"handle": "WSJ", "inPool": true, "why": "news source for parody material"}
+    ]
+  },
+  {
+    "handle": "PepitoTheCat",
+    "circle": [
+      {"handle": "dog_rates", "inPool": true, "why": "peer viral animal account"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "celebrity who engages animal accounts"},
+      {"handle": "TheOnion", "inPool": true, "why": "viral humor crossover audience"},
+      {"handle": "dril", "inPool": true, "why": "absurdist humor same audience"}
+    ]
+  },
+  {
+    "handle": "PadmaLakshmi",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "celebrity chef mutual colleague"},
+      {"handle": "altonbrown", "inPool": true, "why": "food TV peer engagement"},
+      {"handle": "BravoTV", "inPool": true, "why": "Top Chef network home"},
+      {"handle": "shondarhimes", "inPool": true, "why": "prominent Black women in TV"},
+      {"handle": "hulu", "inPool": true, "why": "Top Chef streaming partner"},
+      {"handle": "nytimes", "inPool": true, "why": "her memoir/cookbook coverage"},
+      {"handle": "TheEllenShow", "inPool": true, "why": "frequent celebrity TV guest"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late night promotion appearances"}
+    ]
+  },
+  {
+    "handle": "quintabrunson",
+    "circle": [
+      {"handle": "shondarhimes", "inPool": true, "why": "Black women TV creator peer"},
+      {"handle": "hulu", "inPool": true, "why": "Abbott Elementary streaming home"},
+      {"handle": "TheEllenShow", "inPool": true, "why": "talk show promotional appearances"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late night promotion circuit"},
+      {"handle": "desusnice", "inPool": true, "why": "Philly native mutual support"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "comedy peer engagement"},
+      {"handle": "taylorswift13", "inPool": true, "why": "public mutual fan moments"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "late night comedy peer"}
+    ]
+  },
+  {
+    "handle": "cobie",
+    "circle": [
+      {"handle": "nic_carter", "inPool": true, "why": "crypto peer frequent discussion"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "crypto industry dialogue"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum founder he engages"},
+      {"handle": "stablekwon", "inPool": true, "why": "called out Terra collapse early"},
+      {"handle": "zachxbt", "inPool": true, "why": "on-chain investigator collaboration"},
+      {"handle": "WuBlockchain", "inPool": true, "why": "crypto news source reposted"},
+      {"handle": "cz_binance", "inPool": true, "why": "exchange leader he critiques"},
+      {"handle": "jack", "inPool": true, "why": "crypto-adjacent tech debate"}
+    ]
+  },
+  {
+    "handle": "CryptoHayes",
+    "circle": [
+      {"handle": "nic_carter", "inPool": true, "why": "crypto analyst peer"},
+      {"handle": "cobie", "inPool": true, "why": "crypto Twitter peer dialogue"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum subject of analysis"},
+      {"handle": "WuBlockchain", "inPool": true, "why": "crypto news source"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalist he engages"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO in his orbit"},
+      {"handle": "stablekwon", "inPool": true, "why": "Terra collapse subject matter"},
+      {"handle": "cz_binance", "inPool": true, "why": "Binance competition/commentary"}
+    ]
+  },
+  {
+    "handle": "federalreserve",
+    "circle": [
+      {"handle": "WSJ", "inPool": true, "why": "Fed coverage beat journalists"},
+      {"handle": "nytimes", "inPool": true, "why": "economic policy coverage"},
+      {"handle": "CNBC", "inPool": true, "why": "financial news amplifier"},
+      {"handle": "TheEconomist", "inPool": true, "why": "macroeconomic policy coverage"},
+      {"handle": "axios", "inPool": true, "why": "policy news outlet"},
+      {"handle": "TheStalwart", "inPool": true, "why": "finance commentary engages Fed"},
+      {"handle": "paulg", "inPool": true, "why": "tech/economic commentary reacts"}
+    ]
+  },
+  {
+    "handle": "drfeifei",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "AI leader peer engagement"},
+      {"handle": "geoffreyhinton", "inPool": true, "why": "deep learning pioneer colleague"},
+      {"handle": "NASA", "inPool": true, "why": "science institution mutual"},
+      {"handle": "nytimes", "inPool": true, "why": "AI ethics coverage subject"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech journalist interviews her"},
+      {"handle": "CNBC", "inPool": true, "why": "tech/AI media appearances"},
+      {"handle": "pmarca", "inPool": true, "why": "AI investment landscape dialogue"}
+    ]
+  },
+  {
+    "handle": "EricTopol",
+    "circle": [
+      {"handle": "WHO", "inPool": true, "why": "global health authority he cites"},
+      {"handle": "nytimes", "inPool": true, "why": "NYT quotes him on health"},
+      {"handle": "CNBC", "inPool": true, "why": "health expert TV appearances"},
+      {"handle": "sama", "inPool": true, "why": "AI-in-medicine dialogue"},
+      {"handle": "BillNye", "inPool": true, "why": "public science communicator peer"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communication peer"},
+      {"handle": "hankgreen", "inPool": true, "why": "science YouTube/Twitter peer"},
+      {"handle": "geoffreyhinton", "inPool": true, "why": "AI safety/medicine intersection"}
+    ]
+  },
+  {
+    "handle": "weatherchannel",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "satellite imagery source partner"},
+      {"handle": "SportsCenter", "inPool": true, "why": "sports weather impact coverage"},
+      {"handle": "espn", "inPool": true, "why": "cross-promo sports weather"},
+      {"handle": "CNN", "inPool": true, "why": "breaking news weather collaboration"},
+      {"handle": "nytimes", "inPool": true, "why": "major news outlet cited"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "weather impacts NFL games"},
+      {"handle": "FoxNews", "inPool": true, "why": "competing cable news overlap"}
+    ]
+  },
+  {
+    "handle": "jaboukie",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist Twitter humor peer"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "late night writer/guest connection"},
+      {"handle": "TheOnion", "inPool": true, "why": "satirical humor same audience"},
+      {"handle": "desusnice", "inPool": true, "why": "Comedy Central peer and fan"},
+      {"handle": "hankgreen", "inPool": true, "why": "internet-native creator peer"},
+      {"handle": "chrislhayes", "inPool": true, "why": "progressive media mutual"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "late night comedy writer peer"},
+      {"handle": "Sethrogen", "inPool": true, "why": "comedy world overlap"}
+    ]
+  }
+]

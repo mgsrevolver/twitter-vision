@@ -1,0 +1,179 @@
+[
+  {
+    "handle": "cjzero",
+    "circle": [
+      {"handle": "espn", "inPool": true, "why": "major sports clip amplifier"},
+      {"handle": "SportsCenter", "inPool": true, "why": "frequently shares SportsCenter content"},
+      {"handle": "BleacherReport", "inPool": true, "why": "viral sports highlight peer"},
+      {"handle": "stephenasmith", "inPool": true, "why": "hot-takes peer, mutual RT territory"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "sports debate crossover audience"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA news curation peer"},
+      {"handle": "wojespn", "inPool": true, "why": "NBA breaking-news source"},
+      {"handle": "BillSimmons", "inPool": true, "why": "sports media peer, overlapping audience"}
+    ]
+  },
+  {
+    "handle": "IrvineWelsh",
+    "circle": [
+      {"handle": "neilhimself", "inPool": true, "why": "fellow British author, Twitter friends"},
+      {"handle": "rickygervais", "inPool": true, "why": "fellow Brit, banter peers"},
+      {"handle": "jk_rowling", "inPool": true, "why": "UK literary world crossover"},
+      {"handle": "chuckpalahniuk", "inPool": true, "why": "transgressive fiction peer"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary fiction peer"},
+      {"handle": "straczynski", "inPool": true, "why": "genre writer Twitter mutual"}
+    ]
+  },
+  {
+    "handle": "RektCapital",
+    "circle": [
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalist alignment"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum analysis subject"},
+      {"handle": "cz_binance", "inPool": true, "why": "exchange/market news source"},
+      {"handle": "cobie", "inPool": true, "why": "crypto trading humor peer"},
+      {"handle": "zachxbt", "inPool": true, "why": "on-chain analysis peer"},
+      {"handle": "WuBlockchain", "inPool": true, "why": "crypto news source retweet"},
+      {"handle": "PeterSchiff", "inPool": true, "why": "frequent debate/opposition target"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "exchange CEO, crypto industry figure"},
+      {"handle": "chamath", "inPool": true, "why": "tech/crypto investor audience overlap"}
+    ]
+  },
+  {
+    "handle": "therealcliffyb",
+    "circle": [
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "legendary game director peer"},
+      {"handle": "edgarwright", "inPool": true, "why": "gamer/nerd culture crossover"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "gaming media events mutual"},
+      {"handle": "Pilestedt", "inPool": true, "why": "indie game dev peer"},
+      {"handle": "markiplier", "inPool": true, "why": "gaming audience crossover"},
+      {"handle": "xQc", "inPool": true, "why": "gaming streamer crossover audience"},
+      {"handle": "Ninja", "inPool": true, "why": "peak-era gaming celebrity peer"}
+    ]
+  },
+  {
+    "handle": "pierrebourne",
+    "circle": [
+      {"handle": "iamcardib", "inPool": true, "why": "producer-rapper collaboration orbit"},
+      {"handle": "Drake", "inPool": true, "why": "hip-hop industry mutual"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "hip-hop industry orbit"},
+      {"handle": "charli_xcx", "inPool": true, "why": "cross-genre producer interest"},
+      {"handle": "XXL", "inPool": true, "why": "rap media covering his work"},
+      {"handle": "billboardcharts", "inPool": true, "why": "chart tracking his projects"},
+      {"handle": "pitchfork", "inPool": true, "why": "music press covering his beats"}
+    ]
+  },
+  {
+    "handle": "RevoltTV",
+    "circle": [
+      {"handle": "iamcardib", "inPool": true, "why": "frequent REVOLT interview subject"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "hip-hop culture coverage"},
+      {"handle": "Drake", "inPool": true, "why": "hip-hop flagship artist coverage"},
+      {"handle": "XXL", "inPool": true, "why": "peer hip-hop media outlet"},
+      {"handle": "billboardcharts", "inPool": true, "why": "chart data for editorial"},
+      {"handle": "PopBase", "inPool": true, "why": "pop/hip-hop culture media peer"},
+      {"handle": "chartdata", "inPool": true, "why": "streaming data peer outlet"}
+    ]
+  },
+  {
+    "handle": "DMRussini",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "ESPN NFL reporting colleague"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "frequent NFL media mutual"},
+      {"handle": "espn", "inPool": true, "why": "employer platform"},
+      {"handle": "RapSheet", "inPool": false, "why": "NFL reporting peer at NFL Network"},
+      {"handle": "TomPelissero", "inPool": false, "why": "NFL Network reporting competitor/peer"},
+      {"handle": "BleacherReport", "inPool": true, "why": "NFL content aggregator"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN platform colleague"}
+    ]
+  },
+  {
+    "handle": "uproxx",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "music criticism peer outlet"},
+      {"handle": "RollingStone", "inPool": true, "why": "music/culture peer media"},
+      {"handle": "XXL", "inPool": true, "why": "hip-hop coverage peer"},
+      {"handle": "billboardcharts", "inPool": true, "why": "chart tracking shared coverage"},
+      {"handle": "PopBase", "inPool": true, "why": "pop culture media peer"},
+      {"handle": "chartdata", "inPool": true, "why": "streaming data peer"},
+      {"handle": "iamcardib", "inPool": true, "why": "frequently profiled artist"}
+    ]
+  },
+  {
+    "handle": "beabad00bee",
+    "circle": [
+      {"handle": "charli_xcx", "inPool": true, "why": "close friends, mutual support"},
+      {"handle": "pitchfork", "inPool": true, "why": "critical press covering her work"},
+      {"handle": "RollingStone", "inPool": true, "why": "music press coverage"},
+      {"handle": "lorde", "inPool": false, "why": "indie-pop peer she admires"},
+      {"handle": "phoebe_bridgers", "inPool": false, "why": "indie music peer, Twitter mutual"}
+    ]
+  },
+  {
+    "handle": "AlexAndBooks_",
+    "circle": [
+      {"handle": "neilhimself", "inPool": true, "why": "follows/amplifies Neil Gaiman"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "prominent author she covers"},
+      {"handle": "jk_rowling", "inPool": true, "why": "major author discussed"},
+      {"handle": "IrvineWelsh", "inPool": true, "why": "literary author she reviews"},
+      {"handle": "chuckpalahniuk", "inPool": true, "why": "cult author she covers"}
+    ]
+  },
+  {
+    "handle": "jason_blum",
+    "circle": [
+      {"handle": "RealGDT", "inPool": true, "why": "horror/genre director peer friend"},
+      {"handle": "edgarwright", "inPool": true, "why": "genre filmmaker Twitter mutual"},
+      {"handle": "rianjohnson", "inPool": true, "why": "indie film director peer"},
+      {"handle": "VancityReynolds", "inPool": true, "why": "Hollywood social media peer"},
+      {"handle": "MarkHamill", "inPool": true, "why": "genre/pop-culture Twitter mutual"},
+      {"handle": "A24", "inPool": false, "why": "indie horror competitor/peer studio"},
+      {"handle": "letterboxd", "inPool": false, "why": "film community platform for Blumhouse"}
+    ]
+  },
+  {
+    "handle": "ibramxk",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive politics peer, mutual amplification"},
+      {"handle": "atrupar", "inPool": true, "why": "progressive media amplifier"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media peer"},
+      {"handle": "JakeTapper", "inPool": true, "why": "mainstream media interview subject"},
+      {"handle": "neilhimself", "inPool": true, "why": "authors supporting authors orbit"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary/activist author peer"},
+      {"handle": "nhannahjones", "inPool": false, "why": "1619 Project peer, aligned cause"}
+    ]
+  },
+  {
+    "handle": "JuddLegum",
+    "circle": [
+      {"handle": "atrupar", "inPool": true, "why": "progressive media peer, mutual amplification"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media colleague"},
+      {"handle": "AOC", "inPool": true, "why": "subject and mutual, progressive politics"},
+      {"handle": "JakeTapper", "inPool": true, "why": "mainstream media crossover"},
+      {"handle": "naval", "inPool": true, "why": "subjects of his Popular Info coverage"},
+      {"handle": "pmarca", "inPool": true, "why": "tech billionaire he frequently covers"}
+    ]
+  },
+  {
+    "handle": "consequence",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "direct music press competitor/peer"},
+      {"handle": "RollingStone", "inPool": true, "why": "music media peer"},
+      {"handle": "XXL", "inPool": true, "why": "hip-hop coverage peer outlet"},
+      {"handle": "billboardcharts", "inPool": true, "why": "chart data for coverage"},
+      {"handle": "PopBase", "inPool": true, "why": "pop culture media peer"},
+      {"handle": "chartdata", "inPool": true, "why": "streaming data peer outlet"},
+      {"handle": "charli_xcx", "inPool": true, "why": "featured artist in coverage"}
+    ]
+  },
+  {
+    "handle": "GergelyOrosz",
+    "circle": [
+      {"handle": "paulg", "inPool": true, "why": "tech/startup thought leader he cites"},
+      {"handle": "pmarca", "inPool": true, "why": "tech VC he covers and engages"},
+      {"handle": "naval", "inPool": true, "why": "tech philosophy influence"},
+      {"handle": "sama", "inPool": true, "why": "OpenAI/AI industry coverage"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech industry figure he covers"},
+      {"handle": "chamath", "inPool": true, "why": "tech VC public commentary peer"},
+      {"handle": "dhh", "inPool": false, "why": "contrarian tech peer, frequent debate subject"}
+    ]
+  }
+]

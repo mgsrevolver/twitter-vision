@@ -1,0 +1,607 @@
+[
+  {
+    "handle": "PGATOUR",
+    "circle": [
+      {
+        "handle": "PhilMickelson",
+        "inPool": true,
+        "why": "tour legend, frequent mentions"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "broadcast rights partner"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "sports media crossover"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "sports media amplifier"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "sports media, golf coverage"
+      },
+      {
+        "handle": "RealSkipBayless",
+        "inPool": true,
+        "why": "sports media commentator"
+      }
+    ]
+  },
+  {
+    "handle": "MMFlint",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive ally, mutual replies"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "political ally, mutual support"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive Senate ally"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "Democratic icon, expressed admiration"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "Democratic political ally"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "political adversary, feuds"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "primary political adversary"
+      },
+      {
+        "handle": "MeidasTouch",
+        "inPool": false,
+        "why": "left-media amplifier of content"
+      }
+    ]
+  },
+  {
+    "handle": "pitchfork",
+    "circle": [
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "rival/peer music media"
+      },
+      {
+        "handle": "billboardcharts",
+        "inPool": true,
+        "why": "music charts companion source"
+      },
+      {
+        "handle": "chartdata",
+        "inPool": true,
+        "why": "music data cross-referenced"
+      },
+      {
+        "handle": "PopBase",
+        "inPool": true,
+        "why": "pop culture news peer"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "entertainment media peer"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "entertainment media peer"
+      }
+    ]
+  },
+  {
+    "handle": "TheBabylonBee",
+    "circle": [
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "Daily Wire ally, conservative media"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "conservative media amplifier"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "conservative media amplifier"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "frequently defends and retweets them"
+      },
+      {
+        "handle": "catturd2",
+        "inPool": true,
+        "why": "conservative humor peer"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "Trump shares their content"
+      },
+      {
+        "handle": "DineshDSouza",
+        "inPool": true,
+        "why": "conservative media amplifier"
+      }
+    ]
+  },
+  {
+    "handle": "buitengebieden",
+    "circle": [
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "fellow animal content account"
+      }
+    ]
+  },
+  {
+    "handle": "Lin_Manuel",
+    "circle": [
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "mutual admiration, Hamilton connection"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "fellow NYC progressive"
+      },
+      {
+        "handle": "SamuelLJackson",
+        "inPool": true,
+        "why": "entertainment peer, mutual praise"
+      },
+      {
+        "handle": "mindykaling",
+        "inPool": true,
+        "why": "showbiz peer, mutual engagement"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "Hollywood peer engagement"
+      },
+      {
+        "handle": "mulaney",
+        "inPool": true,
+        "why": "comedy/showbiz peer"
+      },
+      {
+        "handle": "Jon_Favreau",
+        "inPool": true,
+        "why": "Pod Save America, political ally"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive political ally"
+      },
+      {
+        "handle": "oliviawilde",
+        "inPool": true,
+        "why": "entertainment industry peer"
+      }
+    ]
+  },
+  {
+    "handle": "DrDisrespect",
+    "circle": [
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "streaming rival/peer, frequent mentions"
+      },
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "streaming peer, overlapping audience"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "Game Awards host, gaming media tie"
+      },
+      {
+        "handle": "PlayStation",
+        "inPool": true,
+        "why": "platform partner, gaming content"
+      },
+      {
+        "handle": "Steam",
+        "inPool": true,
+        "why": "PC platform gaming content"
+      },
+      {
+        "handle": "IGN",
+        "inPool": true,
+        "why": "gaming media covers him"
+      }
+    ]
+  },
+  {
+    "handle": "sama",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "AI/tech rivalry and dialogue"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "AI/tech peer, Microsoft history"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "tech VC ecosystem peer"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech/AI policy peer and podcaster"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech philosophy peer"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "YC connection, startup ecosystem"
+      },
+      {
+        "handle": "satyanadella",
+        "inPool": true,
+        "why": "OpenAI-Microsoft partnership partner"
+      },
+      {
+        "handle": "tim_cook",
+        "inPool": true,
+        "why": "big tech CEO peer"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "political engagement, White House visits"
+      }
+    ]
+  },
+  {
+    "handle": "satyanadella",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI partnership, close collaborator"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "Microsoft founder, mentor figure"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "big tech peer interactions"
+      },
+      {
+        "handle": "tim_cook",
+        "inPool": true,
+        "why": "big tech CEO peer"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "VC ecosystem peer"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "startup/tech thought leader"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech philosophy overlap"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech policy peer"
+      }
+    ]
+  },
+  {
+    "handle": "RottenTomatoes",
+    "circle": [
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "film industry media peer"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "entertainment media peer"
+      },
+      {
+        "handle": "Marvel",
+        "inPool": true,
+        "why": "major studio content relationship"
+      },
+      {
+        "handle": "netflix",
+        "inPool": true,
+        "why": "streaming partner, film releases"
+      },
+      {
+        "handle": "hulu",
+        "inPool": true,
+        "why": "streaming partner"
+      },
+      {
+        "handle": "DisneyPlus",
+        "inPool": true,
+        "why": "studio/streaming partner"
+      },
+      {
+        "handle": "starwars",
+        "inPool": true,
+        "why": "major film franchise content"
+      },
+      {
+        "handle": "LeoDiCaprio",
+        "inPool": true,
+        "why": "major actor, films reviewed"
+      }
+    ]
+  },
+  {
+    "handle": "PlayApex",
+    "circle": [
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "top streamer who plays Apex"
+      },
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "major streamer, Apex audience"
+      },
+      {
+        "handle": "PlayStation",
+        "inPool": true,
+        "why": "console platform partner"
+      },
+      {
+        "handle": "XBOX",
+        "inPool": true,
+        "why": "console platform partner"
+      },
+      {
+        "handle": "Steam",
+        "inPool": true,
+        "why": "PC platform"
+      },
+      {
+        "handle": "IGN",
+        "inPool": true,
+        "why": "gaming media coverage"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "Game Awards host/partner"
+      }
+    ]
+  },
+  {
+    "handle": "MeidasTouch",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive ally frequently featured"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive content figure"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive ally featured"
+      },
+      {
+        "handle": "MMFlint",
+        "inPool": true,
+        "why": "progressive media peer"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "Democratic Party icon"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "Democratic political ally"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "primary adversarial content subject"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "adversarial coverage target"
+      }
+    ]
+  },
+  {
+    "handle": "SoVeryBritish",
+    "circle": [
+      {
+        "handle": "rickygervais",
+        "inPool": true,
+        "why": "fellow British humor figure"
+      },
+      {
+        "handle": "StephenAtHome",
+        "inPool": true,
+        "why": "late night humor peer"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "British author, similar dry wit"
+      },
+      {
+        "handle": "AnthonyHorowitz",
+        "inPool": true,
+        "why": "British culture figure"
+      }
+    ]
+  },
+  {
+    "handle": "oliviawilde",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive political ally"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "political/cultural ally"
+      },
+      {
+        "handle": "mindykaling",
+        "inPool": true,
+        "why": "Hollywood peer and friend"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "Hollywood peer"
+      },
+      {
+        "handle": "Jon_Favreau",
+        "inPool": true,
+        "why": "industry/political sphere connection"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "entertainment media covers her"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "entertainment media covers her"
+      },
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "director peer, industry"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "political adversary she criticizes"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "political adversary interactions"
+      }
+    ]
+  },
+  {
+    "handle": "HIDEO_KOJIMA_EN",
+    "circle": [
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "Game Awards closest collaborator"
+      },
+      {
+        "handle": "PlayStation",
+        "inPool": true,
+        "why": "Death Stranding PS exclusive partner"
+      },
+      {
+        "handle": "IGN",
+        "inPool": true,
+        "why": "gaming media covers his releases"
+      },
+      {
+        "handle": "LeoDiCaprio",
+        "inPool": true,
+        "why": "cinephile admiration posts"
+      },
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "director Kojima frequently praises"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "Neil Gaiman, creative peer admiration"
+      },
+      {
+        "handle": "rickygervais",
+        "inPool": true,
+        "why": "Kojima posts admiration for work"
+      },
+      {
+        "handle": "SamuelLJackson",
+        "inPool": true,
+        "why": "film admiration, celeb interaction"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "tech visionary admiration posts"
+      }
+    ]
+  }
+]

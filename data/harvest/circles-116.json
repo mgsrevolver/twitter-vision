@@ -1,0 +1,180 @@
+[
+  {
+    "handle": "PopCrave",
+    "circle": [
+      {"handle": "chartdata", "inPool": true, "why": "pop chart tracking peer account"},
+      {"handle": "PopBase", "inPool": true, "why": "parallel pop-culture news account"},
+      {"handle": "Billboard", "inPool": true, "why": "music chart media partner"},
+      {"handle": "billboardcharts", "inPool": true, "why": "frequently cited chart source"},
+      {"handle": "XXL", "inPool": true, "why": "hip-hop news coverage peer"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "entertainment news counterpart"},
+      {"handle": "pitchfork", "inPool": true, "why": "music media they cite and retweet"},
+      {"handle": "THR", "inPool": true, "why": "entertainment industry coverage overlap"}
+    ]
+  },
+  {
+    "handle": "NatlParkService",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "famous federal agency Twitter peer"},
+      {"handle": "NatGeo", "inPool": true, "why": "nature and outdoor content partner"},
+      {"handle": "dog_rates", "inPool": true, "why": "wholesome internet humor comrade"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "science/wonder account they engage"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "science/nature account peer"},
+      {"handle": "SpaceX", "inPool": true, "why": "government-adjacent science account"},
+      {"handle": "MerriamWebster", "inPool": true, "why": "fellow witty government agency account"}
+    ]
+  },
+  {
+    "handle": "faker",
+    "circle": [
+      {"handle": "lolesports", "inPool": true, "why": "primary LoL esports broadcast org"},
+      {"handle": "LeagueOfLegends", "inPool": true, "why": "the game he is GOAT of"},
+      {"handle": "Twitch", "inPool": true, "why": "platform he streams on"},
+      {"handle": "ESPN", "inPool": true, "why": "esports coverage mainstream mention"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "gaming industry adjacent brand"}
+    ]
+  },
+  {
+    "handle": "Akademiks",
+    "circle": [
+      {"handle": "Drake", "inPool": true, "why": "DJ Ak is Drake inner circle ally"},
+      {"handle": "iamcardib", "inPool": true, "why": "frequent subject and rapport"},
+      {"handle": "XXL", "inPool": true, "why": "hip-hop media peer often clashes with"},
+      {"handle": "billboardcharts", "inPool": true, "why": "cites chart positions constantly"},
+      {"handle": "PopBase", "inPool": true, "why": "pop-culture coverage peer"},
+      {"handle": "chartdata", "inPool": true, "why": "uses chart data for posts"},
+      {"handle": "joerogan", "inPool": true, "why": "appeared on JRE; cross-platform pal"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "unexpected online debate partner"}
+    ]
+  },
+  {
+    "handle": "PatrickMahomes",
+    "circle": [
+      {"handle": "NFL", "inPool": true, "why": "league official account tags him"},
+      {"handle": "espn", "inPool": true, "why": "primary sports media coverage"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL reporter covering his deals"},
+      {"handle": "KingJames", "inPool": true, "why": "athlete peer social media engagement"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlight coverage account"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "appeared on show multiple times"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "elite athlete mutual follows"},
+      {"handle": "Giannis_An34", "inPool": true, "why": "cross-sport champion peer interactions"}
+    ]
+  },
+  {
+    "handle": "CollinRugg",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "amplifies and covers Trump closely"},
+      {"handle": "benshapiro", "inPool": true, "why": "right-media ecosystem peer"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "frequent retweet and citation target"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "prominent mutual engagement MAGA sphere"},
+      {"handle": "FoxNews", "inPool": true, "why": "primary right-media outlet he cites"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA right-media overlap colleague"},
+      {"handle": "catturd2", "inPool": true, "why": "MAGA social media peer"}
+    ]
+  },
+  {
+    "handle": "shroud",
+    "circle": [
+      {"handle": "Ninja", "inPool": true, "why": "fellow top FPS battle-royale streamer"},
+      {"handle": "xQc", "inPool": true, "why": "top Twitch streamer peer"},
+      {"handle": "DrLupo", "inPool": true, "why": "close Twitch streaming friend"},
+      {"handle": "Twitch", "inPool": true, "why": "platform partner and promoter"},
+      {"handle": "XBOX", "inPool": true, "why": "gaming hardware brand he partners with"},
+      {"handle": "pokimane", "inPool": false, "why": "top-tier Twitch peer streamer"},
+      {"handle": "timthetatman", "inPool": false, "why": "close squad streaming friend"}
+    ]
+  },
+  {
+    "handle": "chrislhayes",
+    "circle": [
+      {"handle": "mehdirhasan", "inPool": true, "why": "MSNBC colleague frequent co-engagement"},
+      {"handle": "andersoncooper", "inPool": true, "why": "cable news peer CNN counterpart"},
+      {"handle": "JakeTapper", "inPool": true, "why": "CNN anchor peer mutual engagement"},
+      {"handle": "maddow", "inPool": false, "why": "MSNBC anchor close colleague"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "frequent ideological opponent coverage"},
+      {"handle": "benshapiro", "inPool": true, "why": "right-media target of criticism"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "core subject of political coverage"},
+      {"handle": "BarackObama", "inPool": true, "why": "signal boosted Obama era policy items"}
+    ]
+  },
+  {
+    "handle": "Rainmaker1973",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "science media shares NASA content constantly"},
+      {"handle": "NatGeo", "inPool": true, "why": "nature photography science peer"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "science communicator peer"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "astronaut science communicator peer"},
+      {"handle": "SpaceX", "inPool": true, "why": "space content frequently shared"},
+      {"handle": "NASAWebb", "inPool": true, "why": "telescope imagery he posts and shares"}
+    ]
+  },
+  {
+    "handle": "Interior",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "federal agency social media peer"},
+      {"handle": "NatGeo", "inPool": true, "why": "nature media partner for content"},
+      {"handle": "NatlParkService", "inPool": false, "why": "subordinate agency they coordinate with"},
+      {"handle": "dog_rates", "inPool": true, "why": "fun online community engagement"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "wholesome science content peer"},
+      {"handle": "SpaceX", "inPool": true, "why": "public-interest space content"}
+    ]
+  },
+  {
+    "handle": "thegameawards",
+    "circle": [
+      {"handle": "geoffkeighley", "inPool": true, "why": "founder and host runs the account"},
+      {"handle": "PlayStation", "inPool": true, "why": "major platform sponsor and participant"},
+      {"handle": "XBOX", "inPool": true, "why": "major platform sponsor and participant"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "platform sponsor and game announcements"},
+      {"handle": "LeagueOfLegends", "inPool": true, "why": "esports integration and announcements"},
+      {"handle": "Twitch", "inPool": true, "why": "streaming broadcast partner"},
+      {"handle": "lolesports", "inPool": true, "why": "esports community overlap"}
+    ]
+  },
+  {
+    "handle": "BrotherNature",
+    "circle": [
+      {"handle": "dog_rates", "inPool": true, "why": "wholesome animal content peer"},
+      {"handle": "NatGeo", "inPool": true, "why": "nature media account they interact with"},
+      {"handle": "NASA", "inPool": true, "why": "science wonder social media community"},
+      {"handle": "KevinHart4real", "inPool": true, "why": "celebrity fan who featured him"},
+      {"handle": "VancityReynolds", "inPool": true, "why": "celebrity who interacted with his videos"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "rapper who shared BrotherNature content"}
+    ]
+  },
+  {
+    "handle": "lolesports",
+    "circle": [
+      {"handle": "LeagueOfLegends", "inPool": true, "why": "the game they broadcast and cover"},
+      {"handle": "Twitch", "inPool": true, "why": "primary streaming broadcast partner"},
+      {"handle": "ESPN", "inPool": true, "why": "esports coverage mainstream partner"},
+      {"handle": "faker", "inPool": false, "why": "GOAT player they feature constantly"},
+      {"handle": "FaZeClan", "inPool": false, "why": "major esports org they cover"},
+      {"handle": "XBOX", "inPool": true, "why": "gaming industry partner"}
+    ]
+  },
+  {
+    "handle": "chartdata",
+    "circle": [
+      {"handle": "billboardcharts", "inPool": true, "why": "primary chart source they track"},
+      {"handle": "PopBase", "inPool": true, "why": "parallel pop-culture data account"},
+      {"handle": "Billboard", "inPool": true, "why": "official chart publication cited"},
+      {"handle": "pitchfork", "inPool": true, "why": "music media frequently cited"},
+      {"handle": "PopCrave", "inPool": false, "why": "pop news account mutual engagement"},
+      {"handle": "taylorswift13", "inPool": true, "why": "most charted artist they cover"},
+      {"handle": "XXL", "inPool": true, "why": "hip-hop chart tracking overlap"}
+    ]
+  },
+  {
+    "handle": "Cmdr_Hadfield",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "agency he flew with and represents"},
+      {"handle": "SpaceX", "inPool": true, "why": "commercial spaceflight he comments on"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "fellow ISS commander colleague"},
+      {"handle": "NASAWebb", "inPool": true, "why": "space telescope he promotes"},
+      {"handle": "NatGeo", "inPool": true, "why": "nature science media partner"},
+      {"handle": "Rainmaker1973", "inPool": true, "why": "science content curator peer"},
+      {"handle": "BillNye", "inPool": true, "why": "science communicator mutual engagement"}
+    ]
+  }
+]

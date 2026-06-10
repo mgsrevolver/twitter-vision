@@ -1,0 +1,139 @@
+[
+  {
+    "handle": "rogerfederer",
+    "circle": [
+      {"handle": "RafaelNadal", "inPool": false, "why": "greatest rivalry, mutual respect tweets"},
+      {"handle": "NovakDjokovic", "inPool": false, "why": "Big Three rival, frequent mentions"},
+      {"handle": "andymurray", "inPool": false, "why": "Davis Cup teammate, longtime peer"},
+      {"handle": "LaverCup", "inPool": false, "why": "co-founded event, promotional posts"},
+      {"handle": "serenawilliams", "inPool": true, "why": "co-charity events, mutual admiration"},
+      {"handle": "WTA", "inPool": true, "why": "tennis world partner org engagement"},
+      {"handle": "Tennis", "inPool": true, "why": "official tennis media, regular retweets"},
+      {"handle": "atptour", "inPool": true, "why": "his sanctioning body, official partner"},
+      {"handle": "usopen", "inPool": true, "why": "Grand Slam host, active engagement"}
+    ]
+  },
+  {
+    "handle": "chrissyteigen",
+    "circle": [
+      {"handle": "johnlegend", "inPool": false, "why": "husband, constant mutual banter"},
+      {"handle": "KimKardashian", "inPool": false, "why": "close friend, frequent mentions"},
+      {"handle": "TheEllenShow", "inPool": false, "why": "frequent TV guest, mutual promos"},
+      {"handle": "KevinHart4real", "inPool": false, "why": "celebrity pal, joking replies"},
+      {"handle": "ochocinco", "inPool": true, "why": "famous cooking/food tweet banter"},
+      {"handle": "rihanna", "inPool": true, "why": "mutual celebrity admiration tweets"},
+      {"handle": "ladygaga", "inPool": true, "why": "public support during controversy"},
+      {"handle": "katyperry", "inPool": true, "why": "pop star peer, friendly interaction"},
+      {"handle": "justinbieber", "inPool": true, "why": "same celeb orbit, public exchanges"}
+    ]
+  },
+  {
+    "handle": "F1",
+    "circle": [
+      {"handle": "ScuderiaFerrari", "inPool": false, "why": "iconic constructor, heavy engagement"},
+      {"handle": "LewisHamilton", "inPool": false, "why": "dominant champion, most tagged driver"},
+      {"handle": "Max33Verstappen", "inPool": false, "why": "world champion, massive engagement"},
+      {"handle": "redbullracing", "inPool": false, "why": "dominant constructor, partner content"},
+      {"handle": "MercedesAMGF1", "inPool": true, "why": "constructor team, regular partner content"},
+      {"handle": "McLarenF1", "inPool": true, "why": "constructor team, regular partner content"},
+      {"handle": "FIAFormulaE", "inPool": true, "why": "sister motorsport series, cross-promo"},
+      {"handle": "espn", "inPool": true, "why": "US broadcast partner coverage"},
+      {"handle": "SportsCenter", "inPool": true, "why": "race highlights shared constantly"}
+    ]
+  },
+  {
+    "handle": "WHO",
+    "circle": [
+      {"handle": "UN", "inPool": false, "why": "parent UN system, aligned messaging"},
+      {"handle": "UNICEF", "inPool": false, "why": "sister UN agency, joint campaigns"},
+      {"handle": "BarackObama", "inPool": false, "why": "WHO supporter, pandemic tweets"},
+      {"handle": "BillGates", "inPool": false, "why": "BMGF top funder, constant mentions"},
+      {"handle": "JoeBiden", "inPool": true, "why": "US re-engagement, policy alignment"},
+      {"handle": "antonioguterres", "inPool": true, "why": "UN Secretary-General, joint statements"},
+      {"handle": "berniesanders", "inPool": true, "why": "healthcare policy engagement"},
+      {"handle": "NASA", "inPool": true, "why": "science org peer, global mission RT"}
+    ]
+  },
+  {
+    "handle": "Markiplier",
+    "circle": [
+      {"handle": "jacksepticeye", "inPool": false, "why": "best friend, constant collab content"},
+      {"handle": "Cr1TiKaL", "inPool": false, "why": "YouTube peer, frequent crossover"},
+      {"handle": "PewDiePie", "inPool": false, "why": "YouTube era peer, mutual fans"},
+      {"handle": "GameGrumps", "inPool": false, "why": "gaming channel peer, joint streams"},
+      {"handle": "MrBeast", "inPool": true, "why": "peer megacreator, collaboration videos"},
+      {"handle": "xQc", "inPool": true, "why": "gaming streamer peer, mutual audience"}
+    ]
+  },
+  {
+    "handle": "billboard",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": false, "why": "charts queen, constant chart news"},
+      {"handle": "Adele", "inPool": true, "why": "chart-breaking artist, top coverage"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "chart rivalry coverage, feuds tracked"},
+      {"handle": "Drake", "inPool": true, "why": "Hot 100 dominant, always charting"},
+      {"handle": "rihanna", "inPool": true, "why": "streaming/chart milestone coverage"},
+      {"handle": "KingJames", "inPool": true, "why": "crossover athlete-celeb culture"},
+      {"handle": "iHeartRadio", "inPool": false, "why": "radio chart partner, shared data"},
+      {"handle": "GrammysOfficial", "inPool": false, "why": "awards partner, shared coverage"},
+      {"handle": "MTV", "inPool": false, "why": "sister music media, cross-promotion"},
+      {"handle": "pitchfork", "inPool": true, "why": "music media peer, mutual coverage"}
+    ]
+  },
+  {
+    "handle": "SethMacFarlane",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "TV comedy peer, frequent banter"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late-night peer, mutual promos"},
+      {"handle": "rickygervais", "inPool": true, "why": "comedy peer, awards show ties"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "political comedy peer, mutual fans"},
+      {"handle": "AlexBorstein", "inPool": false, "why": "Family Guy castmate, longtime tweets"},
+      {"handle": "FamilyGuyonFOX", "inPool": false, "why": "his own show account, cross-posts"},
+      {"handle": "stevenpage", "inPool": true, "why": "known BNL fan/friendship posts"},
+      {"handle": "RollingStone", "inPool": true, "why": "music/culture media, features him"},
+      {"handle": "NASA", "inPool": true, "why": "known space enthusiast, regular RT"}
+    ]
+  },
+  {
+    "handle": "TheOnion",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "comedy peer, mutual appreciation"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "political satire overlap, mutual"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late-night comedy adjacency"},
+      {"handle": "ClickHole", "inPool": false, "why": "sister satire site, same company"},
+      {"handle": "avclub", "inPool": false, "why": "A.V. Club sister publication"},
+      {"handle": "SethMacFarlane", "inPool": false, "why": "comedy world peer, mutual fans"},
+      {"handle": "nytimes", "inPool": false, "why": "often lampooned/retweeted by fans"},
+      {"handle": "berniesanders", "inPool": true, "why": "famous Onion subject, retweeted them"},
+      {"handle": "AOC", "inPool": true, "why": "fan of The Onion, publicly endorsed"}
+    ]
+  },
+  {
+    "handle": "MLB",
+    "circle": [
+      {"handle": "Yankees", "inPool": true, "why": "flagship franchise, most engagement"},
+      {"handle": "Cubs", "inPool": true, "why": "historic franchise, high engagement"},
+      {"handle": "RedSox", "inPool": true, "why": "rival big market team, rivalry posts"},
+      {"handle": "espn", "inPool": true, "why": "broadcast partner, constant coverage"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlight sharing partner"},
+      {"handle": "MLBONFOX", "inPool": true, "why": "broadcast TV partner"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "sports media cross-posting"},
+      {"handle": "KingJames", "inPool": true, "why": "athlete crossover, baseball fan"},
+      {"handle": "NFL", "inPool": false, "why": "rival/partner league, sport banter"},
+      {"handle": "NBA", "inPool": true, "why": "peer league, seasonal overlap tweets"}
+    ]
+  },
+  {
+    "handle": "SpeakerPelosi",
+    "circle": [
+      {"handle": "KamalaHarris", "inPool": false, "why": "VP/Senate partner, joint messaging"},
+      {"handle": "BarackObama", "inPool": false, "why": "shared policy era, mutual shoutouts"},
+      {"handle": "POTUS", "inPool": false, "why": "White House coordination tweets"},
+      {"handle": "ChuckSchumer", "inPool": false, "why": "Senate majority partner, joint votes"},
+      {"handle": "AOC", "inPool": true, "why": "House colleague, policy alignment"},
+      {"handle": "JoeBiden", "inPool": true, "why": "president, legislative coordination"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "longtime Dem ally, mutual support"},
+      {"handle": "berniesanders", "inPool": true, "why": "progressive wing engagement"}
+    ]
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "handle": "neilhimself",
+    "name": "Neil Gaiman",
+    "followers": 2900000,
+    "tags": ["books", "pop-culture", "media"]
+  },
+  {
+    "handle": "MargaretAtwood",
+    "name": "Margaret E Atwood",
+    "followers": 1900000,
+    "tags": ["books", "politics-left", "media"]
+  },
+  {
+    "handle": "SalmanRushdie",
+    "name": "Salman Rushdie",
+    "followers": 1000000,
+    "tags": ["books", "media"]
+  },
+  {
+    "handle": "johngreen",
+    "name": "John Green",
+    "followers": 4000000,
+    "tags": ["books", "pop-culture", "wholesome"]
+  },
+  {
+    "handle": "rgay",
+    "name": "Roxane Gay",
+    "followers": 830000,
+    "tags": ["books", "politics-left", "media"]
+  },
+  {
+    "handle": "colsonwhitehead",
+    "name": "Colson Whitehead",
+    "followers": 120000,
+    "tags": ["books", "humor", "media"]
+  },
+  {
+    "handle": "tanehisicoates",
+    "name": "Ta-Nehisi Coates",
+    "followers": 1200000,
+    "tags": ["books", "politics-left", "media"]
+  },
+  {
+    "handle": "ChimamandaReal",
+    "name": "Chimamanda Ngozi Adichie",
+    "followers": 950000,
+    "tags": ["books", "media", "politics-left"]
+  },
+  {
+    "handle": "anneapplebaum",
+    "name": "Anne Applebaum",
+    "followers": 563000,
+    "tags": ["books", "politics-left", "media"]
+  },
+  {
+    "handle": "adam_tooze",
+    "name": "Adam Tooze",
+    "followers": 310000,
+    "tags": ["books", "finance", "media"]
+  },
+  {
+    "handle": "HC_Richardson",
+    "name": "Heather Cox Richardson",
+    "followers": 363000,
+    "tags": ["books", "politics-left", "media"]
+  },
+  {
+    "handle": "susanorlean",
+    "name": "Susan Orlean",
+    "followers": 333000,
+    "tags": ["books", "humor", "media"]
+  },
+  {
+    "handle": "IrvineWelsh",
+    "name": "Irvine Welsh",
+    "followers": 350000,
+    "tags": ["books", "humor", "pop-culture"]
+  },
+  {
+    "handle": "scalzi",
+    "name": "John Scalzi",
+    "followers": 175000,
+    "tags": ["books", "humor", "pop-culture"]
+  },
+  {
+    "handle": "harikunzru",
+    "name": "Hari Kunzru",
+    "followers": 59000,
+    "tags": ["books", "politics-left", "media"]
+  },
+  {
+    "handle": "TheAmandaGorman",
+    "name": "Amanda Gorman",
+    "followers": 1300000,
+    "tags": ["books", "politics-left", "pop-culture"]
+  },
+  {
+    "handle": "penguinbooks",
+    "name": "Penguin Books",
+    "followers": 680000,
+    "tags": ["books", "media"]
+  },
+  {
+    "handle": "penguinrandom",
+    "name": "Penguin Random House",
+    "followers": 720000,
+    "tags": ["books", "media"]
+  },
+  {
+    "handle": "thelithub",
+    "name": "Literary Hub",
+    "followers": 230000,
+    "tags": ["books", "media"]
+  },
+  {
+    "handle": "bookriot",
+    "name": "Book Riot",
+    "followers": 255000,
+    "tags": ["books", "media", "pop-culture"]
+  },
+  {
+    "handle": "ElectricLit",
+    "name": "Electric Literature",
+    "followers": 160000,
+    "tags": ["books", "media", "humor"]
+  },
+  {
+    "handle": "nytimesbooks",
+    "name": "New York Times Books",
+    "followers": 2600000,
+    "tags": ["books", "media"]
+  },
+  {
+    "handle": "parisreview",
+    "name": "The Paris Review",
+    "followers": 580000,
+    "tags": ["books", "media", "humor"]
+  },
+  {
+    "handle": "nybooks",
+    "name": "NY Review of Books",
+    "followers": 490000,
+    "tags": ["books", "media", "politics-left"]
+  },
+  {
+    "handle": "Granta",
+    "name": "Granta Magazine",
+    "followers": 130000,
+    "tags": ["books", "media"]
+  },
+  {
+    "handle": "newyorker",
+    "name": "The New Yorker",
+    "followers": 9800000,
+    "tags": ["books", "media", "humor"]
+  },
+  {
+    "handle": "nprbooks",
+    "name": "NPR Books",
+    "followers": 680000,
+    "tags": ["books", "media"]
+  },
+  {
+    "handle": "Kristen_Arnett",
+    "name": "Kristen Arnett",
+    "followers": 76000,
+    "tags": ["books", "humor", "politics-left"]
+  },
+  {
+    "handle": "AlexAndBooks_",
+    "name": "Alex and Books",
+    "followers": 344000,
+    "tags": ["books", "wholesome", "pop-culture"]
+  },
+  {
+    "handle": "ibramxk",
+    "name": "Ibram X. Kendi",
+    "followers": 342000,
+    "tags": ["books", "politics-left", "media"]
+  },
+  {
+    "handle": "jesmimi",
+    "name": "Jesmyn Ward",
+    "followers": 55000,
+    "tags": ["books", "media"]
+  },
+  {
+    "handle": "GarthGreenwell",
+    "name": "Garth Greenwell",
+    "followers": 25000,
+    "tags": ["books", "media"]
+  },
+  {
+    "handle": "jill_lepore",
+    "name": "Jill Lepore",
+    "followers": 110000,
+    "tags": ["books", "media", "politics-left"]
+  },
+  {
+    "handle": "HanifKureishi",
+    "name": "Hanif Kureishi",
+    "followers": 68000,
+    "tags": ["books", "media", "pop-culture"]
+  },
+  {
+    "handle": "nytmag",
+    "name": "NY Times Magazine",
+    "followers": 2200000,
+    "tags": ["books", "media", "politics-left"]
+  }
+]

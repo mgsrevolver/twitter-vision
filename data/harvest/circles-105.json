@@ -1,0 +1,197 @@
+[
+  {
+    "handle": "BillNye",
+    "circle": [
+      {"handle": "neiltyson", "inPool": true, "why": "frequent science banter and mutual support"},
+      {"handle": "NASA", "inPool": true, "why": "science advocacy and space education"},
+      {"handle": "SpaceX", "inPool": true, "why": "space exploration enthusiasm"},
+      {"handle": "GretaThunberg", "inPool": true, "why": "climate and science activism ally"},
+      {"handle": "hankgreen", "inPool": true, "why": "science communication collaborator"},
+      {"handle": "BernieSanders", "inPool": true, "why": "science policy alignment tweets"},
+      {"handle": "AOC", "inPool": true, "why": "climate science political engagement"},
+      {"handle": "neilhimself", "inPool": true, "why": "pop-culture science crossover pal"}
+    ]
+  },
+  {
+    "handle": "ErlingHaaland",
+    "circle": [
+      {"handle": "ManUtd", "inPool": true, "why": "rival club frequent mention"},
+      {"handle": "FCBarcelona", "inPool": true, "why": "Champions League opponent engagement"},
+      {"handle": "Cristiano", "inPool": true, "why": "generational comparison discourse"},
+      {"handle": "LewisHamilton", "inPool": true, "why": "crossover sports celebrity interaction"},
+      {"handle": "F1", "inPool": true, "why": "sports crossover promotional content"},
+      {"handle": "GaryLineker", "inPool": true, "why": "Premier League pundit covering him"},
+      {"handle": "GNev2", "inPool": true, "why": "Sky Sports pundit analysis tweets"},
+      {"handle": "IanWright0", "inPool": true, "why": "Arsenal pundit frequent mention"}
+    ]
+  },
+  {
+    "handle": "Amazon",
+    "circle": [
+      {"handle": "Google", "inPool": true, "why": "big tech peer comparison"},
+      {"handle": "Microsoft", "inPool": true, "why": "enterprise cloud competitor mention"},
+      {"handle": "JeffBezos", "inPool": true, "why": "founder directly engaged"},
+      {"handle": "tim_cook", "inPool": true, "why": "big tech CEO peer interaction"},
+      {"handle": "NASA", "inPool": true, "why": "Blue Origin and AWS partnership"},
+      {"handle": "SpaceX", "inPool": true, "why": "government contract competition"},
+      {"handle": "netflix", "inPool": true, "why": "Prime Video streaming competitor"},
+      {"handle": "Twitch", "inPool": true, "why": "Amazon-owned platform cross-promotion"}
+    ]
+  },
+  {
+    "handle": "coinbase",
+    "circle": [
+      {"handle": "brian_armstrong", "inPool": true, "why": "CEO of Coinbase direct account"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum ecosystem collaboration"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin advocacy alignment"},
+      {"handle": "cz_binance", "inPool": true, "why": "crypto exchange competitor discourse"},
+      {"handle": "sama", "inPool": true, "why": "crypto-tech crossover conversation"},
+      {"handle": "naval", "inPool": true, "why": "crypto philosophy alignment"},
+      {"handle": "pmarca", "inPool": true, "why": "a16z crypto investment relationship"},
+      {"handle": "JeffBezos", "inPool": false, "why": "big tech finance crossover"}
+    ]
+  },
+  {
+    "handle": "EW",
+    "circle": [
+      {"handle": "THR", "inPool": true, "why": "entertainment trade peer coverage"},
+      {"handle": "DEADLINE", "inPool": true, "why": "Hollywood news competitor"},
+      {"handle": "Variety", "inPool": true, "why": "entertainment media peer"},
+      {"handle": "Marvel", "inPool": true, "why": "film franchise coverage"},
+      {"handle": "netflix", "inPool": true, "why": "streaming content coverage"},
+      {"handle": "VancityReynolds", "inPool": true, "why": "celebrity interview subject"},
+      {"handle": "RobertDowneyJr", "inPool": true, "why": "MCU coverage subject"},
+      {"handle": "chrisevans", "inPool": true, "why": "MCU coverage and interviews"}
+    ]
+  },
+  {
+    "handle": "GameSpot",
+    "circle": [
+      {"handle": "IGN", "inPool": true, "why": "direct gaming media competitor"},
+      {"handle": "RockstarGames", "inPool": true, "why": "major game publisher coverage"},
+      {"handle": "PlayStation", "inPool": true, "why": "platform holder partnership"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "Nintendo coverage relationship"},
+      {"handle": "Twitch", "inPool": true, "why": "gaming livestream crossover"},
+      {"handle": "WIRED", "inPool": true, "why": "tech-gaming media peer"},
+      {"handle": "TheOnion", "inPool": false, "why": "humor crossover gaming parody"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards gaming media ally"}
+    ]
+  },
+  {
+    "handle": "RollingStone",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "direct music media competitor"},
+      {"handle": "billboard", "inPool": true, "why": "music charts media peer"},
+      {"handle": "billboardcharts", "inPool": true, "why": "music charts data source"},
+      {"handle": "Eminem", "inPool": true, "why": "iconic artist coverage subject"},
+      {"handle": "ladygaga", "inPool": true, "why": "major artist feature subject"},
+      {"handle": "rihanna", "inPool": true, "why": "major artist coverage subject"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "hip-hop coverage subject"},
+      {"handle": "Drake", "inPool": true, "why": "chart-topping artist coverage"}
+    ]
+  },
+  {
+    "handle": "RealCandaceO",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "Daily Wire colleague and ally"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "conservative media collaborator"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News conservative peer"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "right-leaning intellectual ally"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "MAGA political ally"},
+      {"handle": "FoxNews", "inPool": true, "why": "conservative media appearance venue"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "political alignment engagement"},
+      {"handle": "charliekirk11", "inPool": false, "why": "Turning Point USA conservative peer"}
+    ]
+  },
+  {
+    "handle": "wojespn",
+    "circle": [
+      {"handle": "ShamsCharania", "inPool": true, "why": "direct NBA news competitor"},
+      {"handle": "ESPN", "inPool": true, "why": "employer platform"},
+      {"handle": "BleacherReport", "inPool": true, "why": "sports media peer publication"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN colleague frequent interaction"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "ESPN sports media sparring partner"},
+      {"handle": "BillSimmons", "inPool": true, "why": "NBA media peer and basketball discussion"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "ESPN colleague same beat"},
+      {"handle": "NBA", "inPool": true, "why": "league source and breaking news"}
+    ]
+  },
+  {
+    "handle": "BillSimmons",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "NBA insider peer and discussion"},
+      {"handle": "ESPN", "inPool": true, "why": "former employer frequent reference"},
+      {"handle": "NBA", "inPool": true, "why": "primary beat coverage"},
+      {"handle": "SportsCenter", "inPool": true, "why": "sports media crossover"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "sports media rival discourse"},
+      {"handle": "stephenasmith", "inPool": true, "why": "sports debate media peer"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "sports podcast peer"},
+      {"handle": "joerogan", "inPool": true, "why": "podcast crossover appearances"}
+    ]
+  },
+  {
+    "handle": "TheTweetOfGod",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist Twitter peer humor"},
+      {"handle": "TheOnion", "inPool": true, "why": "satirical media peer"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "comedy and wit engagement"},
+      {"handle": "rickygervais", "inPool": true, "why": "atheism and humor crossover"},
+      {"handle": "StephenKing", "inPool": false, "why": "liberal pop culture engagement"},
+      {"handle": "BernieSanders", "inPool": true, "why": "political satire target"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "satire subject engagement"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late night comedy peer"}
+    ]
+  },
+  {
+    "handle": "lorde",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": true, "why": "close friend and collaborator"},
+      {"handle": "Harry_Styles", "inPool": true, "why": "pop music peer engagement"},
+      {"handle": "charli_xcx", "inPool": true, "why": "indie-pop music peer"},
+      {"handle": "billboardcharts", "inPool": true, "why": "chart tracking source"},
+      {"handle": "pitchfork", "inPool": true, "why": "critical coverage subject"},
+      {"handle": "RollingStone", "inPool": true, "why": "music magazine feature subject"},
+      {"handle": "SabrinaAnnLynn", "inPool": false, "why": "pop music peer engagement"},
+      {"handle": "oliviarodrigo", "inPool": false, "why": "pop music successor peer"}
+    ]
+  },
+  {
+    "handle": "MKBHD",
+    "circle": [
+      {"handle": "tim_cook", "inPool": true, "why": "Apple product review relationship"},
+      {"handle": "Google", "inPool": true, "why": "Android pixel review engagement"},
+      {"handle": "Microsoft", "inPool": true, "why": "Surface and tech review coverage"},
+      {"handle": "WIRED", "inPool": true, "why": "tech media peer coverage"},
+      {"handle": "sama", "inPool": true, "why": "AI and tech industry engagement"},
+      {"handle": "joerogan", "inPool": true, "why": "podcast appearance crossover"},
+      {"handle": "TechCrunch", "inPool": true, "why": "tech media peer"},
+      {"handle": "Tesla", "inPool": false, "why": "EV car reviews regular coverage"}
+    ]
+  },
+  {
+    "handle": "ESPNFC",
+    "circle": [
+      {"handle": "FabrizioRomano", "inPool": true, "why": "transfer news source engagement"},
+      {"handle": "OptaJoe", "inPool": true, "why": "stats data source collaboration"},
+      {"handle": "FCBarcelona", "inPool": true, "why": "major club coverage"},
+      {"handle": "ManUtd", "inPool": true, "why": "Premier League club coverage"},
+      {"handle": "Cristiano", "inPool": true, "why": "top player coverage"},
+      {"handle": "LewisHamilton", "inPool": true, "why": "sports celebrity crossover"},
+      {"handle": "GaryLineker", "inPool": true, "why": "football pundit peer"},
+      {"handle": "ESPN", "inPool": true, "why": "parent network platform"}
+    ]
+  },
+  {
+    "handle": "Nas",
+    "circle": [
+      {"handle": "Eminem", "inPool": true, "why": "hip-hop GOAT era peer"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "hip-hop legend peer"},
+      {"handle": "Drake", "inPool": true, "why": "generational hip-hop discourse"},
+      {"handle": "KDTrey5", "inPool": true, "why": "fan and sports-hip-hop crossover"},
+      {"handle": "joerogan", "inPool": true, "why": "podcast appearance crossover"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "hip-hop peer engagement"},
+      {"handle": "LilNasX", "inPool": true, "why": "name recognition humorous engagement"},
+      {"handle": "pitchfork", "inPool": true, "why": "critical music media coverage"}
+    ]
+  }
+]

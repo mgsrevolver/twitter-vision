@@ -1,0 +1,165 @@
+[
+  {
+    "handle": "FCBarcelona",
+    "circle": [
+      {"handle": "realmadrid", "inPool": false, "why": "historic El Clasico rival"},
+      {"handle": "ChampionsLeague", "inPool": false, "why": "premier competition they dominate"},
+      {"handle": "neymarjr", "inPool": false, "why": "former star, still tagged"},
+      {"handle": "Cristiano", "inPool": false, "why": "Messi era rival at Real Madrid"},
+      {"handle": "espn", "inPool": true, "why": "global sports media coverage"},
+      {"handle": "FabrizioRomano", "inPool": true, "why": "transfer news frequently tags club"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlight coverage and mentions"},
+      {"handle": "OptaJoe", "inPool": true, "why": "stats thread subject regularly"},
+      {"handle": "BleacherReport", "inPool": true, "why": "viral match clips and news"},
+      {"handle": "NBA", "inPool": true, "why": "cross-sport social engagement"},
+      {"handle": "narendramodi", "inPool": true, "why": "Indian PM visited Camp Nou"},
+      {"handle": "iamsrk", "inPool": true, "why": "SRK fan, visited Barcelona"}
+    ]
+  },
+  {
+    "handle": "BTS_twt",
+    "circle": [
+      {"handle": "BIGHIT_MUSIC", "inPool": false, "why": "parent label official account"},
+      {"handle": "ArianaGrande", "inPool": false, "why": "mutual fan crossover, Grammy peers"},
+      {"handle": "coldplay", "inPool": true, "why": "collaborated on My Universe"},
+      {"handle": "NBA", "inPool": true, "why": "performed at NBA All-Star 2019"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "multiple Tonight Show appearances"},
+      {"handle": "iamsrk", "inPool": true, "why": "Bollywood-Kpop crossover fandom"},
+      {"handle": "ladygaga", "inPool": true, "why": "Grammy category overlap, fan overlap"},
+      {"handle": "MariahCarey", "inPool": true, "why": "Billboard chart rival mentions"},
+      {"handle": "elonmusk", "inPool": true, "why": "Twitter/X engagement bait posts"},
+      {"handle": "TheRock", "inPool": true, "why": "celebrity crossover social posts"},
+      {"handle": "katyperry", "inPool": true, "why": "pop chart presence overlap"}
+    ]
+  },
+  {
+    "handle": "realmadrid",
+    "circle": [
+      {"handle": "FCBarcelona", "inPool": true, "why": "El Clasico eternal rival"},
+      {"handle": "ChampionsLeague", "inPool": false, "why": "record 15-time champions"},
+      {"handle": "Cristiano", "inPool": false, "why": "former star, constant mention"},
+      {"handle": "FabrizioRomano", "inPool": true, "why": "transfer news constantly references"},
+      {"handle": "espn", "inPool": true, "why": "global broadcast partner"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlights and coverage"},
+      {"handle": "OptaJoe", "inPool": true, "why": "statistical analysis subject"},
+      {"handle": "BleacherReport", "inPool": true, "why": "viral content and news"},
+      {"handle": "narendramodi", "inPool": true, "why": "India tour engagement"},
+      {"handle": "NBA", "inPool": true, "why": "cross-sport fan base crossover"},
+      {"handle": "neymarjr", "inPool": false, "why": "attempted signing, linked often"}
+    ]
+  },
+  {
+    "handle": "NBA",
+    "circle": [
+      {"handle": "KingJames", "inPool": true, "why": "face of the league for decade"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "Warriors dynasty era star"},
+      {"handle": "KDTrey5", "inPool": true, "why": "superstar MVP, frequent mention"},
+      {"handle": "SportsCenter", "inPool": true, "why": "partner broadcast highlights"},
+      {"handle": "espn", "inPool": true, "why": "primary media rights holder"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "top NBA breaking news reporter"},
+      {"handle": "wojespn", "inPool": true, "why": "Adrian Wojnarowski NBA insider"},
+      {"handle": "BleacherReport", "inPool": true, "why": "viral NBA highlights account"},
+      {"handle": "Drake", "inPool": true, "why": "Raptors superfan, league ambassador"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "cross-sport ESPN insider"},
+      {"handle": "TheRock", "inPool": true, "why": "celebrity courtside fan"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "frequent NBA comment presence"}
+    ]
+  },
+  {
+    "handle": "ChampionsLeague",
+    "circle": [
+      {"handle": "FCBarcelona", "inPool": true, "why": "perennial finalist and champion"},
+      {"handle": "realmadrid", "inPool": false, "why": "most successful club in UCL"},
+      {"handle": "FabrizioRomano", "inPool": true, "why": "transfer news tied to UCL clubs"},
+      {"handle": "espn", "inPool": true, "why": "US broadcast rights partner"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlights and results coverage"},
+      {"handle": "OptaJoe", "inPool": true, "why": "stats partner for match coverage"},
+      {"handle": "BleacherReport", "inPool": true, "why": "viral match moments"},
+      {"handle": "Cristiano", "inPool": false, "why": "all-time top scorer in UCL"},
+      {"handle": "neymarjr", "inPool": false, "why": "PSG UCL runs, tagged constantly"},
+      {"handle": "NBA", "inPool": true, "why": "cross-sport social banter"},
+      {"handle": "elonmusk", "inPool": true, "why": "platform owner, X sport deals"}
+    ]
+  },
+  {
+    "handle": "SportsCenter",
+    "circle": [
+      {"handle": "espn", "inPool": true, "why": "parent brand, sister account"},
+      {"handle": "KingJames", "inPool": true, "why": "most featured athlete historically"},
+      {"handle": "NBA", "inPool": true, "why": "primary league content partner"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL insider colleague at ESPN"},
+      {"handle": "wojespn", "inPool": true, "why": "NBA insider colleague at ESPN"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA breaking news sourced from"},
+      {"handle": "BleacherReport", "inPool": true, "why": "rival sports highlight account"},
+      {"handle": "TheRock", "inPool": true, "why": "celebrity athlete crossover content"},
+      {"handle": "WWE", "inPool": true, "why": "sports entertainment coverage"},
+      {"handle": "Drake", "inPool": true, "why": "Raptors fan, courtside features"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "ESPN talent, show crossover"},
+      {"handle": "FCBarcelona", "inPool": true, "why": "global soccer highlights"}
+    ]
+  },
+  {
+    "handle": "iamsrk",
+    "circle": [
+      {"handle": "narendramodi", "inPool": true, "why": "Indian PM, national events"},
+      {"handle": "TheRock", "inPool": true, "why": "mutual global star admiration"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show appearance, promo"},
+      {"handle": "coldplay", "inPool": true, "why": "performed together in India 2016"},
+      {"handle": "Oprah", "inPool": false, "why": "appeared on Oprah show"},
+      {"handle": "MariahCarey", "inPool": true, "why": "collaborated and exchanged praise"},
+      {"handle": "KingJames", "inPool": true, "why": "global sports icon mutual respect"},
+      {"handle": "elonmusk", "inPool": true, "why": "X platform high engagement posts"},
+      {"handle": "TripleH", "inPool": true, "why": "WWE India tour connections"},
+      {"handle": "PriyankaChopra", "inPool": false, "why": "Bollywood co-star, frequent tag"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "celebrity chef crossover banter"}
+    ]
+  },
+  {
+    "handle": "Oprah",
+    "circle": [
+      {"handle": "GayleKing", "inPool": false, "why": "best friend, constant collaborator"},
+      {"handle": "BarackObama", "inPool": false, "why": "endorsed in 2008, close friend"},
+      {"handle": "MichelleObama", "inPool": true, "why": "close ally, book club collaborator"},
+      {"handle": "TheRock", "inPool": true, "why": "2020 presidential run speculation"},
+      {"handle": "MarkRuffalo", "inPool": true, "why": "activist alignment, mutual support"},
+      {"handle": "elonmusk", "inPool": true, "why": "high-engagement platform mentions"},
+      {"handle": "KingJames", "inPool": true, "why": "I Promise School alliance"},
+      {"handle": "ladygaga", "inPool": true, "why": "mental health advocacy overlap"},
+      {"handle": "JoeBiden", "inPool": true, "why": "endorsed Biden, campaigned together"},
+      {"handle": "Drake", "inPool": true, "why": "celebrity circle crossover"},
+      {"handle": "iamsrk", "inPool": true, "why": "global entertainment icon peer"}
+    ]
+  },
+  {
+    "handle": "Drake",
+    "circle": [
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "Young Money labelmates, feuded"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "collaborated, hip-hop elder"},
+      {"handle": "MetroBoomin", "inPool": true, "why": "producer beef and collaboration"},
+      {"handle": "iamcardib", "inPool": true, "why": "hip-hop chart rival overlap"},
+      {"handle": "KingJames", "inPool": true, "why": "Raptors courtside BFF famously"},
+      {"handle": "wizkhalifa", "inPool": false, "why": "rap beef and banter history"},
+      {"handle": "elonmusk", "inPool": true, "why": "X platform high engagement"},
+      {"handle": "TheRock", "inPool": true, "why": "celebrity mutual shoutout history"},
+      {"handle": "ladygaga", "inPool": true, "why": "pop chart crossover mentions"},
+      {"handle": "rihanna", "inPool": true, "why": "rumored relationship, island peers"},
+      {"handle": "SportsCenter", "inPool": true, "why": "Raptors ambassador feature content"}
+    ]
+  },
+  {
+    "handle": "JoeBiden",
+    "circle": [
+      {"handle": "BarackObama", "inPool": false, "why": "former boss, closest political ally"},
+      {"handle": "KamalaHarris", "inPool": false, "why": "VP running mate, administration"},
+      {"handle": "AOC", "inPool": true, "why": "progressive wing engagement"},
+      {"handle": "berniesanders", "inPool": true, "why": "primary rival turned ally"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "2020 election opponent"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "Democratic party senior figure"},
+      {"handle": "MichelleObama", "inPool": true, "why": "campaign surrogate support"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "frequent Republican critic"},
+      {"handle": "RandPaul", "inPool": true, "why": "Senate adversary, frequent clash"},
+      {"handle": "tedcruz", "inPool": true, "why": "Republican Senate antagonist"},
+      {"handle": "KingJames", "inPool": true, "why": "endorsed Biden, voter registration"}
+    ]
+  }
+]

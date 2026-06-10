@@ -1,0 +1,552 @@
+[
+  {
+    "handle": "balajis",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "frequent crypto/tech ally"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "a16z colleague and investor"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech philosophy peer"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI/tech overlap discussions"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech investor circle"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "Silicon Valley investor peer"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "crypto debate partner"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "crypto industry peer"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "startup/tech thought leader"
+      },
+      {
+        "handle": "cz_binance",
+        "inPool": true,
+        "why": "crypto exchange leader"
+      }
+    ]
+  },
+  {
+    "handle": "Eater",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "food celebrity coverage subject"
+      },
+      {
+        "handle": "AltonBrown",
+        "inPool": true,
+        "why": "food media personality"
+      },
+      {
+        "handle": "davidchang",
+        "inPool": false,
+        "why": "chef/food media figure"
+      },
+      {
+        "handle": "nytfood",
+        "inPool": false,
+        "why": "food media peer outlet"
+      },
+      {
+        "handle": "bonappetit",
+        "inPool": false,
+        "why": "food media peer outlet"
+      },
+      {
+        "handle": "chefjoseandres",
+        "inPool": false,
+        "why": "notable chef coverage"
+      }
+    ]
+  },
+  {
+    "handle": "ReformedBroker",
+    "circle": [
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "financial media appearances"
+      },
+      {
+        "handle": "WSJ",
+        "inPool": true,
+        "why": "financial journalism peer"
+      },
+      {
+        "handle": "markets",
+        "inPool": true,
+        "why": "Bloomberg markets overlap"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech/finance crossover"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "fintech investor discussions"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "media/podcast peer"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "startup/finance ideas"
+      }
+    ]
+  },
+  {
+    "handle": "markets",
+    "circle": [
+      {
+        "handle": "WSJ",
+        "inPool": true,
+        "why": "financial news peer outlet"
+      },
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "financial TV peer"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "market-moving tweet source"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "tech/markets crossover"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin/macro commentary"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "news peer outlet"
+      }
+    ]
+  },
+  {
+    "handle": "GDeLaurentiis",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "fellow food TV celebrity"
+      },
+      {
+        "handle": "AltonBrown",
+        "inPool": true,
+        "why": "food TV personality peer"
+      },
+      {
+        "handle": "MarthaStewart",
+        "inPool": false,
+        "why": "food/lifestyle TV peer"
+      },
+      {
+        "handle": "bonappetit",
+        "inPool": false,
+        "why": "food media coverage"
+      },
+      {
+        "handle": "GuyFieri",
+        "inPool": false,
+        "why": "Food Network colleague"
+      }
+    ]
+  },
+  {
+    "handle": "xQc",
+    "circle": [
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "streaming era peer rival"
+      },
+      {
+        "handle": "hasanthehun",
+        "inPool": false,
+        "why": "debate/stream collaborator"
+      },
+      {
+        "handle": "pokimane",
+        "inPool": false,
+        "why": "Twitch streamer contemporary"
+      },
+      {
+        "handle": "timthetatman",
+        "inPool": false,
+        "why": "Twitch banter peer"
+      },
+      {
+        "handle": "shroud",
+        "inPool": false,
+        "why": "pro-gamer turned streamer peer"
+      },
+      {
+        "handle": "DrLupo",
+        "inPool": true,
+        "why": "streaming peer"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "X platform owner interactions"
+      }
+    ]
+  },
+  {
+    "handle": "eurogamer",
+    "circle": [
+      {
+        "handle": "IGN",
+        "inPool": true,
+        "why": "gaming media rival outlet"
+      },
+      {
+        "handle": "WIRED",
+        "inPool": true,
+        "why": "tech/gaming media peer"
+      },
+      {
+        "handle": "TechCrunch",
+        "inPool": true,
+        "why": "tech media peer outlet"
+      },
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "streamer coverage subject"
+      },
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "gaming personality coverage"
+      }
+    ]
+  },
+  {
+    "handle": "AriMelber",
+    "circle": [
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "MSNBC news colleague"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC colleague/peer"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "news media peer outlet"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "news sourcing/quotes"
+      },
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "political news peer"
+      },
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "media debates"
+      },
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "media criticism debates"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "cross-aisle media debate"
+      }
+    ]
+  },
+  {
+    "handle": "ProPublica",
+    "circle": [
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "investigative journalism peer"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "investigative peer outlet"
+      },
+      {
+        "handle": "WSJ",
+        "inPool": true,
+        "why": "journalism peer outlet"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "news media peer"
+      },
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "digital news peer outlet"
+      }
+    ]
+  },
+  {
+    "handle": "thenation",
+    "circle": [
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media ally"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "left-media alignment"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "news media peer"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "center-left peer outlet"
+      },
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "media criticism engagement"
+      },
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "media debates"
+      },
+      {
+        "handle": "theintercept",
+        "inPool": false,
+        "why": "progressive journalism peer"
+      }
+    ]
+  },
+  {
+    "handle": "ericbolling",
+    "circle": [
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "right-media peer"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News colleague"
+      },
+      {
+        "handle": "seanhannity",
+        "inPool": false,
+        "why": "Fox News colleague"
+      },
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "anti-establishment media ally"
+      },
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "anti-establishment media ally"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "right-leaning tech figure"
+      }
+    ]
+  },
+  {
+    "handle": "GuillemBalague",
+    "circle": [
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "transfer news competitor"
+      },
+      {
+        "handle": "OptaJoe",
+        "inPool": true,
+        "why": "football stats peer"
+      },
+      {
+        "handle": "GaryLineker",
+        "inPool": true,
+        "why": "BBC football colleague"
+      },
+      {
+        "handle": "GNev2",
+        "inPool": true,
+        "why": "football pundit peer"
+      },
+      {
+        "handle": "David_Ornstein",
+        "inPool": false,
+        "why": "transfer journalist rival"
+      },
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "La Liga coverage focus"
+      }
+    ]
+  },
+  {
+    "handle": "TSNBobMcKenzie",
+    "circle": [
+      {
+        "handle": "NHL",
+        "inPool": true,
+        "why": "official hockey league account"
+      },
+      {
+        "handle": "DarrenDreger",
+        "inPool": false,
+        "why": "TSN hockey colleague"
+      },
+      {
+        "handle": "FriedgeHNIC",
+        "inPool": false,
+        "why": "hockey insider peer"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "sports insider peer"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "sports breaking news peer"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "sports insider peer"
+      }
+    ]
+  },
+  {
+    "handle": "World_Wildlife",
+    "circle": [
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "wildlife/nature media ally"
+      },
+      {
+        "handle": "BBCEarth",
+        "inPool": false,
+        "why": "nature documentary peer"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "science/earth observation"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "climate/environment debates"
+      }
+    ]
+  },
+  {
+    "handle": "AnthropicAI",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI peer/competitor"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "AI industry commentary"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "AI research community"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "a16z AI investor"
+      },
+      {
+        "handle": "karaswisher",
+        "inPool": true,
+        "why": "tech journalism coverage"
+      },
+      {
+        "handle": "TechCrunch",
+        "inPool": true,
+        "why": "tech press coverage"
+      },
+      {
+        "handle": "WIRED",
+        "inPool": true,
+        "why": "tech media coverage"
+      }
+    ]
+  }
+]

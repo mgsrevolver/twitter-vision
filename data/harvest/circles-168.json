@@ -1,0 +1,432 @@
+[
+  {
+    "handle": "filmspotting",
+    "circle": [
+      {
+        "handle": "Criterion",
+        "inPool": true,
+        "why": "canonical arthouse label partner"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "film industry news beat"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "film industry news beat"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "film industry news coverage"
+      },
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "director engages cinephiles"
+      },
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "director known to engage fans"
+      }
+    ]
+  },
+  {
+    "handle": "lamag",
+    "circle": [
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "LA film industry adjacent"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "LA film industry adjacent"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "LA entertainment press overlap"
+      }
+    ]
+  },
+  {
+    "handle": "kimseverson",
+    "circle": [
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "home publication"
+      },
+      {
+        "handle": "AltonBrown",
+        "inPool": true,
+        "why": "Atlanta-based food personality"
+      },
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "prominent food media figure"
+      },
+      {
+        "handle": "ruthreichl",
+        "inPool": false,
+        "why": "food critic peer/mentor"
+      },
+      {
+        "handle": "davidchang",
+        "inPool": false,
+        "why": "celebrated chef she covers"
+      },
+      {
+        "handle": "chefjoseandres",
+        "inPool": false,
+        "why": "chef/humanitarian she covers"
+      }
+    ]
+  },
+  {
+    "handle": "InTheseTimes",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive politics alignment"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive politics alignment"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "progressive media figure"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media figure"
+      }
+    ]
+  },
+  {
+    "handle": "annkpowers",
+    "circle": [
+      {
+        "handle": "Pitchfork",
+        "inPool": true,
+        "why": "peer music criticism outlet"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "peer music media outlet"
+      },
+      {
+        "handle": "billboardcharts",
+        "inPool": true,
+        "why": "music charts/media"
+      },
+      {
+        "handle": "Lin_Manuel",
+        "inPool": true,
+        "why": "prominent musical artist"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "peer publication music desk"
+      },
+      {
+        "handle": "questlove",
+        "inPool": false,
+        "why": "musician she covers/engages"
+      }
+    ]
+  },
+  {
+    "handle": "MGleiser",
+    "circle": [
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "fellow science communicator"
+      },
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "fellow science communicator"
+      },
+      {
+        "handle": "sciam",
+        "inPool": true,
+        "why": "writes for Scientific American"
+      },
+      {
+        "handle": "StationCDRKelly",
+        "inPool": true,
+        "why": "astronaut science figure"
+      },
+      {
+        "handle": "Cmdr_Hadfield",
+        "inPool": true,
+        "why": "astronaut science communicator"
+      },
+      {
+        "handle": "Rainmaker1973",
+        "inPool": true,
+        "why": "science engagement account"
+      }
+    ]
+  },
+  {
+    "handle": "briannekimmel",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "prominent tech/startup figure"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "YC startup/VC world"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "prominent tech VC"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "VC/startup thinker"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "prominent tech VC"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech VC peer"
+      }
+    ]
+  },
+  {
+    "handle": "donni",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "irony twitter peer/legend"
+      },
+      {
+        "handle": "GuyInYourMFA",
+        "inPool": true,
+        "why": "absurdist humor peer"
+      },
+      {
+        "handle": "horse_ebooks",
+        "inPool": true,
+        "why": "foundational irony twitter"
+      },
+      {
+        "handle": "jonnysun",
+        "inPool": true,
+        "why": "whimsical twitter peer"
+      },
+      {
+        "handle": "robdelaney",
+        "inPool": true,
+        "why": "comedy twitter figure"
+      },
+      {
+        "handle": "jimgaffigan",
+        "inPool": true,
+        "why": "comedian engaged on Twitter"
+      }
+    ]
+  },
+  {
+    "handle": "HourlyOtters",
+    "circle": [
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "peer wholesome animal account"
+      }
+    ]
+  },
+  {
+    "handle": "AcadiaNPS",
+    "circle": [
+      {
+        "handle": "Rainmaker1973",
+        "inPool": true,
+        "why": "nature science media account"
+      },
+      {
+        "handle": "Cmdr_Hadfield",
+        "inPool": true,
+        "why": "wholesome science communicator"
+      },
+      {
+        "handle": "MarsCuriosity",
+        "inPool": true,
+        "why": "NASA/gov wholesome peer"
+      }
+    ]
+  },
+  {
+    "handle": "CiaoSamin",
+    "circle": [
+      {
+        "handle": "AltonBrown",
+        "inPool": true,
+        "why": "fellow food TV personality"
+      },
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "prominent food media figure"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "writes/covered in NYT"
+      },
+      {
+        "handle": "chefjoseandres",
+        "inPool": false,
+        "why": "fellow chef activist"
+      },
+      {
+        "handle": "ruthreichl",
+        "inPool": false,
+        "why": "food critic peer/mentor"
+      }
+    ]
+  },
+  {
+    "handle": "profplum99",
+    "circle": [
+      {
+        "handle": "CNBC",
+        "inPool": true,
+        "why": "financial media platform"
+      },
+      {
+        "handle": "stablekwon",
+        "inPool": true,
+        "why": "crypto figure he engaged/critiqued"
+      },
+      {
+        "handle": "SBF_FTX",
+        "inPool": true,
+        "why": "crypto figure he engaged/critiqued"
+      },
+      {
+        "handle": "michaeljburry",
+        "inPool": true,
+        "why": "contrarian finance peer"
+      },
+      {
+        "handle": "CelsiusNetwork",
+        "inPool": true,
+        "why": "crypto account he engaged"
+      }
+    ]
+  },
+  {
+    "handle": "SibleyGuides",
+    "circle": [
+      {
+        "handle": "Rainmaker1973",
+        "inPool": true,
+        "why": "nature/science engagement"
+      },
+      {
+        "handle": "Cmdr_Hadfield",
+        "inPool": true,
+        "why": "science communicator"
+      },
+      {
+        "handle": "AudubonSociety",
+        "inPool": false,
+        "why": "bird conservation org partner"
+      },
+      {
+        "handle": "CornellBirds",
+        "inPool": false,
+        "why": "Cornell Lab bird science"
+      }
+    ]
+  },
+  {
+    "handle": "indieshuffle",
+    "circle": [
+      {
+        "handle": "Pitchfork",
+        "inPool": true,
+        "why": "peer indie music media"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "peer music media outlet"
+      },
+      {
+        "handle": "billboardcharts",
+        "inPool": true,
+        "why": "music charts/media"
+      },
+      {
+        "handle": "annkpowers",
+        "inPool": true,
+        "why": "indie-oriented music critic"
+      }
+    ]
+  },
+  {
+    "handle": "telluridefest",
+    "circle": [
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "covers Telluride extensively"
+      },
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "covers Telluride extensively"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "covers Telluride extensively"
+      },
+      {
+        "handle": "Criterion",
+        "inPool": true,
+        "why": "arthouse film intersection"
+      },
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "director who attends festivals"
+      },
+      {
+        "handle": "Lin_Manuel",
+        "inPool": true,
+        "why": "cultural figure/festival attendee"
+      }
+    ]
+  }
+]

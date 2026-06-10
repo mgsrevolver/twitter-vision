@@ -1,0 +1,306 @@
+[
+  {
+    "handle": "hmeisler",
+    "circle": [
+      {
+        "handle": "unusual_whales",
+        "inPool": false,
+        "why": "fellow market technicians"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "fintech wisdom overlap"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "tech/finance commentary"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "finance/tech commentary"
+      }
+    ]
+  },
+  {
+    "handle": "MySportsUpdate",
+    "circle": [
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "NFL insider colleague"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "NFL media collaborator"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "official league account"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "outlet publisher"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "NFL highlight partner"
+      }
+    ]
+  },
+  {
+    "handle": "RealSexyCyborg",
+    "circle": [
+      {
+        "handle": "Snowden",
+        "inPool": true,
+        "why": "privacy/tech rights ally"
+      }
+    ]
+  },
+  {
+    "handle": "patio11",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "startup ecosystem peer"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "YC/startup thinking"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "tech/VC commentary"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech/finance wisdom"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "fintech/policy overlap"
+      },
+      {
+        "handle": "karaswisher",
+        "inPool": true,
+        "why": "tech media coverage"
+      }
+    ]
+  },
+  {
+    "handle": "shutupmikeginn",
+    "circle": [
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "absurdist humor peer"
+      },
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "benign internet humor"
+      }
+    ]
+  },
+  {
+    "handle": "aoscott",
+    "circle": [
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film media outlet"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "film industry coverage"
+      }
+    ]
+  },
+  {
+    "handle": "ThePlaylistNews",
+    "circle": [
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film news peer"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "trade publication overlap"
+      }
+    ]
+  },
+  {
+    "handle": "RiskReversal",
+    "circle": [
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "finance wisdom overlap"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech/finance commentary"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "startup/finance ideas"
+      }
+    ]
+  },
+  {
+    "handle": "jacobinmag",
+    "circle": [
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "socialist politics alignment"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive policy coverage"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "democratic socialist figure"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "left media colleague"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "left media coverage"
+      },
+      {
+        "handle": "RBReich",
+        "inPool": true,
+        "why": "economic left commentary"
+      }
+    ]
+  },
+  {
+    "handle": "driverminnie",
+    "circle": [
+      {
+        "handle": "mulaney",
+        "inPool": true,
+        "why": "comedy actor circle"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "comedy/film peer"
+      }
+    ]
+  },
+  {
+    "handle": "skdh",
+    "circle": [
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "physicist Twitter peer"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communicator peer"
+      }
+    ]
+  },
+  {
+    "handle": "timnitGebru",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI leader (critical relation)"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "tech accountability ally"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "media covering AI ethics"
+      }
+    ]
+  },
+  {
+    "handle": "0xfoobar",
+    "circle": [
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "Ethereum core community"
+      },
+      {
+        "handle": "sassal0x",
+        "inPool": true,
+        "why": "Ethereum media peer"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "Coinbase/crypto ecosystem"
+      },
+      {
+        "handle": "stablekwon",
+        "inPool": true,
+        "why": "DeFi circle pre-collapse"
+      },
+      {
+        "handle": "cburniske",
+        "inPool": true,
+        "why": "crypto VC overlap"
+      }
+    ]
+  },
+  {
+    "handle": "saveurmag",
+    "circle": []
+  },
+  {
+    "handle": "Kurrco",
+    "circle": [
+      {
+        "handle": "chartdata",
+        "inPool": true,
+        "why": "chart tracking peer"
+      },
+      {
+        "handle": "billboardcharts",
+        "inPool": true,
+        "why": "chart authority"
+      },
+      {
+        "handle": "PopBase",
+        "inPool": true,
+        "why": "pop culture tracking peer"
+      }
+    ]
+  }
+]

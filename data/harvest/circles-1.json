@@ -1,0 +1,144 @@
+[
+  {
+    "handle": "ArianaGrande",
+    "circle": [
+      {"handle": "justinbieber", "inPool": true, "why": "close friends, mutual fan support"},
+      {"handle": "rihanna", "inPool": true, "why": "frequent mutual admiration posts"},
+      {"handle": "katyperry", "inPool": true, "why": "collab and pop-era peers"},
+      {"handle": "ladygaga", "inPool": true, "why": "Rain on Me collab, close bond"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "Side to Side collab partner"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "frequent Tonight Show guest"},
+      {"handle": "jtimberlake", "inPool": true, "why": "pop peers, mutual appearances"},
+      {"handle": "iamcardib", "inPool": true, "why": "pop/rap era peers, social banter"},
+      {"handle": "ddlovato", "inPool": false, "why": "longtime close friendship"},
+      {"handle": "selenagomez", "inPool": false, "why": "squad-era friends, frequent interaction"},
+      {"handle": "scooterbraun", "inPool": false, "why": "former manager, frequent mentions"},
+      {"handle": "victoriajustice", "inPool": false, "why": "Victorious co-star, old friendship"}
+    ]
+  },
+  {
+    "handle": "YouTube",
+    "circle": [
+      {"handle": "MrBeast", "inPool": true, "why": "top creator, frequently promoted"},
+      {"handle": "elonmusk", "inPool": true, "why": "platform owner interactions, announcements"},
+      {"handle": "netflix", "inPool": true, "why": "content partner cross-promotion"},
+      {"handle": "NASA", "inPool": true, "why": "official partner content campaigns"},
+      {"handle": "SpaceX", "inPool": true, "why": "viral launch stream cross-promo"},
+      {"handle": "PewDiePie", "inPool": false, "why": "once biggest creator, milestone tweets"},
+      {"handle": "mkbhd", "inPool": false, "why": "top tech creator, featured repeatedly"},
+      {"handle": "Google", "inPool": false, "why": "parent company, shared announcements"},
+      {"handle": "X", "inPool": false, "why": "platform rival/peer, industry discourse"}
+    ]
+  },
+  {
+    "handle": "NASA",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "SpaceX partnership, Artemis contracts"},
+      {"handle": "SpaceX", "inPool": true, "why": "core launch partner, constant tags"},
+      {"handle": "MrBeast", "inPool": true, "why": "viral space content collaborations"},
+      {"handle": "neiltyson", "inPool": true, "why": "astrophysicist, frequent mutual replies"},
+      {"handle": "who", "inPool": true, "why": "joint science/health announcements"},
+      {"handle": "BillGates", "inPool": false, "why": "climate and science mission overlap"},
+      {"handle": "BarackObama", "inPool": false, "why": "NASA budget support, public praise"},
+      {"handle": "NASA_Artemis", "inPool": false, "why": "official mission account sibling"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "astronaut frequently tagged NASA"}
+    ]
+  },
+  {
+    "handle": "TheEllenShow",
+    "circle": [
+      {"handle": "justinbieber", "inPool": true, "why": "recurring guest, close friendship"},
+      {"handle": "rihanna", "inPool": true, "why": "high-profile show appearances"},
+      {"handle": "TheRock", "inPool": true, "why": "close friendship, multiple show segments"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late-night peer, cross-promo"},
+      {"handle": "mariahcarey", "inPool": true, "why": "recurring guest, iconic moments"},
+      {"handle": "KimKardashian", "inPool": false, "why": "frequent guest, viral segments"},
+      {"handle": "taylorswift13", "inPool": false, "why": "multiple iconic appearances"},
+      {"handle": "selenagomez", "inPool": false, "why": "recurring guest, longtime friendship"},
+      {"handle": "KevinHart4real", "inPool": false, "why": "close friend, frequent co-appearances"}
+    ]
+  },
+  {
+    "handle": "KimKardashian",
+    "circle": [
+      {"handle": "rihanna", "inPool": true, "why": "fashion peers, social banter"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "reality-rap culture overlap, known tensions"},
+      {"handle": "mariahcarey", "inPool": true, "why": "celebrity pop culture overlap"},
+      {"handle": "iamcardib", "inPool": true, "why": "pop culture banter, mutual follows"},
+      {"handle": "kanyewest", "inPool": false, "why": "ex-husband, constant public discourse"},
+      {"handle": "KhloeKardashian", "inPool": false, "why": "sister, constant mutual mentions"},
+      {"handle": "KendallJenner", "inPool": false, "why": "sister, frequent joint appearances"},
+      {"handle": "KylieJenner", "inPool": false, "why": "sister, frequent business cross-promo"}
+    ]
+  },
+  {
+    "handle": "X",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "owner, constant official announcements"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "high-profile reinstated account"},
+      {"handle": "SpaceX", "inPool": true, "why": "Musk-linked brand, cross-promotions"},
+      {"handle": "MrBeast", "inPool": true, "why": "top creator partner engagement"},
+      {"handle": "rihanna", "inPool": true, "why": "celebrity milestone celebration tweets"},
+      {"handle": "NASA", "inPool": true, "why": "institutional verified partner"},
+      {"handle": "JackDorsey", "inPool": false, "why": "co-founder, frequent critic post-sale"},
+      {"handle": "Google", "inPool": false, "why": "tech industry peer discourse"}
+    ]
+  },
+  {
+    "handle": "selenagomez",
+    "circle": [
+      {"handle": "justinbieber", "inPool": true, "why": "ex-relationship, years of public interaction"},
+      {"handle": "rihanna", "inPool": true, "why": "music peers, mutual admiration"},
+      {"handle": "katyperry", "inPool": true, "why": "pop era contemporaries, social support"},
+      {"handle": "ladygaga", "inPool": true, "why": "mutual mental health advocacy overlap"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "frequent Tonight Show appearances"},
+      {"handle": "TheRock", "inPool": true, "why": "crossover pop culture admiration"},
+      {"handle": "taylorswift13", "inPool": false, "why": "best friend, constant public support"},
+      {"handle": "ddlovato", "inPool": false, "why": "childhood best friend era, reunions"},
+      {"handle": "TheEllenShow", "inPool": false, "why": "recurring guest, warm friendship"},
+      {"handle": "KimKardashian", "inPool": false, "why": "pop culture peers, social interaction"}
+    ]
+  },
+  {
+    "handle": "BillGates",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "public rivalry, climate disagreements"},
+      {"handle": "NASA", "inPool": true, "why": "science and technology advocacy"},
+      {"handle": "who", "inPool": true, "why": "Gates Foundation WHO partnership"},
+      {"handle": "neiltyson", "inPool": true, "why": "science communication mutual respect"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "Gates Reddit AMA, media appearances"},
+      {"handle": "BarackObama", "inPool": false, "why": "longtime friendship, shared philanthropy"},
+      {"handle": "MelindaGates", "inPool": false, "why": "ex-wife, Gates Foundation co-founder"},
+      {"handle": "WarrenBuffett", "inPool": false, "why": "Giving Pledge partner, close friend"}
+    ]
+  },
+  {
+    "handle": "neymarjr",
+    "circle": [
+      {"handle": "KingJames", "inPool": true, "why": "cross-sport athlete mutual respect"},
+      {"handle": "drake", "inPool": true, "why": "celebrity athlete-musician friendship"},
+      {"handle": "FCBarcelona", "inPool": true, "why": "former club, constant mentions"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlight coverage, frequent tags"},
+      {"handle": "FabrizioRomano", "inPool": true, "why": "transfer news subject, constant coverage"},
+      {"handle": "iamsrk", "inPool": true, "why": "Paris overlap, Bollywood friendship"},
+      {"handle": "Cristiano", "inPool": false, "why": "peer rivalry turned mutual respect"},
+      {"handle": "realmadrid", "inPool": false, "why": "rival club, transfer target rumors"},
+      {"handle": "ChampionsLeague", "inPool": false, "why": "annual UCL competition coverage"}
+    ]
+  },
+  {
+    "handle": "jtimberlake",
+    "circle": [
+      {"handle": "jimmyfallon", "inPool": true, "why": "best friends, constant co-appearances"},
+      {"handle": "rihanna", "inPool": true, "why": "pop music peers, collaborations"},
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "hip-pop crossover era overlap"},
+      {"handle": "ladygaga", "inPool": true, "why": "pop era peers, mutual appearances"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "crossover collaboration history"},
+      {"handle": "MagicJohnson", "inPool": true, "why": "NBA fan friendship, mutual support"},
+      {"handle": "britneyspears", "inPool": true, "why": "ex-relationship, shared pop history"},
+      {"handle": "KingJames", "inPool": true, "why": "famous JT-LeBron basketball friendship"},
+      {"handle": "ArianaGrande", "inPool": false, "why": "pop era peers, mutual industry respect"},
+      {"handle": "KimKardashian", "inPool": false, "why": "pop culture crossover, social circle"}
+    ]
+  }
+]

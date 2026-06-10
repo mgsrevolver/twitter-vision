@@ -1,0 +1,176 @@
+[
+  {
+    "handle": "DonaldJTrumpJr",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "his father, constant amplification"},
+      {"handle": "EricTrump", "inPool": true, "why": "brother, frequent mutual support"},
+      {"handle": "elonmusk", "inPool": true, "why": "political ally and meme comrade"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "right-media ally and booster"},
+      {"handle": "JDVance", "inPool": true, "why": "MAGA movement collaborator"},
+      {"handle": "mtgreenee", "inPool": true, "why": "shared far-right political space"},
+      {"handle": "tedcruz", "inPool": true, "why": "Senate Republican ally engagement"},
+      {"handle": "RandPaul", "inPool": true, "why": "populist-right political alignment"},
+      {"handle": "GregAbbott_TX", "inPool": true, "why": "red-state governor, rally ally"},
+      {"handle": "benshapiro", "inPool": true, "why": "conservative media amplification"},
+      {"handle": "catturd2", "inPool": true, "why": "MAGA meme account he frequently RTs"},
+      {"handle": "DavidSacks", "inPool": true, "why": "Silicon Valley right orbit"},
+      {"handle": "kayleighmcenany", "inPool": false, "why": "Trump admin comms ally"},
+      {"handle": "SteveBannon", "inPool": false, "why": "longtime strategic collaborator"}
+    ]
+  },
+  {
+    "handle": "rickygervais",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "transatlantic comedy mutual admiration"},
+      {"handle": "SarahKSilverman", "inPool": true, "why": "edgy comedy peer solidarity"},
+      {"handle": "TheRock", "inPool": true, "why": "Golden Globes banter and friendship"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "late-night comedy overlap"},
+      {"handle": "ActuallyNPH", "inPool": true, "why": "awards host peer engagement"},
+      {"handle": "MarkRuffalo", "inPool": true, "why": "political sparring, cancel culture debates"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "British celebrity mutual ribbing"},
+      {"handle": "RealLucyLawless", "inPool": true, "why": "animal-rights and comedy overlap"},
+      {"handle": "neilhimself", "inPool": true, "why": "British author friend, long exchanges"},
+      {"handle": "StephenMerchant", "inPool": false, "why": "The Office co-creator, close collaborator"},
+      {"handle": "karljpilkington", "inPool": false, "why": "Idiot Abroad partner, constant ribbing"},
+      {"handle": "piersmorgan", "inPool": true, "why": "British celeb mutual antagonism"}
+    ]
+  },
+  {
+    "handle": "WWE",
+    "circle": [
+      {"handle": "TripleH", "inPool": true, "why": "WWE CCO, official voice of company"},
+      {"handle": "TheRock", "inPool": true, "why": "biggest WWE alumni ambassador"},
+      {"handle": "CodyRhodes", "inPool": true, "why": "top champion constant promotion"},
+      {"handle": "VinceMcMahon", "inPool": true, "why": "longtime chairman, event hype"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "WWE analyst and personality"},
+      {"handle": "AEW", "inPool": true, "why": "rival promotion, cross-discourse"},
+      {"handle": "TonyKhan", "inPool": true, "why": "AEW owner, often in WWE discourse"},
+      {"handle": "davemeltzerWON", "inPool": true, "why": "premier wrestling journalist coverage"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN sports crossover coverage"},
+      {"handle": "espn", "inPool": true, "why": "broadcast partner, event promotion"},
+      {"handle": "RomanReigns", "inPool": false, "why": "top star, heavy mutual promotion"},
+      {"handle": "JohnCena", "inPool": false, "why": "biggest modern WWE ambassador"}
+    ]
+  },
+  {
+    "handle": "neiltyson",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "constant science communication partner"},
+      {"handle": "SpaceX", "inPool": true, "why": "commercial spaceflight commentary"},
+      {"handle": "BillNye", "inPool": true, "why": "science popularizer colleague and friend"},
+      {"handle": "elonmusk", "inPool": true, "why": "space industry debates and exchanges"},
+      {"handle": "StephenAtHome", "inPool": true, "why": "frequent late-night science guest"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "comedy-science interview appearances"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show science segment appearances"},
+      {"handle": "desusnice", "inPool": true, "why": "Bodega Boys podcast guest appearance"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "food-science crossover joke tweets"},
+      {"handle": "iamsrk", "inPool": true, "why": "mutual appreciation, global science reach"},
+      {"handle": "michiokaku", "inPool": false, "why": "fellow physics communicator, mutual RTs"},
+      {"handle": "StarTalkRadio", "inPool": false, "why": "his own podcast/radio account"}
+    ]
+  },
+  {
+    "handle": "Microsoft",
+    "circle": [
+      {"handle": "Xbox", "inPool": true, "why": "owned gaming brand, constant cross-posts"},
+      {"handle": "NASA", "inPool": true, "why": "cloud and AI partnership announcements"},
+      {"handle": "SpaceX", "inPool": true, "why": "Azure cloud technology partnerships"},
+      {"handle": "elonmusk", "inPool": true, "why": "competitor-partner AI/cloud discourse"},
+      {"handle": "MrBeast", "inPool": true, "why": "creator ecosystem Xbox partnerships"},
+      {"handle": "Marvel", "inPool": true, "why": "Xbox Game Pass content deals promotion"},
+      {"handle": "Netflix", "inPool": true, "why": "streaming-gaming crossover discourse"},
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "Xbox exclusive developer partner"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards Xbox announcements"},
+      {"handle": "RockstarGames", "inPool": true, "why": "major Xbox Game Pass partnership"},
+      {"handle": "SatyaNadella", "inPool": false, "why": "CEO, voice of company strategy"},
+      {"handle": "GitHub", "inPool": false, "why": "owned developer platform cross-posts"}
+    ]
+  },
+  {
+    "handle": "joerogan",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "infamous podcast guest, ongoing ally"},
+      {"handle": "UFC", "inPool": true, "why": "UFC commentator, official partner"},
+      {"handle": "benshapiro", "inPool": true, "why": "right-media podcast crossover guest"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "weed culture and celebrity friendship"},
+      {"handle": "KingJames", "inPool": true, "why": "sports commentary mutual mentions"},
+      {"handle": "espn", "inPool": true, "why": "UFC and sports media overlap"},
+      {"handle": "BenShapiro", "inPool": true, "why": "crossover conservative media audience"},
+      {"handle": "DavidSacks", "inPool": true, "why": "All-In podcast political alignment"},
+      {"handle": "patmcafeeshow", "inPool": true, "why": "sports media peer and guest"},
+      {"handle": "danawhite", "inPool": false, "why": "UFC president, longtime close friend"},
+      {"handle": "brendanschaub", "inPool": false, "why": "longtime comedian-MMA friend"},
+      {"handle": "thenotoriousmma", "inPool": false, "why": "Conor McGregor, UFC star guest"}
+    ]
+  },
+  {
+    "handle": "UFC",
+    "circle": [
+      {"handle": "joerogan", "inPool": false, "why": "official UFC commentator and voice"},
+      {"handle": "espn", "inPool": true, "why": "broadcast rights partner, constant coverage"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlight distribution partner"},
+      {"handle": "elonmusk", "inPool": true, "why": "X/Twitter platform ownership promotion"},
+      {"handle": "TheRock", "inPool": true, "why": "celebrity crossover, XFL connection"},
+      {"handle": "KingJames", "inPool": true, "why": "sports celebrity crossover engagement"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "sports media crossover personality"},
+      {"handle": "WWE", "inPool": true, "why": "combat sports rival, crossover discourse"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "sports media ecosystem overlap"},
+      {"handle": "danawhite", "inPool": false, "why": "UFC president, public face of company"},
+      {"handle": "thenotoriousmma", "inPool": false, "why": "Conor McGregor, biggest star"},
+      {"handle": "khabib_nurmagomedov", "inPool": false, "why": "undefeated champion, major account"}
+    ]
+  },
+  {
+    "handle": "AOC",
+    "circle": [
+      {"handle": "BernieSanders", "inPool": true, "why": "closest political mentor and ally"},
+      {"handle": "IlhanMN", "inPool": true, "why": "Squad member, constant co-signaling"},
+      {"handle": "RashidaTlaib", "inPool": true, "why": "Squad member, frequent co-tweets"},
+      {"handle": "elonmusk", "inPool": true, "why": "recurring high-profile feud"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive Senate ally coordination"},
+      {"handle": "JoeBiden", "inPool": true, "why": "Democratic president engagement"},
+      {"handle": "tedcruz", "inPool": true, "why": "frequent public sparring partner"},
+      {"handle": "mtgreenee", "inPool": true, "why": "mutual antagonists, ongoing feud"},
+      {"handle": "jaketapper", "inPool": true, "why": "CNN interview subject and engagement"},
+      {"handle": "Acyn", "inPool": true, "why": "progressive clip account she often engages"},
+      {"handle": "atrupar", "inPool": true, "why": "progressive journalist she amplifies"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "Democratic party leadership orbit"},
+      {"handle": "GovRonDeSantis", "inPool": false, "why": "frequent political adversary"},
+      {"handle": "mattgaetz", "inPool": false, "why": "GOP antagonist and public sparring"}
+    ]
+  },
+  {
+    "handle": "FortniteGame",
+    "circle": [
+      {"handle": "MrBeast", "inPool": true, "why": "YouTube-Fortnite collab and crossover"},
+      {"handle": "NickEh30", "inPool": true, "why": "major Fortnite content creator partner"},
+      {"handle": "DrLupo", "inPool": true, "why": "top Fortnite streamer and partner"},
+      {"handle": "xQc", "inPool": true, "why": "major streaming personality, Fortnite player"},
+      {"handle": "Marvel", "inPool": true, "why": "Marvel skin crossover partnerships"},
+      {"handle": "Xbox", "inPool": true, "why": "platform crossover gaming promotions"},
+      {"handle": "PlayStation", "inPool": false, "why": "major platform partner crossover"},
+      {"handle": "SportsCenter", "inPool": true, "why": "esports and gaming crossover coverage"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "celebrity Fortnite skin collaboration"},
+      {"handle": "iamcardib", "inPool": true, "why": "celebrity gaming crossover engagement"},
+      {"handle": "Ninja", "inPool": false, "why": "biggest Fortnite streamer, launch partner"},
+      {"handle": "EpicGames", "inPool": false, "why": "parent company official account"}
+    ]
+  },
+  {
+    "handle": "funnyordie",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "comedy video crossover content"},
+      {"handle": "SarahKSilverman", "inPool": true, "why": "comedy talent frequent collaborator"},
+      {"handle": "MarkRuffalo", "inPool": true, "why": "political comedy video participant"},
+      {"handle": "BenAffleck", "inPool": true, "why": "sketch comedy video appearances"},
+      {"handle": "desusnice", "inPool": true, "why": "comedy media orbit engagement"},
+      {"handle": "Lin_Manuel", "inPool": true, "why": "Broadway-comedy crossover content"},
+      {"handle": "ActuallyNPH", "inPool": true, "why": "Neil Patrick Harris sketch videos"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "viral celebrity comedy content"},
+      {"handle": "iamcardib", "inPool": true, "why": "celebrity viral comedy videos"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "food-comedy viral video partner"},
+      {"handle": "willferrell", "inPool": false, "why": "co-founder and star of Funny Or Die"},
+      {"handle": "AdamMcKay", "inPool": false, "why": "co-founder, creative director"}
+    ]
+  }
+]

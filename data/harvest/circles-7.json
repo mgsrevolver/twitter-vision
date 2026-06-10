@@ -1,0 +1,168 @@
+[
+  {
+    "handle": "KDTrey5",
+    "circle": [
+      {"handle": "KingJames", "inPool": true, "why": "longtime rival, frequent sparring partner"},
+      {"handle": "StephenCurry30", "inPool": true, "why": "Warriors teammate era, title runs"},
+      {"handle": "Drake", "inPool": true, "why": "close friend, OVO collaboration"},
+      {"handle": "SnoopDogg", "inPool": true, "why": "mutual hip-hop sports crossover"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "primary NBA news source outlet"},
+      {"handle": "wojespn", "inPool": true, "why": "Woj breaks KD trade news"},
+      {"handle": "espn", "inPool": true, "why": "ESPN covers Durant constantly"},
+      {"handle": "SportsCenter", "inPool": true, "why": "highlights and hot takes target"},
+      {"handle": "NBA", "inPool": true, "why": "league account interaction"},
+      {"handle": "JoelEmbiid", "inPool": true, "why": "rival MVP-era jawing"},
+      {"handle": "blakegriffin23", "inPool": true, "why": "former teammate banter"},
+      {"handle": "ochocinco", "inPool": true, "why": "mutual sports celebrity fun"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "Skip constantly debates KD"}
+    ]
+  },
+  {
+    "handle": "SnoopDogg",
+    "circle": [
+      {"handle": "NICKIMINAJ", "inPool": true, "why": "hip-hop collab and mutual hype"},
+      {"handle": "iamcardib", "inPool": true, "why": "hip-hop banter and features"},
+      {"handle": "50cent", "inPool": true, "why": "longtime rap world peer"},
+      {"handle": "wyclef", "inPool": true, "why": "veteran hip-hop mutual"},
+      {"handle": "KingJames", "inPool": true, "why": "NBA fan, mutual celebrity friendship"},
+      {"handle": "TheRock", "inPool": true, "why": "frequent comedic crossover"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show appearances, viral bits"},
+      {"handle": "ActuallyNPH", "inPool": true, "why": "Hollywood awards show banter"},
+      {"handle": "ladygaga", "inPool": true, "why": "Super Bowl halftime proximity"},
+      {"handle": "katyperry", "inPool": true, "why": "pop star mutual appreciation"},
+      {"handle": "tonyhawk", "inPool": true, "why": "celebrity gaming/skate culture crossover"},
+      {"handle": "elonmusk", "inPool": true, "why": "viral meme exchange on platform"},
+      {"handle": "MarthaStewart", "inPool": false, "why": "iconic cooking show co-host friendship"}
+    ]
+  },
+  {
+    "handle": "MichelleObama",
+    "circle": [
+      {"handle": "JoeBiden", "inPool": true, "why": "Obama White House close ally"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "Democratic Party leadership peer"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive coalition overlap"},
+      {"handle": "AOC", "inPool": true, "why": "progressive women in politics"},
+      {"handle": "POTUS44", "inPool": true, "why": "Barack Obama official account"},
+      {"handle": "jaketapper", "inPool": true, "why": "CNN interview and news engagement"},
+      {"handle": "andersoncooper", "inPool": true, "why": "CNN anchor, frequent coverage"},
+      {"handle": "KamalaHarris", "inPool": false, "why": "VP peer, Democratic women network"},
+      {"handle": "Oprah", "inPool": false, "why": "close friend, book club crossover"},
+      {"handle": "BarackObama", "inPool": false, "why": "spouse, joint messaging"}
+    ]
+  },
+  {
+    "handle": "WSJ",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "major tech/business coverage target"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "political economy coverage"},
+      {"handle": "FortuneMagazine", "inPool": true, "why": "business media peer citation"},
+      {"handle": "jaketapper", "inPool": true, "why": "cross-media news citation"},
+      {"handle": "andersoncooper", "inPool": true, "why": "TV news cross-reference"},
+      {"handle": "SpaceX", "inPool": true, "why": "covers SpaceX launches and financials"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech/VC figure WSJ covers"},
+      {"handle": "sama", "inPool": true, "why": "Sam Altman AI coverage"},
+      {"handle": "naval", "inPool": true, "why": "VC/startup commentary cited"},
+      {"handle": "Reuters", "inPool": false, "why": "wire service peer and source"},
+      {"handle": "NYTimes", "inPool": false, "why": "rival paper, cross-citation"},
+      {"handle": "Bloomberg", "inPool": false, "why": "financial news direct rival"}
+    ]
+  },
+  {
+    "handle": "washingtonpost",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "feuded with WaPo repeatedly"},
+      {"handle": "elonmusk", "inPool": true, "why": "Musk attacks legacy media including WaPo"},
+      {"handle": "jaketapper", "inPool": true, "why": "media peer, cross-citation"},
+      {"handle": "andersoncooper", "inPool": true, "why": "CNN media cross-citation"},
+      {"handle": "AOC", "inPool": true, "why": "covers AOC heavily, quotes her"},
+      {"handle": "BernieSanders", "inPool": true, "why": "political coverage, quote target"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "major political figure coverage"},
+      {"handle": "JoeBiden", "inPool": true, "why": "Biden administration coverage"},
+      {"handle": "NYTimes", "inPool": false, "why": "direct rival newspaper"},
+      {"handle": "Reuters", "inPool": false, "why": "wire service source and peer"},
+      {"handle": "JeffBezos", "inPool": false, "why": "owner, controversial connection"}
+    ]
+  },
+  {
+    "handle": "KamalaHarris",
+    "circle": [
+      {"handle": "JoeBiden", "inPool": true, "why": "running mate, Biden-Harris ticket"},
+      {"handle": "BernieSanders", "inPool": true, "why": "Senate colleague, policy overlap"},
+      {"handle": "AOC", "inPool": true, "why": "progressive colleague, mutual support"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "Democratic women leadership peer"},
+      {"handle": "MichelleObama", "inPool": true, "why": "Obama network ally"},
+      {"handle": "POTUS44", "inPool": true, "why": "Obama endorsed her campaign"},
+      {"handle": "andersoncooper", "inPool": true, "why": "CNN interviews, major coverage"},
+      {"handle": "jaketapper", "inPool": true, "why": "CNN debate/interview coverage"},
+      {"handle": "ElizabethWarren", "inPool": false, "why": "Senate ally, women in politics"},
+      {"handle": "BarackObama", "inPool": false, "why": "Obama endorsed presidential run"}
+    ]
+  },
+  {
+    "handle": "starwars",
+    "circle": [
+      {"handle": "Marvel", "inPool": true, "why": "Disney sibling franchise crossover"},
+      {"handle": "DisneyPlus", "inPool": true, "why": "primary streaming platform partner"},
+      {"handle": "Netflix", "inPool": true, "why": "streaming rival, fan discourse"},
+      {"handle": "MarkRuffalo", "inPool": true, "why": "Marvel crossover actor engagement"},
+      {"handle": "RockstarGames", "inPool": true, "why": "pop culture gaming peer"},
+      {"handle": "Xbox", "inPool": true, "why": "gaming platform co-promotions"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "Nintendo crossover game content"},
+      {"handle": "DisneyChannel", "inPool": true, "why": "Disney sibling brand synergy"},
+      {"handle": "DisneyAnimation", "inPool": true, "why": "Disney studio sibling brand"},
+      {"handle": "MarkHamill", "inPool": true, "why": "Luke Skywalker, constant engagement"},
+      {"handle": "cartoonnetwork", "inPool": true, "why": "pop culture animation peer"},
+      {"handle": "Pixar", "inPool": true, "why": "Disney sister studio crossover"}
+    ]
+  },
+  {
+    "handle": "edsheeran",
+    "circle": [
+      {"handle": "justinbieber", "inPool": true, "why": "close friend, multiple collabs"},
+      {"handle": "coldplay", "inPool": true, "why": "mutual UK music world peers"},
+      {"handle": "Harry_Styles", "inPool": true, "why": "UK pop peer, mutual respect"},
+      {"handle": "billboardcharts", "inPool": true, "why": "chart performance tracking"},
+      {"handle": "billboard", "inPool": true, "why": "music industry coverage"},
+      {"handle": "officialcharts", "inPool": true, "why": "UK chart official account"},
+      {"handle": "mikeshinoda", "inPool": true, "why": "rock/pop crossover musician peer"},
+      {"handle": "britneyspears", "inPool": true, "why": "pop era mutual appreciation"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "Tonight Show performances"},
+      {"handle": "ArianaGrande", "inPool": false, "why": "pop collab and mutual support"},
+      {"handle": "TaylorSwift13", "inPool": false, "why": "close friend, co-wrote songs"},
+      {"handle": "EltonJohn", "inPool": false, "why": "mentor figure, Tiny Dancer remix"}
+    ]
+  },
+  {
+    "handle": "TIME",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "Person of the Year 2021"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "multiple cover features, feuds"},
+      {"handle": "JoeBiden", "inPool": true, "why": "political figure coverage"},
+      {"handle": "BernieSanders", "inPool": true, "why": "political figure coverage"},
+      {"handle": "andersoncooper", "inPool": true, "why": "news media cross-citation"},
+      {"handle": "jaketapper", "inPool": true, "why": "news media cross-citation"},
+      {"handle": "FortuneMagazine", "inPool": true, "why": "business media sibling brand"},
+      {"handle": "AOC", "inPool": true, "why": "political figure coverage"},
+      {"handle": "HillaryClinton", "inPool": true, "why": "multiple TIME covers"},
+      {"handle": "Forbes", "inPool": false, "why": "direct media competitor"},
+      {"handle": "NYTimes", "inPool": false, "why": "news media peer citation"}
+    ]
+  },
+  {
+    "handle": "Forbes",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "richest person list, constant coverage"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "net worth disputes, coverage"},
+      {"handle": "SpaceX", "inPool": true, "why": "tech unicorn valuation coverage"},
+      {"handle": "DavidSacks", "inPool": true, "why": "VC/tech billionaire coverage"},
+      {"handle": "sama", "inPool": true, "why": "Sam Altman AI billion dollar coverage"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "crypto billionaire tracking"},
+      {"handle": "naval", "inPool": true, "why": "startup ecosystem commentary"},
+      {"handle": "FortuneMagazine", "inPool": true, "why": "business media peer and rival"},
+      {"handle": "andersoncooper", "inPool": true, "why": "cross-media news citation"},
+      {"handle": "BillGates", "inPool": false, "why": "philanthropy and wealth list fixture"},
+      {"handle": "JeffBezos", "inPool": false, "why": "richest list mainstay"},
+      {"handle": "NYTimes", "inPool": false, "why": "news media peer citation"}
+    ]
+  }
+]

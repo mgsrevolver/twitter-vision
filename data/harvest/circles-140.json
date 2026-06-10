@@ -1,0 +1,172 @@
+[
+  {
+    "handle": "KyleKulinski",
+    "circle": [
+      { "handle": "cenkuygur", "inPool": false, "why": "co-founded TYT together, long collaboration" },
+      { "handle": "SamSeder", "inPool": false, "why": "fellow left-wing political commentator" },
+      { "handle": "krystalball", "inPool": false, "why": "progressive media ally" },
+      { "handle": "briebriejoy", "inPool": false, "why": "progressive media ally" },
+      { "handle": "mehdirhasan", "inPool": true, "why": "progressive media peer" },
+      { "handle": "chrislhayes", "inPool": true, "why": "liberal media figure he engages" },
+      { "handle": "AOC", "inPool": true, "why": "left-wing politician he champions" },
+      { "handle": "BernieSanders", "inPool": true, "why": "political idol, heavily promoted" },
+      { "handle": "JDVance", "inPool": true, "why": "political target, frequent dunks" }
+    ]
+  },
+  {
+    "handle": "TheJudge44",
+    "circle": [
+      { "handle": "Yankees", "inPool": true, "why": "his team, frequent official tags" },
+      { "handle": "MLB", "inPool": true, "why": "official league account" },
+      { "handle": "espn", "inPool": true, "why": "major sports media coverage" },
+      { "handle": "SportsCenter", "inPool": true, "why": "highlight and coverage tags" },
+      { "handle": "MLBONFOX", "inPool": true, "why": "broadcast partner" },
+      { "handle": "Ken_Rosenthal", "inPool": true, "why": "top MLB journalist who covers him" },
+      { "handle": "AdamSchefter", "inPool": true, "why": "prominent sports journalist peer" }
+    ]
+  },
+  {
+    "handle": "EarthPix",
+    "circle": [
+      { "handle": "NatGeo", "inPool": true, "why": "overlapping nature content, mutual" },
+      { "handle": "Rainmaker1973", "inPool": true, "why": "same niche science/nature curator" },
+      { "handle": "dog_rates", "inPool": true, "why": "wholesome curator peer" },
+      { "handle": "NASA", "inPool": true, "why": "epic earth/space imagery share" }
+    ]
+  },
+  {
+    "handle": "tiff_net",
+    "circle": [
+      { "handle": "BFI", "inPool": true, "why": "fellow prestige film festival" },
+      { "handle": "Criterion", "inPool": true, "why": "film canon institution partner" },
+      { "handle": "rianjohnson", "inPool": true, "why": "celebrated filmmaker, frequent TIFF guest" },
+      { "handle": "edgarwright", "inPool": true, "why": "filmmaker heavily associated with TIFF" },
+      { "handle": "DEADLINE", "inPool": true, "why": "major trade covering TIFF" },
+      { "handle": "sundanceorg", "inPool": false, "why": "peer festival, mutual coverage" },
+      { "handle": "A24", "inPool": false, "why": "top indie studio at every TIFF" },
+      { "handle": "mubi", "inPool": false, "why": "cinephile platform partner audience" }
+    ]
+  },
+  {
+    "handle": "democracynow",
+    "circle": [
+      { "handle": "jacobin", "inPool": false, "why": "left-media ecosystem, mutual signal boost" },
+      { "handle": "theintercept", "inPool": false, "why": "investigative left-media ally" },
+      { "handle": "AOC", "inPool": true, "why": "progressive politician they platform" },
+      { "handle": "BernieSanders", "inPool": true, "why": "frequently featured and amplified" },
+      { "handle": "mehdirhasan", "inPool": true, "why": "progressive journalist peer" },
+      { "handle": "chrislhayes", "inPool": true, "why": "liberal media peer" }
+    ]
+  },
+  {
+    "handle": "StefonDiggs014",
+    "circle": [
+      { "handle": "NFL", "inPool": true, "why": "official league, team context" },
+      { "handle": "AdamSchefter", "inPool": true, "why": "top NFL reporter covers him" },
+      { "handle": "ShamsCharania", "inPool": true, "why": "major sports journalist" },
+      { "handle": "wojespn", "inPool": true, "why": "ESPN insider who covers him" },
+      { "handle": "JoshAllenQB", "inPool": false, "why": "former teammate, famous bromance then feud" },
+      { "handle": "PatrickMahomes", "inPool": false, "why": "AFC rival and peer" }
+    ]
+  },
+  {
+    "handle": "ShaanVP",
+    "circle": [
+      { "handle": "naval", "inPool": true, "why": "shared tech/founder philosophy" },
+      { "handle": "paulg", "inPool": true, "why": "startup thinking he references often" },
+      { "handle": "sama", "inPool": true, "why": "tech industry figure he discusses" },
+      { "handle": "pmarca", "inPool": true, "why": "VC figure in same orbit" },
+      { "handle": "MrBeast", "inPool": true, "why": "business success story he highlights" },
+      { "handle": "TrungTPhan", "inPool": true, "why": "tech/business content peer" }
+    ]
+  },
+  {
+    "handle": "day9tv",
+    "circle": [
+      { "handle": "Ninja", "inPool": true, "why": "gaming streamer peer" },
+      { "handle": "xQc", "inPool": true, "why": "top streamer he interacts with" },
+      { "handle": "lolesports", "inPool": true, "why": "esports scene he covers" },
+      { "handle": "faker", "inPool": false, "why": "legendary esports player he discusses" },
+      { "handle": "Doublelift1", "inPool": false, "why": "esports player and streaming peer" }
+    ]
+  },
+  {
+    "handle": "SamSeder",
+    "circle": [
+      { "handle": "mehdirhasan", "inPool": true, "why": "progressive media colleague" },
+      { "handle": "chrislhayes", "inPool": true, "why": "progressive media colleague" },
+      { "handle": "cenkuygur", "inPool": false, "why": "long-time progressive media associate" },
+      { "handle": "krystalball", "inPool": false, "why": "progressive commentator peer" },
+      { "handle": "AOC", "inPool": true, "why": "progressive politician he supports" },
+      { "handle": "BernieSanders", "inPool": true, "why": "political figure he champions" },
+      { "handle": "JDVance", "inPool": true, "why": "political target for criticism" }
+    ]
+  },
+  {
+    "handle": "okayplayer",
+    "circle": [
+      { "handle": "pitchfork", "inPool": true, "why": "music media peer, overlapping coverage" },
+      { "handle": "XXL", "inPool": true, "why": "hip-hop media peer" },
+      { "handle": "questlove", "inPool": false, "why": "founding figure, historical ties" },
+      { "handle": "KillerMike", "inPool": false, "why": "artist in their orbit" },
+      { "handle": "runjewels", "inPool": false, "why": "artist tied to their coverage" },
+      { "handle": "cthagod", "inPool": false, "why": "hip-hop media peer" }
+    ]
+  },
+  {
+    "handle": "oldmanebro",
+    "circle": [
+      { "handle": "cthagod", "inPool": false, "why": "fellow hip-hop radio veteran" },
+      { "handle": "Akademiks", "inPool": false, "why": "hip-hop media peer he clashes with" },
+      { "handle": "pitchfork", "inPool": true, "why": "music criticism peer" },
+      { "handle": "XXL", "inPool": true, "why": "hip-hop media peer" },
+      { "handle": "HotNewHipHop", "inPool": false, "why": "hip-hop news peer" },
+      { "handle": "Drake", "inPool": true, "why": "major artist he has covered and interacted with" },
+      { "handle": "KillerMike", "inPool": false, "why": "artist he frequently features/defends" }
+    ]
+  },
+  {
+    "handle": "ColumbiaBugle",
+    "circle": [
+      { "handle": "benshapiro", "inPool": true, "why": "right-wing media amplifier" },
+      { "handle": "catturd2", "inPool": true, "why": "MAGA-aligned account it retweets" },
+      { "handle": "redsteeze", "inPool": true, "why": "right-wing media peer" },
+      { "handle": "realDonaldTrump", "inPool": true, "why": "primary content subject" },
+      { "handle": "DonaldJTrumpJr", "inPool": true, "why": "prominent right figure it covers" },
+      { "handle": "mtgreenee", "inPool": true, "why": "right-wing politician it amplifies" }
+    ]
+  },
+  {
+    "handle": "redsteeze",
+    "circle": [
+      { "handle": "benshapiro", "inPool": true, "why": "right-wing media colleague" },
+      { "handle": "catturd2", "inPool": true, "why": "MAGA-aligned mutual engagement" },
+      { "handle": "mtgreenee", "inPool": true, "why": "right-wing politician target" },
+      { "handle": "TuckerCarlson", "inPool": true, "why": "right-wing media figure he aligns with" },
+      { "handle": "realDonaldTrump", "inPool": true, "why": "primary political figure he promotes" },
+      { "handle": "JDVance", "inPool": true, "why": "right-wing political figure he supports" },
+      { "handle": "joerogan", "inPool": true, "why": "podcast figure in his orbit" }
+    ]
+  },
+  {
+    "handle": "SpaceflightNow",
+    "circle": [
+      { "handle": "SpaceX", "inPool": true, "why": "primary launch provider they cover" },
+      { "handle": "elonmusk", "inPool": true, "why": "SpaceX CEO, often relevant" },
+      { "handle": "NASASpaceflight", "inPool": true, "why": "direct peer site, same beat" },
+      { "handle": "CNSpaceflight", "inPool": true, "why": "fellow spaceflight journalist" },
+      { "handle": "SciGuySpace", "inPool": true, "why": "fellow spaceflight journalist" },
+      { "handle": "NASA", "inPool": true, "why": "primary NASA mission coverage" },
+      { "handle": "NASAWebb", "inPool": true, "why": "covers Webb telescope launches" }
+    ]
+  },
+  {
+    "handle": "markminervini",
+    "circle": [
+      { "handle": "pmarca", "inPool": true, "why": "tech/investing thought leader he follows" },
+      { "handle": "naval", "inPool": true, "why": "investing philosophy overlap" },
+      { "handle": "paulg", "inPool": true, "why": "business/startup thinking peer" },
+      { "handle": "markets", "inPool": true, "why": "Bloomberg Markets, finance news he shares" }
+    ]
+  }
+]

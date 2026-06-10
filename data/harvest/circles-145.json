@@ -1,0 +1,164 @@
+[
+  {
+    "handle": "PigsAndPlans",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "sister music publication, frequent overlap"},
+      {"handle": "chancetherapper", "inPool": true, "why": "indie-rap artist they championed"},
+      {"handle": "billboardcharts", "inPool": true, "why": "music industry chart coverage"},
+      {"handle": "RollingStone", "inPool": true, "why": "peer music media outlet"},
+      {"handle": "ComplexMusic", "inPool": false, "why": "competing hip-hop/music media brand"},
+      {"handle": "chartdata", "inPool": true, "why": "music chart data account they RT"},
+      {"handle": "PopBase", "inPool": true, "why": "peer pop-culture/music media"}
+    ]
+  },
+  {
+    "handle": "iowahawkblog",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "right-wing media figure, ideological ally"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "prominent conservative commentator"},
+      {"handle": "JackPosobiec", "inPool": false, "why": "fellow right-wing provocateur"},
+      {"handle": "seanhannity", "inPool": false, "why": "conservative media world overlap"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA conservative media ally"}
+    ]
+  },
+  {
+    "handle": "awfulannouncing",
+    "circle": [
+      {"handle": "RealSkipBayless", "inPool": true, "why": "frequent subject of their criticism"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN personality they often cover"},
+      {"handle": "BillSimmons", "inPool": true, "why": "sports media figure they cover"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "sports media personality they cover"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "ESPN insider they frequently cover"},
+      {"handle": "espn", "inPool": true, "why": "primary subject of their media criticism"}
+    ]
+  },
+  {
+    "handle": "TheStalwart",
+    "circle": [
+      {"handle": "tracyalloway", "inPool": false, "why": "Bloomberg co-host, Odd Lots podcast"},
+      {"handle": "markets", "inPool": true, "why": "Bloomberg Markets, same employer"},
+      {"handle": "naval", "inPool": true, "why": "tech/finance thought leader he engages"},
+      {"handle": "DeItaone", "inPool": true, "why": "fellow financial news account"},
+      {"handle": "unusual_whales", "inPool": false, "why": "options flow account he interacts with"},
+      {"handle": "paulkrugman", "inPool": false, "why": "economist he frequently discusses"},
+      {"handle": "elerianm", "inPool": false, "why": "Mohamed El-Erian, finance peer"}
+    ]
+  },
+  {
+    "handle": "nic__carter",
+    "circle": [
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalist he engages often"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum founder, debates/discussions"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO, crypto industry peer"},
+      {"handle": "cz_binance", "inPool": true, "why": "Binance CEO, industry figure"},
+      {"handle": "WuBlockchain", "inPool": true, "why": "crypto news he cites and RTs"},
+      {"handle": "chamath", "inPool": true, "why": "tech/crypto VC he engages with"},
+      {"handle": "zachxbt", "inPool": true, "why": "on-chain investigator in same space"},
+      {"handle": "stablekwon", "inPool": true, "why": "Terra/LUNA founder, pre-collapse debates"},
+      {"handle": "balajis", "inPool": false, "why": "crypto-tech thinker, frequent discourse"}
+    ]
+  },
+  {
+    "handle": "IvePetThatDog",
+    "circle": [
+      {"handle": "dog_rates", "inPool": true, "why": "dog-rating account, peer wholesome content"},
+      {"handle": "dog_feelings", "inPool": false, "why": "Thoughts of Dog, peer animal account"},
+      {"handle": "BrotherNature", "inPool": false, "why": "animals/wholesome content peer"},
+      {"handle": "EmrgencyKittens", "inPool": false, "why": "animal photo account, similar audience"}
+    ]
+  },
+  {
+    "handle": "Bodegacats_",
+    "circle": [
+      {"handle": "dog_rates", "inPool": true, "why": "peer wholesome animal account"},
+      {"handle": "IvePetThatDog", "inPool": false, "why": "fellow pet-photo account"},
+      {"handle": "EmrgencyKittens", "inPool": false, "why": "cat photo account, direct peer"},
+      {"handle": "CuteEmergency", "inPool": false, "why": "cute animal account, same audience"}
+    ]
+  },
+  {
+    "handle": "HidekiKamiya_X",
+    "circle": [
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "fellow legendary Japanese game director"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards host, industry events"},
+      {"handle": "PlayStation", "inPool": true, "why": "platform partner for Bayonetta/DMC"},
+      {"handle": "XBOX", "inPool": true, "why": "PlatinumGames Xbox partnership"},
+      {"handle": "jasonschreier", "inPool": false, "why": "gaming journalist who covers his work"}
+    ]
+  },
+  {
+    "handle": "AbbyDPhillip",
+    "circle": [
+      {"handle": "andersoncooper", "inPool": true, "why": "CNN colleague, same network"},
+      {"handle": "jaketapper", "inPool": true, "why": "CNN colleague, frequent interactions"},
+      {"handle": "CNN", "inPool": true, "why": "employer, frequent RTs and mentions"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media peer she interacts with"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC peer, same media ecosystem"},
+      {"handle": "IlhanMN", "inPool": true, "why": "progressive politician she covers"},
+      {"handle": "AOC", "inPool": true, "why": "politician frequently in her coverage"}
+    ]
+  },
+  {
+    "handle": "WajahatAli",
+    "circle": [
+      {"handle": "mehdirhasan", "inPool": true, "why": "fellow Muslim commentator/journalist"},
+      {"handle": "IlhanMN", "inPool": true, "why": "Muslim congresswoman he supports"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politician he amplifies"},
+      {"handle": "ananavarro", "inPool": false, "why": "CNN political commentator he interacts with"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC left media peer"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive politician he backs"}
+    ]
+  },
+  {
+    "handle": "theyoungturks",
+    "circle": [
+      {"handle": "cenkuygur", "inPool": false, "why": "TYT founder, main personality"},
+      {"handle": "hasanthehun", "inPool": false, "why": "former TYT host, left media"}  ,
+      {"handle": "AOC", "inPool": true, "why": "progressive politician they champion"},
+      {"handle": "BernieSanders", "inPool": true, "why": "politician they heavily support"},
+      {"handle": "KyleKulinski", "inPool": false, "why": "affiliated host, Secular Talk"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media peer they engage"}
+    ]
+  },
+  {
+    "handle": "jimjefferies",
+    "circle": [
+      {"handle": "ConanOBrien", "inPool": true, "why": "fellow comedian, TV circuit overlap"},
+      {"handle": "SethMacFarlane", "inPool": true, "why": "comedy peer, irreverent humor"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "late night comedian in same circuit"},
+      {"handle": "MarkHamill", "inPool": true, "why": "celebrity he has interacted with"},
+      {"handle": "desusnice", "inPool": true, "why": "comedy media personality peer"}
+    ]
+  },
+  {
+    "handle": "LukeGromen",
+    "circle": [
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin/macro overlap, debates dollar"},
+      {"handle": "naval", "inPool": true, "why": "tech/macro thinker he engages"},
+      {"handle": "chamath", "inPool": true, "why": "macro/finance VC voice he cites"},
+      {"handle": "markets", "inPool": true, "why": "Bloomberg Markets, financial media"},
+      {"handle": "DeItaone", "inPool": true, "why": "financial news account he follows"},
+      {"handle": "paulg", "inPool": true, "why": "Paul Graham, tech/macro discourse"}
+    ]
+  },
+  {
+    "handle": "DrewHLive",
+    "circle": [
+      {"handle": "TuckerCarlson", "inPool": true, "why": "top right-wing media figure he amplifies"},
+      {"handle": "benshapiro", "inPool": true, "why": "conservative media figure he RTs"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA conservative peer"},
+      {"handle": "JackPosobiec", "inPool": false, "why": "right-wing provocateur he interacts with"},
+      {"handle": "libsoftiktok", "inPool": false, "why": "right-wing account he amplifies"}
+    ]
+  },
+  {
+    "handle": "Cannes_Market",
+    "circle": [
+      {"handle": "THR", "inPool": true, "why": "Hollywood Reporter, covers Cannes extensively"},
+      {"handle": "DEADLINE", "inPool": true, "why": "Deadline covers Cannes deals and premieres"},
+      {"handle": "RealGDT", "inPool": true, "why": "Guillermo del Toro, frequent Cannes presence"},
+      {"handle": "A24", "inPool": false, "why": "prestige film distributor with Cannes ties"},
+      {"handle": "EW", "inPool": false, "why": "Entertainment Weekly, film festival coverage"}
+    ]
+  }
+]

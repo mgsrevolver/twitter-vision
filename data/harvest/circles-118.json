@@ -1,0 +1,627 @@
+[
+  {
+    "handle": "TheAmandaGorman",
+    "circle": [
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "Inaugural poem, mutual admiration"
+      },
+      {
+        "handle": "MichelleObama",
+        "inPool": true,
+        "why": "Close mentor relationship"
+      },
+      {
+        "handle": "Oprah",
+        "inPool": true,
+        "why": "Interviews and promotion"
+      },
+      {
+        "handle": "Lin_Manuel",
+        "inPool": true,
+        "why": "Shared arts activism space"
+      },
+      {
+        "handle": "idinamenzel",
+        "inPool": true,
+        "why": "Arts community peer"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "Progressive politics overlap"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "Young progressive voices"
+      },
+      {
+        "handle": "jk_rowling",
+        "inPool": true,
+        "why": "Literary community connection"
+      }
+    ]
+  },
+  {
+    "handle": "DLoesch",
+    "circle": [
+      {
+        "handle": "seanhannity",
+        "inPool": false,
+        "why": "Conservative media colleague"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "Frequent conservative ally"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "Fox News conservative peer"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "Right-media commentary peer"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "Frequent appearance and RT"
+      },
+      {
+        "handle": "RandPaul",
+        "inPool": true,
+        "why": "Gun rights/liberty alignment"
+      },
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "2A advocacy alignment"
+      },
+      {
+        "handle": "charliekirk11",
+        "inPool": false,
+        "why": "Conservative circuit overlap"
+      }
+    ]
+  },
+  {
+    "handle": "ClayTravis",
+    "circle": [
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "Sports media peer/critic"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "Sports media colleague"
+      },
+      {
+        "handle": "RealSkipBayless",
+        "inPool": true,
+        "why": "Sports hot-take peer"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "Sports debate sparring"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "Conservative media overlap"
+      },
+      {
+        "handle": "seanhannity",
+        "inPool": false,
+        "why": "Fox Nation colleague"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "Conservative media peer"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "NFL news sharing"
+      }
+    ]
+  },
+  {
+    "handle": "OptaJoe",
+    "circle": [
+      {
+        "handle": "Squawka",
+        "inPool": true,
+        "why": "Football stats competitor/peer"
+      },
+      {
+        "handle": "FabrizioRomano",
+        "inPool": true,
+        "why": "Football news ecosystem"
+      },
+      {
+        "handle": "GaryLineker",
+        "inPool": true,
+        "why": "UK football media peer"
+      },
+      {
+        "handle": "SkySportsNews",
+        "inPool": false,
+        "why": "Football coverage outlet"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "Sports stats consumer"
+      },
+      {
+        "handle": "BBCSport",
+        "inPool": false,
+        "why": "UK sports broadcast outlet"
+      }
+    ]
+  },
+  {
+    "handle": "JimCantore",
+    "circle": [
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "Weather/science adjacent"
+      },
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "Science communicator peer"
+      },
+      {
+        "handle": "StationCDRKelly",
+        "inPool": true,
+        "why": "Science/space communicator"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "News media interaction"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "News media interaction"
+      },
+      {
+        "handle": "CNN",
+        "inPool": true,
+        "why": "Cable news coverage ecosystem"
+      }
+    ]
+  },
+  {
+    "handle": "davidhogg111",
+    "circle": [
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "Young progressive activist ally"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "Gun-reform political support"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "Progressive movement alignment"
+      },
+      {
+        "handle": "KamalaHarris",
+        "inPool": true,
+        "why": "Democratic party overlap"
+      },
+      {
+        "handle": "GretaThunberg",
+        "inPool": true,
+        "why": "Youth activism peers"
+      },
+      {
+        "handle": "StephenKing",
+        "inPool": true,
+        "why": "Prominent gun-reform supporter"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "Frequent debate/feud target"
+      },
+      {
+        "handle": "charliekirk11",
+        "inPool": false,
+        "why": "Conservative feud rival"
+      }
+    ]
+  },
+  {
+    "handle": "MerriamWebster",
+    "circle": [
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "Language/editorial peer"
+      },
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "Media word coverage"
+      },
+      {
+        "handle": "dril",
+        "inPool": true,
+        "why": "Twitter absurdist humor exchange"
+      },
+      {
+        "handle": "StephenKing",
+        "inPool": true,
+        "why": "Author word appreciation"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "Author word nerd rapport"
+      },
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "Author community engagement"
+      },
+      {
+        "handle": "jk_rowling",
+        "inPool": true,
+        "why": "Literary community"
+      }
+    ]
+  },
+  {
+    "handle": "RexChapman",
+    "circle": [
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "NBA peer, mutual respect"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "Sports media appearances"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "Viral clip sharing"
+      },
+      {
+        "handle": "BleacherReport",
+        "inPool": true,
+        "why": "Sports content sharing"
+      },
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "Wholesome viral content peer"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "NBA media peer"
+      },
+      {
+        "handle": "StephenKing",
+        "inPool": true,
+        "why": "Viral positive content overlap"
+      }
+    ]
+  },
+  {
+    "handle": "ava",
+    "circle": [
+      {
+        "handle": "Oprah",
+        "inPool": true,
+        "why": "OWN/media partnership"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "Cultural/political overlap"
+      },
+      {
+        "handle": "MichelleObama",
+        "inPool": true,
+        "why": "Women in media support"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "Black culture celebration"
+      },
+      {
+        "handle": "Beyonce",
+        "inPool": true,
+        "why": "Cultural icon peer"
+      },
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "Black excellence celebration"
+      },
+      {
+        "handle": "SamuelLJackson",
+        "inPool": true,
+        "why": "Film industry colleague"
+      },
+      {
+        "handle": "Lin_Manuel",
+        "inPool": true,
+        "why": "Arts community collaboration"
+      }
+    ]
+  },
+  {
+    "handle": "tanehisicoates",
+    "circle": [
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "Atlantic essay, direct relationship"
+      },
+      {
+        "handle": "MichelleObama",
+        "inPool": true,
+        "why": "Progressive Black intellectual"
+      },
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "Literary community peer"
+      },
+      {
+        "handle": "StephenKing",
+        "inPool": true,
+        "why": "Author-to-author engagement"
+      },
+      {
+        "handle": "jk_rowling",
+        "inPool": true,
+        "why": "Literary world overlap"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "Author community"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "Progressive politics alignment"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "Progressive voice intersection"
+      }
+    ]
+  },
+  {
+    "handle": "PFTompkins",
+    "circle": [
+      {
+        "handle": "pattonoswalt",
+        "inPool": false,
+        "why": "Comedy best friend, constant banter"
+      },
+      {
+        "handle": "kumailn",
+        "inPool": false,
+        "why": "Comedy community peer"
+      },
+      {
+        "handle": "mulaney",
+        "inPool": true,
+        "why": "Stand-up comedy peer"
+      },
+      {
+        "handle": "rickygervais",
+        "inPool": true,
+        "why": "Comedy world interaction"
+      },
+      {
+        "handle": "mindykaling",
+        "inPool": true,
+        "why": "Comedy/TV community"
+      },
+      {
+        "handle": "SethMacFarlane",
+        "inPool": true,
+        "why": "Animation voice acting overlap"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "Late night comedy connection"
+      }
+    ]
+  },
+  {
+    "handle": "BitcoinMagazine",
+    "circle": [
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Michael Saylor Bitcoin mega-advocate"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "Crypto ecosystem proximity"
+      },
+      {
+        "handle": "cz_binance",
+        "inPool": true,
+        "why": "Crypto exchange ecosystem"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "Coinbase Bitcoin overlap"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "Crypto/tech investor space"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "Bitcoin intellectual advocate"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "Crypto-sympathetic VC"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "Tech/startup investor peer"
+      }
+    ]
+  },
+  {
+    "handle": "andrewzimmern",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "Celebrity chef peer"
+      },
+      {
+        "handle": "AltonBrown",
+        "inPool": true,
+        "why": "Food TV host peer"
+      },
+      {
+        "handle": "GuyFieri",
+        "inPool": false,
+        "why": "Food Network colleague"
+      },
+      {
+        "handle": "chefjoseandres",
+        "inPool": false,
+        "why": "Food media/activism colleague"
+      },
+      {
+        "handle": "davidchang",
+        "inPool": false,
+        "why": "Chef media peer"
+      },
+      {
+        "handle": "MarthaStewart",
+        "inPool": false,
+        "why": "Food/lifestyle TV overlap"
+      }
+    ]
+  },
+  {
+    "handle": "Asmongold",
+    "circle": [
+      {
+        "handle": "moistcr1tikal",
+        "inPool": false,
+        "why": "Gaming commentary peer"
+      },
+      {
+        "handle": "xQc",
+        "inPool": true,
+        "why": "Streaming peer, frequent topic"
+      },
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "Twitch streaming peer"
+      },
+      {
+        "handle": "markiplier",
+        "inPool": true,
+        "why": "Gaming content creator peer"
+      },
+      {
+        "handle": "DrLupo",
+        "inPool": true,
+        "why": "Streaming community peer"
+      },
+      {
+        "handle": "MrBeast",
+        "inPool": true,
+        "why": "Creator economy overlap"
+      },
+      {
+        "handle": "IGN",
+        "inPool": true,
+        "why": "Gaming media coverage"
+      },
+      {
+        "handle": "LeagueOfLegends",
+        "inPool": true,
+        "why": "Gaming culture coverage subject"
+      }
+    ]
+  },
+  {
+    "handle": "Polygon",
+    "circle": [
+      {
+        "handle": "IGN",
+        "inPool": true,
+        "why": "Gaming media competitor/peer"
+      },
+      {
+        "handle": "WIRED",
+        "inPool": true,
+        "why": "Tech/culture media peer"
+      },
+      {
+        "handle": "TechCrunch",
+        "inPool": true,
+        "why": "Tech media ecosystem"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "Games industry events coverage"
+      },
+      {
+        "handle": "LeagueOfLegends",
+        "inPool": true,
+        "why": "Gaming coverage subject"
+      },
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "Notable game creator coverage"
+      },
+      {
+        "handle": "lolesports",
+        "inPool": true,
+        "why": "Esports coverage subject"
+      }
+    ]
+  }
+]

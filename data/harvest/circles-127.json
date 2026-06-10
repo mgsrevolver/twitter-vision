@@ -1,0 +1,171 @@
+[
+  {
+    "handle": "bariweiss",
+    "circle": [
+      {"handle": "ggreenwald", "inPool": true, "why": "fellow free-speech media critic"},
+      {"handle": "mtaibbi", "inPool": true, "why": "fellow anti-establishment journalist"},
+      {"handle": "benshapiro", "inPool": true, "why": "overlapping conservative-adjacent sphere"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "IDW intellectual ally"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "media-criticism crossover guest"},
+      {"handle": "sama", "inPool": true, "why": "tech-elite Substack orbit"},
+      {"handle": "pmarca", "inPool": true, "why": "tech-right ideological overlap"},
+      {"handle": "DavidSacks", "inPool": true, "why": "shared anti-woke media lane"}
+    ]
+  },
+  {
+    "handle": "RaoulGMI",
+    "circle": [
+      {"handle": "saylor", "inPool": true, "why": "macro Bitcoin bull ally"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "crypto thought-leader engagement"},
+      {"handle": "cobie", "inPool": true, "why": "crypto twitter inner circle"},
+      {"handle": "zhusu", "inPool": true, "why": "frequent macro-crypto banter"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "crypto industry figure"},
+      {"handle": "justinsuntron", "inPool": true, "why": "crypto ecosystem overlap"},
+      {"handle": "scottmelker", "inPool": false, "why": "co-orbiting crypto macro voice"},
+      {"handle": "APompliano", "inPool": false, "why": "shared Bitcoin macro lane"}
+    ]
+  },
+  {
+    "handle": "SalmanRushdie",
+    "circle": [
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary peer and free-speech ally"},
+      {"handle": "neilhimself", "inPool": true, "why": "fellow genre-literary author"},
+      {"handle": "JoyceCarolOates", "inPool": true, "why": "longtime literary colleague"},
+      {"handle": "jk_rowling", "inPool": true, "why": "free-expression solidarity"},
+      {"handle": "PhilipPullman", "inPool": true, "why": "British literary peer"},
+      {"handle": "AnthonyHorowitz", "inPool": true, "why": "British literary peer"}
+    ]
+  },
+  {
+    "handle": "scottmelker",
+    "circle": [
+      {"handle": "RaoulGMI", "inPool": false, "why": "macro crypto co-commentator"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalist orbit"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "crypto thought-leader retweets"},
+      {"handle": "cobie", "inPool": true, "why": "crypto twitter banter"},
+      {"handle": "zhusu", "inPool": true, "why": "same crypto media lane"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "industry-figure engagement"}
+    ]
+  },
+  {
+    "handle": "intocryptoverse",
+    "circle": [
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin cycle analysis overlap"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "crypto ecosystem discourse"},
+      {"handle": "cobie", "inPool": true, "why": "crypto twitter community"},
+      {"handle": "zhusu", "inPool": true, "why": "same on-chain analytics lane"},
+      {"handle": "scottmelker", "inPool": false, "why": "fellow crypto analyst peer"},
+      {"handle": "RaoulGMI", "inPool": false, "why": "macro crypto commentary peer"}
+    ]
+  },
+  {
+    "handle": "LudwigAhgren",
+    "circle": [
+      {"handle": "xQc", "inPool": true, "why": "top streamer rivalry and collabs"},
+      {"handle": "Asmongold", "inPool": true, "why": "streaming world overlap"},
+      {"handle": "pokimane", "inPool": false, "why": "Twitch inner-circle peer"},
+      {"handle": "Sykkuno", "inPool": false, "why": "Among Us era streaming circle"},
+      {"handle": "Valkyrae", "inPool": false, "why": "OTV streaming-house friend"},
+      {"handle": "DisguisedToast", "inPool": false, "why": "OTV house frequent collaborator"}
+    ]
+  },
+  {
+    "handle": "Liz_Wheeler",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "conservative media colleague"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "right-media intellectual ally"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "conservative commentary orbit"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "OANN-to-Tucker pipeline peer"},
+      {"handle": "charliekirk11", "inPool": false, "why": "TPUSA conservative media ally"}
+    ]
+  },
+  {
+    "handle": "JamesPearceLFC",
+    "circle": [
+      {"handle": "FabrizioRomano", "inPool": true, "why": "football transfer journalist peer"},
+      {"handle": "OptaJoe", "inPool": true, "why": "football stats media crossover"},
+      {"handle": "GNev2", "inPool": true, "why": "Liverpool-centric pundit circle"},
+      {"handle": "IanWright0", "inPool": true, "why": "football pundit engagement"},
+      {"handle": "GaryLineker", "inPool": true, "why": "BBC football media network"},
+      {"handle": "David_Ornstein", "inPool": false, "why": "football journalist colleague"}
+    ]
+  },
+  {
+    "handle": "DarrenDreger",
+    "circle": [
+      {"handle": "NHL", "inPool": true, "why": "NHL beat journalist engagement"},
+      {"handle": "TSNBobMcKenzie", "inPool": false, "why": "TSN hockey insider partner"},
+      {"handle": "FriedgeHNIC", "inPool": false, "why": "Sportsnet hockey insider peer"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "fellow sports insider cross-sport"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "fellow sports insider cross-sport"}
+    ]
+  },
+  {
+    "handle": "GhostPanther",
+    "circle": [
+      {"handle": "mulaney", "inPool": true, "why": "comedy-film creative friend"},
+      {"handle": "rianjohnson", "inPool": true, "why": "filmmaker peer engagement"},
+      {"handle": "RealGDT", "inPool": true, "why": "director peer filmmaking discourse"},
+      {"handle": "edgarwright", "inPool": true, "why": "filmmaker creative peer"},
+      {"handle": "WillFerrell", "inPool": false, "why": "longtime Anchorman collaborator"},
+      {"handle": "JordanPeele", "inPool": false, "why": "fellow auteur director peer"}
+    ]
+  },
+  {
+    "handle": "SimuLiu",
+    "circle": [
+      {"handle": "Marvel", "inPool": true, "why": "employer and promo engagement"},
+      {"handle": "MarvelStudios", "inPool": true, "why": "Shang-Chi studio relationship"},
+      {"handle": "chrisevans", "inPool": true, "why": "MCU castmate relationship"},
+      {"handle": "RobertDowneyJr", "inPool": true, "why": "MCU elder engagement"},
+      {"handle": "rianjohnson", "inPool": true, "why": "Hollywood filmmaker engagement"},
+      {"handle": "WillFerrell", "inPool": false, "why": "comedy Hollywood crossover"},
+      {"handle": "TaikaWaititi", "inPool": false, "why": "MCU director collaborator"}
+    ]
+  },
+  {
+    "handle": "atletienglish",
+    "circle": [
+      {"handle": "FabrizioRomano", "inPool": true, "why": "transfer news coverage"},
+      {"handle": "FCBarcelona", "inPool": true, "why": "La Liga rival club"},
+      {"handle": "OptaJoe", "inPool": true, "why": "stats media tagging"},
+      {"handle": "GNev2", "inPool": true, "why": "Champions League punditry"},
+      {"handle": "realmadrid", "inPool": false, "why": "cross-Madrid derby rival"},
+      {"handle": "ChampionsLeague", "inPool": true, "why": "UCL competition engagement"}
+    ]
+  },
+  {
+    "handle": "ZachLowe_NBA",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "ESPN NBA colleague"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA news competitor engagement"},
+      {"handle": "BillSimmons", "inPool": true, "why": "ESPN/Ringer NBA peer"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "NBA takes discourse target"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN studio colleague"},
+      {"handle": "NBA", "inPool": true, "why": "league official account"},
+      {"handle": "espn", "inPool": true, "why": "employer platform"},
+      {"handle": "BleacherReport", "inPool": true, "why": "NBA media peer engagement"}
+    ]
+  },
+  {
+    "handle": "Wario64",
+    "circle": [
+      {"handle": "IGN", "inPool": true, "why": "gaming media deal cross-posts"},
+      {"handle": "PlayStation", "inPool": true, "why": "console deals announcements"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "Nintendo deals coverage"},
+      {"handle": "XBOX", "inPool": true, "why": "Xbox deals and announcements"},
+      {"handle": "jasonschreier", "inPool": false, "why": "games journalist engagement"}
+    ]
+  },
+  {
+    "handle": "theneedledrop",
+    "circle": [
+      {"handle": "pitchfork", "inPool": true, "why": "rival music publication discourse"},
+      {"handle": "RollingStone", "inPool": true, "why": "mainstream music press contrast"},
+      {"handle": "charli_xcx", "inPool": true, "why": "Brat album notable review"},
+      {"handle": "taylorswift13", "inPool": true, "why": "major artist review engagement"},
+      {"handle": "phoebe_bridgers", "inPool": false, "why": "indie artist review orbit"},
+      {"handle": "stereogum", "inPool": false, "why": "music media peer engagement"}
+    ]
+  }
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "handle": "PasteMagazine",
+    "circle": [
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "fellow indie music publication"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "peer music journalism outlet"
+      },
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "music industry peer coverage"
+      },
+      {
+        "handle": "TheAVClub",
+        "inPool": false,
+        "why": "fellow culture criticism outlet"
+      },
+      {
+        "handle": "consequence",
+        "inPool": false,
+        "why": "indie music peer publication"
+      },
+      {
+        "handle": "stereogum",
+        "inPool": false,
+        "why": "indie music criticism peer"
+      }
+    ]
+  },
+  {
+    "handle": "RealAmVoice",
+    "circle": [
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "right-wing media ally"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "frequent right-media collaborator"
+      },
+      {
+        "handle": "CollinRugg",
+        "inPool": true,
+        "why": "shares right-media content"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "right-wing media ecosystem peer"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News right-media ally"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "right-wing news peer outlet"
+      }
+    ]
+  },
+  {
+    "handle": "DrJenGunter",
+    "circle": [
+      {
+        "handle": "WHO",
+        "inPool": true,
+        "why": "public health institution she cites"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "global health advocacy overlap"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "NYT contributor and engager"
+      },
+      {
+        "handle": "RonanFarrow",
+        "inPool": true,
+        "why": "progressive media ally"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media crossover"
+      },
+      {
+        "handle": "EricTopol",
+        "inPool": false,
+        "why": "fellow medical communicator"
+      },
+      {
+        "handle": "devisridhar",
+        "inPool": false,
+        "why": "public health colleague"
+      }
+    ]
+  },
+  {
+    "handle": "devisridhar",
+    "circle": [
+      {
+        "handle": "WHO",
+        "inPool": true,
+        "why": "WHO adviser frequent reference"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "global health funder engagement"
+      },
+      {
+        "handle": "TheEconomist",
+        "inPool": true,
+        "why": "policy publication engagement"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "NYT public health writing"
+      },
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "cited by healthcare media"
+      },
+      {
+        "handle": "EricTopol",
+        "inPool": false,
+        "why": "fellow medical communicator"
+      },
+      {
+        "handle": "DrJenGunter",
+        "inPool": false,
+        "why": "women's health peer"
+      }
+    ]
+  },
+  {
+    "handle": "CincinnatiZoo",
+    "circle": [
+      {
+        "handle": "dog_rates",
+        "inPool": true,
+        "why": "wholesome animal account peer"
+      },
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "nature media engagement"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "playful institutional social peer"
+      },
+      {
+        "handle": "SanDiegoZoo",
+        "inPool": false,
+        "why": "fellow zoo social media peer"
+      },
+      {
+        "handle": "AMAZlNGNATURE",
+        "inPool": false,
+        "why": "nature content peer"
+      }
+    ]
+  },
+  {
+    "handle": "davidehrlich",
+    "circle": [
+      {
+        "handle": "rianjohnson",
+        "inPool": true,
+        "why": "filmmaker he frequently engages"
+      },
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "filmmaker he covers and engages"
+      },
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "filmmaker he frequently engages"
+      },
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film media peer"
+      },
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "culture media peer outlet"
+      },
+      {
+        "handle": "letterboxd",
+        "inPool": false,
+        "why": "film platform he promotes"
+      },
+      {
+        "handle": "IndieWire",
+        "inPool": false,
+        "why": "his employer outlet account"
+      }
+    ]
+  },
+  {
+    "handle": "jeremyphoward",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI industry leader he engages"
+      },
+      {
+        "handle": "SpaceX",
+        "inPool": true,
+        "why": "tech adjacent engagement"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "science institutional engagement"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "ML peer he frequently engages"
+      },
+      {
+        "handle": "fchollet",
+        "inPool": false,
+        "why": "ML peer and Keras creator"
+      },
+      {
+        "handle": "ylecun",
+        "inPool": false,
+        "why": "AI researcher peer"
+      },
+      {
+        "handle": "emollick",
+        "inPool": false,
+        "why": "AI education peer"
+      }
+    ]
+  },
+  {
+    "handle": "adam_tooze",
+    "circle": [
+      {
+        "handle": "TheEconomist",
+        "inPool": true,
+        "why": "econ publication he references"
+      },
+      {
+        "handle": "WSJ",
+        "inPool": true,
+        "why": "financial press engagement"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "NYT contributor and engager"
+      },
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "policy media outlet interaction"
+      },
+      {
+        "handle": "RBReich",
+        "inPool": true,
+        "why": "left-econ peer engagement"
+      },
+      {
+        "handle": "ezraklein",
+        "inPool": false,
+        "why": "policy journalist he engages"
+      },
+      {
+        "handle": "NateSilver538",
+        "inPool": false,
+        "why": "data-policy peer"
+      }
+    ]
+  },
+  {
+    "handle": "laurashin",
+    "circle": [
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "frequent interview subject"
+      },
+      {
+        "handle": "cz_binance",
+        "inPool": true,
+        "why": "crypto exchange leader covered"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "Coinbase CEO she covers"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "crypto thought leader"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "Bitcoin advocate she covers"
+      },
+      {
+        "handle": "WuBlockchain",
+        "inPool": true,
+        "why": "crypto news peer"
+      },
+      {
+        "handle": "DocumentingBTC",
+        "inPool": true,
+        "why": "Bitcoin news peer"
+      },
+      {
+        "handle": "APompliano",
+        "inPool": false,
+        "why": "crypto media peer"
+      },
+      {
+        "handle": "RaoulGMI",
+        "inPool": false,
+        "why": "crypto macro investor"
+      }
+    ]
+  },
+  {
+    "handle": "SantiagoAuFund",
+    "circle": [
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "fellow Bitcoin bull ally"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "crypto ecosystem engagement"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "crypto libertarian peer"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "tech crypto venture ally"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "tech crypto investor peer"
+      },
+      {
+        "handle": "DocumentingBTC",
+        "inPool": true,
+        "why": "Bitcoin community peer"
+      },
+      {
+        "handle": "APompliano",
+        "inPool": false,
+        "why": "Bitcoin advocate peer"
+      },
+      {
+        "handle": "RaoulGMI",
+        "inPool": false,
+        "why": "macro crypto peer investor"
+      }
+    ]
+  },
+  {
+    "handle": "thekitchn",
+    "circle": [
+      {
+        "handle": "altonbrown",
+        "inPool": true,
+        "why": "food personality they engage"
+      },
+      {
+        "handle": "seriouseats",
+        "inPool": false,
+        "why": "fellow food media peer"
+      },
+      {
+        "handle": "bonappetit",
+        "inPool": false,
+        "why": "food media peer publication"
+      },
+      {
+        "handle": "Food52",
+        "inPool": false,
+        "why": "sister food content site"
+      },
+      {
+        "handle": "SmittenKitchen",
+        "inPool": false,
+        "why": "food blogger they promote"
+      }
+    ]
+  },
+  {
+    "handle": "19problemz",
+    "circle": [
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "NFL media coverage outlet"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "league official account"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "sports media highlights"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "NFL insider reporting"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "football show appearance"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "sports news reporter"
+      }
+    ]
+  },
+  {
+    "handle": "McShay13",
+    "circle": [
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "his employer"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "league he covers"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "ESPN colleague"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "ESPN colleague"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "ESPN platform"
+      },
+      {
+        "handle": "PFF",
+        "inPool": true,
+        "why": "draft analytics peer"
+      },
+      {
+        "handle": "MelKiperESPN",
+        "inPool": false,
+        "why": "ESPN draft partner"
+      },
+      {
+        "handle": "FieldYates",
+        "inPool": false,
+        "why": "ESPN NFL colleague"
+      }
+    ]
+  },
+  {
+    "handle": "NoLayingUp",
+    "circle": [
+      {
+        "handle": "PhilMickelson",
+        "inPool": true,
+        "why": "major golfer they cover"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "sports media interaction"
+      },
+      {
+        "handle": "McIlroyRory",
+        "inPool": false,
+        "why": "top golfer they cover"
+      },
+      {
+        "handle": "PGATOUR",
+        "inPool": false,
+        "why": "tour they cover extensively"
+      },
+      {
+        "handle": "GolfDigest",
+        "inPool": false,
+        "why": "golf media peer"
+      },
+      {
+        "handle": "TigerWoods",
+        "inPool": false,
+        "why": "biggest golfer they cover"
+      }
+    ]
+  },
+  {
+    "handle": "EmmaVigeland",
+    "circle": [
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media peer"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive politician she covers"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "Bernie wing she supports"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive senator she covers"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC progressive media"
+      },
+      {
+        "handle": "RBReich",
+        "inPool": true,
+        "why": "progressive economist she engages"
+      },
+      {
+        "handle": "SamSeder",
+        "inPool": false,
+        "why": "Majority Report co-host"
+      },
+      {
+        "handle": "KyleKulinski",
+        "inPool": false,
+        "why": "Secular Talk progressive peer"
+      }
+    ]
+  }
+]

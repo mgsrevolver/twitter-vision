@@ -1,0 +1,163 @@
+[
+  {
+    "handle": "JakeLFischer",
+    "circle": [
+      {"handle": "ShamsCharania", "inPool": true, "why": "rival NBA insider, constant scoops race"},
+      {"handle": "wojespn", "inPool": true, "why": "ESPN NBA insider colleague"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "fellow insider reporter model"},
+      {"handle": "espn", "inPool": true, "why": "employer platform amplification"},
+      {"handle": "BleacherReport", "inPool": true, "why": "former employer, NBA coverage"},
+      {"handle": "stephenasmith", "inPool": true, "why": "NBA analysis co-coverage"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "NBA hot-take counterpart"},
+      {"handle": "NBA", "inPool": true, "why": "beat subject, RT of league news"}
+    ]
+  },
+  {
+    "handle": "HumanEvents",
+    "circle": [
+      {"handle": "TuckerCarlson", "inPool": true, "why": "right-wing media ally, amplifies"},
+      {"handle": "benshapiro", "inPool": true, "why": "conservative media peer"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "frequent RT and engagement"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News right orbit"},
+      {"handle": "dbongino", "inPool": true, "why": "MAGA media ecosystem partner"},
+      {"handle": "JDVance", "inPool": true, "why": "MAGA political figure they cover"},
+      {"handle": "CollinRugg", "inPool": true, "why": "right-wing media collaborator"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "conservative commentator peer"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "right-leaning intellectual ally"},
+      {"handle": "mtgreenee", "inPool": true, "why": "MAGA politician they platform"}
+    ]
+  },
+  {
+    "handle": "DrPaulOffit",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "quoted in NYT vaccine coverage"},
+      {"handle": "WHO", "inPool": true, "why": "cites WHO guidance and policies"},
+      {"handle": "CNN", "inPool": true, "why": "frequent CNN medical commentator"},
+      {"handle": "apoorva_nyc", "inPool": false, "why": "NYT health reporter who covers him"},
+      {"handle": "EricTopol", "inPool": false, "why": "close medical Twitter colleague"},
+      {"handle": "zeynep", "inPool": false, "why": "pandemic policy Twitter debates"}
+    ]
+  },
+  {
+    "handle": "chipro",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "OpenAI CEO, AI discourse hub"},
+      {"handle": "karpathy", "inPool": false, "why": "former Tesla/OpenAI ML colleague"},
+      {"handle": "jeremyphoward", "inPool": false, "why": "fast.ai collaborator, ML educator"},
+      {"handle": "AndrewYNg", "inPool": false, "why": "ML community elder, Coursera"},
+      {"handle": "ilyasut", "inPool": false, "why": "OpenAI co-founder ML research"}
+    ]
+  },
+  {
+    "handle": "nikitabier",
+    "circle": [
+      {"handle": "paulg", "inPool": true, "why": "YC alumni, startup advice orbit"},
+      {"handle": "pmarca", "inPool": true, "why": "a16z VC, tech twitter heavyweight"},
+      {"handle": "sama", "inPool": true, "why": "tech founder peer, mutual engagement"},
+      {"handle": "naval", "inPool": true, "why": "startup/founder philosophy RT"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech VC, all-in pod orbit"},
+      {"handle": "chamath", "inPool": true, "why": "VC/consumer tech discourse"}
+    ]
+  },
+  {
+    "handle": "vornietom",
+    "circle": [
+      {"handle": "adultswim", "inPool": true, "why": "comedy media orbit, mutual"},
+      {"handle": "funnyordie", "inPool": true, "why": "digital comedy peer platform"},
+      {"handle": "SarahKSilverman", "inPool": true, "why": "comedian, CollegeHumor adjacent"},
+      {"handle": "robdelaney", "inPool": true, "why": "British comedy peer, frequent banter"},
+      {"handle": "MerriamWebster", "inPool": true, "why": "ironic Twitter humor mutual"}
+    ]
+  },
+  {
+    "handle": "OKWildlifeDept",
+    "circle": [
+      {"handle": "dog_rates", "inPool": true, "why": "wholesome animal account peer"},
+      {"handle": "NatlParkService", "inPool": false, "why": "sister gov nature account"},
+      {"handle": "Interior", "inPool": false, "why": "federal wildlife policy context"},
+      {"handle": "CincinnatiZoo", "inPool": false, "why": "fellow wildlife humor account"}
+    ]
+  },
+  {
+    "handle": "apoorva_nyc",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "her employer, shares her pieces"},
+      {"handle": "WHO", "inPool": true, "why": "primary source for health coverage"},
+      {"handle": "CNN", "inPool": true, "why": "cross-platform health media"},
+      {"handle": "DrPaulOffit", "inPool": false, "why": "expert she frequently quotes"},
+      {"handle": "EricTopol", "inPool": false, "why": "science Twitter peer/source"},
+      {"handle": "zeynep", "inPool": false, "why": "COVID-era policy debates"}
+    ]
+  },
+  {
+    "handle": "101Cookbooks",
+    "circle": [
+      {"handle": "clairesaffitz", "inPool": false, "why": "food media peer, recipe overlap"},
+      {"handle": "saminnosrat", "inPool": false, "why": "vegetable-forward cooking peer"},
+      {"handle": "Ottolenghi", "inPool": false, "why": "whole food cooking mentor figure"},
+      {"handle": "nytfood", "inPool": false, "why": "covers her work, RT outlet"}
+    ]
+  },
+  {
+    "handle": "colsonwhitehead",
+    "circle": [
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary giant, mutual author orbit"},
+      {"handle": "neilhimself", "inPool": true, "why": "fellow celebrated novelist"},
+      {"handle": "stephenasmith", "inPool": true, "why": "both NYC, sports culture overlap"},
+      {"handle": "nytimes", "inPool": true, "why": "NYT reviews and profiles him"},
+      {"handle": "ta_nehisicoates", "inPool": false, "why": "close peer, Black intellectual orbit"}
+    ]
+  },
+  {
+    "handle": "juliussharpe",
+    "circle": [
+      {"handle": "SethMacFarlane", "inPool": true, "why": "Family Guy showrunner, his boss"},
+      {"handle": "AlJean", "inPool": true, "why": "Simpsons showrunner, TV comedy peer"},
+      {"handle": "jon_vitti", "inPool": true, "why": "Simpsons writer, comedy writer orbit"},
+      {"handle": "adultswim", "inPool": true, "why": "TV comedy adjacent platform"},
+      {"handle": "funnyordie", "inPool": true, "why": "comedy writer digital orbit"},
+      {"handle": "jimgaffigan", "inPool": true, "why": "stand-up/TV comedy peer"}
+    ]
+  },
+  {
+    "handle": "cullenroche",
+    "circle": [
+      {"handle": "naval", "inPool": true, "why": "macro/finance philosophy overlap"},
+      {"handle": "paulg", "inPool": true, "why": "tech finance discourse orbit"},
+      {"handle": "pmarca", "inPool": true, "why": "VC macro commentary peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "finance/tech pundit orbit"},
+      {"handle": "chamath", "inPool": true, "why": "macro investor commentary"},
+      {"handle": "RayDalio", "inPool": true, "why": "macro investing thought leader"}
+    ]
+  },
+  {
+    "handle": "clairesaffitz",
+    "circle": [
+      {"handle": "bonappetit", "inPool": false, "why": "her former employer, BA test kitchen"},
+      {"handle": "saminnosrat", "inPool": false, "why": "food media peer, NYT Cooking"},
+      {"handle": "davidchang", "inPool": false, "why": "food celebrity orbit, mutual"},
+      {"handle": "nytfood", "inPool": false, "why": "NYT Cooking partnership"}
+    ]
+  },
+  {
+    "handle": "tha_rami",
+    "circle": [
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "auteur game dev, deep mutual respect"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "game awards host, dev community"},
+      {"handle": "Pilestedt", "inPool": true, "why": "indie-to-big dev peer, Helldivers"},
+      {"handle": "gamedevdotcom", "inPool": false, "why": "covers VLAMBEER work and game dev"},
+      {"handle": "ID_AA_Carmack", "inPool": true, "why": "tech/game dev visionary peer"}
+    ]
+  },
+  {
+    "handle": "gamedevdotcom",
+    "circle": [
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "covers his games and dev talks"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards, industry coverage"},
+      {"handle": "Pilestedt", "inPool": true, "why": "indie dev interview subject"},
+      {"handle": "tha_rami", "inPool": false, "why": "VLAMBEER/dev advocate they cover"},
+      {"handle": "NintendoAmerica", "inPool": true, "why": "major publisher game coverage"},
+      {"handle": "PlayStation", "inPool": true, "why": "major platform, industry coverage"}
+    ]
+  }
+]

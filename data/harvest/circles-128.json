@@ -1,0 +1,592 @@
+[
+  {
+    "handle": "RealSaavedra",
+    "circle": [
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "Daily Wire colleague, frequent amplifier"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "right-wing media peer"
+      },
+      {
+        "handle": "DineshDSouza",
+        "inPool": true,
+        "why": "conservative commentator ally"
+      },
+      {
+        "handle": "CollinRugg",
+        "inPool": true,
+        "why": "right-wing media peer"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "prominent conservative media figure"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News conservative host"
+      },
+      {
+        "handle": "catturd2",
+        "inPool": true,
+        "why": "right-wing Twitter personality"
+      },
+      {
+        "handle": "marklevinshow",
+        "inPool": true,
+        "why": "conservative radio/media figure"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "primary outlet amplifier"
+      }
+    ]
+  },
+  {
+    "handle": "TheNBACentral",
+    "circle": [
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "primary NBA breaking news source"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "primary NBA breaking news source"
+      },
+      {
+        "handle": "NBA",
+        "inPool": true,
+        "why": "official league account"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "major sports media partner"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "NBA media personality"
+      },
+      {
+        "handle": "RealSkipBayless",
+        "inPool": true,
+        "why": "NBA debate content source"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "NBA debate content source"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "top NBA player account"
+      },
+      {
+        "handle": "Giannis_An34",
+        "inPool": true,
+        "why": "top NBA player account"
+      },
+      {
+        "handle": "StephenCurry30",
+        "inPool": true,
+        "why": "top NBA player account"
+      }
+    ]
+  },
+  {
+    "handle": "ylecun",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "frequent AI debate sparring partner"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "public AI debates"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "tech/AI discourse peer"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communication peer"
+      },
+      {
+        "handle": "OpenAI",
+        "inPool": false,
+        "why": "rival org he publicly criticizes"
+      },
+      {
+        "handle": "AnthropicAI",
+        "inPool": false,
+        "why": "AI lab he engages with"
+      },
+      {
+        "handle": "huggingface",
+        "inPool": false,
+        "why": "AI community hub"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "fellow ML researcher"
+      }
+    ]
+  },
+  {
+    "handle": "ChimamandaReal",
+    "circle": [
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "fellow literary feminist author"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "literary peer engagement"
+      },
+      {
+        "handle": "jk_rowling",
+        "inPool": true,
+        "why": "fellow prominent author"
+      },
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "media that covers her work"
+      },
+      {
+        "handle": "BarackObama",
+        "inPool": true,
+        "why": "mutual admiration, Obama cites her"
+      },
+      {
+        "handle": "tanehisicoates",
+        "inPool": false,
+        "why": "fellow Black intellectual writer"
+      }
+    ]
+  },
+  {
+    "handle": "hasanminhaj",
+    "circle": [
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "fellow late-night comedy peer"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "late-night circuit guest/peer"
+      },
+      {
+        "handle": "SethMeyers",
+        "inPool": true,
+        "why": "political comedy peer"
+      },
+      {
+        "handle": "StephenAtHome",
+        "inPool": true,
+        "why": "Colbert show guest/peer"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive political ally"
+      },
+      {
+        "handle": "kumailn",
+        "inPool": false,
+        "why": "South Asian comedy peer"
+      },
+      {
+        "handle": "trevornoah",
+        "inPool": false,
+        "why": "Daily Show successor connection"
+      }
+    ]
+  },
+  {
+    "handle": "njokic",
+    "circle": [
+      {
+        "handle": "NBA",
+        "inPool": true,
+        "why": "league account features him"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "sports media covers him"
+      },
+      {
+        "handle": "Giannis_An34",
+        "inPool": true,
+        "why": "MVP rival and peer"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "legendary peer he is compared to"
+      },
+      {
+        "handle": "KDTrey5",
+        "inPool": true,
+        "why": "top NBA player peer"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "NBA news reporter"
+      }
+    ]
+  },
+  {
+    "handle": "rianjohnson",
+    "circle": [
+      {
+        "handle": "edgarwright",
+        "inPool": true,
+        "why": "filmmaker friend and peer"
+      },
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "filmmaker mutual admiration"
+      },
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "creative peer, mutual fan"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "tech-film crossover Twitter engagement"
+      },
+      {
+        "handle": "pattonoswalt",
+        "inPool": false,
+        "why": "comedy/pop culture peer"
+      },
+      {
+        "handle": "TaikaWaititi",
+        "inPool": false,
+        "why": "fellow filmmaker peer"
+      },
+      {
+        "handle": "JamesGunn",
+        "inPool": false,
+        "why": "filmmaker Twitter mutual"
+      }
+    ]
+  },
+  {
+    "handle": "theintercept",
+    "circle": [
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "co-founder, original key writer"
+      },
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "former Intercept journalist"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "left-media peer"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive politics source/ally"
+      },
+      {
+        "handle": "atrupar",
+        "inPool": true,
+        "why": "progressive media peer"
+      },
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "investigative journalism peer"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive political figure they cover"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive political figure they cover"
+      }
+    ]
+  },
+  {
+    "handle": "carlosalcaraz",
+    "circle": [
+      {
+        "handle": "rogerfederer",
+        "inPool": true,
+        "why": "idol he has cited publicly"
+      },
+      {
+        "handle": "RafaelNadal",
+        "inPool": true,
+        "why": "mentor and Spanish compatriot"
+      },
+      {
+        "handle": "usopen",
+        "inPool": true,
+        "why": "his major title venue"
+      },
+      {
+        "handle": "NovakDjokovic",
+        "inPool": false,
+        "why": "chief rival at top of rankings"
+      },
+      {
+        "handle": "LewisHamilton",
+        "inPool": true,
+        "why": "fellow elite athlete peer"
+      }
+    ]
+  },
+  {
+    "handle": "FriedgeHNIC",
+    "circle": [
+      {
+        "handle": "NHL",
+        "inPool": true,
+        "why": "league he covers"
+      },
+      {
+        "handle": "PierreVLeBrun",
+        "inPool": true,
+        "why": "fellow hockey insider"
+      },
+      {
+        "handle": "TSNBobMcKenzie",
+        "inPool": false,
+        "why": "fellow Canadian hockey insider"
+      },
+      {
+        "handle": "DarrenDreger",
+        "inPool": false,
+        "why": "TSN hockey reporter peer"
+      }
+    ]
+  },
+  {
+    "handle": "jason",
+    "circle": [
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "venture capital peer"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "tech/AI investor peer"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "startup/investing philosophy peer"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "All-In podcast co-host"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "tech mogul he engages with"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "YC founder he respects"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "All-In podcast co-host"
+      }
+    ]
+  },
+  {
+    "handle": "minakimes",
+    "circle": [
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "ESPN colleague"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "ESPN NFL colleague"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "NFL media peer"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "sports media peer"
+      },
+      {
+        "handle": "RealSkipBayless",
+        "inPool": true,
+        "why": "debate show context/sparring"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "employer, frequent engagement"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "ESPN colleague"
+      }
+    ]
+  },
+  {
+    "handle": "IndieWire",
+    "circle": [
+      {
+        "handle": "DEADLINE",
+        "inPool": true,
+        "why": "entertainment journalism peer"
+      },
+      {
+        "handle": "THR",
+        "inPool": true,
+        "why": "entertainment journalism peer"
+      },
+      {
+        "handle": "Variety",
+        "inPool": true,
+        "why": "entertainment journalism peer"
+      },
+      {
+        "handle": "DiscussingFilm",
+        "inPool": true,
+        "why": "film news peer outlet"
+      },
+      {
+        "handle": "A24",
+        "inPool": false,
+        "why": "indie film studio they cover heavily"
+      },
+      {
+        "handle": "RealGDT",
+        "inPool": true,
+        "why": "director they cover frequently"
+      },
+      {
+        "handle": "rianjohnson",
+        "inPool": true,
+        "why": "filmmaker they cover"
+      }
+    ]
+  },
+  {
+    "handle": "krystalball",
+    "circle": [
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media peer"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "MSNBC progressive peer"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive political figure she covers"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive political ally"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive political figure"
+      },
+      {
+        "handle": "atrupar",
+        "inPool": true,
+        "why": "progressive media peer"
+      }
+    ]
+  },
+  {
+    "handle": "bmeiselas",
+    "circle": [
+      {
+        "handle": "mehdirhasan",
+        "inPool": true,
+        "why": "progressive media ally"
+      },
+      {
+        "handle": "chrislhayes",
+        "inPool": true,
+        "why": "progressive MSNBC peer"
+      },
+      {
+        "handle": "AOC",
+        "inPool": true,
+        "why": "progressive political figure he supports"
+      },
+      {
+        "handle": "atrupar",
+        "inPool": true,
+        "why": "progressive media peer"
+      },
+      {
+        "handle": "ewarren",
+        "inPool": true,
+        "why": "progressive political figure"
+      },
+      {
+        "handle": "BernieSanders",
+        "inPool": true,
+        "why": "progressive political ally"
+      }
+    ]
+  }
+]

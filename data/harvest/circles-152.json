@@ -1,0 +1,189 @@
+[
+  {
+    "handle": "JosinaAnderson",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "ESPN NFL reporting peers"},
+      {"handle": "wojespn", "inPool": true, "why": "fellow ESPN NFL insider"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA/sports news colleague"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN studio colleague"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "NFL media crossover"},
+      {"handle": "SportsCenter", "inPool": true, "why": "ESPN home platform"},
+      {"handle": "espn", "inPool": true, "why": "employer/platform"},
+      {"handle": "NFL", "inPool": true, "why": "primary beat coverage"},
+      {"handle": "ochocinco", "inPool": true, "why": "former player source/pal"}
+    ]
+  },
+  {
+    "handle": "nathanwpyle",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "peer absurdist humor account"},
+      {"handle": "dog_rates", "inPool": true, "why": "same wholesome Twitter humor lane"},
+      {"handle": "hankgreen", "inPool": true, "why": "mutual wholesome internet creator"},
+      {"handle": "JimGaffigan", "inPool": true, "why": "comedian who amplifies Strange Planet"},
+      {"handle": "mulaney", "inPool": true, "why": "comedian fan/retweeter"},
+      {"handle": "ConanOBrien", "inPool": true, "why": "mainstream comedian engagement"},
+      {"handle": "jimmyfallon", "inPool": true, "why": "TV host who shared Strange Planet"},
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "literary Twitter peer humor"}
+    ]
+  },
+  {
+    "handle": "nansen_ai",
+    "circle": [
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum ecosystem pillar"},
+      {"handle": "cz_binance", "inPool": true, "why": "exchange data partnership"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "major crypto exec on-chain"},
+      {"handle": "cobie", "inPool": true, "why": "crypto analyst uses Nansen data"},
+      {"handle": "chamath", "inPool": true, "why": "crypto/tech VC audience overlap"},
+      {"handle": "WuBlockchain", "inPool": true, "why": "crypto news peer"},
+      {"handle": "stanikulechov", "inPool": false, "why": "DeFi founder, Nansen tracks AAVE"}
+    ]
+  },
+  {
+    "handle": "Hannahgadsby",
+    "circle": [
+      {"handle": "Sethrogen", "inPool": true, "why": "Hollywood comedy peer/fan"},
+      {"handle": "realsambee", "inPool": true, "why": "female comedian solidarity"},
+      {"handle": "netflix", "inPool": true, "why": "Nanette and Douglas distributor"},
+      {"handle": "iamwandasykes", "inPool": false, "why": "comedian mutual support"},
+      {"handle": "pattonoswalt", "inPool": false, "why": "stand-up comedian peer"}
+    ]
+  },
+  {
+    "handle": "pixelatedboat",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "canonical absurdist Twitter peer"},
+      {"handle": "Horse_ebooks", "inPool": true, "why": "iconic weird Twitter cohort"},
+      {"handle": "meganamram", "inPool": true, "why": "comedy writer Twitter pal"},
+      {"handle": "dasharez0ne", "inPool": true, "why": "surreal Twitter humor peer"},
+      {"handle": "jonnysun", "inPool": true, "why": "gentle absurdist Twitter friend"},
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "literary Twitter satirist peer"}
+    ]
+  },
+  {
+    "handle": "jonlemire",
+    "circle": [
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC colleague and host"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "MSNBC show colleague"},
+      {"handle": "axios", "inPool": true, "why": "political media peer publication"},
+      {"handle": "washingtonpost", "inPool": true, "why": "political journalism peer outlet"},
+      {"handle": "nytimes", "inPool": true, "why": "political journalism peer outlet"},
+      {"handle": "CNN", "inPool": true, "why": "cable news media peer"},
+      {"handle": "ABCPolitics", "inPool": true, "why": "political press corps colleague"},
+      {"handle": "WhiteHouse", "inPool": true, "why": "primary beat coverage"},
+      {"handle": "JoeBiden", "inPool": true, "why": "covered as WH reporter"},
+      {"handle": "DonaldJTrumpJr", "inPool": true, "why": "political reporting subject"}
+    ]
+  },
+  {
+    "handle": "mwseibel",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "YC/OpenAI founder peer"},
+      {"handle": "paulg", "inPool": true, "why": "YC co-founder mentor"},
+      {"handle": "pmarca", "inPool": true, "why": "a16z VC peer in startup world"},
+      {"handle": "jason", "inPool": true, "why": "startup investor/podcaster peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech VC peer, All-In pod"},
+      {"handle": "chamath", "inPool": true, "why": "tech VC peer, All-In pod"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech media journalist covers YC"},
+      {"handle": "naval", "inPool": true, "why": "startup/tech thinker peer"}
+    ]
+  },
+  {
+    "handle": "hasufl",
+    "circle": [
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin maximalist research overlap"},
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum researcher cited often"},
+      {"handle": "cz_binance", "inPool": true, "why": "exchange exec, crypto industry"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO, crypto industry"},
+      {"handle": "naval", "inPool": true, "why": "crypto/tech philosopher peer"},
+      {"handle": "cobie", "inPool": true, "why": "crypto trader/analyst peer"},
+      {"handle": "WuBlockchain", "inPool": true, "why": "crypto news peer"},
+      {"handle": "stanikulechov", "inPool": false, "why": "DeFi research colleague"}
+    ]
+  },
+  {
+    "handle": "bookriot",
+    "circle": [
+      {"handle": "MargaretAtwood", "inPool": true, "why": "major author frequent subject"},
+      {"handle": "neilhimself", "inPool": true, "why": "beloved author regular coverage"},
+      {"handle": "jk_rowling", "inPool": true, "why": "frequent book culture subject"},
+      {"handle": "StephenKing", "inPool": true, "why": "bestselling author coverage"},
+      {"handle": "SparkNotes", "inPool": true, "why": "book culture peer account"},
+      {"handle": "PaperFury", "inPool": true, "why": "popular book blogger partner"},
+      {"handle": "nytimes", "inPool": true, "why": "book reviews crossover audience"}
+    ]
+  },
+  {
+    "handle": "ERCboxoffice",
+    "circle": [
+      {"handle": "THR", "inPool": true, "why": "Hollywood trade media peer"},
+      {"handle": "Variety", "inPool": true, "why": "box office trade media peer"},
+      {"handle": "DEADLINE", "inPool": true, "why": "film industry news peer"},
+      {"handle": "goldenglobes", "inPool": true, "why": "awards coverage beat"},
+      {"handle": "TheAcademy", "inPool": false, "why": "Oscars awards season coverage"},
+      {"handle": "RottenTomatoes", "inPool": false, "why": "film data peer platform"}
+    ]
+  },
+  {
+    "handle": "seanmcarroll",
+    "circle": [
+      {"handle": "neiltyson", "inPool": true, "why": "fellow science communicator"},
+      {"handle": "BillNye", "inPool": true, "why": "science popularizer peer"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "physics communicator peer"},
+      {"handle": "neilhimself", "inPool": true, "why": "author/science crossover friend"},
+      {"handle": "hankgreen", "inPool": true, "why": "science education peer"},
+      {"handle": "sciam", "inPool": true, "why": "science journalism outlet"},
+      {"handle": "NASA", "inPool": true, "why": "cosmology/space beat overlap"},
+      {"handle": "Snowden", "inPool": true, "why": "science/philosophy Twitter mutual"},
+      {"handle": "BrianGreene", "inPool": false, "why": "physicist peer and colleague"}
+    ]
+  },
+  {
+    "handle": "ritholtz",
+    "circle": [
+      {"handle": "TheStalwart", "inPool": true, "why": "Bloomberg co-author Joe Weisenthal"},
+      {"handle": "naval", "inPool": true, "why": "tech/finance philosopher peer"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech media crossover peer"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech VC finance commentator"},
+      {"handle": "chamath", "inPool": true, "why": "VC/finance commentator peer"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin finance discussion subject"},
+      {"handle": "paulg", "inPool": true, "why": "startup/finance essayist peer"},
+      {"handle": "markets", "inPool": true, "why": "Bloomberg Markets partner platform"},
+      {"handle": "DeItaone", "inPool": true, "why": "financial news wire peer"}
+    ]
+  },
+  {
+    "handle": "Delphi_Digital",
+    "circle": [
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum ecosystem research subject"},
+      {"handle": "cz_binance", "inPool": true, "why": "exchange research coverage"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase/crypto research"},
+      {"handle": "cobie", "inPool": true, "why": "crypto analyst audience overlap"},
+      {"handle": "chamath", "inPool": true, "why": "crypto/tech VC peer audience"},
+      {"handle": "saylor", "inPool": true, "why": "Bitcoin thesis research overlap"},
+      {"handle": "WuBlockchain", "inPool": true, "why": "crypto news peer"}
+    ]
+  },
+  {
+    "handle": "stanikulechov",
+    "circle": [
+      {"handle": "VitalikButerin", "inPool": true, "why": "Ethereum founder, DeFi pillar"},
+      {"handle": "cz_binance", "inPool": true, "why": "exchange integration partner"},
+      {"handle": "brian_armstrong", "inPool": true, "why": "Coinbase CEO, crypto peer"},
+      {"handle": "cobie", "inPool": true, "why": "crypto influencer/trader peer"},
+      {"handle": "chamath", "inPool": true, "why": "tech/crypto VC peer"},
+      {"handle": "naval", "inPool": true, "why": "crypto/startup philosopher peer"},
+      {"handle": "sama", "inPool": true, "why": "tech CEO peer circle"}
+    ]
+  },
+  {
+    "handle": "grubstreet",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "NYC media peer outlet"},
+      {"handle": "GordonRamsay", "inPool": true, "why": "celebrity chef coverage"},
+      {"handle": "altonbrown", "inPool": true, "why": "food media personality coverage"},
+      {"handle": "Eater", "inPool": false, "why": "food media peer publication"},
+      {"handle": "bonappetit", "inPool": false, "why": "food media peer publication"},
+      {"handle": "davidchang", "inPool": false, "why": "NYC chef regular coverage subject"}
+    ]
+  }
+]

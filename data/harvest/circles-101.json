@@ -1,0 +1,198 @@
+[
+  {
+    "handle": "rioferdy5",
+    "circle": [
+      {"handle": "manutd", "inPool": true, "why": "lifelong Man Utd player and ambassador"},
+      {"handle": "waynerooney", "inPool": true, "why": "former teammate, frequent banter"},
+      {"handle": "garylineker", "inPool": true, "why": "fellow pundit, co-media colleague"},
+      {"handle": "fabrizioromano", "inPool": true, "why": "football transfer news colleague"},
+      {"handle": "coleenroo", "inPool": true, "why": "social circle via Rooney connection"},
+      {"handle": "piersmorgan", "inPool": true, "why": "regular UK media sparring partner"},
+      {"handle": "championsleague", "inPool": true, "why": "covers UCL content regularly"},
+      {"handle": "optajoe", "inPool": true, "why": "stats source, football media overlap"}
+    ]
+  },
+  {
+    "handle": "serenawilliams",
+    "circle": [
+      {"handle": "rafaelnadal", "inPool": true, "why": "mutual tennis GOAT respect"},
+      {"handle": "rogerfederer", "inPool": true, "why": "era overlap, mutual admiration"},
+      {"handle": "theellenshow", "inPool": true, "why": "frequent Ellen guest and friend"},
+      {"handle": "oprah", "inPool": true, "why": "close personal friendship, collaborations"},
+      {"handle": "kimkardashian", "inPool": true, "why": "close personal friends"},
+      {"handle": "usainbolt", "inPool": true, "why": "fellow athletic GOAT, mutual praise"},
+      {"handle": "lewishamilton", "inPool": true, "why": "crossover sports icon friendship"},
+      {"handle": "therock", "inPool": true, "why": "mutual celebrity athlete respect"},
+      {"handle": "lin_manuel", "inPool": true, "why": "public mutual admiration"}
+    ]
+  },
+  {
+    "handle": "Twitch",
+    "circle": [
+      {"handle": "ninja", "inPool": true, "why": "flagship streamer, major partnership"},
+      {"handle": "markiplier", "inPool": true, "why": "top gaming creator on platform"},
+      {"handle": "xqc", "inPool": true, "why": "most-watched streamer on platform"},
+      {"handle": "asmongold", "inPool": true, "why": "top gaming streamer on platform"},
+      {"handle": "xbox", "inPool": true, "why": "major gaming platform partner"},
+      {"handle": "playstation", "inPool": true, "why": "major gaming platform partner"},
+      {"handle": "ign", "inPool": true, "why": "gaming media cross-promotion"},
+      {"handle": "steam", "inPool": true, "why": "PC gaming ecosystem overlap"},
+      {"handle": "youtube", "inPool": true, "why": "primary rival platform, constant tension"}
+    ]
+  },
+  {
+    "handle": "maddow",
+    "circle": [
+      {"handle": "andersoncooper", "inPool": true, "why": "cable news peer, mutual amplification"},
+      {"handle": "cnnbrk", "inPool": true, "why": "news cycle overlap, frequent quotes"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media ally"},
+      {"handle": "barackobama", "inPool": true, "why": "covers Obama policy and statements"},
+      {"handle": "hillaryclinton", "inPool": true, "why": "aligned politics, mutual RT territory"},
+      {"handle": "berniesanders", "inPool": true, "why": "progressive policy coverage overlap"},
+      {"handle": "acyn", "inPool": true, "why": "clips her show regularly"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive politics alignment"},
+      {"handle": "nytimes", "inPool": true, "why": "shares and cites NYT reporting"}
+    ]
+  },
+  {
+    "handle": "TheNotoriousMMA",
+    "circle": [
+      {"handle": "ufc", "inPool": true, "why": "his promotional home, constant engagement"},
+      {"handle": "joerogan", "inPool": true, "why": "UFC commentator, interviewed McGregor often"},
+      {"handle": "therock", "inPool": true, "why": "crossover celebrity athlete banter"},
+      {"handle": "snoopdogg", "inPool": true, "why": "mutual hype and celebrity circle"},
+      {"handle": "realdonaldtrump", "inPool": true, "why": "public mutual praise relationship"},
+      {"handle": "piersmorgan", "inPool": true, "why": "UK media overlap, piers covered him"},
+      {"handle": "kingjames", "inPool": true, "why": "crossover sports icon mutual respect"}
+    ]
+  },
+  {
+    "handle": "goal",
+    "circle": [
+      {"handle": "fabrizioromano", "inPool": true, "why": "football transfer news peer"},
+      {"handle": "optajoe", "inPool": true, "why": "football stats partner, frequent RTs"},
+      {"handle": "championsleague", "inPool": true, "why": "covers UCL, official partnership"},
+      {"handle": "fcbarcelona", "inPool": true, "why": "covers biggest clubs extensively"},
+      {"handle": "manutd", "inPool": true, "why": "covers biggest clubs extensively"},
+      {"handle": "garylineker", "inPool": true, "why": "football pundit mutual engagement"},
+      {"handle": "rioferdy5", "inPool": false, "why": "football pundit, mutual engagement"},
+      {"handle": "espn", "inPool": true, "why": "sports media cross-posting"}
+    ]
+  },
+  {
+    "handle": "IGN",
+    "circle": [
+      {"handle": "xbox", "inPool": true, "why": "Xbox news and reviews partnership"},
+      {"handle": "playstation", "inPool": true, "why": "PlayStation news and reviews"},
+      {"handle": "markiplier", "inPool": true, "why": "gaming creator crossover coverage"},
+      {"handle": "steam", "inPool": true, "why": "PC gaming coverage overlap"},
+      {"handle": "wired", "inPool": true, "why": "tech-media peer, cross-promotion"},
+      {"handle": "ninja", "inPool": true, "why": "covered ninja heavily at peak fame"},
+      {"handle": "marvelstudios", "inPool": true, "why": "entertainment coverage crossover"},
+      {"handle": "starwars", "inPool": true, "why": "entertainment coverage crossover"}
+    ]
+  },
+  {
+    "handle": "WIRED",
+    "circle": [
+      {"handle": "techcrunch", "inPool": true, "why": "tech media peer, frequent overlap"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech journalist alumni, cites her"},
+      {"handle": "elonmusk", "inPool": true, "why": "covers him constantly, he responds"},
+      {"handle": "tim_cook", "inPool": true, "why": "covers Apple/Tim Cook regularly"},
+      {"handle": "sama", "inPool": true, "why": "covers OpenAI/Altman extensively"},
+      {"handle": "nytimes", "inPool": true, "why": "journalism peer, cross-cite"},
+      {"handle": "davidsacks", "inPool": true, "why": "tech-politics figure they cover"},
+      {"handle": "iamdevloper", "inPool": true, "why": "satirizes tech culture they cover"}
+    ]
+  },
+  {
+    "handle": "TechCrunch",
+    "circle": [
+      {"handle": "wired", "inPool": true, "why": "tech media peer, story overlap"},
+      {"handle": "karaswisher", "inPool": true, "why": "tech journalism veteran, former role"},
+      {"handle": "elonmusk", "inPool": true, "why": "Tesla/SpaceX/X coverage constant"},
+      {"handle": "sama", "inPool": true, "why": "OpenAI/AI coverage heavily"},
+      {"handle": "tim_cook", "inPool": true, "why": "Apple product cycle coverage"},
+      {"handle": "spacex", "inPool": true, "why": "space tech startup beat"},
+      {"handle": "google", "inPool": true, "why": "covers Google launches regularly"},
+      {"handle": "microsoft", "inPool": true, "why": "covers Microsoft/Azure regularly"},
+      {"handle": "davidsacks", "inPool": true, "why": "venture/tech policy figure they cover"}
+    ]
+  },
+  {
+    "handle": "RonDeSantis",
+    "circle": [
+      {"handle": "realdonaldtrump", "inPool": true, "why": "2024 primary rival turned foe"},
+      {"handle": "benshapiro", "inPool": true, "why": "conservative media ally, frequent boost"},
+      {"handle": "tuckercarlson", "inPool": true, "why": "Fox News host who amplified him"},
+      {"handle": "catturd2", "inPool": true, "why": "MAGA account that supports him"},
+      {"handle": "donaldjtrumpjr", "inPool": true, "why": "attacked him in 2024 primary"},
+      {"handle": "acyn", "inPool": true, "why": "clips his statements for opposition"},
+      {"handle": "foxnews", "inPool": true, "why": "regular Fox coverage and appearances"},
+      {"handle": "aoc", "inPool": true, "why": "frequent political foil, Twitter fights"}
+    ]
+  },
+  {
+    "handle": "usainbolt",
+    "circle": [
+      {"handle": "serenawilliams", "inPool": true, "why": "fellow GOAT, mutual praise"},
+      {"handle": "lewishamilton", "inPool": true, "why": "Jamaican/British sports icon crossover"},
+      {"handle": "kingjames", "inPool": true, "why": "global sports icon mutual hype"},
+      {"handle": "therock", "inPool": true, "why": "fitness and celebrity overlap"},
+      {"handle": "rafaelnadal", "inPool": true, "why": "fellow sports GOAT peer"},
+      {"handle": "nfl", "inPool": true, "why": "speed crossover content with NFL"},
+      {"handle": "espn", "inPool": true, "why": "ESPN covers his records and legacy"}
+    ]
+  },
+  {
+    "handle": "Apple",
+    "circle": [
+      {"handle": "tim_cook", "inPool": true, "why": "CEO's account, closely linked"},
+      {"handle": "google", "inPool": true, "why": "primary competitor, frequent mention"},
+      {"handle": "microsoft", "inPool": true, "why": "longtime rival ecosystem"},
+      {"handle": "tesla", "inPool": true, "why": "tech giant peer"},
+      {"handle": "spacex", "inPool": true, "why": "tech sector cross-mention"},
+      {"handle": "karaswisher", "inPool": true, "why": "top tech journalist covering Apple"},
+      {"handle": "techcrunch", "inPool": true, "why": "tech media covering every launch"},
+      {"handle": "wired", "inPool": true, "why": "tech media covering Apple deeply"}
+    ]
+  },
+  {
+    "handle": "newyorker",
+    "circle": [
+      {"handle": "nytimes", "inPool": true, "why": "prestige media peer, cross-citation"},
+      {"handle": "washingtonpost", "inPool": true, "why": "prestige journalism peer"},
+      {"handle": "theeconomist", "inPool": true, "why": "prestige long-form peer"},
+      {"handle": "barackobama", "inPool": true, "why": "Obama frequently cites New Yorker"},
+      {"handle": "rickygervais", "inPool": true, "why": "literary humor crossover"},
+      {"handle": "conanobrien", "inPool": true, "why": "witty media overlap, comedy"},
+      {"handle": "margaretatwood", "inPool": true, "why": "contributor and literary figure"},
+      {"handle": "theonion", "inPool": true, "why": "satire adjacent, occasional banter"}
+    ]
+  },
+  {
+    "handle": "tylerthecreator",
+    "circle": [
+      {"handle": "wizkhalifa", "inPool": true, "why": "hip-hop peer, mutual respect"},
+      {"handle": "chancetherapper", "inPool": true, "why": "fellow creative hip-hop peer"},
+      {"handle": "snoopdogg", "inPool": true, "why": "hip-hop elder, mutual appreciation"},
+      {"handle": "eminem", "inPool": true, "why": "hip-hop legend, influences Tyler"},
+      {"handle": "lilnasx", "inPool": true, "why": "similar queer-coded pop-rap space"},
+      {"handle": "kimkardashian", "inPool": true, "why": "pop culture crossover, fashion"},
+      {"handle": "gordonramsay", "inPool": true, "why": "Tyler engages random celebrity Twitter"},
+      {"handle": "rickygervais", "inPool": true, "why": "dry humor resonance"}
+    ]
+  },
+  {
+    "handle": "Steam",
+    "circle": [
+      {"handle": "xbox", "inPool": true, "why": "gaming platform competitor/partner"},
+      {"handle": "playstation", "inPool": true, "why": "gaming platform peer"},
+      {"handle": "ign", "inPool": true, "why": "gaming media covers Steam releases"},
+      {"handle": "markiplier", "inPool": true, "why": "PC gaming creator promoting games"},
+      {"handle": "xqc", "inPool": true, "why": "top streamer plays many Steam games"},
+      {"handle": "ninja", "inPool": true, "why": "gaming personality on their ecosystem"},
+      {"handle": "wired", "inPool": true, "why": "tech media coverage of Valve/Steam"}
+    ]
+  }
+]

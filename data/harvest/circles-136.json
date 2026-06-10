@@ -1,0 +1,677 @@
+[
+  {
+    "handle": "SPIN",
+    "circle": [
+      {
+        "handle": "pitchfork",
+        "inPool": true,
+        "why": "rival music criticism outlet"
+      },
+      {
+        "handle": "RollingStone",
+        "inPool": true,
+        "why": "peer music publication"
+      },
+      {
+        "handle": "billboard",
+        "inPool": true,
+        "why": "music charts and news peer"
+      },
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "media brand cross-promo"
+      },
+      {
+        "handle": "BleacherReport",
+        "inPool": true,
+        "why": "digital media peer outlet"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "hip-hop artist coverage"
+      },
+      {
+        "handle": "chancetherapper",
+        "inPool": true,
+        "why": "indie hip-hop coverage"
+      }
+    ]
+  },
+  {
+    "handle": "BuckSexton",
+    "circle": [
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "Fox News conservative colleague"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "conservative media colleague"
+      },
+      {
+        "handle": "marklevinshow",
+        "inPool": true,
+        "why": "conservative radio/TV peer"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News host peer"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "conservative commentator peer"
+      },
+      {
+        "handle": "RandPaul",
+        "inPool": true,
+        "why": "libertarian-conservative politician"
+      },
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "conservative senator ally"
+      },
+      {
+        "handle": "thehill",
+        "inPool": true,
+        "why": "political media outlet"
+      },
+      {
+        "handle": "FoxNews",
+        "inPool": true,
+        "why": "network home, frequent mention"
+      },
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "major right-wing figure"
+      }
+    ]
+  },
+  {
+    "handle": "BadAstronomer",
+    "circle": [
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "fellow science communicator"
+      },
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "science education ally"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "space news source"
+      },
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "UK physicist peer"
+      },
+      {
+        "handle": "sciam",
+        "inPool": true,
+        "why": "science publication he writes for"
+      },
+      {
+        "handle": "Rainmaker1973",
+        "inPool": true,
+        "why": "viral science content peer"
+      },
+      {
+        "handle": "StationCDRKelly",
+        "inPool": true,
+        "why": "astronaut he follows/engages"
+      },
+      {
+        "handle": "MarsCuriosity",
+        "inPool": true,
+        "why": "NASA missions he blogs about"
+      },
+      {
+        "handle": "NASAWebb",
+        "inPool": true,
+        "why": "space telescope he writes about"
+      }
+    ]
+  },
+  {
+    "handle": "AriMeirov",
+    "circle": [
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "top NFL insider, same beat"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "league he covers"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "sports media outlet"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "NFL media colleague/source"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "broadcast peer"
+      },
+      {
+        "handle": "PFTCommenter",
+        "inPool": true,
+        "why": "NFL media/humor peer"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "fellow sports insider"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "sports scoop rival/peer"
+      }
+    ]
+  },
+  {
+    "handle": "huggingface",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI CEO, AI peer"
+      },
+      {
+        "handle": "Google",
+        "inPool": true,
+        "why": "AI competitor/partner"
+      },
+      {
+        "handle": "Microsoft",
+        "inPool": true,
+        "why": "AI partner/cloud"
+      },
+      {
+        "handle": "nvidia",
+        "inPool": true,
+        "why": "hardware partner for ML"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "tech VC ecosystem"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "tech VC investor"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech thought leader"
+      },
+      {
+        "handle": "AndrewYNg",
+        "inPool": false,
+        "why": "AI education leader"
+      },
+      {
+        "handle": "ylecun",
+        "inPool": false,
+        "why": "Meta chief AI scientist"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "AI researcher/educator"
+      },
+      {
+        "handle": "ilyasut",
+        "inPool": false,
+        "why": "OpenAI co-founder"
+      }
+    ]
+  },
+  {
+    "handle": "MarcMaron",
+    "circle": [
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "fellow long-form podcast host"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "comedy peer and mutual fan"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "late night comedy peer"
+      },
+      {
+        "handle": "mulaney",
+        "inPool": true,
+        "why": "comedian he promotes"
+      },
+      {
+        "handle": "NikkiGlaser",
+        "inPool": false,
+        "why": "fellow stand-up comedian"
+      },
+      {
+        "handle": "trevornoah",
+        "inPool": false,
+        "why": "comedy media peer"
+      },
+      {
+        "handle": "billburr",
+        "inPool": false,
+        "why": "stand-up comedy peer"
+      },
+      {
+        "handle": "pattonoswalt",
+        "inPool": false,
+        "why": "stand-up and podcast mutual"
+      }
+    ]
+  },
+  {
+    "handle": "tae15adams",
+    "circle": [
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "athlete celebrity mutual follows"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "league he plays in"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "covers his games"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "sports highlight coverage"
+      },
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "NFL reporter covers trades"
+      },
+      {
+        "handle": "AaronRodgers12",
+        "inPool": false,
+        "why": "longtime Packers QB partner"
+      },
+      {
+        "handle": "PatrickMahomes",
+        "inPool": false,
+        "why": "rival elite QB"
+      },
+      {
+        "handle": "DerekCarr",
+        "inPool": false,
+        "why": "Raiders QB teammate"
+      }
+    ]
+  },
+  {
+    "handle": "PierreVLeBrun",
+    "circle": [
+      {
+        "handle": "NHL",
+        "inPool": true,
+        "why": "league he covers"
+      },
+      {
+        "handle": "frank_seravalli",
+        "inPool": true,
+        "why": "fellow NHL insider"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "employer and platform"
+      },
+      {
+        "handle": "Ken_Rosenthal",
+        "inPool": true,
+        "why": "sports media peer at Athletic"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "ESPN broadcast peer"
+      },
+      {
+        "handle": "elliottfriedman",
+        "inPool": false,
+        "why": "top NHL insider peer"
+      },
+      {
+        "handle": "TSN_Sports",
+        "inPool": false,
+        "why": "Canadian hockey media"
+      }
+    ]
+  },
+  {
+    "handle": "SkySportsGolf",
+    "circle": [
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "US sports media partner"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "sports broadcast peer"
+      },
+      {
+        "handle": "PGATOUR",
+        "inPool": false,
+        "why": "major tour they cover"
+      },
+      {
+        "handle": "McIlroyRory",
+        "inPool": false,
+        "why": "top golfer they cover"
+      },
+      {
+        "handle": "TigerWoods",
+        "inPool": false,
+        "why": "legendary golfer they cover"
+      },
+      {
+        "handle": "SkySportsNews",
+        "inPool": false,
+        "why": "parent Sky Sports brand"
+      }
+    ]
+  },
+  {
+    "handle": "SanDiegoZoo",
+    "circle": [
+      {
+        "handle": "NatGeo",
+        "inPool": true,
+        "why": "wildlife media partner"
+      },
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "science institution peer"
+      },
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "science communicator ally"
+      },
+      {
+        "handle": "WWF",
+        "inPool": false,
+        "why": "conservation org partner"
+      },
+      {
+        "handle": "NatlParkService",
+        "inPool": false,
+        "why": "wildlife/nature institution peer"
+      },
+      {
+        "handle": "AnimalPlanet",
+        "inPool": false,
+        "why": "wildlife media brand"
+      }
+    ]
+  },
+  {
+    "handle": "zackfox",
+    "circle": [
+      {
+        "handle": "chancetherapper",
+        "inPool": true,
+        "why": "hip-hop peer mutual"
+      },
+      {
+        "handle": "iamcardib",
+        "inPool": true,
+        "why": "hip-hop engagement"
+      },
+      {
+        "handle": "LilNasX",
+        "inPool": true,
+        "why": "queer rap peer, mutual fans"
+      },
+      {
+        "handle": "charli_xcx",
+        "inPool": true,
+        "why": "pop music peer engagement"
+      },
+      {
+        "handle": "KennyBeats",
+        "inPool": false,
+        "why": "close producer collaborator"
+      },
+      {
+        "handle": "JackBlack",
+        "inPool": false,
+        "why": "comedy mutual, famous exchange"
+      },
+      {
+        "handle": "TierraWhack",
+        "inPool": false,
+        "why": "hip-hop peer and friend"
+      }
+    ]
+  },
+  {
+    "handle": "gdb",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI CEO and co-founder partner"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "early OpenAI backer/former board"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "VC investor, tech ecosystem"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "YC founder, tech ecosystem"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech investor peer"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "tech thought leader"
+      },
+      {
+        "handle": "jack",
+        "inPool": true,
+        "why": "tech founder peer"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": false,
+        "why": "AI researcher, OpenAI/Tesla peer"
+      },
+      {
+        "handle": "ilyasut",
+        "inPool": false,
+        "why": "OpenAI co-founder partner"
+      }
+    ]
+  },
+  {
+    "handle": "ChrisBHaynes",
+    "circle": [
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "top rival NBA insider"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "fellow NBA insider"
+      },
+      {
+        "handle": "NBA",
+        "inPool": true,
+        "why": "league he covers"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "ESPN NBA media peer"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "sports media outlet"
+      },
+      {
+        "handle": "BleacherReport",
+        "inPool": true,
+        "why": "digital sports media peer"
+      },
+      {
+        "handle": "KDTrey5",
+        "inPool": true,
+        "why": "NBA star source/coverage"
+      }
+    ]
+  },
+  {
+    "handle": "NickAdamsinUSA",
+    "circle": [
+      {
+        "handle": "realDonaldTrump",
+        "inPool": true,
+        "why": "strong Trump supporter"
+      },
+      {
+        "handle": "DonaldJTrumpJr",
+        "inPool": true,
+        "why": "Trump family ally"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox News conservative peer"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "conservative media ally"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "conservative pundit peer"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "Fox News host he promotes"
+      },
+      {
+        "handle": "VivekGRamaswamy",
+        "inPool": true,
+        "why": "conservative figure ally"
+      },
+      {
+        "handle": "JDVance",
+        "inPool": true,
+        "why": "MAGA-aligned politician"
+      }
+    ]
+  },
+  {
+    "handle": "TomPelissero",
+    "circle": [
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "top NFL insider peer"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "employer and league he covers"
+      },
+      {
+        "handle": "PFTCommenter",
+        "inPool": true,
+        "why": "NFL media personality"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "NFL media outlet"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "competing sports network"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "sports broadcast peer"
+      },
+      {
+        "handle": "FOXSports",
+        "inPool": true,
+        "why": "sports broadcast peer"
+      },
+      {
+        "handle": "RapSheet",
+        "inPool": false,
+        "why": "NFL Network colleague Rapoport"
+      },
+      {
+        "handle": "NFLNetwork",
+        "inPool": false,
+        "why": "employer network account"
+      }
+    ]
+  }
+]

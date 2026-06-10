@@ -1,0 +1,527 @@
+[
+  {
+    "handle": "RapSheet",
+    "circle": [
+      {
+        "handle": "AdamSchefter",
+        "inPool": true,
+        "why": "rival NFL insider beat reporters"
+      },
+      {
+        "handle": "NFL",
+        "inPool": true,
+        "why": "primary news subject outlet"
+      },
+      {
+        "handle": "espn",
+        "inPool": true,
+        "why": "employer, frequent tag"
+      },
+      {
+        "handle": "PatMcAfeeShow",
+        "inPool": true,
+        "why": "NFL media collaborator guest"
+      },
+      {
+        "handle": "SportsCenter",
+        "inPool": true,
+        "why": "shares breaking news via"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "fellow sports scoop journalist"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "ESPN colleague sports insider"
+      }
+    ]
+  },
+  {
+    "handle": "kumailn",
+    "circle": [
+      {
+        "handle": "priyankachopra",
+        "inPool": true,
+        "why": "close friend frequent banter"
+      },
+      {
+        "handle": "mindykaling",
+        "inPool": true,
+        "why": "comedian friend reply pal"
+      },
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "talk show promo guest"
+      },
+      {
+        "handle": "ConanOBrien",
+        "inPool": true,
+        "why": "comedy chat frequent reposter"
+      },
+      {
+        "handle": "rickygervais",
+        "inPool": true,
+        "why": "co-stars Silicon Valley link"
+      },
+      {
+        "handle": "mulaney",
+        "inPool": true,
+        "why": "comedy world mutual friend"
+      }
+    ]
+  },
+  {
+    "handle": "SkySportsF1",
+    "circle": [
+      {
+        "handle": "F1",
+        "inPool": true,
+        "why": "official series broadcast partner"
+      },
+      {
+        "handle": "LewisHamilton",
+        "inPool": true,
+        "why": "feature driver coverage"
+      },
+      {
+        "handle": "McLarenF1",
+        "inPool": true,
+        "why": "team coverage partner tag"
+      },
+      {
+        "handle": "Max33Verstappen",
+        "inPool": false,
+        "why": "champion driver constant coverage"
+      },
+      {
+        "handle": "LandoNorris",
+        "inPool": false,
+        "why": "popular young driver featured"
+      },
+      {
+        "handle": "Charles_Leclerc",
+        "inPool": false,
+        "why": "Ferrari driver interview subject"
+      }
+    ]
+  },
+  {
+    "handle": "github",
+    "circle": [
+      {
+        "handle": "Microsoft",
+        "inPool": true,
+        "why": "parent company synergy posts"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI partner OpenAI Copilot"
+      },
+      {
+        "handle": "tim_cook",
+        "inPool": true,
+        "why": "cross-platform dev ecosystem mention"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "VC dev community figure"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "open source X feed amplifier"
+      }
+    ]
+  },
+  {
+    "handle": "CERN",
+    "circle": [
+      {
+        "handle": "NASA",
+        "inPool": true,
+        "why": "fellow big science org"
+      },
+      {
+        "handle": "neiltyson",
+        "inPool": true,
+        "why": "science communicator frequent RT"
+      },
+      {
+        "handle": "BillNye",
+        "inPool": true,
+        "why": "science communicator mentions CERN"
+      },
+      {
+        "handle": "ProfBrianCox",
+        "inPool": true,
+        "why": "ex-CERN physicist promotes org"
+      },
+      {
+        "handle": "StationCDRKelly",
+        "inPool": true,
+        "why": "space science peer institution"
+      },
+      {
+        "handle": "MarsCuriosity",
+        "inPool": true,
+        "why": "fellow science mission account"
+      }
+    ]
+  },
+  {
+    "handle": "RayDalio",
+    "circle": [
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "philosophy of wealth discussion"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "frequent macro debate sparring"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "billionaire peer global macro"
+      },
+      {
+        "handle": "JeffBezos",
+        "inPool": true,
+        "why": "billionaire class peer cited"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "All-In podcast macro discussions"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "startup VC economy discourse"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "policy economics VC overlap"
+      }
+    ]
+  },
+  {
+    "handle": "Nigella_Lawson",
+    "circle": [
+      {
+        "handle": "GordonRamsay",
+        "inPool": true,
+        "why": "UK celebrity chef peer"
+      },
+      {
+        "handle": "AltonBrown",
+        "inPool": true,
+        "why": "food TV colleague mutual fan"
+      },
+      {
+        "handle": "Sethrogen",
+        "inPool": true,
+        "why": "famous Nigella super-fan replied"
+      },
+      {
+        "handle": "nytfood",
+        "inPool": false,
+        "why": "food media cross-promotion"
+      },
+      {
+        "handle": "GuyFieri",
+        "inPool": false,
+        "why": "food TV world overlap"
+      },
+      {
+        "handle": "GuyInYourMFA",
+        "inPool": true,
+        "why": "literary humor Nigella memes"
+      }
+    ]
+  },
+  {
+    "handle": "nytimesbooks",
+    "circle": [
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "parent publication main handle"
+      },
+      {
+        "handle": "MargaretAtwood",
+        "inPool": true,
+        "why": "bestseller author frequent subject"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "acclaimed author promoted here"
+      },
+      {
+        "handle": "StephenKing",
+        "inPool": true,
+        "why": "bestseller author constant coverage"
+      },
+      {
+        "handle": "jk_rowling",
+        "inPool": true,
+        "why": "major author list coverage"
+      },
+      {
+        "handle": "GuyInYourMFA",
+        "inPool": true,
+        "why": "literary satire account RT"
+      }
+    ]
+  },
+  {
+    "handle": "NBAonTNT",
+    "circle": [
+      {
+        "handle": "NBA",
+        "inPool": true,
+        "why": "official league broadcast partner"
+      },
+      {
+        "handle": "KingJames",
+        "inPool": true,
+        "why": "featured superstar game content"
+      },
+      {
+        "handle": "wojespn",
+        "inPool": true,
+        "why": "insider news amplified RT"
+      },
+      {
+        "handle": "stephenasmith",
+        "inPool": true,
+        "why": "media personality NBA debate"
+      },
+      {
+        "handle": "ShamsCharania",
+        "inPool": true,
+        "why": "breaking news RT signal"
+      },
+      {
+        "handle": "BillSimmons",
+        "inPool": true,
+        "why": "longtime NBA media voice"
+      }
+    ]
+  },
+  {
+    "handle": "Timcast",
+    "circle": [
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "ideological peer frequent boost"
+      },
+      {
+        "handle": "mtaibbi",
+        "inPool": true,
+        "why": "anti-establishment media ally"
+      },
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "anti-mainstream media ally"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "right-media sphere collaborator"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "ideological ally main amplifier"
+      },
+      {
+        "handle": "JDVance",
+        "inPool": true,
+        "why": "MAGA politics close ally"
+      }
+    ]
+  },
+  {
+    "handle": "naval",
+    "circle": [
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "VC philosophy frequent exchanger"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI tech founder peer"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "libertarian VC banter pal"
+      },
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "tech finance macro discussion"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "All-In podcast co-host pal"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "frequent mutual RT banter"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "crypto philosophy overlap RT"
+      }
+    ]
+  },
+  {
+    "handle": "mtaibbi",
+    "circle": [
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "anti-establishment journalism ally"
+      },
+      {
+        "handle": "joerogan",
+        "inPool": true,
+        "why": "podcast guest frequent collaborator"
+      },
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "media criticism overlap booster"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "Twitter Files direct collaborator"
+      },
+      {
+        "handle": "dbongino",
+        "inPool": true,
+        "why": "anti-mainstream media orbit"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "free-speech libertarian tech peer"
+      }
+    ]
+  },
+  {
+    "handle": "GovRonDeSantis",
+    "circle": [
+      {
+        "handle": "TuckerCarlson",
+        "inPool": true,
+        "why": "key media booster ally"
+      },
+      {
+        "handle": "benshapiro",
+        "inPool": true,
+        "why": "Daily Wire aligned promoter"
+      },
+      {
+        "handle": "RonDeSantis",
+        "inPool": true,
+        "why": "same person personal account"
+      },
+      {
+        "handle": "DonaldJTrumpJr",
+        "inPool": true,
+        "why": "MAGA orbit occasional sparring"
+      },
+      {
+        "handle": "JDVance",
+        "inPool": true,
+        "why": "MAGA GOP peer ally"
+      },
+      {
+        "handle": "IngrahamAngle",
+        "inPool": true,
+        "why": "Fox anchor boosted DeSantis"
+      },
+      {
+        "handle": "tedcruz",
+        "inPool": true,
+        "why": "Senate ally conservative peer"
+      }
+    ]
+  },
+  {
+    "handle": "JamesGunn",
+    "circle": [
+      {
+        "handle": "Marvel",
+        "inPool": true,
+        "why": "former director tweet sparring"
+      },
+      {
+        "handle": "starwars",
+        "inPool": true,
+        "why": "Disney IP peer universe"
+      },
+      {
+        "handle": "ThatKevinSmith",
+        "inPool": true,
+        "why": "indie director longtime friend"
+      },
+      {
+        "handle": "VancityReynolds",
+        "inPool": true,
+        "why": "shared superhero world overlap"
+      },
+      {
+        "handle": "RobertDowneyJr",
+        "inPool": true,
+        "why": "Marvel peer director crossover"
+      }
+    ]
+  },
+  {
+    "handle": "100Thieves",
+    "circle": [
+      {
+        "handle": "Ninja",
+        "inPool": true,
+        "why": "esports streaming crossover collab"
+      },
+      {
+        "handle": "lolesports",
+        "inPool": true,
+        "why": "league esports partner org"
+      },
+      {
+        "handle": "Twitch",
+        "inPool": true,
+        "why": "main streaming platform partner"
+      },
+      {
+        "handle": "LeagueOfLegends",
+        "inPool": true,
+        "why": "LCS team home game"
+      }
+    ]
+  }
+]

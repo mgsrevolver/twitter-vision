@@ -1,0 +1,160 @@
+[
+  {
+    "handle": "BadFaithPod",
+    "circle": [
+      {"handle": "briebriejoy", "inPool": false, "why": "Briahna Joy Gray co-hosts podcast"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "fellow left media colleague"},
+      {"handle": "chrislhayes", "inPool": true, "why": "same MSNBC left-media orbit"},
+      {"handle": "AOC", "inPool": true, "why": "progressive politics alignment"},
+      {"handle": "BernieSanders", "inPool": true, "why": "Bernie-aligned left politics"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive political coverage"},
+      {"handle": "MorePerfectUS", "inPool": true, "why": "shared left-media audience"},
+      {"handle": "SamSeder", "inPool": false, "why": "Majority Report, ideological ally"}
+    ]
+  },
+  {
+    "handle": "joncaramanica",
+    "circle": [
+      {"handle": "RollingStone", "inPool": true, "why": "music criticism peer publication"},
+      {"handle": "pitchfork", "inPool": true, "why": "music criticism peer publication"},
+      {"handle": "annkpowers", "inPool": true, "why": "NPR music critic, same beat"},
+      {"handle": "robsheff", "inPool": false, "why": "Rolling Stone colleague same group"},
+      {"handle": "stereogum", "inPool": false, "why": "music media frequent engagement"},
+      {"handle": "theneedledrop", "inPool": false, "why": "prominent music critic cross-pollination"}
+    ]
+  },
+  {
+    "handle": "Kristen_Arnett",
+    "circle": [
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "literary Twitter mutual banter"},
+      {"handle": "TriciaLockwood", "inPool": true, "why": "queer lit author peer"},
+      {"handle": "neilhimself", "inPool": true, "why": "author community engagement"},
+      {"handle": "MargaretAtwood", "inPool": true, "why": "literary Twitter engagement"},
+      {"handle": "joshgondelman", "inPool": true, "why": "humor/literary Twitter overlap"},
+      {"handle": "jk_rowling", "inPool": true, "why": "notable friction over trans rights"},
+      {"handle": "dril", "inPool": true, "why": "absurdist literary Twitter pal"},
+      {"handle": "meganamram", "inPool": true, "why": "humor/queer Twitter overlap"}
+    ]
+  },
+  {
+    "handle": "hardmaru",
+    "circle": [
+      {"handle": "sama", "inPool": true, "why": "Sam Altman, AI industry leader"},
+      {"handle": "ilyasut", "inPool": false, "why": "Ilya Sutskever, former OpenAI colleague"},
+      {"handle": "karpathy", "inPool": false, "why": "Andrej Karpathy, AI peer"},
+      {"handle": "fchollet", "inPool": false, "why": "François Chollet, AI researcher peer"},
+      {"handle": "ylecun", "inPool": false, "why": "Yann LeCun, AI elder figure"}
+    ]
+  },
+  {
+    "handle": "thehighsign",
+    "circle": [
+      {"handle": "mattzollerseitz", "inPool": true, "why": "film critic mutual Slate/Vulture orbit"},
+      {"handle": "aoscott", "inPool": false, "why": "NYT film critic, same beat"},
+      {"handle": "davidehrlich", "inPool": false, "why": "IndieWire film critic peer"},
+      {"handle": "robsheff", "inPool": false, "why": "Slate/culture media colleague"},
+      {"handle": "meganamram", "inPool": true, "why": "Slate colleague, frequent banter"}
+    ]
+  },
+  {
+    "handle": "SoberLook",
+    "circle": [
+      {"handle": "WSJ", "inPool": true, "why": "finance media reference source"},
+      {"handle": "FerroTV", "inPool": false, "why": "Bloomberg finance media overlap"},
+      {"handle": "TheStalwart", "inPool": false, "why": "Bloomberg finance media colleague"},
+      {"handle": "tracyalloway", "inPool": false, "why": "Bloomberg Odd Lots finance peer"}
+    ]
+  },
+  {
+    "handle": "Tjonesonthenba",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "ESPN NBA insider, same beat"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA news rival/peer"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "sports media cross-promotion"},
+      {"handle": "stephenasmith", "inPool": true, "why": "ESPN NBA colleague"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "ESPN/FS1 NBA debate peer"},
+      {"handle": "BillSimmons", "inPool": true, "why": "NBA media industry figure"}
+    ]
+  },
+  {
+    "handle": "Schultz_Report",
+    "circle": [
+      {"handle": "wojespn", "inPool": true, "why": "ESPN breaking news peer"},
+      {"handle": "ShamsCharania", "inPool": true, "why": "NBA/NFL news breaking peer"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "sports media amplification"},
+      {"handle": "RapSheet", "inPool": false, "why": "NFL insider peer"},
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL breaking news leader"}
+    ]
+  },
+  {
+    "handle": "robsheff",
+    "circle": [
+      {"handle": "RollingStone", "inPool": true, "why": "home publication employer"},
+      {"handle": "pitchfork", "inPool": true, "why": "music media peer publication"},
+      {"handle": "annkpowers", "inPool": true, "why": "music critic collegial engagement"},
+      {"handle": "joncaramanica", "inPool": false, "why": "NYT music critic same beat"},
+      {"handle": "chartdata", "inPool": true, "why": "music charting data source"}
+    ]
+  },
+  {
+    "handle": "DrZoeHyde",
+    "circle": [
+      {"handle": "apoorva_nyc", "inPool": false, "why": "science/COVID journalist ally"},
+      {"handle": "CT_Bergstrom", "inPool": false, "why": "epidemiology peer academic"},
+      {"handle": "nataliexdean", "inPool": false, "why": "biostatistics colleague peer"},
+      {"handle": "HelenBranswell", "inPool": false, "why": "infectious disease journalist ally"}
+    ]
+  },
+  {
+    "handle": "DystopianYA",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist parody Twitter royalty"},
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "literary parody mutual"},
+      {"handle": "TriciaLockwood", "inPool": true, "why": "literary humor peer"},
+      {"handle": "meganamram", "inPool": true, "why": "comedy Twitter overlap"},
+      {"handle": "joshgondelman", "inPool": true, "why": "wholesome humor Twitter pal"},
+      {"handle": "hankgreen", "inPool": true, "why": "books/YA fandom overlap"}
+    ]
+  },
+  {
+    "handle": "LouisPeitzman",
+    "circle": [
+      {"handle": "billyeichner", "inPool": true, "why": "queer entertainment media mutual"},
+      {"handle": "realsambee", "inPool": true, "why": "comedy media colleague"},
+      {"handle": "mulaney", "inPool": true, "why": "comedy circles overlap"},
+      {"handle": "joshgondelman", "inPool": true, "why": "comedy media writer pal"},
+      {"handle": "meganamram", "inPool": true, "why": "comedy/entertainment media peer"}
+    ]
+  },
+  {
+    "handle": "alisoneroman",
+    "circle": [
+      {"handle": "GordonRamsay", "inPool": true, "why": "food celebrity Twitter engagement"},
+      {"handle": "davidchang", "inPool": false, "why": "NYC food world colleague"},
+      {"handle": "kenjilopezalt", "inPool": false, "why": "serious food writing peer"},
+      {"handle": "nytfood", "inPool": false, "why": "NYT food writing peer space"},
+      {"handle": "mollybaz", "inPool": false, "why": "Bon Appétit colleague/food media"}
+    ]
+  },
+  {
+    "handle": "kateberlant",
+    "circle": [
+      {"handle": "mulaney", "inPool": true, "why": "stand-up comedy inner circle"},
+      {"handle": "billyeichner", "inPool": true, "why": "comedy world mutual"},
+      {"handle": "realsambee", "inPool": true, "why": "comedy media overlap"},
+      {"handle": "joshgondelman", "inPool": true, "why": "comedy writing Twitter pal"},
+      {"handle": "meganamram", "inPool": true, "why": "comedy writer frequent mutual"},
+      {"handle": "LouisPeitzman", "inPool": false, "why": "entertainment media queer comedy"}
+    ]
+  },
+  {
+    "handle": "blankcheckpod",
+    "circle": [
+      {"handle": "mattzollerseitz", "inPool": true, "why": "film criticism peer engagement"},
+      {"handle": "letterboxd", "inPool": false, "why": "cinephile community hub"},
+      {"handle": "davidehrlich", "inPool": false, "why": "IndieWire film critic peer"},
+      {"handle": "RonanFarrow", "inPool": true, "why": "celebrity podcast guest orbit"},
+      {"handle": "mulaney", "inPool": true, "why": "comedy-film overlap mutual"}
+    ]
+  }
+]

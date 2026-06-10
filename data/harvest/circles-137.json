@@ -1,0 +1,183 @@
+[
+  {
+    "handle": "townhallcom",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "frequent right-media amplification"},
+      {"handle": "tedcruz", "inPool": true, "why": "conservative politician, mutual RT"},
+      {"handle": "dbongino", "inPool": true, "why": "shared right-media ecosystem"},
+      {"handle": "TuckerCarlson", "inPool": true, "why": "overlapping conservative media audience"},
+      {"handle": "IngrahamAngle", "inPool": true, "why": "Fox News colleague, right-media ally"},
+      {"handle": "marklevinshow", "inPool": true, "why": "conservative radio/media cross-promotion"},
+      {"handle": "JDVance", "inPool": true, "why": "MAGA politician, regular amplification"},
+      {"handle": "VivekGRamaswamy", "inPool": true, "why": "right-wing policy figure, featured content"},
+      {"handle": "DineshDSouza", "inPool": true, "why": "conservative commentator, shared audience"},
+      {"handle": "RandPaul", "inPool": true, "why": "libertarian-right senator, regular coverage"}
+    ]
+  },
+  {
+    "handle": "PeterAttiaMD",
+    "circle": [
+      {"handle": "joerogan", "inPool": true, "why": "frequent podcast guest, health topics"},
+      {"handle": "naval", "inPool": true, "why": "longevity/optimization mutual interest"},
+      {"handle": "sama", "inPool": true, "why": "tech-health crossover, mutual engagement"},
+      {"handle": "paulg", "inPool": true, "why": "Silicon Valley health-optimization crowd"},
+      {"handle": "pmarca", "inPool": true, "why": "tech investor, health optimization interest"},
+      {"handle": "hubermanlab", "inPool": false, "why": "close collaborator, same health niche"},
+      {"handle": "lexfridman", "inPool": false, "why": "podcast guest appearances"},
+      {"handle": "timferriss", "inPool": false, "why": "biohacking/longevity crossover"}
+    ]
+  },
+  {
+    "handle": "iga_swiatek",
+    "circle": [
+      {"handle": "WTA", "inPool": true, "why": "tennis tour official account"},
+      {"handle": "atptour", "inPool": true, "why": "tennis circuit engagement"},
+      {"handle": "usopen", "inPool": true, "why": "Grand Slam tournament interaction"},
+      {"handle": "serenawilliams", "inPool": true, "why": "tennis legend, peer interaction"},
+      {"handle": "rogerfederer", "inPool": true, "why": "tennis legend, cross-tour respect"},
+      {"handle": "RafaelNadal", "inPool": true, "why": "rival Grand Slam champion"},
+      {"handle": "aryna_sabalenka", "inPool": false, "why": "top rival, head-to-head rivalry"},
+      {"handle": "CarlosTennis", "inPool": false, "why": "Alcaraz, peer at top of rankings"}
+    ]
+  },
+  {
+    "handle": "WeirdMedieval",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist humor twitter kinship"},
+      {"handle": "MerriamWebster", "inPool": true, "why": "words/history-adjacent humor account"},
+      {"handle": "jonnysun", "inPool": true, "why": "whimsical wholesome humor peer"},
+      {"handle": "hankgreen", "inPool": true, "why": "educational humor crossover"},
+      {"handle": "dog_rates", "inPool": true, "why": "beloved wholesome humor account"},
+      {"handle": "SoVeryBritish", "inPool": false, "why": "niche humor, frequent mutual RT"},
+      {"handle": "medievalpoc", "inPool": false, "why": "same medieval history niche"}
+    ]
+  },
+  {
+    "handle": "Slasher",
+    "circle": [
+      {"handle": "lolesports", "inPool": true, "why": "esports beat, frequent coverage"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "gaming media peer, industry figure"},
+      {"handle": "xQc", "inPool": true, "why": "streamer subject, esports coverage"},
+      {"handle": "DrDisrespect", "inPool": false, "why": "streamer news subject, ban story"},
+      {"handle": "pokimane", "inPool": false, "why": "top streamer, esports community"},
+      {"handle": "NICKMERCS", "inPool": false, "why": "major streamer, gaming news subject"},
+      {"handle": "timthetatman", "inPool": false, "why": "Twitch/streaming beat coverage"}
+    ]
+  },
+  {
+    "handle": "nhannahjones",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive politics ally, mutual support"},
+      {"handle": "IlhanMN", "inPool": true, "why": "progressive politician, shared causes"},
+      {"handle": "ewarren", "inPool": true, "why": "progressive senator, policy overlap"},
+      {"handle": "BernieSanders", "inPool": true, "why": "progressive movement, mutual RT"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "left media peer, 1619 Project support"},
+      {"handle": "chrislhayes", "inPool": true, "why": "MSNBC colleague, race/politics beat"},
+      {"handle": "washingtonpost", "inPool": true, "why": "major media outlet, coverage subject"},
+      {"handle": "nytimes", "inPool": true, "why": "employer/home institution"},
+      {"handle": "TaNehisiCoates", "inPool": false, "why": "close intellectual peer, race writing"},
+      {"handle": "ibramxk", "inPool": false, "why": "anti-racism colleague, 1619 ally"}
+    ]
+  },
+  {
+    "handle": "jackantonoff",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": true, "why": "frequent collaborator, co-writer"},
+      {"handle": "charli_xcx", "inPool": true, "why": "produced Charli xcx records"},
+      {"handle": "st_vincent", "inPool": true, "why": "close friend and creative collaborator"},
+      {"handle": "lorde", "inPool": false, "why": "Melodrama producer, close friendship"},
+      {"handle": "billieeilish", "inPool": false, "why": "pop peer, industry collaborator"},
+      {"handle": "sza", "inPool": false, "why": "produced SZA records"},
+      {"handle": "SabrinaAnnLynn", "inPool": false, "why": "Sabrina Carpenter, produced shorts"}
+    ]
+  },
+  {
+    "handle": "ulalaunch",
+    "circle": [
+      {"handle": "SpaceX", "inPool": true, "why": "rival launch provider, industry peer"},
+      {"handle": "NASA", "inPool": true, "why": "primary government customer"},
+      {"handle": "RocketLab", "inPool": true, "why": "fellow commercial launch company"},
+      {"handle": "NASAWebb", "inPool": true, "why": "launched Webb telescope hardware"},
+      {"handle": "MarsCuriosity", "inPool": true, "why": "NASA mission, payload customer"}
+    ]
+  },
+  {
+    "handle": "NFL_DovKleiman",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL insider, same beat"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "NFL media peer, mutual coverage"},
+      {"handle": "espn", "inPool": true, "why": "major NFL media outlet"},
+      {"handle": "NFL", "inPool": true, "why": "league official account"},
+      {"handle": "RapSheet", "inPool": false, "why": "Ian Rapoport, NFL breaking news"},
+      {"handle": "ProFootballTalk", "inPool": false, "why": "NFL news aggregator, same beat"}
+    ]
+  },
+  {
+    "handle": "jonnysun",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist Twitter humor peer"},
+      {"handle": "MerriamWebster", "inPool": true, "why": "wordplay/humor crossover"},
+      {"handle": "hankgreen", "inPool": true, "why": "wholesome educational internet creator"},
+      {"handle": "dog_rates", "inPool": true, "why": "beloved wholesome account, humor peer"},
+      {"handle": "WeirdMedieval", "inPool": false, "why": "absurdist niche humor, same community"}
+    ]
+  },
+  {
+    "handle": "charliebilello",
+    "circle": [
+      {"handle": "RayDalio", "inPool": true, "why": "finance Twitter, markets thought leader"},
+      {"handle": "pmarca", "inPool": true, "why": "tech-finance crossover, mutual engagement"},
+      {"handle": "DavidSacks", "inPool": true, "why": "finance/tech investor, markets discussion"},
+      {"handle": "CNBC", "inPool": true, "why": "financial media, charted on CNBC"},
+      {"handle": "WSJ", "inPool": true, "why": "cited in Wall Street Journal"},
+      {"handle": "morganhousel", "inPool": false, "why": "finance writer peer, mutual RT"},
+      {"handle": "unusual_whales", "inPool": false, "why": "options/markets data peer account"}
+    ]
+  },
+  {
+    "handle": "NickTimiraos",
+    "circle": [
+      {"handle": "CNBC", "inPool": true, "why": "quoted on CNBC, financial media"},
+      {"handle": "WSJ", "inPool": true, "why": "Wall Street Journal colleague"},
+      {"handle": "nytimes", "inPool": true, "why": "major financial media peer coverage"},
+      {"handle": "RayDalio", "inPool": true, "why": "Fed watcher, markets macro"},
+      {"handle": "paulkrugman", "inPool": false, "why": "economics commentary peer"},
+      {"handle": "jimcramer", "inPool": false, "why": "financial media, Fed commentary"}
+    ]
+  },
+  {
+    "handle": "morganhousel",
+    "circle": [
+      {"handle": "RayDalio", "inPool": true, "why": "finance thought leader, mutual respect"},
+      {"handle": "pmarca", "inPool": true, "why": "VC-finance crossover, mutual engagement"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech-finance investor, shared audience"},
+      {"handle": "naval", "inPool": true, "why": "wealth/philosophy crossover, mutual RT"},
+      {"handle": "paulg", "inPool": true, "why": "startup finance wisdom, mutual following"},
+      {"handle": "charliebilello", "inPool": false, "why": "finance writer peer, mutual amplification"},
+      {"handle": "BillAckman", "inPool": false, "why": "hedge fund, finance Twitter peer"}
+    ]
+  },
+  {
+    "handle": "NationalZoo",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "Smithsonian/National Geographic affiliation"},
+      {"handle": "MarsCuriosity", "inPool": true, "why": "wholesome science account community"},
+      {"handle": "NASAWebb", "inPool": true, "why": "Smithsonian science institution peer"},
+      {"handle": "Rainmaker1973", "inPool": true, "why": "science/nature retweet community"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "science enthusiasm crossover"},
+      {"handle": "BronxZoo", "inPool": false, "why": "peer zoo, mutual animal posts"},
+      {"handle": "SanDiegoZoo", "inPool": false, "why": "major zoo peer, species programs"}
+    ]
+  },
+  {
+    "handle": "SUEtheTrex",
+    "circle": [
+      {"handle": "NatGeo", "inPool": true, "why": "natural history science community"},
+      {"handle": "MarsCuriosity", "inPool": true, "why": "wholesome science robot peer"},
+      {"handle": "NASAWebb", "inPool": true, "why": "beloved science institution account"},
+      {"handle": "Rainmaker1973", "inPool": true, "why": "science wonder retweet community"},
+      {"handle": "NationalZoo", "inPool": false, "why": "Smithsonian sibling institution"},
+      {"handle": "fieldmuseum", "inPool": false, "why": "home institution, housed at Field Museum"}
+    ]
+  }
+]

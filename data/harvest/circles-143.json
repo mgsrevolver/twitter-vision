@@ -1,0 +1,169 @@
+[
+  {
+    "handle": "MorePerfectUS",
+    "circle": [
+      {"handle": "AOC", "inPool": true, "why": "progressive politics alignment and amplification"},
+      {"handle": "BernieSanders", "inPool": true, "why": "labor left policy overlap"},
+      {"handle": "ninaturner", "inPool": true, "why": "progressive movement colleague"},
+      {"handle": "RBReich", "inPool": true, "why": "shared economic left framing"},
+      {"handle": "mehdirhasan", "inPool": true, "why": "progressive media mutual boost"},
+      {"handle": "deray", "inPool": false, "why": "racial justice media overlap"},
+      {"handle": "cenkuygur", "inPool": false, "why": "progressive media co-orbit"}
+    ]
+  },
+  {
+    "handle": "exploreplanets",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "core space science partner"},
+      {"handle": "neiltyson", "inPool": true, "why": "public astronomy advocacy peer"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "space exploration human stories"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "astronaut outreach collaborator"},
+      {"handle": "sciam", "inPool": true, "why": "science communication peer"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "science communication peer"}
+    ]
+  },
+  {
+    "handle": "AstroKatie",
+    "circle": [
+      {"handle": "neiltyson", "inPool": true, "why": "astrophysics public outreach peer"},
+      {"handle": "NASA", "inPool": true, "why": "frequent retweet and collaboration"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "physics communicator mutual engagement"},
+      {"handle": "sciam", "inPool": true, "why": "science media outlet she appears in"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "space science adjacent"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "science outreach mutual"},
+      {"handle": "hankgreen", "inPool": true, "why": "science communication community"},
+      {"handle": "BadAstronomer", "inPool": false, "why": "astronomy blogger close colleague"},
+      {"handle": "seanmcarroll", "inPool": false, "why": "physics communicator colleague"}
+    ]
+  },
+  {
+    "handle": "BackAftaThis",
+    "circle": [
+      {"handle": "espn", "inPool": true, "why": "primary content source for clips"},
+      {"handle": "SportsCenter", "inPool": true, "why": "clips and highlights source"},
+      {"handle": "NBA", "inPool": true, "why": "basketball clips constant source"},
+      {"handle": "NFL", "inPool": true, "why": "football clips and moments"},
+      {"handle": "stephenasmith", "inPool": true, "why": "hot take content frequently featured"},
+      {"handle": "RealSkipBayless", "inPool": true, "why": "debate moments featured frequently"},
+      {"handle": "BleacherReport", "inPool": true, "why": "sports media peer overlap"}
+    ]
+  },
+  {
+    "handle": "dasharez0ne",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "absurdist Twitter icon peer"},
+      {"handle": "horse_ebooks", "inPool": true, "why": "surreal Twitter legend mutual"},
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "ironic literary humor circle"},
+      {"handle": "iamdevloper", "inPool": true, "why": "ironic internet humor orbit"},
+      {"handle": "fart", "inPool": false, "why": "surreal Twitter humor peer"}
+    ]
+  },
+  {
+    "handle": "LizAnnSonders",
+    "circle": [
+      {"handle": "CNBC", "inPool": true, "why": "frequent guest and market commentary"},
+      {"handle": "WSJ", "inPool": true, "why": "market analysis cited and shared"},
+      {"handle": "markets", "inPool": true, "why": "Bloomberg Markets peer"},
+      {"handle": "naval", "inPool": true, "why": "finance/investing Twitter overlap"},
+      {"handle": "ReformedBroker", "inPool": false, "why": "financial media peer Josh Brown"},
+      {"handle": "ritholtz", "inPool": false, "why": "finance media peer Barry Ritholtz"},
+      {"handle": "awealthofcs", "inPool": false, "why": "finance commentary peer Ben Carlson"}
+    ]
+  },
+  {
+    "handle": "lisaabramowicz1",
+    "circle": [
+      {"handle": "markets", "inPool": true, "why": "Bloomberg Markets co-presenter"},
+      {"handle": "WSJ", "inPool": true, "why": "finance media peer"},
+      {"handle": "CNBC", "inPool": true, "why": "TV finance media appearance"},
+      {"handle": "TheStalwart", "inPool": false, "why": "Bloomberg colleague Joe Weisenthal"},
+      {"handle": "tracyalloway", "inPool": false, "why": "Bloomberg Odd Lots co-host"}
+    ]
+  },
+  {
+    "handle": "corybarlog",
+    "circle": [
+      {"handle": "HIDEO_KOJIMA_EN", "inPool": true, "why": "auteur game director mutual respect"},
+      {"handle": "geoffkeighley", "inPool": true, "why": "Game Awards appearances and announcements"},
+      {"handle": "PlayStation", "inPool": true, "why": "God of War published by PlayStation"},
+      {"handle": "sama", "inPool": true, "why": "tech culture adjacent mutual"},
+      {"handle": "edgarwright", "inPool": true, "why": "film-game auteur crossover respect"},
+      {"handle": "Pilestedt", "inPool": true, "why": "fellow game director conversation"},
+      {"handle": "jasonschreier", "inPool": false, "why": "game journalism coverage subject"}
+    ]
+  },
+  {
+    "handle": "levelsio",
+    "circle": [
+      {"handle": "paulg", "inPool": true, "why": "startup philosophy overlap"},
+      {"handle": "sama", "inPool": true, "why": "AI/tech builder audience overlap"},
+      {"handle": "naval", "inPool": true, "why": "indie builder philosophical alignment"},
+      {"handle": "pmarca", "inPool": true, "why": "tech contrarian overlap"},
+      {"handle": "DavidSacks", "inPool": true, "why": "tech/entrepreneur Twitter overlap"},
+      {"handle": "dhh", "inPool": false, "why": "indie dev anti-VC philosophy peer"},
+      {"handle": "ShaanVP", "inPool": false, "why": "indie hacker/builder community"}
+    ]
+  },
+  {
+    "handle": "existentialcoms",
+    "circle": [
+      {"handle": "dril", "inPool": true, "why": "ironic Twitter humor peer"},
+      {"handle": "horse_ebooks", "inPool": true, "why": "absurdist internet culture overlap"},
+      {"handle": "GuyInYourMFA", "inPool": true, "why": "literary humor Twitter peer"},
+      {"handle": "iamdevloper", "inPool": true, "why": "ironic tech humor adjacent"}
+    ]
+  },
+  {
+    "handle": "xkcd",
+    "circle": [
+      {"handle": "neiltyson", "inPool": true, "why": "science communication crossover"},
+      {"handle": "NASA", "inPool": true, "why": "space science humor subject"},
+      {"handle": "hankgreen", "inPool": true, "why": "science education adjacent community"},
+      {"handle": "dril", "inPool": true, "why": "web comic irony peer"},
+      {"handle": "sciam", "inPool": true, "why": "science media outlet sharing"},
+      {"handle": "randmunroe", "inPool": false, "why": "creator's own account"}
+    ]
+  },
+  {
+    "handle": "ChappellRoan",
+    "circle": [
+      {"handle": "taylorswift13", "inPool": true, "why": "mainstream pop chart peer"},
+      {"handle": "charli_xcx", "inPool": true, "why": "indie-to-mainstream pop peer"},
+      {"handle": "ladygaga", "inPool": true, "why": "gay icon pop predecessor she cites"},
+      {"handle": "phoebe_bridgers", "inPool": false, "why": "indie folk overlap and mutual support"},
+      {"handle": "mitskileaks", "inPool": false, "why": "indie artistic overlap"},
+      {"handle": "jackantonoff", "inPool": false, "why": "producer community adjacent"},
+      {"handle": "oliviarodrigo", "inPool": false, "why": "pop peer same era"}
+    ]
+  },
+  {
+    "handle": "mubi",
+    "circle": [
+      {"handle": "Criterion", "inPool": true, "why": "cinephile streaming peer"},
+      {"handle": "DiscussingFilm", "inPool": true, "why": "film news media partner"},
+      {"handle": "letterboxd", "inPool": false, "why": "film log community heavy overlap"},
+      {"handle": "A24", "inPool": false, "why": "prestige film distribution peer"},
+      {"handle": "ebertchicago", "inPool": false, "why": "film criticism tradition reference"}
+    ]
+  },
+  {
+    "handle": "MikeGarafolo",
+    "circle": [
+      {"handle": "AdamSchefter", "inPool": true, "why": "NFL insider peer reporter"},
+      {"handle": "PatMcAfeeShow", "inPool": true, "why": "NFL media show frequent appearance"},
+      {"handle": "NFL", "inPool": true, "why": "league official coverage"},
+      {"handle": "RapSheet", "inPool": false, "why": "NFL Network colleague Ian Rapoport"},
+      {"handle": "TomPelissero", "inPool": false, "why": "NFL Network colleague"},
+      {"handle": "ProFootballTalk", "inPool": false, "why": "NFL media peer outlet"}
+    ]
+  },
+  {
+    "handle": "BaseballAmerica",
+    "circle": [
+      {"handle": "MLB", "inPool": true, "why": "primary league coverage"},
+      {"handle": "Ken_Rosenthal", "inPool": true, "why": "MLB beat reporter peer"},
+      {"handle": "JeffPassan", "inPool": false, "why": "ESPN MLB insider peer"},
+      {"handle": "MLBTradeRumors", "inPool": false, "why": "prospect/transaction news peer"}
+    ]
+  }
+]
