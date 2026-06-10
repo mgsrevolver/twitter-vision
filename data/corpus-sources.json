@@ -1,0 +1,258 @@
+{
+  "comment": "Curated seed list of REAL tweets. Only id + tags are stored here; text/author/stats are fetched and verified by scripts/build-corpus.mjs. Add tweets by appending {id, handle, tags} and re-running `npm run corpus`. Tags drive feed assembly — see lib/archetypes.ts.",
+  "tweets": [
+    {
+      "id": "20",
+      "handle": "jack",
+      "tags": [
+        "tech",
+        "iconic"
+      ]
+    },
+    {
+      "id": "440322224407314432",
+      "handle": "TheEllenShow",
+      "tags": [
+        "pop-culture",
+        "iconic"
+      ]
+    },
+    {
+      "id": "896523232098078720",
+      "handle": "BarackObama",
+      "tags": [
+        "politics-left",
+        "iconic"
+      ]
+    },
+    {
+      "id": "266031293945503744",
+      "handle": "BarackObama",
+      "tags": [
+        "politics-left",
+        "iconic"
+      ]
+    },
+    {
+      "id": "1519480761749016577",
+      "handle": "elonmusk",
+      "tags": [
+        "humor",
+        "tech"
+      ]
+    },
+    {
+      "id": "1026872652290379776",
+      "handle": "elonmusk",
+      "tags": [
+        "finance",
+        "tech"
+      ]
+    },
+    {
+      "id": "1585841080431321088",
+      "handle": "elonmusk",
+      "tags": [
+        "tech",
+        "media"
+      ]
+    },
+    {
+      "id": "218439593240956928",
+      "handle": "Horse_ebooks",
+      "tags": [
+        "humor",
+        "iconic"
+      ]
+    },
+    {
+      "id": "64877790624886784",
+      "handle": "keithurbahn",
+      "tags": [
+        "media",
+        "iconic"
+      ]
+    },
+    {
+      "id": "740973710593654784",
+      "handle": "HillaryClinton",
+      "tags": [
+        "politics-left",
+        "humor"
+      ]
+    },
+    {
+      "id": "474971393852182528",
+      "handle": "CIA",
+      "tags": [
+        "humor",
+        "media"
+      ]
+    },
+    {
+      "id": "63623585020915713",
+      "handle": "edballs",
+      "tags": [
+        "humor",
+        "iconic"
+      ]
+    },
+    {
+      "id": "911610455877021697",
+      "handle": "KingJames",
+      "tags": [
+        "sports",
+        "politics-left"
+      ]
+    },
+    {
+      "id": "849813577770778624",
+      "handle": "carterjwm",
+      "tags": [
+        "humor",
+        "pop-culture"
+      ]
+    },
+    {
+      "id": "384408932061417472",
+      "handle": "dril",
+      "tags": [
+        "humor",
+        "iconic"
+      ]
+    },
+    {
+      "id": "1357236825589432322",
+      "handle": "elonmusk",
+      "tags": [
+        "humor",
+        "finance"
+      ]
+    },
+    {
+      "id": "1002103360646823936",
+      "handle": "naval",
+      "tags": [
+        "finance",
+        "tech"
+      ]
+    },
+    {
+      "id": "1599471830255177728",
+      "handle": "sama",
+      "tags": [
+        "tech",
+        "humor"
+      ]
+    },
+    {
+      "id": "1598038815599661056",
+      "handle": "sama",
+      "tags": [
+        "tech"
+      ]
+    },
+    {
+      "id": "265895292191248385",
+      "handle": "realDonaldTrump",
+      "tags": [
+        "politics-right",
+        "iconic"
+      ]
+    },
+    {
+      "id": "1299530165463199747",
+      "handle": "chadwickboseman",
+      "tags": [
+        "pop-culture",
+        "iconic"
+      ]
+    },
+    {
+      "id": "1608056944501178368",
+      "handle": "GretaThunberg",
+      "tags": [
+        "politics-left",
+        "humor",
+        "iconic"
+      ]
+    },
+    {
+      "id": "1608735970131849217",
+      "handle": "GretaThunberg",
+      "tags": [
+        "politics-left",
+        "humor"
+      ]
+    },
+    {
+      "id": "1351897267666608129",
+      "handle": "JoeBiden",
+      "tags": [
+        "politics-left"
+      ]
+    },
+    {
+      "id": "1325126733482385409",
+      "handle": "KamalaHarris",
+      "tags": [
+        "politics-left",
+        "iconic"
+      ]
+    },
+    {
+      "id": "1812258574049157405",
+      "handle": "elonmusk",
+      "tags": [
+        "politics-right"
+      ]
+    },
+    {
+      "id": "1518623997054918657",
+      "handle": "elonmusk",
+      "tags": [
+        "tech",
+        "media"
+      ]
+    },
+    {
+      "id": "1221552460768202756",
+      "handle": "BarackObama",
+      "tags": [
+        "sports",
+        "iconic"
+      ]
+    },
+    {
+      "id": "1749500209061663043",
+      "handle": "MrBeast",
+      "tags": [
+        "pop-culture",
+        "tech"
+      ]
+    },
+    {
+      "id": "1298730289737293824",
+      "handle": "IncredibleCulk",
+      "tags": [
+        "humor",
+        "pop-culture"
+      ]
+    },
+    {
+      "id": "1256648835272605697",
+      "handle": "BTS_twt",
+      "tags": [
+        "pop-culture"
+      ]
+    },
+    {
+      "id": "120620074301267968",
+      "handle": "Louis_Tomlinson",
+      "tags": [
+        "pop-culture",
+        "iconic"
+      ]
+    }
+  ]
+}

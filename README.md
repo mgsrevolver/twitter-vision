@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# their feed.
 
-## Getting Started
+Walk a mile in someone else's timeline. Pick any popular X/Twitter account — or sketch a person with a three-question survey — and get a **simulated** "For You" feed built entirely from real, verified posts that deep-link back to the originals on X.
 
-First, run the development server:
+**This is a simulation, not surveillance.** No X API, no login, no cookies, no analytics. Feeds are generated deterministically from the URL alone, which is what makes them shareable.
 
-```bash
+## How it works
+
+- **`data/corpus-sources.json`** — curated list of real tweet IDs + topic/vibe tags. The only hand-maintained file.
+- **`npm run corpus`** — verifies every ID against X's public syndication endpoint (no API key), pulls exact text, author, date, and like counts, drops anything deleted or mismatched, and writes `data/corpus.json`. Run it whenever you add tweets or want fresh engagement numbers.
+- **`data/accounts.json`** — seed index of ~150 popular accounts (handle, name, approximate followers, interest tags). Powers the instant typeahead, profile inference, and the "accounts that match this profile" links.
+- **`lib/feed-engine.ts`** — builds a tag-weight profile from a handle or survey answers, then does seeded weighted sampling over the corpus. Same URL → same feed, "refresh the algorithm" → new seed. Everyone's profile gets a humor floor, because everyone's feed has shitposts.
+- **`app/api/persona`** — optional Claude-written one-line "algorithmic read" on the persona (Opus 4.8, structured output). Falls back silently to a heuristic blurb when `ANTHROPIC_API_KEY` isn't set.
+- **`app/api/og`** — share-card image per feed URL.
+
+## Develop
+
+```sh
+npm install
+npm run corpus   # rebuild/verify the tweet corpus
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Optional: `export ANTHROPIC_API_KEY=...` for LLM persona blurbs.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Expanding the corpus
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Add `{ "id": "...", "handle": "...", "tags": [...] }` entries to `data/corpus-sources.json` and re-run `npm run corpus`. Good sources of verified tweet IDs: Wikipedia's most-liked/most-retweeted lists (cite-tweet templates carry bare IDs), embedded tweets in news articles, or any `x.com/<user>/status/<id>` URL. Tags in play: `tech`, `politics-left`, `politics-right`, `pop-culture`, `sports`, `finance`, `media`, `humor`, `iconic`.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Deploys as a standard Next.js app (built for Vercel).

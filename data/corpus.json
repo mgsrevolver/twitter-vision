@@ -1,0 +1,546 @@
+{
+  "builtAt": "2026-06-10T01:50:33.495Z",
+  "tweets": [
+    {
+      "id": "20",
+      "handle": "jack",
+      "name": "jack",
+      "avatar": "https://pbs.twimg.com/profile_images/1661201415899951105/azNjKOSH_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "just setting up my twttr",
+      "createdAt": "2006-03-21T20:50:14.000Z",
+      "likes": 309597,
+      "replies": 17926,
+      "url": "https://x.com/jack/status/20",
+      "tags": [
+        "tech",
+        "iconic"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "440322224407314432",
+      "handle": "TheEllenShow",
+      "name": "The Ellen Show",
+      "avatar": "https://pbs.twimg.com/profile_images/1909090851592273920/UutmZxGI_normal.jpg",
+      "verifiedAuthor": false,
+      "text": "If only Bradley's arm was longer. Best photo ever. #oscars http://t.co/C9U5NOtGap",
+      "createdAt": "2014-03-03T03:06:13.000Z",
+      "likes": 1874742,
+      "replies": 159384,
+      "url": "https://x.com/TheEllenShow/status/440322224407314432",
+      "tags": [
+        "pop-culture",
+        "iconic"
+      ],
+      "hasMedia": true
+    },
+    {
+      "id": "896523232098078720",
+      "handle": "BarackObama",
+      "name": "Barack Obama",
+      "avatar": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "\"No one is born hating another person because of the color of his skin or his background or his religion...\" https://t.co/InZ58zkoAm",
+      "createdAt": "2017-08-13T00:06:09.000Z",
+      "likes": 3431747,
+      "replies": 58451,
+      "url": "https://x.com/BarackObama/status/896523232098078720",
+      "tags": [
+        "politics-left",
+        "iconic"
+      ],
+      "hasMedia": true
+    },
+    {
+      "id": "266031293945503744",
+      "handle": "BarackObama",
+      "name": "Barack Obama",
+      "avatar": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "Four more years. http://t.co/bAJE6Vom",
+      "createdAt": "2012-11-07T04:16:18.000Z",
+      "likes": 460665,
+      "replies": 46986,
+      "url": "https://x.com/BarackObama/status/266031293945503744",
+      "tags": [
+        "politics-left",
+        "iconic"
+      ],
+      "hasMedia": true
+    },
+    {
+      "id": "1519480761749016577",
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "Next I’m buying Coca-Cola to put the cocaine back in",
+      "createdAt": "2022-04-28T00:56:58.000Z",
+      "likes": 4217755,
+      "replies": 167921,
+      "url": "https://x.com/elonmusk/status/1519480761749016577",
+      "tags": [
+        "humor",
+        "tech"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1026872652290379776",
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "Am considering taking Tesla private at $420. Funding secured.",
+      "createdAt": "2018-08-07T16:48:13.000Z",
+      "likes": 74973,
+      "replies": 5377,
+      "url": "https://x.com/elonmusk/status/1026872652290379776",
+      "tags": [
+        "finance",
+        "tech"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1585841080431321088",
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "the bird is freed",
+      "createdAt": "2022-10-28T03:49:11.000Z",
+      "likes": 2184740,
+      "replies": 122122,
+      "url": "https://x.com/elonmusk/status/1585841080431321088",
+      "tags": [
+        "tech",
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "218439593240956928",
+      "handle": "Horse_ebooks",
+      "name": "Horse ebooks",
+      "avatar": "https://pbs.twimg.com/profile_images/1096005346/1_normal.jpg",
+      "verifiedAuthor": false,
+      "text": "Everything happens so much",
+      "createdAt": "2012-06-28T20:23:52.000Z",
+      "likes": 96691,
+      "replies": 359,
+      "url": "https://x.com/Horse_ebooks/status/218439593240956928",
+      "tags": [
+        "humor",
+        "iconic"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "64877790624886784",
+      "handle": "keithurbahn",
+      "name": "Keith Urbahn",
+      "avatar": "https://pbs.twimg.com/profile_images/1915763087832948737/8IrEBNyi_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "So I'm told by a reputable person they have killed Osama Bin Laden. Hot damn.",
+      "createdAt": "2011-05-02T02:24:05.000Z",
+      "likes": 930,
+      "replies": 27,
+      "url": "https://x.com/keithurbahn/status/64877790624886784",
+      "tags": [
+        "media",
+        "iconic"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "740973710593654784",
+      "handle": "HillaryClinton",
+      "name": "Hillary Clinton",
+      "avatar": "https://pbs.twimg.com/profile_images/1835697796122370048/gNMHs4vB_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "Delete your account. https://t.co/Oa92sncRQY",
+      "createdAt": "2016-06-09T18:27:53.000Z",
+      "likes": 536131,
+      "replies": 22677,
+      "url": "https://x.com/HillaryClinton/status/740973710593654784",
+      "tags": [
+        "politics-left",
+        "humor"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "474971393852182528",
+      "handle": "CIA",
+      "name": "CIA",
+      "avatar": "https://pbs.twimg.com/profile_images/2049500369739460609/R6_WL6B5_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "We can neither confirm nor deny that this is our first tweet.",
+      "createdAt": "2014-06-06T17:49:39.000Z",
+      "likes": 193545,
+      "replies": 21223,
+      "url": "https://x.com/CIA/status/474971393852182528",
+      "tags": [
+        "humor",
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "63623585020915713",
+      "handle": "edballs",
+      "name": "Ed Balls",
+      "avatar": "https://pbs.twimg.com/profile_images/1873719954391945216/W5X8m_HE_normal.jpg",
+      "verifiedAuthor": false,
+      "text": "Ed Balls",
+      "createdAt": "2011-04-28T15:20:19.000Z",
+      "likes": 117938,
+      "replies": 2709,
+      "url": "https://x.com/edballs/status/63623585020915713",
+      "tags": [
+        "humor",
+        "iconic"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "911610455877021697",
+      "handle": "KingJames",
+      "name": "LeBron James",
+      "avatar": "https://pbs.twimg.com/profile_images/1904731639910965248/6bcSSJnG_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "U bum @StephenCurry30 already said he ain't going! So therefore ain't no invite. Going to White House was a great honor until you showed up!",
+      "createdAt": "2017-09-23T15:17:24.000Z",
+      "likes": 1112957,
+      "replies": 36222,
+      "url": "https://x.com/KingJames/status/911610455877021697",
+      "tags": [
+        "sports",
+        "politics-left"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "849813577770778624",
+      "handle": "carterjwm",
+      "name": "Carter Wilkerson",
+      "avatar": "https://pbs.twimg.com/profile_images/1882679559432310784/NvhAI4qg_normal.jpg",
+      "verifiedAuthor": false,
+      "text": "HELP ME PLEASE. A MAN NEEDS HIS NUGGS https://t.co/4SrfHmEMo3",
+      "createdAt": "2017-04-06T02:38:40.000Z",
+      "likes": 1122660,
+      "replies": 32560,
+      "url": "https://x.com/carterjwm/status/849813577770778624",
+      "tags": [
+        "humor",
+        "pop-culture"
+      ],
+      "hasMedia": true
+    },
+    {
+      "id": "384408932061417472",
+      "handle": "dril",
+      "name": "wint",
+      "avatar": "https://pbs.twimg.com/profile_images/1510917391533830145/XW-zSFDJ_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "Food $200\nData $150\nRent $800\nCandles $3,600\nUtility $150\nsomeone who is good at the economy please help me budget this. my family is dying",
+      "createdAt": "2013-09-29T20:06:46.000Z",
+      "likes": 118644,
+      "replies": 918,
+      "url": "https://x.com/dril/status/384408932061417472",
+      "tags": [
+        "humor",
+        "iconic"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1357236825589432322",
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "ur welcome https://t.co/e2KF57KLxb",
+      "createdAt": "2021-02-04T07:57:30.000Z",
+      "likes": 831925,
+      "replies": 19418,
+      "url": "https://x.com/elonmusk/status/1357236825589432322",
+      "tags": [
+        "humor",
+        "finance"
+      ],
+      "hasMedia": true
+    },
+    {
+      "id": "1002103360646823936",
+      "handle": "naval",
+      "name": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "How to Get Rich (without getting lucky):",
+      "createdAt": "2018-05-31T08:23:54.000Z",
+      "likes": 273317,
+      "replies": 11097,
+      "url": "https://x.com/naval/status/1002103360646823936",
+      "tags": [
+        "finance",
+        "tech"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1599471830255177728",
+      "handle": "sama",
+      "name": "Sam Altman",
+      "avatar": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "i am a stochastic parrot, and so r u",
+      "createdAt": "2022-12-04T18:32:55.000Z",
+      "likes": 1663,
+      "replies": 154,
+      "url": "https://x.com/sama/status/1599471830255177728",
+      "tags": [
+        "tech",
+        "humor"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1598038815599661056",
+      "handle": "sama",
+      "name": "Sam Altman",
+      "avatar": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "today we launched ChatGPT. try talking with it here: \n\nhttps://t.co/uWra8LKFMN",
+      "createdAt": "2022-11-30T19:38:38.000Z",
+      "likes": 58187,
+      "replies": 2531,
+      "url": "https://x.com/sama/status/1598038815599661056",
+      "tags": [
+        "tech"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "265895292191248385",
+      "handle": "realDonaldTrump",
+      "name": "Donald J. Trump",
+      "avatar": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing non-competitive.",
+      "createdAt": "2012-11-06T19:15:52.000Z",
+      "likes": 55854,
+      "replies": 10122,
+      "url": "https://x.com/realDonaldTrump/status/265895292191248385",
+      "tags": [
+        "politics-right",
+        "iconic"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1299530165463199747",
+      "handle": "chadwickboseman",
+      "name": "Chadwick Boseman",
+      "avatar": "https://pbs.twimg.com/profile_images/755209143892348929/UhWrKJ-T_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "https://t.co/aZ2JzDf5ai",
+      "createdAt": "2020-08-29T02:11:50.000Z",
+      "likes": 6585046,
+      "replies": 135042,
+      "url": "https://x.com/chadwickboseman/status/1299530165463199747",
+      "tags": [
+        "pop-culture",
+        "iconic"
+      ],
+      "hasMedia": true
+    },
+    {
+      "id": "1608056944501178368",
+      "handle": "GretaThunberg",
+      "name": "Greta Thunberg",
+      "avatar": "https://pbs.twimg.com/profile_images/1459213153301053442/rL5hhpAI_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "yes, please do enlighten me. email me at smalldickenergy@getalife.com",
+      "createdAt": "2022-12-28T11:07:06.000Z",
+      "likes": 3342692,
+      "replies": 70477,
+      "url": "https://x.com/GretaThunberg/status/1608056944501178368",
+      "tags": [
+        "politics-left",
+        "humor",
+        "iconic"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1608735970131849217",
+      "handle": "GretaThunberg",
+      "name": "Greta Thunberg",
+      "avatar": "https://pbs.twimg.com/profile_images/1459213153301053442/rL5hhpAI_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "this is what happens when you don’t recycle your pizza boxes",
+      "createdAt": "2022-12-30T08:05:18.000Z",
+      "likes": 2966031,
+      "replies": 48909,
+      "url": "https://x.com/GretaThunberg/status/1608735970131849217",
+      "tags": [
+        "politics-left",
+        "humor"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1351897267666608129",
+      "handle": "JoeBiden",
+      "name": "Joe Biden",
+      "avatar": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "It’s a new day in America.",
+      "createdAt": "2021-01-20T14:20:00.000Z",
+      "likes": 3366537,
+      "replies": 92393,
+      "url": "https://x.com/JoeBiden/status/1351897267666608129",
+      "tags": [
+        "politics-left"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1325126733482385409",
+      "handle": "KamalaHarris",
+      "name": "Kamala Harris",
+      "avatar": "https://pbs.twimg.com/profile_images/1592241313700782081/T2pTYU8d_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "We did it, @JoeBiden. https://t.co/oCgeylsjB4",
+      "createdAt": "2020-11-07T17:23:27.000Z",
+      "likes": 2616335,
+      "replies": 81164,
+      "url": "https://x.com/KamalaHarris/status/1325126733482385409",
+      "tags": [
+        "politics-left",
+        "iconic"
+      ],
+      "hasMedia": true
+    },
+    {
+      "id": "1812258574049157405",
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "https://t.co/6eOgN9UdOy",
+      "createdAt": "2024-07-13T22:51:28.000Z",
+      "likes": 3207875,
+      "replies": 69315,
+      "url": "https://x.com/elonmusk/status/1812258574049157405",
+      "tags": [
+        "politics-right"
+      ],
+      "hasMedia": true
+    },
+    {
+      "id": "1518623997054918657",
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "avatar": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "I hope that even my worst critics remain on Twitter, because that is what free speech means",
+      "createdAt": "2022-04-25T16:12:30.000Z",
+      "likes": 2865535,
+      "replies": 153735,
+      "url": "https://x.com/elonmusk/status/1518623997054918657",
+      "tags": [
+        "tech",
+        "media"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1221552460768202756",
+      "handle": "BarackObama",
+      "name": "Barack Obama",
+      "avatar": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "Kobe was a legend on the court and just getting started in what would have been just as meaningful a second act. To lose Gianna is even more heartbreaking to us as parents. Michelle and I send love and prayers to Vanessa and the entire Bryant family on an unthinkable day.",
+      "createdAt": "2020-01-26T21:56:16.000Z",
+      "likes": 3264818,
+      "replies": 13834,
+      "url": "https://x.com/BarackObama/status/1221552460768202756",
+      "tags": [
+        "sports",
+        "iconic"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1749500209061663043",
+      "handle": "MrBeast",
+      "name": "MrBeast",
+      "avatar": "https://pbs.twimg.com/profile_images/2008838029776158720/oDvxIJ1X_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "I’m gonna give 10 random people that repost this and follow me $25,000 for fun (the $250,000 my X video made)\n\nI’ll pick the winners in 72 hours",
+      "createdAt": "2024-01-22T18:32:08.000Z",
+      "likes": 1863414,
+      "replies": 377096,
+      "url": "https://x.com/MrBeast/status/1749500209061663043",
+      "tags": [
+        "pop-culture",
+        "tech"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1298730289737293824",
+      "handle": "IncredibleCulk",
+      "name": "Macaulay Culkin",
+      "avatar": "https://pbs.twimg.com/profile_images/968572702788239360/KL-zulbA_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "Hey guys, wanna feel old?\n\nI'm 40.\n\nYou're welcome.",
+      "createdAt": "2020-08-26T21:13:24.000Z",
+      "likes": 2694623,
+      "replies": 50792,
+      "url": "https://x.com/IncredibleCulk/status/1298730289737293824",
+      "tags": [
+        "humor",
+        "pop-culture"
+      ],
+      "hasMedia": false
+    },
+    {
+      "id": "1256648835272605697",
+      "handle": "BTS_twt",
+      "name": "방탄소년단",
+      "avatar": "https://pbs.twimg.com/profile_images/2062551597289472000/yjtX0RBp_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "Never Not 💜 https://t.co/Ag9oUTJvrN",
+      "createdAt": "2020-05-02T18:16:44.000Z",
+      "likes": 3007746,
+      "replies": 671135,
+      "url": "https://x.com/BTS_twt/status/1256648835272605697",
+      "tags": [
+        "pop-culture"
+      ],
+      "hasMedia": true
+    },
+    {
+      "id": "120620074301267968",
+      "handle": "Louis_Tomlinson",
+      "name": "Louis Tomlinson",
+      "avatar": "https://pbs.twimg.com/profile_images/1970519493064695809/wicTrwC3_normal.jpg",
+      "verifiedAuthor": true,
+      "text": "Always in my heart @Harry_Styles . Yours sincerely, Louis",
+      "createdAt": "2011-10-02T22:04:01.000Z",
+      "likes": 1459932,
+      "replies": 389093,
+      "url": "https://x.com/Louis_Tomlinson/status/120620074301267968",
+      "tags": [
+        "pop-culture",
+        "iconic"
+      ],
+      "hasMedia": false
+    }
+  ]
+}
