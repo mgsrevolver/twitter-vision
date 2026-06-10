@@ -1,10 +1,8 @@
 "use client";
 
-import { useState } from "react";
-import { useRouter } from "next/navigation";
 import type { Lean, OnlineLevel, Tag } from "@/lib/types";
 
-const LEANS: { value: Lean; label: string; hint?: string }[] = [
+const LEANS: { value: Lean; label: string }[] = [
   { value: "progressive", label: "Progressive left" },
   { value: "liberal", label: "Liberal" },
   { value: "centrist", label: "Centrist" },
@@ -39,21 +37,18 @@ const ONLINE: { value: OnlineLevel; label: string; hint: string }[] = [
   { value: "terminal", label: "Terminally", hint: "fluent in posts with 43 likes" },
 ];
 
-export function SurveyForm() {
-  const router = useRouter();
-  const [lean, setLean] = useState<Lean>("none");
-  const [interests, setInterests] = useState<Tag[]>([]);
-  const [online, setOnline] = useState<OnlineLevel>("toomuch");
+interface SurveyFormProps {
+  lean: Lean;
+  onLeanChange: (l: Lean) => void;
+  interests: Tag[];
+  onInterestsChange: (i: Tag[]) => void;
+  online: OnlineLevel;
+  onOnlineChange: (o: OnlineLevel) => void;
+}
 
+export function SurveyForm({ lean, onLeanChange, interests, onInterestsChange, online, onOnlineChange }: SurveyFormProps) {
   function toggleInterest(t: Tag) {
-    setInterests((cur) => (cur.includes(t) ? cur.filter((x) => x !== t) : [...cur, t]));
-  }
-
-  function submit() {
-    const params = new URLSearchParams({ lean, online });
-    if (interests.length) params.set("i", interests.join(","));
-    params.set("s", Math.random().toString(36).slice(2, 8));
-    router.push(`/feed?${params}`);
+    onInterestsChange(interests.includes(t) ? interests.filter((x) => x !== t) : [...interests, t]);
   }
 
   const chip = (selected: boolean) =>
@@ -67,7 +62,7 @@ export function SurveyForm() {
         <legend className="mb-2 text-sm font-medium text-ink-soft">Where do they sit politically?</legend>
         <div className="flex flex-wrap gap-2">
           {LEANS.map((o) => (
-            <button key={o.value} type="button" onClick={() => setLean(o.value)} className={chip(lean === o.value)}>
+            <button key={o.value} type="button" onClick={() => onLeanChange(o.value)} className={chip(lean === o.value)}>
               {o.label}
             </button>
           ))}
@@ -78,12 +73,7 @@ export function SurveyForm() {
         <legend className="mb-2 text-sm font-medium text-ink-soft">Into what? (pick any)</legend>
         <div className="flex flex-wrap gap-2">
           {INTERESTS.map((o) => (
-            <button
-              key={o.value}
-              type="button"
-              onClick={() => toggleInterest(o.value)}
-              className={chip(interests.includes(o.value))}
-            >
+            <button key={o.value} type="button" onClick={() => toggleInterest(o.value)} className={chip(interests.includes(o.value))}>
               {o.label}
             </button>
           ))}
@@ -94,26 +84,12 @@ export function SurveyForm() {
         <legend className="mb-2 text-sm font-medium text-ink-soft">How online are they?</legend>
         <div className="flex flex-wrap gap-2">
           {ONLINE.map((o) => (
-            <button
-              key={o.value}
-              type="button"
-              onClick={() => setOnline(o.value)}
-              className={chip(online === o.value)}
-              title={o.hint}
-            >
+            <button key={o.value} type="button" onClick={() => onOnlineChange(o.value)} className={chip(online === o.value)} title={o.hint}>
               {o.label}
             </button>
           ))}
         </div>
       </fieldset>
-
-      <button
-        type="button"
-        onClick={submit}
-        className="w-full rounded-2xl bg-accent px-4 py-3 font-medium text-accent-ink shadow-sm transition-transform hover:scale-[1.01] active:scale-[0.99]"
-      >
-        Show me this person&apos;s feed →
-      </button>
     </div>
   );
 }

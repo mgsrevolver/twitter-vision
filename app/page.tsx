@@ -8,8 +8,8 @@ export default function Home() {
         their feed<span className="text-accent">.</span>
       </h1>
       <p className="mt-4 max-w-prose text-lg leading-relaxed text-ink-soft">
-        Walk a mile in someone else&apos;s timeline. Pick any account — or sketch a person — and we&apos;ll
-        simulate the feed their algorithm probably serves them. Every post is real and links to the original on X.
+        Walk a mile in someone else&apos;s timeline. Choose any popular account, and we&apos;ll simulate what they
+        might see based on their timeline and behavior.
       </p>
       <p className="mt-2 inline-block rounded-full bg-accent-soft px-3 py-1 text-xs text-ink">
         a simulation, not surveillance — no API, no login, nothing collected about you
@@ -20,7 +20,12 @@ export default function Home() {
         <TypeaheadSearch />
       </section>
 
-      <SketchAccordion />
+      <div className="mt-12 space-y-4 pb-16">
+        <p className="inline-block rounded-xl bg-accent-soft px-3 py-2 text-xs text-ink">
+          You can also spy on the timeline of an imaginary user based on a psychographic profile.
+        </p>
+        <SketchAccordion />
+      </div>
     </div>
   );
 }
