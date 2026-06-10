@@ -1687,6 +1687,14 @@
    ]
   },
   {
+   "handle": "LeBron",
+   "name": "LeBron James",
+   "followers": 52000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
    "handle": "BBCBreaking",
    "name": "BBC Breaking News",
    "followers": 51000000,
@@ -2155,6 +2163,23 @@
    ]
   },
   {
+   "handle": "MileyCyrus",
+   "name": "Miley Cyrus",
+   "followers": 47000000,
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "AmitShah",
+   "name": "Amit Shah",
+   "followers": 47000000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
    "handle": "ChampionsLeague",
    "name": "UEFA Champions League",
    "followers": 46000000,
@@ -2291,6 +2316,23 @@
    ]
   },
   {
+   "handle": "JLo",
+   "name": "Jennifer Lopez",
+   "followers": 45000000,
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "Usher",
+   "name": "Usher",
+   "followers": 44000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
    "handle": "iamsrk",
    "name": "Shah Rukh Khan",
    "followers": 43000000,
@@ -2423,6 +2465,14 @@
    ]
   },
   {
+   "handle": "KylieJenner",
+   "name": "Kylie Jenner",
+   "followers": 40000000,
+   "tags": [
+    "pop-culture"
+   ]
+  },
+  {
    "handle": "Drake",
    "name": "Drizzy",
    "followers": 39000000,
@@ -2486,6 +2536,14 @@
      "inPool": true,
      "why": "Raptors ambassador feature content"
     }
+   ]
+  },
+  {
+   "handle": "NiallOfficial",
+   "name": "Niall Horan",
+   "followers": 39000000,
+   "tags": [
+    "music"
    ]
   },
   {
@@ -3108,6 +3166,14 @@
    ]
   },
   {
+   "handle": "Louis_Tomlinson",
+   "name": "Louis Tomlinson",
+   "followers": 36000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
    "handle": "MrBeast",
    "name": "MrBeast",
    "followers": 35000000,
@@ -3291,6 +3357,15 @@
    ]
   },
   {
+   "handle": "50cent",
+   "name": "50cent",
+   "followers": 32000000,
+   "tags": [
+    "music",
+    "humor"
+   ]
+  },
+  {
    "handle": "HillaryClinton",
    "name": "Hillary Clinton",
    "followers": 31000000,
@@ -3417,6 +3492,22 @@
    ]
   },
   {
+   "handle": "KendallJenner",
+   "name": "Kendall",
+   "followers": 30000000,
+   "tags": [
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "kaka",
+   "name": "Kaká",
+   "followers": 30000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
    "handle": "NICKIMINAJ",
    "name": "Nicki Minaj",
    "followers": 28000000,
@@ -3539,6 +3630,14 @@
      "inPool": true,
      "why": "celebrity peer, events"
     }
+   ]
+  },
+  {
+   "handle": "KhloeKardashian",
+   "name": "Khloé",
+   "followers": 28000000,
+   "tags": [
+    "pop-culture"
    ]
   },
   {
@@ -3989,6 +4088,14 @@
    ]
   },
   {
+   "handle": "ActuallyNPH",
+   "name": "Neil Patrick Harris",
+   "followers": 26000000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
    "handle": "ChelseaFC",
    "name": "Chelsea FC",
    "followers": 25800000,
@@ -4171,6 +4278,14 @@
    ]
   },
   {
+   "handle": "Pitbull",
+   "name": "Pitbull",
+   "followers": 25000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
    "handle": "LFC",
    "name": "Liverpool FC",
    "followers": 24700000,
@@ -4223,6 +4338,14 @@
      "inPool": true,
      "why": "historic rivalry frequent banter"
     }
+   ]
+  },
+  {
+   "handle": "Maluma",
+   "name": "MALUMA",
+   "followers": 24000000,
+   "tags": [
+    "music"
    ]
   },
   {
@@ -4585,6 +4708,14 @@
    ]
   },
   {
+   "handle": "AvrilLavigne",
+   "name": "Avril Lavigne",
+   "followers": 22000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
    "handle": "KDTrey5",
    "name": "Kevin Durant",
    "followers": 21000000,
@@ -4858,6 +4989,15 @@
      "inPool": false,
      "why": "husband constant co-presence"
     }
+   ]
+  },
+  {
+   "handle": "MariahCarey",
+   "name": "Mariah Carey",
+   "followers": 21000000,
+   "tags": [
+    "music",
+    "pop-culture"
    ]
   },
   {
@@ -5687,6 +5827,14 @@
    ]
   },
   {
+   "handle": "RickyMartin",
+   "name": "Ricky Martin",
+   "followers": 18000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
    "handle": "ManCity",
    "name": "Manchester City",
    "followers": 17900000,
@@ -6094,6 +6242,14 @@
      "inPool": false,
      "why": "Thor co-star, Avengers banter"
     }
+   ]
+  },
+  {
+   "handle": "WayneRooney",
+   "name": "Wayne Rooney",
+   "followers": 17000000,
+   "tags": [
+    "sports"
    ]
   },
   {
@@ -6524,6 +6680,31 @@
    ]
   },
   {
+   "handle": "NickJonas",
+   "name": "Nick Jonas",
+   "followers": 16000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "xtina",
+   "name": "Christina Aguilera",
+   "followers": 16000000,
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ParisHilton",
+   "name": "Paris Hilton",
+   "followers": 16000000,
+   "tags": [
+    "pop-culture"
+   ]
+  },
+  {
    "handle": "9GAG",
    "name": "9GAG",
    "followers": 15500000,
@@ -6842,6 +7023,24 @@
      "inPool": false,
      "why": "longtime strategic collaborator"
     }
+   ]
+  },
+  {
+   "handle": "MTV",
+   "name": "MTV",
+   "followers": 15000000,
+   "tags": [
+    "pop-culture",
+    "music"
+   ]
+  },
+  {
+   "handle": "TomBrady",
+   "name": "Tom Brady",
+   "followers": 15000000,
+   "tags": [
+    "sports",
+    "iconic"
    ]
   },
   {
@@ -7196,6 +7395,32 @@
    ]
   },
   {
+   "handle": "jk_rowling",
+   "name": "J.K. Rowling",
+   "followers": 14000000,
+   "tags": [
+    "books",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "fifacom",
+   "name": "FIFA",
+   "followers": 14000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "JohnCena",
+   "name": "John Cena",
+   "followers": 14000000,
+   "tags": [
+    "sports",
+    "film-tv"
+   ]
+  },
+  {
    "handle": "UFC",
    "name": "UFC",
    "followers": 13000000,
@@ -7409,6 +7634,15 @@
      "inPool": false,
      "why": "parent company official account"
     }
+   ]
+  },
+  {
+   "handle": "johnlegend",
+   "name": "John Legend",
+   "followers": 13000000,
+   "tags": [
+    "music",
+    "politics-left"
    ]
   },
   {
@@ -7975,6 +8209,39 @@
    ]
   },
   {
+   "handle": "CarlosVives",
+   "name": "Carlos Vives",
+   "followers": 12000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "NovakDjokovic",
+   "name": "Novak Djokovic",
+   "followers": 12000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "MarvelStudios",
+   "name": "Marvel Studios",
+   "followers": 12000000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "SarahKSilverman",
+   "name": "Sarah Silverman",
+   "followers": 12000000,
+   "tags": [
+    "humor",
+    "politics-left"
+   ]
+  },
+  {
    "handle": "TheOnion",
    "name": "The Onion",
    "followers": 11400000,
@@ -8315,6 +8582,22 @@
      "inPool": true,
      "why": "political figure covered on CNN"
     }
+   ]
+  },
+  {
+   "handle": "KiDCuDi",
+   "name": "Kid Cudi",
+   "followers": 11000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "bigsean",
+   "name": "Sean Don",
+   "followers": 11000000,
+   "tags": [
+    "music"
    ]
   },
   {
@@ -9018,6 +9301,105 @@
    ]
   },
   {
+   "handle": "PostMalone",
+   "name": "Post Malone",
+   "followers": 10000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "gucci1017",
+   "name": "Gucci Mane",
+   "followers": 10000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "Ciara",
+   "name": "Ciara",
+   "followers": 10000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "CP3",
+   "name": "Chris Paul",
+   "followers": 10000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "warriors",
+   "name": "Golden State Warriors",
+   "followers": 10000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "redbullracing",
+   "name": "Oracle Red Bull Racing",
+   "followers": 10000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "MercedesAMGF1",
+   "name": "Mercedes-AMG PETRONAS F1 Team",
+   "followers": 10000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "BleacherReport",
+   "name": "Bleacher Report",
+   "followers": 10000000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "Nike",
+   "name": "Nike",
+   "followers": 10000000,
+   "tags": [
+    "sports",
+    "fitness"
+   ]
+  },
+  {
+   "handle": "SkyNews",
+   "name": "Sky News",
+   "followers": 10000000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "Bloomberg",
+   "name": "Bloomberg",
+   "followers": 10000000,
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "VinDiesel",
+   "name": "Vin Diesel",
+   "followers": 10000000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
    "handle": "usainbolt",
    "name": "Usain St. Leo Bolt",
    "followers": 9800000,
@@ -9538,6 +9920,58 @@
    ]
   },
   {
+   "handle": "applemusic",
+   "name": "Apple Music",
+   "followers": 9000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "DWade",
+   "name": "DWade",
+   "followers": 9000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "JuventusFC",
+   "name": "Juventus",
+   "followers": 9000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "UNICEF",
+   "name": "UNICEF",
+   "followers": 9000000,
+   "tags": [
+    "wholesome",
+    "media"
+   ]
+  },
+  {
+   "handle": "TheDailyShow",
+   "name": "The Daily Show",
+   "followers": 9000000,
+   "tags": [
+    "humor",
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "Bourdain",
+   "name": "Anthony Bourdain",
+   "followers": 9000000,
+   "tags": [
+    "food",
+    "iconic"
+   ]
+  },
+  {
    "handle": "SpursOfficial",
    "name": "Tottenham Hotspur",
    "followers": 8900000,
@@ -9668,6 +10102,15 @@
      "inPool": false,
      "why": "Sky Sports MNF co-host"
     }
+   ]
+  },
+  {
+   "handle": "piersmorgan",
+   "name": "Piers Morgan",
+   "followers": 8700000,
+   "tags": [
+    "media",
+    "pop-culture"
    ]
   },
   {
@@ -10194,6 +10637,81 @@
    ]
   },
   {
+   "handle": "BIGHIT_MUSIC",
+   "name": "BIGHIT MUSIC",
+   "followers": 8000000,
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "Ibra_official",
+   "name": "Zlatan Ibrahimović",
+   "followers": 8000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "ScuderiaFerrari",
+   "name": "Scuderia Ferrari",
+   "followers": 8000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "McLarenF1",
+   "name": "McLaren",
+   "followers": 8000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "FOXSports",
+   "name": "FOX Sports",
+   "followers": 8000000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "MarkRuffalo",
+   "name": "Mark Ruffalo",
+   "followers": 8000000,
+   "tags": [
+    "film-tv",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "jimmycarr",
+   "name": "Jimmy Carr",
+   "followers": 8000000,
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "jacksepticeye",
+   "name": "Jacksepticeye",
+   "followers": 8000000,
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "ANI",
+   "name": "ANI",
+   "followers": 7700000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
    "handle": "LilNasX",
    "name": "Lil Nas X",
    "followers": 7500000,
@@ -10445,6 +10963,14 @@
      "inPool": false,
      "why": "his team official account"
     }
+   ]
+  },
+  {
+   "handle": "U2",
+   "name": "U2",
+   "followers": 7500000,
+   "tags": [
+    "music"
    ]
   },
   {
@@ -10864,6 +11390,66 @@
      "inPool": true,
      "why": "rap community elder statesman"
     }
+   ]
+  },
+  {
+   "handle": "Missy_Elliott",
+   "name": "Missy Elliott",
+   "followers": 7000000,
+   "tags": [
+    "music",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "victoriajustice",
+   "name": "Victoria Justice",
+   "followers": 7000000,
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "TripleH",
+   "name": "Triple H",
+   "followers": 7000000,
+   "tags": [
+    "sports",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "ElizabethWarren",
+   "name": "Elizabeth Warren",
+   "followers": 7000000,
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "AnnaKendrick47",
+   "name": "Anna Kendrick",
+   "followers": 7000000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "TomHolland2013",
+   "name": "Tom Holland",
+   "followers": 7000000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "NickEh30",
+   "name": "Nick Eh 30",
+   "followers": 7000000,
+   "tags": [
+    "gaming"
    ]
   },
   {
@@ -12057,6 +12643,50 @@
    ]
   },
   {
+   "handle": "mikeshinoda",
+   "name": "Mike Shinoda",
+   "followers": 6000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "tonyhawk",
+   "name": "Tony Hawk",
+   "followers": 6000000,
+   "tags": [
+    "sports",
+    "wholesome",
+    "humor"
+   ]
+  },
+  {
+   "handle": "danawhite",
+   "name": "Dana White",
+   "followers": 6000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "VanityFair",
+   "name": "VANITY FAIR",
+   "followers": 6000000,
+   "tags": [
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "SimonPegg",
+   "name": "Simon Pegg",
+   "followers": 6000000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
    "handle": "MKBHD",
    "name": "Marques Brownlee",
    "followers": 5900000,
@@ -12881,6 +13511,23 @@
    ]
   },
   {
+   "handle": "EricTrump",
+   "name": "Eric Trump",
+   "followers": 5500000,
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "Snowden",
+   "name": "Edward Snowden",
+   "followers": 5500000,
+   "tags": [
+    "tech",
+    "media"
+   ]
+  },
+  {
    "handle": "charliekirk11",
    "name": "Charlie Kirk",
    "followers": 5400000,
@@ -13463,6 +14110,94 @@
    ]
   },
   {
+   "handle": "Offset",
+   "name": "OFFSET",
+   "followers": 5000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "blakegriffin23",
+   "name": "Blake Griffin",
+   "followers": 5000000,
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "MagicJohnson",
+   "name": "Earvin Magic Johnson",
+   "followers": 5000000,
+   "tags": [
+    "sports",
+    "finance"
+   ]
+  },
+  {
+   "handle": "MotoGP",
+   "name": "MotoGP",
+   "followers": 5000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "RomanReigns",
+   "name": "Roman Reigns",
+   "followers": 5000000,
+   "tags": [
+    "sports",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "MSNBC",
+   "name": "MSNBC",
+   "followers": 5000000,
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "ChrisHemsworth",
+   "name": "Chris Hemsworth",
+   "followers": 5000000,
+   "tags": [
+    "film-tv",
+    "fitness"
+   ]
+  },
+  {
+   "handle": "MarkWahlberg",
+   "name": "Mark Wahlberg",
+   "followers": 5000000,
+   "tags": [
+    "film-tv",
+    "fitness"
+   ]
+  },
+  {
+   "handle": "ThatKevinSmith",
+   "name": "Kevin Smith",
+   "followers": 5000000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "Cr1TiKaL",
+   "name": "Cr1TiKaL",
+   "followers": 5000000,
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
    "handle": "paulkrugman",
    "name": "Paul Krugman",
    "followers": 4800000,
@@ -13989,6 +14724,22 @@
      "inPool": true,
      "why": "sports media engagement"
     }
+   ]
+  },
+  {
+   "handle": "Patriots",
+   "name": "New England Patriots",
+   "followers": 4500000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "thehill",
+   "name": "The Hill",
+   "followers": 4500000,
+   "tags": [
+    "media"
    ]
   },
   {
@@ -15234,6 +15985,163 @@
    ]
   },
   {
+   "handle": "wyclef",
+   "name": "Wyclef Jean",
+   "followers": 4000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "PaulMcCartney",
+   "name": "Paul McCartney",
+   "followers": 4000000,
+   "tags": [
+    "music",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "EltonJohn",
+   "name": "Elton John",
+   "followers": 4000000,
+   "tags": [
+    "music",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "NPRMusic",
+   "name": "NPR Music",
+   "followers": 4000000,
+   "tags": [
+    "music",
+    "media"
+   ]
+  },
+  {
+   "handle": "ochocinco",
+   "name": "Chad Johnson",
+   "followers": 4000000,
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "Yankees",
+   "name": "New York Yankees",
+   "followers": 4000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Cubs",
+   "name": "Chicago Cubs",
+   "followers": 4000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "RedSox",
+   "name": "Red Sox",
+   "followers": 4000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Seahawks",
+   "name": "Seattle Seahawks",
+   "followers": 4000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "IanRapoport",
+   "name": "Ian Rapoport",
+   "followers": 4000000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "colincowherd",
+   "name": "Colin Cowherd",
+   "followers": 4000000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "kayleighmcenany",
+   "name": "Kayleigh McEnany",
+   "followers": 4000000,
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "GMA",
+   "name": "Good Morning America",
+   "followers": 4000000,
+   "tags": [
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "MelindaGates",
+   "name": "Melinda French Gates",
+   "followers": 4000000,
+   "tags": [
+    "wholesome",
+    "media"
+   ]
+  },
+  {
+   "handle": "cartoonnetwork",
+   "name": "Cartoon Network",
+   "followers": 4000000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "Pixar",
+   "name": "Pixar",
+   "followers": 4000000,
+   "tags": [
+    "film-tv",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "adultswim",
+   "name": "adult swim",
+   "followers": 4000000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "RainnWilson",
+   "name": "Rainn Wilson",
+   "followers": 4000000,
+   "tags": [
+    "film-tv",
+    "wholesome"
+   ]
+  },
+  {
    "handle": "saylor",
    "name": "Michael Saylor",
    "followers": 3900000,
@@ -15771,6 +16679,15 @@
    ]
   },
   {
+   "handle": "scooterbraun",
+   "name": "Scooter Braun",
+   "followers": 3800000,
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
    "handle": "FaZeClan",
    "name": "FaZe Clan",
    "followers": 3700000,
@@ -15990,6 +16907,15 @@
      "inPool": true,
      "why": "sports media commentator"
     }
+   ]
+  },
+  {
+   "handle": "LiamGallagher",
+   "name": "Liam Gallagher",
+   "followers": 3700000,
+   "tags": [
+    "music",
+    "humor"
    ]
   },
   {
@@ -16696,6 +17622,82 @@
      "inPool": true,
      "why": "hip-hop peer, same era"
     }
+   ]
+  },
+  {
+   "handle": "S_C_",
+   "name": "Mr. Carter",
+   "followers": 3500000,
+   "tags": [
+    "music",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "andymurray",
+   "name": "Andy Murray",
+   "followers": 3500000,
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "barstoolsports",
+   "name": "Barstool Sports",
+   "followers": 3500000,
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "DrSJaishankar",
+   "name": "Dr. S. Jaishankar",
+   "followers": 3500000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "AFP",
+   "name": "AFP News Agency",
+   "followers": 3500000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "ChuckSchumer",
+   "name": "Chuck Schumer",
+   "followers": 3500000,
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "ChelseaClinton",
+   "name": "Chelsea Clinton",
+   "followers": 3500000,
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "RealJamesWoods",
+   "name": "James Woods",
+   "followers": 3500000,
+   "tags": [
+    "politics-right",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "justinsuntron",
+   "name": "H.E. Justin Sun",
+   "followers": 3500000,
+   "tags": [
+    "crypto"
    ]
   },
   {
@@ -17522,6 +18524,132 @@
    "followers": 3000000,
    "tags": [
     "sports"
+   ]
+  },
+  {
+   "handle": "JoeJonas",
+   "name": "Joe Jonas",
+   "followers": 3000000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "Cavs",
+   "name": "Cleveland Cavaliers",
+   "followers": 3000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "JoelEmbiid",
+   "name": "Joel Embiid",
+   "followers": 3000000,
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "atptour",
+   "name": "ATP Tour",
+   "followers": 3000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "mattgaetz",
+   "name": "Matt Gaetz",
+   "followers": 3000000,
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "AlGore",
+   "name": "Al Gore",
+   "followers": 3000000,
+   "tags": [
+    "politics-left",
+    "science"
+   ]
+  },
+  {
+   "handle": "ABCWorldNews",
+   "name": "World News Tonight",
+   "followers": 3000000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "nypost",
+   "name": "New York Post",
+   "followers": 3000000,
+   "tags": [
+    "media",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "smithsonian",
+   "name": "Smithsonian",
+   "followers": 3000000,
+   "tags": [
+    "science",
+    "books"
+   ]
+  },
+  {
+   "handle": "DisneyPlus",
+   "name": "Disney+",
+   "followers": 3000000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "NathanFillion",
+   "name": "Nathan Fillion",
+   "followers": 3000000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "DisneyChannel",
+   "name": "Disney Channel",
+   "followers": 3000000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "RuPaulsDragRace",
+   "name": "RuPaul's Drag Race",
+   "followers": 3000000,
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "EpicGames",
+   "name": "Epic Games",
+   "followers": 3000000,
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "nadeshot",
+   "name": "Nadeshot",
+   "followers": 3000000,
+   "tags": [
+    "gaming"
    ]
   },
   {
@@ -19184,6 +20312,89 @@
    ]
   },
   {
+   "handle": "DraymondGreen",
+   "name": "Draymond Green",
+   "followers": 2500000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "nyjets",
+   "name": "New York Jets",
+   "followers": 2500000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "InterMilan",
+   "name": "Inter",
+   "followers": 2500000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Channel4News",
+   "name": "Channel 4 News",
+   "followers": 2500000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "FortuneMagazine",
+   "name": "FORTUNE",
+   "followers": 2500000,
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "JimmyKimmelLive",
+   "name": "Jimmy Kimmel Live",
+   "followers": 2500000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "DisneyAnimation",
+   "name": "Disney Animation",
+   "followers": 2500000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "JuddApatow",
+   "name": "Judd Apatow",
+   "followers": 2500000,
+   "tags": [
+    "humor",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "billburr",
+   "name": "Bill Burr",
+   "followers": 2500000,
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "PhilSpencer",
+   "name": "Phil Spencer",
+   "followers": 2500000,
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
    "handle": "shroud",
    "name": "shroud",
    "followers": 2400000,
@@ -20280,6 +21491,236 @@
    ]
   },
   {
+   "handle": "OrlandoBloom",
+   "name": "Orlando Bloom",
+   "followers": 2000000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "footballdaily",
+   "name": "Football Daily",
+   "followers": 2000000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "WTA",
+   "name": "wta",
+   "followers": 2000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Tennis",
+   "name": "Tennis Channel",
+   "followers": 2000000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "usopen",
+   "name": "US Open Tennis",
+   "followers": 2000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "NHLBruins",
+   "name": "Boston Bruins",
+   "followers": 2000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "GolfDigest",
+   "name": "Golf Digest",
+   "followers": 2000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "TSN_Sports",
+   "name": "TSN",
+   "followers": 2000000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "CodyRhodes",
+   "name": "Cody Rhodes",
+   "followers": 2000000,
+   "tags": [
+    "sports",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "VinceMcMahon",
+   "name": "Vince McMahon",
+   "followers": 2000000,
+   "tags": [
+    "sports",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "POTUS44",
+   "name": "President Obama (Archived)",
+   "followers": 2000000,
+   "tags": [
+    "politics-left",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "RashidaTlaib",
+   "name": "Rashida Tlaib",
+   "followers": 2000000,
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "ABCPolitics",
+   "name": "ABC News Politics",
+   "followers": 2000000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "PBS",
+   "name": "PBS",
+   "followers": 2000000,
+   "tags": [
+    "media",
+    "books"
+   ]
+  },
+  {
+   "handle": "antonioguterres",
+   "name": "António Guterres",
+   "followers": 2000000,
+   "tags": [
+    "media",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "AlRoker",
+   "name": "Al Roker",
+   "followers": 2000000,
+   "tags": [
+    "media",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "ev",
+   "name": "Evan Williams",
+   "followers": 2000000,
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "BenAffleck",
+   "name": "Ben Affleck",
+   "followers": 2000000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "StephenMerchant",
+   "name": "Stephen Merchant",
+   "followers": 2000000,
+   "tags": [
+    "humor",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "jacksfilms",
+   "name": "jacksfilms",
+   "followers": 2000000,
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "shondarhimes",
+   "name": "shonda rhimes",
+   "followers": 2000000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "BravoTV",
+   "name": "Bravo",
+   "followers": 2000000,
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "FallGuysGame",
+   "name": "Fall Guys",
+   "followers": 2000000,
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
+   "handle": "GameGrumps",
+   "name": "Game Grumps",
+   "followers": 2000000,
+   "tags": [
+    "gaming",
+    "humor"
+   ]
+  },
+  {
+   "handle": "tarik",
+   "name": "tarik",
+   "followers": 2000000,
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "thedankoe",
+   "name": "Dan Koe",
+   "followers": 2000000,
+   "tags": [
+    "books"
+   ]
+  },
+  {
+   "handle": "BurgerKing",
+   "name": "Burger King",
+   "followers": 2000000,
+   "tags": [
+    "food",
+    "humor"
+   ]
+  },
+  {
    "handle": "mehdirhasan",
    "name": "Mehdi Hasan",
    "followers": 1900000,
@@ -20850,6 +22291,24 @@
    ]
   },
   {
+   "handle": "greenpeace",
+   "name": "Greenpeace",
+   "followers": 1800000,
+   "tags": [
+    "science",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "timferriss",
+   "name": "Tim Ferriss",
+   "followers": 1800000,
+   "tags": [
+    "books",
+    "fitness"
+   ]
+  },
+  {
    "handle": "APompliano",
    "name": "Anthony Pompliano",
    "followers": 1700000,
@@ -21293,6 +22752,24 @@
    ]
   },
   {
+   "handle": "pennjillette",
+   "name": "Penn Jillette",
+   "followers": 1700000,
+   "tags": [
+    "humor",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "WarrenBuffett",
+   "name": "Warren Buffett",
+   "followers": 1700000,
+   "tags": [
+    "finance",
+    "iconic"
+   ]
+  },
+  {
    "handle": "hasanthehun",
    "name": "Hasan Piker",
    "followers": 1600000,
@@ -21663,6 +23140,15 @@
      "inPool": true,
      "why": "Fox News ally amplifying TPUSA content"
     }
+   ]
+  },
+  {
+   "handle": "johncusack",
+   "name": "John Cusack",
+   "followers": 1600000,
+   "tags": [
+    "film-tv",
+    "politics-left"
    ]
   },
   {
@@ -22473,6 +23959,137 @@
      "inPool": false,
      "why": "rival/peer MMA media outlet"
     }
+   ]
+  },
+  {
+   "handle": "oasis",
+   "name": "Oasis",
+   "followers": 1500000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "CaroWozniacki",
+   "name": "Caroline Wozniacki",
+   "followers": 1500000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "richeisen",
+   "name": "Rich Eisen",
+   "followers": 1500000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "DerekCarr",
+   "name": "Derek Carr",
+   "followers": 1500000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "AEW",
+   "name": "All Elite Wrestling",
+   "followers": 1500000,
+   "tags": [
+    "sports",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "Acyn",
+   "name": "Acyn",
+   "followers": 1500000,
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "donlemon",
+   "name": "Don Lemon",
+   "followers": 1500000,
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "thedailybeast",
+   "name": "The Daily Beast",
+   "followers": 1500000,
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "ta_nehisicoates",
+   "name": "Ta-Nehisi Coates",
+   "followers": 1500000,
+   "tags": [
+    "books",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "hulu",
+   "name": "hulu",
+   "followers": 1500000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "FamilyGuyonFOX",
+   "name": "Family Guy",
+   "followers": 1500000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "NickFrost",
+   "name": "Nick Frost",
+   "followers": 1500000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "bjnovak",
+   "name": "B.J. Novak",
+   "followers": 1500000,
+   "tags": [
+    "humor",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "SethMeyers",
+   "name": "Seth Meyers",
+   "followers": 1500000,
+   "tags": [
+    "humor",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "Popeyes",
+   "name": "Popeyes",
+   "followers": 1500000,
+   "tags": [
+    "food",
+    "humor"
    ]
   },
   {
@@ -23354,6 +24971,24 @@
      "inPool": false,
      "why": "Comedy peer, mutual engagement"
     }
+   ]
+  },
+  {
+   "handle": "GrimesMusic",
+   "name": "Grimes",
+   "followers": 1400000,
+   "tags": [
+    "music",
+    "tech",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "michaeljburry",
+   "name": "Michael Burry",
+   "followers": 1400000,
+   "tags": [
+    "finance"
    ]
   },
   {
@@ -24915,6 +26550,40 @@
    ]
   },
   {
+   "handle": "coleenroo",
+   "name": "Coleen Rooney",
+   "followers": 1200000,
+   "tags": [
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "elliottfriedman",
+   "name": "Elliotte Friedman",
+   "followers": 1200000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "GregAbbott_TX",
+   "name": "Greg Abbott",
+   "followers": 1200000,
+   "tags": [
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "ID_AA_Carmack",
+   "name": "John Carmack",
+   "followers": 1200000,
+   "tags": [
+    "tech",
+    "gaming"
+   ]
+  },
+  {
    "handle": "atrupar",
    "name": "Aaron Rupar",
    "followers": 1100000,
@@ -26115,6 +27784,217 @@
      "inPool": true,
      "why": "fellow sports insider cross-sport"
     }
+   ]
+  },
+  {
+   "handle": "iHeartRadio",
+   "name": "iHeartRadio",
+   "followers": 1000000,
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "AyeshaCurry",
+   "name": "Ayesha Curry",
+   "followers": 1000000,
+   "tags": [
+    "food",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "GayleKing",
+   "name": "Gayle King",
+   "followers": 1000000,
+   "tags": [
+    "media",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "FIAFormulaE",
+   "name": "Formula E",
+   "followers": 1000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "MLBONFOX",
+   "name": "MLB on FOX",
+   "followers": 1000000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "NHLPR",
+   "name": "NHL Public Relations",
+   "followers": 1000000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "WBCBoxing",
+   "name": "WBC",
+   "followers": 1000000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "Hikaru",
+   "name": "Hikaru Nakamura",
+   "followers": 1000000,
+   "tags": [
+    "gaming",
+    "sports"
+   ]
+  },
+  {
+   "handle": "MagnusCarlsen",
+   "name": "Magnus Carlsen",
+   "followers": 1000000,
+   "tags": [
+    "sports",
+    "gaming"
+   ]
+  },
+  {
+   "handle": "brendanschaub",
+   "name": "Brendan Schaub",
+   "followers": 1000000,
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "officialmcafee",
+   "name": "John McAfee",
+   "followers": 1000000,
+   "tags": [
+    "crypto",
+    "tech"
+   ]
+  },
+  {
+   "handle": "ITV",
+   "name": "ITV",
+   "followers": 1000000,
+   "tags": [
+    "media",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "BBCClick",
+   "name": "BBC Click",
+   "followers": 1000000,
+   "tags": [
+    "tech",
+    "media"
+   ]
+  },
+  {
+   "handle": "SteveBannon",
+   "name": "Steve Bannon",
+   "followers": 1000000,
+   "tags": [
+    "politics-right",
+    "media"
+   ]
+  },
+  {
+   "handle": "avclub",
+   "name": "The A.V. Club",
+   "followers": 1000000,
+   "tags": [
+    "film-tv",
+    "media"
+   ]
+  },
+  {
+   "handle": "StarTalkRadio",
+   "name": "StarTalk",
+   "followers": 1000000,
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "HunterSchafer",
+   "name": "Hunter Schafer",
+   "followers": 1000000,
+   "tags": [
+    "film-tv",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "AdamMcKay",
+   "name": "Adam McKay",
+   "followers": 1000000,
+   "tags": [
+    "film-tv",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "desusnice",
+   "name": "Desus Nice",
+   "followers": 1000000,
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "JackBlack",
+   "name": "Jack Black",
+   "followers": 1000000,
+   "tags": [
+    "film-tv",
+    "humor",
+    "music"
+   ]
+  },
+  {
+   "handle": "doublelift",
+   "name": "Doublelift",
+   "followers": 1000000,
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "stablekwon",
+   "name": "Do Kwon",
+   "followers": 1000000,
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
+   "handle": "SBF_FTX",
+   "name": "SBF",
+   "followers": 1000000,
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "Wu_Tang_Finance",
+   "name": "Wu Tang Finance",
+   "followers": 1000000,
+   "tags": [
+    "finance",
+    "humor"
    ]
   },
   {
@@ -29457,6 +31337,31 @@
    ]
   },
   {
+   "handle": "michiokaku",
+   "name": "Dr. Michio Kaku",
+   "followers": 800000,
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "chuckpalahniuk",
+   "name": "Chuck Palahniuk",
+   "followers": 800000,
+   "tags": [
+    "books"
+   ]
+  },
+  {
+   "handle": "ParikPatelCFA",
+   "name": "Dr. Parik Patel, BA, CFA, ACCA Esq.",
+   "followers": 800000,
+   "tags": [
+    "finance",
+    "humor"
+   ]
+  },
+  {
    "handle": "CryptoHayes",
    "name": "Arthur Hayes",
    "followers": 790000,
@@ -31187,6 +33092,136 @@
      "inPool": true,
      "why": "highlight reel anchor"
     }
+   ]
+  },
+  {
+   "handle": "idinamenzel",
+   "name": "Idina Menzel",
+   "followers": 700000,
+   "tags": [
+    "music",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "aryna_sabalenka",
+   "name": "Aryna Sabalenka",
+   "followers": 700000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "NHLJets",
+   "name": "Winnipeg Jets",
+   "followers": 700000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "davemeltzerWON",
+   "name": "Dave Meltzer",
+   "followers": 700000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "BBCBreakfast",
+   "name": "BBC Breakfast",
+   "followers": 700000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "VaticanNews",
+   "name": "Vatican News",
+   "followers": 700000,
+   "tags": [
+    "media",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "kurteichenwald",
+   "name": "Kurt Eichenwald",
+   "followers": 700000,
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "kenklippenstein",
+   "name": "Ken Klippenstein",
+   "followers": 700000,
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "yashar",
+   "name": "Yashar Ali",
+   "followers": 700000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "timberners_lee",
+   "name": "Tim Berners-Lee",
+   "followers": 700000,
+   "tags": [
+    "tech",
+    "science"
+   ]
+  },
+  {
+   "handle": "geoffreyhinton",
+   "name": "Geoffrey Hinton",
+   "followers": 700000,
+   "tags": [
+    "ai",
+    "science"
+   ]
+  },
+  {
+   "handle": "CornellBirds",
+   "name": "Cornell Lab of Ornithology",
+   "followers": 700000,
+   "tags": [
+    "animals",
+    "science"
+   ]
+  },
+  {
+   "handle": "RocketLab",
+   "name": "Rocket Lab",
+   "followers": 700000,
+   "tags": [
+    "science",
+    "tech"
+   ]
+  },
+  {
+   "handle": "gruber",
+   "name": "John Gruber",
+   "followers": 700000,
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "RampCapitalLLC",
+   "name": "Ramp Capital",
+   "followers": 700000,
+   "tags": [
+    "finance",
+    "humor"
    ]
   },
   {
@@ -33287,6 +35322,49 @@
    ]
   },
   {
+   "handle": "st_vincent",
+   "name": "St. Vincent",
+   "followers": 600000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "noahpinion",
+   "name": "Noah Smith",
+   "followers": 600000,
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "Desmond_Tutu",
+   "name": "Archbishop Desmond Tutu",
+   "followers": 600000,
+   "tags": [
+    "wholesome",
+    "iconic"
+   ]
+  },
+  {
+   "handle": "iamdevloper",
+   "name": "I Am Devloper",
+   "followers": 600000,
+   "tags": [
+    "tech",
+    "humor"
+   ]
+  },
+  {
+   "handle": "zhusu",
+   "name": "Su Zhu",
+   "followers": 600000,
+   "tags": [
+    "crypto"
+   ]
+  },
+  {
    "handle": "aparnapkin",
    "name": "Aparna Nancherla",
    "followers": 597000,
@@ -35384,6 +37462,160 @@
      "inPool": false,
      "why": "UK music media counterpart"
     }
+   ]
+  },
+  {
+   "handle": "KennyBeats",
+   "name": "KENNY",
+   "followers": 500000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "officialcharts",
+   "name": "Official Charts",
+   "followers": 500000,
+   "tags": [
+    "music",
+    "pop-culture"
+   ]
+  },
+  {
+   "handle": "BrandonStanton",
+   "name": "Brandon Stanton",
+   "followers": 500000,
+   "tags": [
+    "wholesome",
+    "books"
+   ]
+  },
+  {
+   "handle": "frank_seravalli",
+   "name": "Frank Seravalli",
+   "followers": 500000,
+   "tags": [
+    "sports",
+    "media"
+   ]
+  },
+  {
+   "handle": "livgolf_league",
+   "name": "LIV Golf",
+   "followers": 500000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "chess24",
+   "name": "chess24",
+   "followers": 500000,
+   "tags": [
+    "gaming",
+    "sports"
+   ]
+  },
+  {
+   "handle": "TonyKhan",
+   "name": "Tony Khan",
+   "followers": 500000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "zeynep",
+   "name": "zeynep tufekci",
+   "followers": 500000,
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "VaushV",
+   "name": "Vaush",
+   "followers": 500000,
+   "tags": [
+    "politics-left",
+    "media"
+   ]
+  },
+  {
+   "handle": "SciShow",
+   "name": "SciShow",
+   "followers": 500000,
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "randmunroe",
+   "name": "Randall Munroe",
+   "followers": 500000,
+   "tags": [
+    "science",
+    "humor"
+   ]
+  },
+  {
+   "handle": "craigmazin",
+   "name": "Craig Mazin",
+   "followers": 500000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "MartinShort",
+   "name": "Martin Short",
+   "followers": 500000,
+   "tags": [
+    "humor",
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "RealLucyLawless",
+   "name": "Lucy Lawless",
+   "followers": 500000,
+   "tags": [
+    "film-tv"
+   ]
+  },
+  {
+   "handle": "AlexBerenson",
+   "name": "Alex Berenson",
+   "followers": 500000,
+   "tags": [
+    "media",
+    "politics-right"
+   ]
+  },
+  {
+   "handle": "straczynski",
+   "name": "J. Michael Straczynski",
+   "followers": 500000,
+   "tags": [
+    "film-tv",
+    "books"
+   ]
+  },
+  {
+   "handle": "PhilipPullman",
+   "name": "Philip Pullman",
+   "followers": 500000,
+   "tags": [
+    "books"
+   ]
+  },
+  {
+   "handle": "BretEastonEllis",
+   "name": "Bret Easton Ellis",
+   "followers": 500000,
+   "tags": [
+    "books"
    ]
   },
   {
@@ -37955,6 +40187,93 @@
      "inPool": true,
      "why": "progressive media peer they engage"
     }
+   ]
+  },
+  {
+   "handle": "TierraWhack",
+   "name": "Tierra Whack",
+   "followers": 400000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "billmckibben",
+   "name": "Bill McKibben",
+   "followers": 400000,
+   "tags": [
+    "science",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "MaxBlumenthal",
+   "name": "Max Blumenthal",
+   "followers": 400000,
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "AaronMate_",
+   "name": "Aaron Maté",
+   "followers": 400000,
+   "tags": [
+    "media",
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "carlquintanilla",
+   "name": "Carl Quintanilla",
+   "followers": 400000,
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "APStylebook",
+   "name": "AP Stylebook",
+   "followers": 400000,
+   "tags": [
+    "books",
+    "media"
+   ]
+  },
+  {
+   "handle": "SparkNotes",
+   "name": "SparkNotes",
+   "followers": 400000,
+   "tags": [
+    "books",
+    "humor"
+   ]
+  },
+  {
+   "handle": "Pilestedt",
+   "name": "Johan Pilestedt",
+   "followers": 400000,
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "SwiftOnSecurity",
+   "name": "SwiftOnSecurity",
+   "followers": 400000,
+   "tags": [
+    "tech",
+    "humor"
+   ]
+  },
+  {
+   "handle": "nic_carter",
+   "name": "nic carter",
+   "followers": 400000,
+   "tags": [
+    "crypto"
    ]
   },
   {
@@ -41221,6 +43540,107 @@
    ]
   },
   {
+   "handle": "LaverCup",
+   "name": "Laver Cup",
+   "followers": 300000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "secretbase",
+   "name": "Secret Base",
+   "followers": 300000,
+   "tags": [
+    "sports",
+    "humor"
+   ]
+  },
+  {
+   "handle": "CowboyFB",
+   "name": "Cowboy Football",
+   "followers": 300000,
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "handle": "davidfaber",
+   "name": "David Faber",
+   "followers": 300000,
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "gvanrossum",
+   "name": "Guido van Rossum",
+   "followers": 300000,
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "BronxZoo",
+   "name": "Bronx Zoo",
+   "followers": 300000,
+   "tags": [
+    "animals",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "AlexBorstein",
+   "name": "Alex Borstein",
+   "followers": 300000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "MikeDrucker",
+   "name": "Mike Drucker",
+   "followers": 300000,
+   "tags": [
+    "humor",
+    "gaming"
+   ]
+  },
+  {
+   "handle": "AnthonyHorowitz",
+   "name": "Anthony Horowitz",
+   "followers": 300000,
+   "tags": [
+    "books"
+   ]
+  },
+  {
+   "handle": "swen_vincke",
+   "name": "Swen Vincke",
+   "followers": 300000,
+   "tags": [
+    "gaming"
+   ]
+  },
+  {
+   "handle": "LiorOnAI",
+   "name": "Lior",
+   "followers": 300000,
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "handle": "michaelbatnick",
+   "name": "Michael Batnick",
+   "followers": 300000,
+   "tags": [
+    "finance"
+   ]
+  },
+  {
    "handle": "sassal0x",
    "name": "Anthony Sassano",
    "followers": 297000,
@@ -42728,6 +45148,15 @@
      "inPool": false,
      "why": "conservative movement ally"
     }
+   ]
+  },
+  {
+   "handle": "MoonOverlord",
+   "name": "Moon Overlord",
+   "followers": 250000,
+   "tags": [
+    "crypto",
+    "humor"
    ]
   },
   {
@@ -44519,6 +46948,124 @@
      "inPool": false,
      "why": "wildlife-specific NatGeo channel"
     }
+   ]
+  },
+  {
+   "handle": "stevenpage",
+   "name": "Steven Page",
+   "followers": 200000,
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "handle": "SandhuTaranjitS",
+   "name": "Taranjit Singh Sandhu",
+   "followers": 200000,
+   "tags": [
+    "media"
+   ]
+  },
+  {
+   "handle": "colorofchange",
+   "name": "ColorOfChange",
+   "followers": 200000,
+   "tags": [
+    "politics-left"
+   ]
+  },
+  {
+   "handle": "ESYudkowsky",
+   "name": "Eliezer Yudkowsky",
+   "followers": 200000,
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "handle": "fieldmuseum",
+   "name": "Field Museum",
+   "followers": 200000,
+   "tags": [
+    "science",
+    "wholesome"
+   ]
+  },
+  {
+   "handle": "jeff_foust",
+   "name": "Jeff Foust",
+   "followers": 200000,
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "CNSpaceflight",
+   "name": "China Spaceflight",
+   "followers": 200000,
+   "tags": [
+    "science"
+   ]
+  },
+  {
+   "handle": "AlJean",
+   "name": "Al Jean",
+   "followers": 200000,
+   "tags": [
+    "film-tv",
+    "humor"
+   ]
+  },
+  {
+   "handle": "JoyceCarolOates",
+   "name": "Joyce Carol Oates",
+   "followers": 200000,
+   "tags": [
+    "books"
+   ]
+  },
+  {
+   "handle": "siracusa",
+   "name": "John Siracusa",
+   "followers": 200000,
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "PolymarketIntel",
+   "name": "Polymarket Intel",
+   "followers": 200000,
+   "tags": [
+    "crypto",
+    "finance"
+   ]
+  },
+  {
+   "handle": "OddLots",
+   "name": "Odd Lots",
+   "followers": 200000,
+   "tags": [
+    "finance",
+    "media"
+   ]
+  },
+  {
+   "handle": "Charmin",
+   "name": "Charmin",
+   "followers": 200000,
+   "tags": [
+    "humor"
+   ]
+  },
+  {
+   "handle": "AnthonyDiComo",
+   "name": "Anthony DiComo",
+   "followers": 200000,
+   "tags": [
+    "sports",
+    "media"
    ]
   },
   {
@@ -46400,6 +48947,15 @@
      "inPool": false,
      "why": "USGS/geology content crossover"
     }
+   ]
+  },
+  {
+   "handle": "brianmctaggart",
+   "name": "Brian McTaggart",
+   "followers": 150000,
+   "tags": [
+    "sports",
+    "media"
    ]
   },
   {
@@ -48562,6 +51118,41 @@
    ]
   },
   {
+   "handle": "apoorvamd",
+   "name": "Apoorva Mandavilli",
+   "followers": 100000,
+   "tags": [
+    "science",
+    "media"
+   ]
+  },
+  {
+   "handle": "forrestbrazeal",
+   "name": "Forrest Brazeal",
+   "followers": 100000,
+   "tags": [
+    "tech",
+    "humor"
+   ]
+  },
+  {
+   "handle": "danbenjamin",
+   "name": "Dan Benjamin",
+   "followers": 100000,
+   "tags": [
+    "tech"
+   ]
+  },
+  {
+   "handle": "jonwu_",
+   "name": "jon wu",
+   "followers": 100000,
+   "tags": [
+    "crypto",
+    "humor"
+   ]
+  },
+  {
    "handle": "DadBoner",
    "name": "Karl Welzein",
    "followers": 99000,
@@ -50227,6 +52818,14 @@
    ]
   },
   {
+   "handle": "NWSVegas",
+   "name": "NWS Las Vegas",
+   "followers": 80000,
+   "tags": [
+    "science"
+   ]
+  },
+  {
    "handle": "Kristen_Arnett",
    "name": "Kristen Arnett",
    "followers": 76000,
@@ -51594,6 +54193,14 @@
    ]
   },
   {
+   "handle": "PaperFury",
+   "name": "CG Drews",
+   "followers": 60000,
+   "tags": [
+    "books"
+   ]
+  },
+  {
    "handle": "harikunzru",
    "name": "Hari Kunzru",
    "followers": 59000,
@@ -52357,6 +54964,14 @@
      "inPool": false,
      "why": "Cornell Lab bird science"
     }
+   ]
+  },
+  {
+   "handle": "BBCPhilipSim",
+   "name": "Philip Sim",
+   "followers": 50000,
+   "tags": [
+    "media"
    ]
   },
   {

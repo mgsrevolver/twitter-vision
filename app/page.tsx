@@ -5,11 +5,10 @@ export default function Home() {
   return (
     <div className="mx-auto w-full max-w-2xl px-4 pt-16 sm:pt-24">
       <h1 className="font-[family-name:var(--font-fraunces)] text-5xl font-medium tracking-tight sm:text-6xl">
-        their feed<span className="text-accent">.</span>
+        <span className="headline-shimmer">their feed</span><span className="accent-pulse text-accent">.</span>
       </h1>
       <p className="mt-4 max-w-prose text-lg leading-relaxed text-ink-soft">
-        Walk a mile in someone else&apos;s timeline. Choose any popular account, and we&apos;ll simulate what they
-        might see based on their timeline and behavior.
+        Choose any popular twitter account, and we&apos;ll simulate their feed, notifications, and more.
       </p>
       <p className="mt-2 inline-block rounded-full bg-accent-soft px-3 py-1 text-xs text-ink">
         a simulation, not surveillance — no API, no login, nothing collected about you

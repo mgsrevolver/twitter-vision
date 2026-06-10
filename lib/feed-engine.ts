@@ -146,6 +146,18 @@ function popularityFactor(tweet: CorpusTweet, online: OnlineLevel): number {
 }
 
 /**
+ * X's published heavy-ranker weights price a reply at 27x a like (13.5 vs
+ * 0.5) — the algorithm optimizes for conversation, not applause. So posts
+ * that start reply-storms punch above their like counts. The +200 damps
+ * small-sample noise; the cap keeps freak ratios from owning a feed.
+ * Corpus median reply/(likes+200) is ~0.03 (≈ neutral), p90 ~0.16 (≈ 1.4x).
+ */
+function conversationFactor(tweet: CorpusTweet): number {
+  const ratio = (tweet.replies ?? 0) / ((tweet.likes ?? 0) + 200);
+  return 1 + Math.min(0.75, 2.5 * ratio);
+}
+
+/**
  * Mild recency preference. The cards conceal real dates behind simulated
  * relative timestamps, but fresher material still reads truer.
  */
@@ -170,7 +182,7 @@ const AUTHOR_POLITICS = new Map<string, Tag[]>(
 function tweetScore(tweet: CorpusTweet, profile: Profile, skipAvoid = false): number {
   let s = 0.04; // every real tweet has a nonzero shot — algorithms are weird
   for (const t of tweet.tags) s += profile.tagWeights[t] ?? 0;
-  s *= popularityFactor(tweet, profile.online) * recencyFactor(tweet);
+  s *= popularityFactor(tweet, profile.online) * recencyFactor(tweet) * conversationFactor(tweet);
   if (!skipAvoid && profile.avoid) {
     const effective = new Set<Tag>(tweet.tags);
     for (const t of AUTHOR_POLITICS.get(tweet.handle.toLowerCase()) ?? []) effective.add(t);
@@ -216,20 +228,22 @@ export function assembleFeed(profile: Profile, seed: string): FeedItem[] {
   const rng = rngFor(`${profile.displayName}|${seed}`);
   const pool = CORPUS.filter((t) => isCurrentEnough(t) && t.handle.toLowerCase() !== profile.handle?.toLowerCase());
 
-  // graph-adjacent handles → the circle member who links there. Survey
+  // graph-adjacent handles → every circle member who links there. Survey
   // personas have no circle, so their best-matching accounts stand in as a
-  // pseudo-follow graph — same fallback the Following tab uses.
-  const adjacentVia = new Map<string, string>();
+  // pseudo-follow graph (empty via list) — same fallback the Following tab uses.
+  const adjacentVia = new Map<string, string[]>();
   if (profile.circle) {
     for (const member of Object.keys(profile.circle)) {
       for (const c of ACCOUNT_BY_HANDLE.get(member)?.circle ?? []) {
         const h = c.handle.toLowerCase();
-        if (h === profile.handle?.toLowerCase() || profile.circle[h] || adjacentVia.has(h)) continue;
-        adjacentVia.set(h, member);
+        if (h === profile.handle?.toLowerCase() || profile.circle[h]) continue;
+        const vias = adjacentVia.get(h) ?? [];
+        if (!vias.includes(member)) vias.push(member);
+        adjacentVia.set(h, vias);
       }
     }
   } else {
-    for (const a of matchingAccounts(profile, 12)) adjacentVia.set(a.handle.toLowerCase(), "");
+    for (const a of matchingAccounts(profile, 12)) adjacentVia.set(a.handle.toLowerCase(), []);
   }
 
   const engaged: Candidate[] = [];
@@ -242,7 +256,10 @@ export function assembleFeed(profile: Profile, seed: string): FeedItem[] {
     if (profile.circle?.[h]) {
       engaged.push({ t, score: tweetScore(t, profile, true) + 0.6 });
     } else if (adjacentVia.has(h)) {
-      adjacent.push({ t, score: tweetScore(t, profile) + 0.3 });
+      // UTEG-style social proof: an author connected to several circle
+      // members outranks one connected to a single member
+      const proof = Math.max(1, adjacentVia.get(h)!.length);
+      adjacent.push({ t, score: tweetScore(t, profile) + 0.3 * Math.min(3, proof) });
     } else {
       discovery.push({ t, score: tweetScore(t, profile) });
     }
@@ -364,7 +381,7 @@ function reasonFor(
   profile: Profile,
   rng: () => number,
   tier: FeedTier,
-  adjacentVia: Map<string, string>,
+  adjacentVia: Map<string, string[]>,
 ): string {
   const why = profile.circle?.[tweet.handle.toLowerCase()];
   if (why) {
@@ -377,11 +394,19 @@ function reasonFor(
   }
   const who = profile.source === "handle" ? `@${profile.handle}` : "this feed";
   if (tier === "adjacent") {
-    const via = adjacentVia.get(tweet.handle.toLowerCase());
-    if (via) {
+    const vias = adjacentVia.get(tweet.handle.toLowerCase()) ?? [];
+    if (vias.length >= 2) {
       const options = [
-        `@${tweet.handle} · followed by @${via}`,
-        `Because @${via} engages with @${tweet.handle}`,
+        `Followed by @${vias[0]} and @${vias[1]}`,
+        `Because @${vias[0]} and @${vias[1]} both engage with @${tweet.handle}`,
+        `@${tweet.handle} · followed by @${vias[0]} and others ${who} follows`,
+      ];
+      return pick(rng, options);
+    }
+    if (vias.length === 1) {
+      const options = [
+        `@${tweet.handle} · followed by @${vias[0]}`,
+        `Because @${vias[0]} engages with @${tweet.handle}`,
         `Followed by people ${who} follows`,
       ];
       return pick(rng, options);
