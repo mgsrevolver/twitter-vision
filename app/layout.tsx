@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Fraunces, Inter } from "next/font/google";
 import Link from "next/link";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import { SITE_URL } from "@/lib/site";
 import "./globals.css";
 
@@ -23,6 +24,7 @@ export default function RootLayout({
     <html lang="en" className={`${inter.variable} ${fraunces.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col">
         <main className="flex-1">{children}</main>
+        <SpeedInsights />
         <footer className="mx-auto w-full max-w-2xl px-4 py-10 text-center text-xs leading-relaxed text-ink-soft">
           <p>
             <Link href="/" className="font-[family-name:var(--font-fraunces)] text-sm text-ink">
