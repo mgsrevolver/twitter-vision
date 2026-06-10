@@ -11,11 +11,17 @@ const FEED_LENGTH = 18;
 const HUMOR_FLOOR = 0.3;
 
 /**
- * Share of feed slots reserved for accounts the person ACTUALLY interacts
- * with — the strongest verisimilitude signal we have. Mirrors how the real
- * algorithm splits in-network from out-of-network content.
+ * Target slot shares per signal tier, strongest first: accounts the person
+ * ACTUALLY engages with, then the engagement graph one hop out (people their
+ * circle engages with — how the real algorithm sources out-of-network posts),
+ * and only the remainder falls through to tag-weighted discovery. Each tier
+ * is capped by what its pool can sustain at ~2 cards per author, so thin
+ * circles degrade gracefully instead of repeating the same three people.
  */
-const CIRCLE_SHARE = 0.5;
+const ENGAGED_TARGET = 0.5;
+const ADJACENT_TARGET = 0.3;
+
+type FeedTier = "engaged" | "adjacent" | "discovery";
 
 /**
  * Cards wear simulated "3m/7h ago" timestamps, so a 2023 news clip on a
@@ -151,6 +157,8 @@ function recencyFactor(tweet: CorpusTweet): number {
   return 0.75;
 }
 
+const ACCOUNT_BY_HANDLE = new Map<string, Account>(ACCOUNTS.map((a) => [a.handle.toLowerCase(), a]));
+
 /** Author-level politics: a commentator's apolitical posts still carry their lean. */
 const AUTHOR_POLITICS = new Map<string, Tag[]>(
   ACCOUNTS.filter((a) => a.tags.some((t) => t === "politics-left" || t === "politics-right")).map((a) => [
@@ -199,35 +207,72 @@ function drawWeighted(rng: () => number, candidates: Candidate[]): CorpusTweet {
 
 /**
  * Weighted sample without replacement, deterministic for a given key.
- * Stratified: when a curated interaction circle exists, ~half the slots
- * come from accounts the person actually engages with (in-network),
- * the rest from interest-weighted discovery (out-of-network).
+ * Stratified into three signal tiers: accounts the person actually engages
+ * with, then their circle's circle (graph-adjacent "followed" territory),
+ * then interest-weighted discovery. Tier shares adapt to pool depth so a
+ * sparse circle falls through to weaker signals instead of repeating itself.
  */
 export function assembleFeed(profile: Profile, seed: string): FeedItem[] {
   const rng = rngFor(`${profile.displayName}|${seed}`);
   const pool = CORPUS.filter((t) => isCurrentEnough(t) && t.handle.toLowerCase() !== profile.handle?.toLowerCase());
-  const items: CorpusTweet[] = [];
-  const inNetwork: Candidate[] = [];
+
+  // graph-adjacent handles → the circle member who links there. Survey
+  // personas have no circle, so their best-matching accounts stand in as a
+  // pseudo-follow graph — same fallback the Following tab uses.
+  const adjacentVia = new Map<string, string>();
+  if (profile.circle) {
+    for (const member of Object.keys(profile.circle)) {
+      for (const c of ACCOUNT_BY_HANDLE.get(member)?.circle ?? []) {
+        const h = c.handle.toLowerCase();
+        if (h === profile.handle?.toLowerCase() || profile.circle[h] || adjacentVia.has(h)) continue;
+        adjacentVia.set(h, member);
+      }
+    }
+  } else {
+    for (const a of matchingAccounts(profile, 12)) adjacentVia.set(a.handle.toLowerCase(), "");
+  }
+
+  const engaged: Candidate[] = [];
+  const adjacent: Candidate[] = [];
   const discovery: Candidate[] = [];
   for (const t of pool) {
+    const h = t.handle.toLowerCase();
     // circle members skip the avoid penalty — hate-follows and dunk targets
     // are real engagement, and the curators encoded them on purpose
-    if (profile.circle?.[t.handle.toLowerCase()]) {
-      inNetwork.push({ t, score: tweetScore(t, profile, true) + 0.6 });
+    if (profile.circle?.[h]) {
+      engaged.push({ t, score: tweetScore(t, profile, true) + 0.6 });
+    } else if (adjacentVia.has(h)) {
+      adjacent.push({ t, score: tweetScore(t, profile) + 0.3 });
     } else {
       discovery.push({ t, score: tweetScore(t, profile) });
     }
   }
-  const authorCount = new Map<string, number>();
-  while (items.length < Math.min(FEED_LENGTH, pool.length) && (inNetwork.length || discovery.length)) {
-    const fromCircle = inNetwork.length > 0 && (discovery.length === 0 || rng() < CIRCLE_SHARE);
-    const chosen = drawWeighted(rng, fromCircle ? inNetwork : discovery);
+
+  // a tier can only sustain ~2 cards per distinct author before it repeats
+  const sustainable = (c: Candidate[]) => (2 * new Set(c.map((x) => x.t.handle)).size) / FEED_LENGTH;
+  const engagedShare = Math.min(ENGAGED_TARGET, sustainable(engaged));
+  const adjacentShare = Math.min(ADJACENT_TARGET, sustainable(adjacent));
+
+  const tierOf = new Map<string, FeedTier>();
+  const items: CorpusTweet[] = [];
+  while (items.length < Math.min(FEED_LENGTH, pool.length) && (engaged.length || adjacent.length || discovery.length)) {
+    const roll = rng();
+    const tier: FeedTier =
+      engaged.length && roll < engagedShare
+        ? "engaged"
+        : adjacent.length && roll < engagedShare + adjacentShare
+          ? "adjacent"
+          : discovery.length
+            ? "discovery"
+            : engaged.length
+              ? "engaged"
+              : "adjacent";
+    const chosen = drawWeighted(rng, tier === "engaged" ? engaged : tier === "adjacent" ? adjacent : discovery);
+    tierOf.set(chosen.id, tier);
     items.push(chosen);
     // soft per-author cap: each appearance dampens that author's remaining scores
-    const n = (authorCount.get(chosen.handle) ?? 0) + 1;
-    authorCount.set(chosen.handle, n);
-    for (const c of inNetwork) if (c.t.handle === chosen.handle) c.score *= 0.2;
-    for (const c of discovery) if (c.t.handle === chosen.handle) c.score *= 0.2;
+    for (const cands of [engaged, adjacent, discovery])
+      for (const c of cands) if (c.t.handle === chosen.handle) c.score *= 0.2;
   }
   // avoid the same author twice in a row — cheap pass, keeps it feeling curated
   for (let i = 1; i < items.length; i++) {
@@ -241,7 +286,8 @@ export function assembleFeed(profile: Profile, seed: string): FeedItem[] {
   return items.map((tweet) => {
     const ago = minutes < 60 ? `${minutes}m` : `${Math.min(23, Math.round(minutes / 60))}h`;
     minutes += 4 + Math.floor(rng() * 110);
-    return { tweet, reason: reasonFor(tweet, profile, rng), ago, stats: simulatedStats(tweet) };
+    const reason = reasonFor(tweet, profile, rng, tierOf.get(tweet.id) ?? "discovery", adjacentVia);
+    return { tweet, reason, ago, stats: simulatedStats(tweet) };
   });
 }
 
@@ -313,7 +359,13 @@ const TAG_LABEL: Record<Tag, string> = {
   iconic: "Throwback",
 };
 
-function reasonFor(tweet: CorpusTweet, profile: Profile, rng: () => number): string {
+function reasonFor(
+  tweet: CorpusTweet,
+  profile: Profile,
+  rng: () => number,
+  tier: FeedTier,
+  adjacentVia: Map<string, string>,
+): string {
   const why = profile.circle?.[tweet.handle.toLowerCase()];
   if (why) {
     const options = [
@@ -323,12 +375,28 @@ function reasonFor(tweet: CorpusTweet, profile: Profile, rng: () => number): str
     ];
     return pick(rng, options);
   }
+  const who = profile.source === "handle" ? `@${profile.handle}` : "this feed";
+  if (tier === "adjacent") {
+    const via = adjacentVia.get(tweet.handle.toLowerCase());
+    if (via) {
+      const options = [
+        `@${tweet.handle} · followed by @${via}`,
+        `Because @${via} engages with @${tweet.handle}`,
+        `Followed by people ${who} follows`,
+      ];
+      return pick(rng, options);
+    }
+    const options = [
+      `From @${tweet.handle} · followed by accounts like this one`,
+      `@${tweet.handle} posts what ${who} is into`,
+    ];
+    return pick(rng, options);
+  }
+  // true discovery — the only tier that earns the generic "Popular in X" dressing
   const matching = tweet.tags.filter((t) => (profile.tagWeights[t] ?? 0) >= 1);
   const topic = TAG_LABEL[matching[0] ?? tweet.tags[0]] ?? "the timeline";
-  const who = profile.source === "handle" ? `@${profile.handle}` : "people like this";
   const options = [
     `Popular in ${topic}`,
-    `Trending with accounts ${who} follows`,
     `Because ${who} engaged with similar posts`,
     `${topic} · Suggested for this feed`,
     tweet.tags.includes("iconic") ? "Resurfaced classic · the algorithm never forgets" : `Popular in ${topic}`,

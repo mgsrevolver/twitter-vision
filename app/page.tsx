@@ -1,5 +1,5 @@
 import { TypeaheadSearch } from "@/components/typeahead-search";
-import { SurveyForm } from "@/components/survey-form";
+import { SketchAccordion } from "@/components/sketch-accordion";
 
 export default function Home() {
   return (
@@ -15,21 +15,12 @@ export default function Home() {
         a simulation, not surveillance — no API, no login, nothing collected about you
       </p>
 
-      <section className="mt-12">
-        <h2 className="mb-3 font-[family-name:var(--font-fraunces)] text-2xl">Spy on a timeline</h2>
+      <section className="mt-14">
+        <h2 className="mb-4 font-[family-name:var(--font-fraunces)] text-3xl">Spy on a timeline</h2>
         <TypeaheadSearch />
       </section>
 
-      <div className="my-10 flex items-center gap-4 text-sm text-ink-soft">
-        <span className="h-px flex-1 bg-line" />
-        or describe a person instead
-        <span className="h-px flex-1 bg-line" />
-      </div>
-
-      <section>
-        <h2 className="mb-3 font-[family-name:var(--font-fraunces)] text-2xl">Sketch a person instead</h2>
-        <SurveyForm />
-      </section>
+      <SketchAccordion />
     </div>
   );
 }
