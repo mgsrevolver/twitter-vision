@@ -2,10 +2,11 @@ import Link from "next/link";
 import { assembleFeed, assembleFollowingFeed, matchingAccounts, CORPUS } from "@/lib/feed-engine";
 import { findAccount } from "@/lib/accounts";
 import { formatCount } from "@/lib/format";
-import { formatNotificationCount, notificationCount } from "@/lib/notifications";
+import { notificationCount } from "@/lib/notifications";
 import type { Profile } from "@/lib/types";
 import { TweetCard } from "@/components/tweet-card";
 import { FeedShell } from "@/components/feed-shell";
+import { LivePulse } from "@/components/live-pulse";
 
 /** Most recent stored avatar for an account that authored corpus tweets. */
 export function corpusAvatar(handle?: string): string | null {
@@ -35,16 +36,33 @@ export function FeedView({
   const followers =
     followersOverride ?? (profile.handle ? (findAccount(profile.handle)?.followers ?? 50_000) : 1_200);
   const unread = notificationCount(followers, seed, profile.handle);
-  const notifBadge = unread > 0 ? formatNotificationCount(unread) : "";
+
+  // accounts appearing in this scroll session — art for the live pill + banners
+  const seen = new Set<string>();
+  const liveAccounts: { avatar: string | null; name: string }[] = [];
+  for (const item of feed) {
+    const h = item.tweet.handle.toLowerCase();
+    if (seen.has(h)) continue;
+    seen.add(h);
+    liveAccounts.push({ avatar: item.tweet.avatar, name: item.tweet.name });
+    if (liveAccounts.length >= 8) break;
+  }
 
   return (
     <FeedShell
       displayName={profile.displayName}
       handle={profile.handle}
       avatarSrc={avatarSrc}
-      notifBadge={notifBadge}
+      unread={unread}
     >
       <div className="mx-auto w-full max-w-xl border-x border-line min-h-screen">
+        <LivePulse
+          followers={followers}
+          seed={seed}
+          handle={profile.handle}
+          avatars={liveAccounts.map((a) => a.avatar)}
+          names={liveAccounts.map((a) => a.name)}
+        />
         <div className="border-b border-line px-4 py-2.5">
           <h1 className="text-[13px] font-medium">
             {profile.source === "handle" ? (

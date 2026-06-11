@@ -4,6 +4,7 @@ import { useRef, useState } from "react";
 import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { Avatar } from "@/components/avatar";
+import { BottomNav } from "@/components/bottom-nav";
 
 const PULL_THRESHOLD = 70;
 
@@ -23,22 +24,23 @@ const rowLink =
   "flex w-full items-center gap-3 px-5 py-3.5 text-left text-[15px] transition-colors hover:bg-paper";
 
 /**
- * The X-app chrome: locked translucent header (avatar w/ notification dot,
- * For-you tabs, refresh), a slide-in drawer with the essentials, and
+ * The X-app chrome: locked translucent header (avatar opens drawer,
+ * For-you tabs, refresh), a slide-in drawer with the essentials, a fixed
+ * bottom nav (home / notifications / messages) with the unread badge, and
  * touch pull-to-refresh that reseeds the algorithm.
  */
 export function FeedShell({
   displayName,
   handle,
   avatarSrc,
-  notifBadge,
+  unread = 0,
   children,
 }: {
   displayName: string;
   handle?: string;
   avatarSrc?: string | null;
-  /** simulated unread count label, e.g. "100+"; empty string = no badge */
-  notifBadge?: string;
+  /** simulated unread notification count; 0 = no badge on the bottom nav */
+  unread?: number;
   children: React.ReactNode;
 }) {
   const [open, setOpen] = useState(false);
@@ -64,12 +66,6 @@ export function FeedShell({
     setCopied(true);
     setTimeout(() => setCopied(false), 1600);
   }
-
-  // on /u/[handle] the handle is a path param — carry it into the query
-  const notifParams = new URLSearchParams(searchParams);
-  notifParams.delete("tab");
-  if (handle && !notifParams.get("u")) notifParams.set("u", handle);
-  const notificationsHref = `/notifications?${notifParams}`;
 
   const activeTab = searchParams.get("tab") === "following" ? "following" : "foryou";
   const tabHref = (tab: "foryou" | "following") => {
@@ -127,11 +123,6 @@ export function FeedShell({
             aria-label="Open menu"
           >
             <Avatar src={avatarSrc} handle={handle} size={32} alt={displayName} />
-            {notifBadge && (
-              <span className="absolute -right-1.5 -top-1.5 flex h-[18px] min-w-[18px] items-center justify-center rounded-full bg-accent px-1 text-[10px] font-bold leading-none text-accent-ink ring-2 ring-paper">
-                {notifBadge}
-              </span>
-            )}
           </button>
           <nav className="absolute left-1/2 flex -translate-x-1/2 gap-6 text-[15px]" aria-label="Timeline tabs">
             {(
@@ -190,20 +181,6 @@ export function FeedShell({
           {handle && <p className="truncate text-sm text-ink-soft">@{handle}</p>}
         </div>
         <nav className="flex-1 overflow-y-auto py-2">
-          <Link href={notificationsHref} className={rowLink} onClick={() => setOpen(false)}>
-            <svg viewBox="0 0 24 24" className="h-5 w-5" aria-hidden>
-              <path
-                fill="currentColor"
-                d="M12 22a2.5 2.5 0 0 0 2.5-2.5h-5A2.5 2.5 0 0 0 12 22Zm7-5v-1l-1.5-1.8V9.5A5.5 5.5 0 0 0 13 4.1V3a1 1 0 1 0-2 0v1.1a5.5 5.5 0 0 0-4.5 5.4v4.7L5 16v1h14Z"
-              />
-            </svg>
-            Notifications
-            {notifBadge && (
-              <span className="ml-auto rounded-full bg-accent px-2 py-0.5 text-xs font-bold text-accent-ink">
-                {notifBadge}
-              </span>
-            )}
-          </Link>
           {handle && (
             <a
               href={`https://x.com/${handle}`}
@@ -251,7 +228,9 @@ export function FeedShell({
         </p>
       </aside>
 
-      {children}
+      <div className="pb-[64px]">{children}</div>
+
+      <BottomNav active="home" handle={handle} initialBadge={unread ?? 0} />
     </div>
   );
 }

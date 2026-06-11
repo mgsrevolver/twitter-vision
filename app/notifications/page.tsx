@@ -3,7 +3,8 @@ import Link from "next/link";
 import { findAccount } from "@/lib/accounts";
 import { buildNotifications } from "@/lib/notifications";
 import { rngFor } from "@/lib/seeded-random";
-import { NotificationCard } from "@/components/notification-card";
+import { LiveNotificationFeed } from "@/components/live-notification-feed";
+import { BottomNav } from "@/components/bottom-nav";
 
 type Params = { [key: string]: string | string[] | undefined };
 
@@ -123,7 +124,7 @@ export default async function NotificationsPage({ searchParams }: { searchParams
   const items = buildNotifications({ ...target, seed });
 
   return (
-    <div className="mx-auto w-full max-w-xl px-4 pb-16">
+    <div className="mx-auto w-full max-w-xl px-4 pb-24">
       <header className="sticky top-0 z-10 -mx-4 border-b border-line bg-paper/90 px-4 pb-3 pt-4 backdrop-blur">
         <div className="flex items-baseline gap-3">
           <Link href={backHref(params)} className="text-sm text-ink-soft hover:text-ink">
@@ -148,11 +149,11 @@ export default async function NotificationsPage({ searchParams }: { searchParams
         </p>
       </div>
 
-      <section className="mt-4 space-y-3">
-        {items.map((item) => (
-          <NotificationCard key={item.id} item={item} />
-        ))}
+      <section className="mt-4">
+        <LiveNotificationFeed items={items} followers={target.followers} />
       </section>
+
+      <BottomNav active="notifications" homeHref={backHref(params)} initialBadge={0} />
     </div>
   );
 }
