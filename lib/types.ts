@@ -72,6 +72,8 @@ export interface Account {
   followers: number;
   tags: Tag[];
   circle?: CircleEntry[];
+  /** account no longer exists on X (deactivated/suspended) — set by scripts/check-liveness.mjs */
+  dead?: boolean;
 }
 
 export type Lean =

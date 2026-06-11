@@ -15,7 +15,7 @@ type Props = {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { handle } = await params;
   const account = findAccount(decodeURIComponent(handle));
-  if (!account) {
+  if (!account || account.dead) {
     return { title: "their feed.", robots: { index: false } };
   }
   const title = `${account.name} (@${account.handle}) — what their Twitter / X feed probably looks like`;
@@ -37,6 +37,26 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function UserFeedPage({ params, searchParams }: Props) {
   const [{ handle }, { s, tab }] = await Promise.all([params, searchParams]);
   const raw = decodeURIComponent(handle);
+
+  // they left X — be honest about it rather than simulate a ghost
+  const indexed = findAccount(raw);
+  if (indexed?.dead) {
+    return (
+      <div className="mx-auto max-w-xl px-4 pt-24 text-center">
+        <h1 className="font-[family-name:var(--font-fraunces)] text-3xl">
+          {indexed.name} logged off.
+        </h1>
+        <p className="mt-3 text-ink-soft">
+          @{indexed.handle} isn&apos;t on X anymore — deactivated, suspended, or renamed. We only simulate
+          feeds for accounts that are actually live, so this one&apos;s retired.
+        </p>
+        <Link href="/" className="mt-6 inline-block rounded-full bg-accent px-5 py-2 text-accent-ink">
+          ← try someone who&apos;s still posting
+        </Link>
+      </div>
+    );
+  }
+
   let profile = profileFromHandle(raw);
   let inferredFollowers: number | undefined;
 
@@ -86,7 +106,7 @@ export default async function UserFeedPage({ params, searchParams }: Props) {
       <FeedView
         profile={profile}
         seed={s || "default"}
-        tab={tab === "following" ? "following" : "foryou"}
+        tab={tab === "foryou" ? "foryou" : "following"}
         followersOverride={inferredFollowers}
         inferred={inferredFollowers !== undefined}
       />

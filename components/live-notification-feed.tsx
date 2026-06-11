@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import type { NotificationItem } from "@/lib/notifications";
 import { NotificationCard } from "@/components/notification-card";
 
@@ -37,16 +37,20 @@ export function LiveNotificationFeed({
   const holdback = holdbackFor(items.length);
   const [revealed, setRevealed] = useState(0);
   const [freshId, setFreshId] = useState<string | null>(null);
-  const reduceMotion = useRef(false);
+  const [reduceMotion] = useState(
+    () => typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches,
+  );
 
-  useEffect(() => {
-    reduceMotion.current = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  }, []);
-
-  useEffect(() => {
-    // new seed / new person → start the trickle over
+  // new seed / new person → start the trickle over (state-from-previous-render
+  // pattern, so the reset happens in the same render that sees the new items)
+  const [prevItems, setPrevItems] = useState(items);
+  if (prevItems !== items) {
+    setPrevItems(items);
     setRevealed(0);
     setFreshId(null);
+  }
+
+  useEffect(() => {
     if (holdback === 0) return;
 
     const ids = new Set<number>();
@@ -83,7 +87,7 @@ export function LiveNotificationFeed({
     <div className="space-y-3">
       <style>{`@keyframes lnf-tint { from { opacity: 0.14; } to { opacity: 0; } }`}</style>
       {visible.map((item) => {
-        const fresh = item.id === freshId && !reduceMotion.current;
+        const fresh = item.id === freshId && !reduceMotion;
         return (
           <div
             key={item.id}

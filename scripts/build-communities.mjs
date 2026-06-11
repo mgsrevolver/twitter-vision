@@ -167,7 +167,7 @@ const communities = [...groups.entries()]
 
 const out = {
   builtAt: new Date().toISOString(),
-  communities: communities.map(({ members, ...meta }) => meta),
+  communities: communities.map((c) => ({ id: c.id, name: c.name, size: c.size, top: c.top })),
   byHandle: Object.fromEntries(communities.flatMap((c) => c.members.map((h) => [h, c.id]))),
 };
 await writeFile(path.join(ROOT, "data", "communities.json"), JSON.stringify(out, null, 1));

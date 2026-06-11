@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useRef, useState } from "react";
+import { useMemo, useRef, useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 import { searchAccounts } from "@/lib/accounts";
 import { formatCount } from "@/lib/format";
@@ -9,22 +9,35 @@ export function TypeaheadSearch() {
   const [query, setQuery] = useState("");
   const [active, setActive] = useState(0);
   const [open, setOpen] = useState(false);
+  const [destination, setDestination] = useState<string | null>(null);
+  const [pending, startTransition] = useTransition();
   const router = useRouter();
   const inputRef = useRef<HTMLInputElement>(null);
 
   const results = useMemo(() => searchAccounts(query), [query]);
 
   function go(handle: string) {
-    router.push(`/u/${encodeURIComponent(handle)}`);
+    setDestination(handle);
+    setOpen(false);
+    startTransition(() => {
+      router.push(`/u/${encodeURIComponent(handle)}`);
+    });
   }
+
+  const navigating = pending && destination !== null;
 
   return (
     <div className="relative">
-      <div className="flex items-center gap-2 rounded-2xl border border-line bg-card px-4 py-3 shadow-sm focus-within:border-accent">
+      <div
+        className={`flex items-center gap-2 rounded-2xl border bg-card px-4 py-3 shadow-sm ${
+          navigating ? "border-accent" : "border-line focus-within:border-accent"
+        }`}
+      >
         <span className="text-lg text-ink-soft">@</span>
         <input
           ref={inputRef}
           value={query}
+          disabled={navigating}
           onChange={(e) => {
             setQuery(e.target.value);
             setActive(0);
@@ -45,14 +58,36 @@ export function TypeaheadSearch() {
             }
           }}
           placeholder="type a username — try elonmusk, AOC, dril…"
-          className="w-full bg-transparent text-base outline-none placeholder:text-ink-soft/60"
+          className="w-full bg-transparent text-base outline-none placeholder:text-ink-soft/60 disabled:opacity-60"
           autoComplete="off"
           spellCheck={false}
           aria-label="Search for an X account"
         />
+        {navigating && (
+          <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 animate-spin text-accent" aria-hidden>
+            <path
+              fill="currentColor"
+              d="M12 4a8 8 0 1 0 8 8h-2a6 6 0 1 1-1.8-4.3L13 11h7V4l-2.4 2.4A8 8 0 0 0 12 4Z"
+            />
+          </svg>
+        )}
       </div>
 
-      {open && results.length > 0 && (
+      {navigating && (
+        <div
+          className="mt-2 flex items-center gap-3 rounded-2xl border border-accent/50 bg-accent-soft px-4 py-3"
+          role="status"
+          aria-live="polite"
+        >
+          <span className="h-2.5 w-2.5 animate-ping rounded-full bg-accent" />
+          <p className="text-sm">
+            simulating <span className="font-semibold">@{destination}</span>&apos;s timeline — reading the
+            algorithm&apos;s mind…
+          </p>
+        </div>
+      )}
+
+      {open && !navigating && results.length > 0 && (
         <ul className="absolute z-10 mt-2 w-full overflow-hidden rounded-2xl border border-line bg-card shadow-lg">
           {results.map((a, i) => (
             <li key={a.handle}>

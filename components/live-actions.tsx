@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import { formatCount } from "@/lib/format";
 import { rngFor } from "@/lib/seeded-random";
 import { likesPerSecond, parseAgoMinutes, sampleIncrement } from "@/lib/live-rates";
@@ -76,13 +76,15 @@ export function LiveActions({
   views: number;
 }) {
   const [counts, setCounts] = useState<Counts>({ replies, reposts, likes, views });
-  const [reducedMotion, setReducedMotion] = useState(false);
+  // reads false during SSR; the real preference on the client. Safe across
+  // hydration because nothing animates until a count has actually moved.
+  const [reducedMotion] = useState(
+    () => typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches,
+  );
   // server-rendered values, so we never animate the initial paint — only real movement
-  const initial = useRef<Counts>({ replies, reposts, likes, views });
+  const [initial] = useState<Counts>({ replies, reposts, likes, views });
 
   useEffect(() => {
-    setReducedMotion(window.matchMedia("(prefers-reduced-motion: reduce)").matches);
-
     const rand = rngFor(tweetId); // per-tweet stable jitter + stagger
     const ageMinutes = parseAgoMinutes(ago);
     const heat = likesPerSecond(likes, ageMinutes); // expected likes/sec right now
@@ -144,26 +146,26 @@ export function LiveActions({
         d={ICONS.reply}
         count={counts.replies}
         hover="group-hover:text-teal"
-        animate={moved(counts.replies, initial.current.replies)}
+        animate={moved(counts.replies, initial.replies)}
       />
       <ActionIcon
         d={ICONS.repost}
         count={counts.reposts}
         hover="group-hover:text-teal"
-        animate={moved(counts.reposts, initial.current.reposts)}
+        animate={moved(counts.reposts, initial.reposts)}
       />
       <ActionIcon
         d={ICONS.like}
         count={counts.likes}
         hover="group-hover:text-accent"
-        animate={moved(counts.likes, initial.current.likes)}
+        animate={moved(counts.likes, initial.likes)}
       />
       <ActionIcon
         d={ICONS.views}
         count={counts.views}
         hover=""
         filled
-        animate={moved(counts.views, initial.current.views)}
+        animate={moved(counts.views, initial.views)}
       />
       <ActionIcon d={ICONS.share} hover="" />
     </div>

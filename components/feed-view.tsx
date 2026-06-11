@@ -19,7 +19,7 @@ export function corpusAvatar(handle?: string): string | null {
 export function FeedView({
   profile,
   seed,
-  tab = "foryou",
+  tab = "following",
   followersOverride,
   inferred = false,
 }: {

@@ -67,10 +67,12 @@ export function FeedShell({
     setTimeout(() => setCopied(false), 1600);
   }
 
-  const activeTab = searchParams.get("tab") === "following" ? "following" : "foryou";
+  // Following is the default: the circle graph (who they actually engage
+  // with) is our strongest signal, so it makes the best first impression
+  const activeTab = searchParams.get("tab") === "foryou" ? "foryou" : "following";
   const tabHref = (tab: "foryou" | "following") => {
     const params = new URLSearchParams(searchParams);
-    if (tab === "following") params.set("tab", "following");
+    if (tab === "foryou") params.set("tab", "foryou");
     else params.delete("tab");
     const q = params.toString();
     return `${pathname}${q ? `?${q}` : ""}`;

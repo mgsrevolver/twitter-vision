@@ -26,7 +26,9 @@ const ARG = process.argv[2];
 const TARGETS_FILE = ARG?.endsWith(".json") ? ARG : null;
 const MAX_ACCOUNTS = (!TARGETS_FILE && Number(ARG)) || Infinity;
 
-const accounts = JSON.parse(await readFile(path.join(ROOT, "data", "accounts.json"), "utf8")).accounts;
+const accountsFile = path.join(ROOT, "data", "accounts.json");
+const accountsData = JSON.parse(await readFile(accountsFile, "utf8"));
+const accounts = accountsData.accounts;
 const byHandle = new Map(accounts.map((a) => [a.handle.toLowerCase(), a]));
 
 const corpusFile = path.join(ROOT, "data", "corpus.json");
@@ -41,6 +43,7 @@ try {
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+/** Response on success, "gone" on a definitive 404, null on transient failure. */
 async function get(url, attempt = 0) {
   try {
     // nitter serves an empty 200 without a browsery accept header
@@ -51,7 +54,7 @@ async function get(url, attempt = 0) {
         "accept-language": "en-US,en;q=0.9",
       },
     });
-    if (res.status === 404) return null;
+    if (res.status === 404) return "gone";
     if (!res.ok) throw new Error(String(res.status));
     return res;
   } catch (e) {
@@ -75,10 +78,24 @@ if (TARGETS_FILE) {
   targets = [...accounts].sort((a, b) => b.followers - a.followers).slice(0, MAX_ACCOUNTS);
 }
 console.error(`discovering via nitter RSS for ${targets.length} accounts…`);
-let rssOk = 0;
+let rssOk = 0,
+  livenessChanges = 0;
 for (const [i, a] of targets.entries()) {
   const res = await get(`https://nitter.net/${a.handle}/rss`);
-  if (res) {
+  if (res === "gone") {
+    // account left X (deactivated/suspended/renamed) — flag it so the app
+    // stops offering a feed; cleared automatically if it answers again
+    if (!a.dead) {
+      a.dead = true;
+      livenessChanges++;
+      console.error(`  DEAD: @${a.handle}`);
+    }
+  } else if (res) {
+    if (a.dead) {
+      delete a.dead;
+      livenessChanges++;
+      console.error(`  revived: @${a.handle}`);
+    }
     const xml = await res.text();
     for (const m of xml.matchAll(/<link>[^<]*\/status\/(\d{5,20})/g)) {
       const id = m[1];
@@ -90,6 +107,10 @@ for (const [i, a] of targets.entries()) {
   await sleep(RSS_GAP_MS);
 }
 console.error(`\n${candidates.size} new candidate ids from ${rssOk} feeds`);
+if (livenessChanges) {
+  await writeFile(accountsFile, JSON.stringify(accountsData, null, 1));
+  console.error(`accounts.json: ${livenessChanges} liveness flag(s) updated`);
+}
 
 // ---- validation + auto-tagging ------------------------------------------
 function bestMp4(variants = []) {
@@ -141,7 +162,7 @@ for (const [id] of candidates) {
   const res = await get(`https://cdn.syndication.twimg.com/tweet-result?id=${id}&token=x`);
   seen.add(id);
   await sleep(CDN_GAP_MS);
-  if (!res) continue;
+  if (!res || res === "gone") continue;
   let t;
   try {
     t = await res.json();

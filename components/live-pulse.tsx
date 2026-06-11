@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { Avatar } from "@/components/avatar";
 
@@ -108,8 +108,16 @@ export function LivePulse({
   const pathname = usePathname();
   const searchParams = useSearchParams();
 
-  const [mounted, setMounted] = useState(false);
-  const [reduceMotion, setReduceMotion] = useState(false);
+  // false on the server and during hydration, true right after — keeps all
+  // randomness client-side without an effect-driven setState
+  const mounted = useSyncExternalStore(
+    () => () => {},
+    () => true,
+    () => false,
+  );
+  const [reduceMotion] = useState(
+    () => typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches,
+  );
   const [toast, setToast] = useState<{ id: number; line: string; avatar: string | null } | null>(null);
   const [toastLeaving, setToastLeaving] = useState(false);
   const [pillCount, setPillCount] = useState<number | null>(null);
@@ -121,12 +129,6 @@ export function LivePulse({
   useEffect(() => {
     pillVisible.current = pillCount !== null;
   }, [pillCount]);
-
-  // all randomness stays client-side, post-mount — server renders nothing
-  useEffect(() => {
-    setMounted(true);
-    setReduceMotion(window.matchMedia("(prefers-reduced-motion: reduce)").matches);
-  }, []);
 
   // ---- notification pulse + banner director ----
   useEffect(() => {

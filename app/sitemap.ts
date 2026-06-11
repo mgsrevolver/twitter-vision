@@ -6,7 +6,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
   return [
     { url: SITE_URL, lastModified: now, changeFrequency: "weekly", priority: 1 },
-    ...ACCOUNTS.map((a) => ({
+    ...ACCOUNTS.filter((a) => !a.dead).map((a) => ({
       url: `${SITE_URL}/u/${a.handle}`,
       lastModified: now,
       changeFrequency: "daily" as const,

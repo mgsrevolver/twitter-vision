@@ -65,7 +65,7 @@ export default async function FeedPage({ searchParams }: { searchParams: Promise
     <FeedView
       profile={profile}
       seed={str(params.s) || "default"}
-      tab={str(params.tab) === "following" ? "following" : "foryou"}
+      tab={str(params.tab) === "foryou" ? "foryou" : "following"}
     />
   );
 }

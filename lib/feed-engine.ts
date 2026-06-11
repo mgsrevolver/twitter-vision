@@ -181,6 +181,12 @@ function recencyFactor(tweet: CorpusTweet): number {
 
 const ACCOUNT_BY_HANDLE = new Map<string, Account>(ACCOUNTS.map((a) => [a.handle.toLowerCase(), a]));
 
+/**
+ * Authors who have left X — their stored tweets would deep-link to a 404,
+ * which breaks the "every post is real and links to the original" promise.
+ */
+const DEAD_AUTHORS = new Set(ACCOUNTS.filter((a) => a.dead).map((a) => a.handle.toLowerCase()));
+
 /** Author-level politics: a commentator's apolitical posts still carry their lean. */
 const AUTHOR_POLITICS = new Map<string, Tag[]>(
   ACCOUNTS.filter((a) => a.tags.some((t) => t === "politics-left" || t === "politics-right")).map((a) => [
@@ -236,7 +242,12 @@ function drawWeighted(rng: () => number, candidates: Candidate[]): CorpusTweet {
  */
 export function assembleFeed(profile: Profile, seed: string): FeedItem[] {
   const rng = rngFor(`${profile.displayName}|${seed}`);
-  const pool = CORPUS.filter((t) => isCurrentEnough(t) && t.handle.toLowerCase() !== profile.handle?.toLowerCase());
+  const pool = CORPUS.filter(
+    (t) =>
+      isCurrentEnough(t) &&
+      t.handle.toLowerCase() !== profile.handle?.toLowerCase() &&
+      !DEAD_AUTHORS.has(t.handle.toLowerCase()),
+  );
 
   // graph-adjacent handles → every circle member who links there. Survey
   // personas have no circle, so their best-matching accounts stand in as a
@@ -349,7 +360,10 @@ export function assembleFollowingFeed(profile: Profile, seed: string): FeedItem[
     for (const a of matchingAccounts(profile, 12)) followed.add(a.handle.toLowerCase());
   }
   const followedPool = CORPUS.filter(
-    (t) => followed.has(t.handle.toLowerCase()) && t.handle.toLowerCase() !== profile.handle?.toLowerCase(),
+    (t) =>
+      followed.has(t.handle.toLowerCase()) &&
+      t.handle.toLowerCase() !== profile.handle?.toLowerCase() &&
+      !DEAD_AUTHORS.has(t.handle.toLowerCase()),
   );
   // freshness-gate like For You, but a sparse circle may not post much — top
   // up with the followed accounts' most recent older posts rather than run empty
@@ -471,7 +485,7 @@ function reasonFor(
 
 /** Accounts that fit a profile — the "see who actually posts like this" links. */
 export function matchingAccounts(profile: Profile, limit = 6): Account[] {
-  return ACCOUNTS.filter((a) => a.handle.toLowerCase() !== profile.handle?.toLowerCase())
+  return ACCOUNTS.filter((a) => !a.dead && a.handle.toLowerCase() !== profile.handle?.toLowerCase())
     .map((a) => ({
       a,
       score: a.tags.reduce((s, t) => s + (profile.tagWeights[t] ?? 0), 0),

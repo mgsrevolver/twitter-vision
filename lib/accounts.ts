@@ -12,6 +12,7 @@ export function searchAccounts(query: string, limit = 8): Account[] {
   const q = query.replace(/^@/, "").toLowerCase();
   if (!q) return [];
   const scored = ACCOUNTS.flatMap((a) => {
+    if (a.dead) return []; // left X — nothing live to simulate
     const handle = a.handle.toLowerCase();
     const name = a.name.toLowerCase();
     let score = -1;

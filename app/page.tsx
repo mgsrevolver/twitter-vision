@@ -1,7 +1,9 @@
 import { TypeaheadSearch } from "@/components/typeahead-search";
 import { SketchAccordion } from "@/components/sketch-accordion";
+import { corpusMeta, formatEastern } from "@/lib/corpus-meta";
 
 export default function Home() {
+  const meta = corpusMeta();
   return (
     <div className="mx-auto w-full max-w-2xl px-4 pt-16 sm:pt-24">
       <h1 className="font-[family-name:var(--font-fraunces)] text-5xl font-medium tracking-tight sm:text-6xl">
@@ -33,6 +35,9 @@ export default function Home() {
       </p>
       <p className="mt-2 inline-block rounded-full bg-accent-soft px-3 py-1 text-xs text-ink">
         a simulation, not surveillance — no API, no login, nothing collected about you
+      </p>
+      <p className="mt-3 text-xs text-ink-soft">
+        {meta.tweetCount.toLocaleString("en-US")} real posts · corpus last refreshed {formatEastern(meta.builtAt)}
       </p>
 
       <section className="mt-14">
