@@ -1,0 +1,967 @@
+[
+  {
+    "handle": "novogratz",
+    "circle": [
+      {
+        "handle": "RaoulGMI",
+        "inPool": true,
+        "why": "fellow ex-Goldman macro-to-crypto convert, frequent mutual commentary"
+      },
+      {
+        "handle": "APompliano",
+        "inPool": true,
+        "why": "repeat podcast guest and bitcoin bull banter"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "bitcoin conference circuit and BTC price calls"
+      },
+      {
+        "handle": "Scaramucci",
+        "inPool": false,
+        "why": "fellow Wall Street crypto fund manager, public friendship"
+      },
+      {
+        "handle": "andrewrsorkin",
+        "inPool": true,
+        "why": "recurring CNBC/Dealbook interview subject"
+      },
+      {
+        "handle": "BarrySilbert",
+        "inPool": false,
+        "why": "crypto fund industry peer since early Galaxy/DCG days"
+      }
+    ]
+  },
+  {
+    "handle": "tyler",
+    "circle": [
+      {
+        "handle": "cameron",
+        "inPool": false,
+        "why": "twin brother and Gemini co-founder"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "bitcoin maximalist advocacy alignment"
+      },
+      {
+        "handle": "BitcoinMagazine",
+        "inPool": true,
+        "why": "frequent amplification and conference appearances"
+      },
+      {
+        "handle": "APompliano",
+        "inPool": true,
+        "why": "bitcoin bull mutual engagement"
+      },
+      {
+        "handle": "novogratz",
+        "inPool": true,
+        "why": "crypto industry founder peer"
+      }
+    ]
+  },
+  {
+    "handle": "aeyakovenko",
+    "circle": [
+      {
+        "handle": "rajgokal",
+        "inPool": true,
+        "why": "Solana co-founder"
+      },
+      {
+        "handle": "0xMert_",
+        "inPool": true,
+        "why": "Solana ecosystem dev, constant technical back-and-forth"
+      },
+      {
+        "handle": "blknoiz06",
+        "inPool": true,
+        "why": "top Solana trader he engages with"
+      },
+      {
+        "handle": "jessepollak",
+        "inPool": true,
+        "why": "Solana vs Base L2 banter"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "cross-chain architecture debates"
+      },
+      {
+        "handle": "armaniferrante",
+        "inPool": false,
+        "why": "Backpack founder building on Solana"
+      }
+    ]
+  },
+  {
+    "handle": "rajgokal",
+    "circle": [
+      {
+        "handle": "aeyakovenko",
+        "inPool": true,
+        "why": "Solana co-founder"
+      },
+      {
+        "handle": "0xMert_",
+        "inPool": true,
+        "why": "Solana infra builder he amplifies"
+      },
+      {
+        "handle": "KyleSamani",
+        "inPool": false,
+        "why": "Multicoin partner, earliest Solana backer"
+      },
+      {
+        "handle": "blknoiz06",
+        "inPool": true,
+        "why": "Solana community trader engagement"
+      },
+      {
+        "handle": "armaniferrante",
+        "inPool": false,
+        "why": "Solana ecosystem founder"
+      }
+    ]
+  },
+  {
+    "handle": "jessepollak",
+    "circle": [
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "Coinbase CEO, his boss"
+      },
+      {
+        "handle": "aeyakovenko",
+        "inPool": true,
+        "why": "friendly Base vs Solana rivalry"
+      },
+      {
+        "handle": "0xMert_",
+        "inPool": true,
+        "why": "L2 vs Solana technical sparring"
+      },
+      {
+        "handle": "haydenzadams",
+        "inPool": true,
+        "why": "Uniswap deployment on Base"
+      },
+      {
+        "handle": "RyanSAdams",
+        "inPool": true,
+        "why": "Bankless guest, 'based' meme exchanges"
+      },
+      {
+        "handle": "sassal0x",
+        "inPool": true,
+        "why": "Ethereum ecosystem advocacy"
+      }
+    ]
+  },
+  {
+    "handle": "haydenzadams",
+    "circle": [
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "Ethereum founder he built Uniswap alongside"
+      },
+      {
+        "handle": "jessepollak",
+        "inPool": true,
+        "why": "Uniswap on Base collaboration"
+      },
+      {
+        "handle": "sassal0x",
+        "inPool": true,
+        "why": "ETH community mutual"
+      },
+      {
+        "handle": "stanikulechov",
+        "inPool": true,
+        "why": "fellow DeFi blue-chip founder (Aave)"
+      },
+      {
+        "handle": "AndreCronjeTech",
+        "inPool": false,
+        "why": "DeFi founder debates"
+      },
+      {
+        "handle": "ErikVoorhees",
+        "inPool": true,
+        "why": "DeFi regulation discourse"
+      }
+    ]
+  },
+  {
+    "handle": "samczsun",
+    "circle": [
+      {
+        "handle": "zachxbt",
+        "inPool": true,
+        "why": "fellow onchain investigator, hack post-mortems"
+      },
+      {
+        "handle": "tayvano_",
+        "inPool": true,
+        "why": "security researcher peer on exploit threads"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "Ethereum security discussions"
+      },
+      {
+        "handle": "haydenzadams",
+        "inPool": true,
+        "why": "whitehat work touching DeFi protocols"
+      },
+      {
+        "handle": "0xngmi",
+        "inPool": false,
+        "why": "DeFi data and exploit commentary"
+      }
+    ]
+  },
+  {
+    "handle": "blknoiz06",
+    "circle": [
+      {
+        "handle": "aeyakovenko",
+        "inPool": true,
+        "why": "Solana founder he champions"
+      },
+      {
+        "handle": "0xMert_",
+        "inPool": true,
+        "why": "Solana ecosystem banter"
+      },
+      {
+        "handle": "HsakaTrades",
+        "inPool": false,
+        "why": "CT trader mutual"
+      },
+      {
+        "handle": "CryptoKaleo",
+        "inPool": false,
+        "why": "trader call-out exchanges"
+      },
+      {
+        "handle": "inversebrah",
+        "inPool": false,
+        "why": "CT meme amplification"
+      },
+      {
+        "handle": "cobie",
+        "inPool": true,
+        "why": "crypto twitter elder he engages"
+      }
+    ]
+  },
+  {
+    "handle": "0xMert_",
+    "circle": [
+      {
+        "handle": "aeyakovenko",
+        "inPool": true,
+        "why": "Solana founder, constant collaboration"
+      },
+      {
+        "handle": "rajgokal",
+        "inPool": true,
+        "why": "Solana leadership mutual"
+      },
+      {
+        "handle": "blknoiz06",
+        "inPool": true,
+        "why": "Solana trading community banter"
+      },
+      {
+        "handle": "jessepollak",
+        "inPool": true,
+        "why": "Solana vs Base debates"
+      },
+      {
+        "handle": "0xngmi",
+        "inPool": false,
+        "why": "infra and data shop-talk"
+      }
+    ]
+  },
+  {
+    "handle": "CryptoDonAlt",
+    "circle": [
+      {
+        "handle": "CryptoCobain",
+        "inPool": true,
+        "why": "close friend, longtime CT duo"
+      },
+      {
+        "handle": "pentoshi",
+        "inPool": true,
+        "why": "TA trader peer"
+      },
+      {
+        "handle": "HsakaTrades",
+        "inPool": false,
+        "why": "trader banter mutual"
+      },
+      {
+        "handle": "inversebrah",
+        "inPool": false,
+        "why": "CT in-jokes"
+      },
+      {
+        "handle": "CryptoKaleo",
+        "inPool": false,
+        "why": "chart-off exchanges"
+      }
+    ]
+  },
+  {
+    "handle": "RyanSAdams",
+    "circle": [
+      {
+        "handle": "TrustlessState",
+        "inPool": true,
+        "why": "Bankless co-host"
+      },
+      {
+        "handle": "sassal0x",
+        "inPool": true,
+        "why": "fellow ETH ultrasound-money advocate"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "repeat Bankless interviewee"
+      },
+      {
+        "handle": "jessepollak",
+        "inPool": true,
+        "why": "Base coverage and banter"
+      },
+      {
+        "handle": "haydenzadams",
+        "inPool": true,
+        "why": "DeFi founder interviews"
+      }
+    ]
+  },
+  {
+    "handle": "TrustlessState",
+    "circle": [
+      {
+        "handle": "RyanSAdams",
+        "inPool": true,
+        "why": "Bankless co-host"
+      },
+      {
+        "handle": "sassal0x",
+        "inPool": true,
+        "why": "ETH community mutual"
+      },
+      {
+        "handle": "VitalikButerin",
+        "inPool": true,
+        "why": "podcast guest and ETH roadmap talk"
+      },
+      {
+        "handle": "stanikulechov",
+        "inPool": true,
+        "why": "DeFi founder interviews"
+      },
+      {
+        "handle": "RaoulGMI",
+        "inPool": true,
+        "why": "macro-crypto crossover episodes"
+      }
+    ]
+  },
+  {
+    "handle": "PeterMcCormack",
+    "circle": [
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "multiple marathon podcast interviews"
+      },
+      {
+        "handle": "adam3us",
+        "inPool": true,
+        "why": "bitcoin OG guest and ally"
+      },
+      {
+        "handle": "PrestonPysh",
+        "inPool": true,
+        "why": "fellow bitcoin podcaster"
+      },
+      {
+        "handle": "CaitlinLong_",
+        "inPool": true,
+        "why": "recurring guest on bitcoin banking"
+      },
+      {
+        "handle": "nic__carter",
+        "inPool": true,
+        "why": "guest and bitcoin discourse"
+      },
+      {
+        "handle": "novogratz",
+        "inPool": true,
+        "why": "podcast guest"
+      }
+    ]
+  },
+  {
+    "handle": "adam3us",
+    "circle": [
+      {
+        "handle": "Excellion",
+        "inPool": false,
+        "why": "longtime Blockstream colleague"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "bitcoin advocacy alignment"
+      },
+      {
+        "handle": "PeterMcCormack",
+        "inPool": true,
+        "why": "podcast appearances"
+      },
+      {
+        "handle": "100trillionUSD",
+        "inPool": true,
+        "why": "bitcoin model discussions"
+      },
+      {
+        "handle": "udiWertheimer",
+        "inPool": false,
+        "why": "recurring sparring with bitcoin critic-jester"
+      }
+    ]
+  },
+  {
+    "handle": "ki_young_ju",
+    "circle": [
+      {
+        "handle": "WuBlockchain",
+        "inPool": true,
+        "why": "data-news exchange and citations"
+      },
+      {
+        "handle": "lookonchain",
+        "inPool": true,
+        "why": "on-chain data peer"
+      },
+      {
+        "handle": "woonomic",
+        "inPool": false,
+        "why": "fellow on-chain analyst"
+      },
+      {
+        "handle": "saylor",
+        "inPool": true,
+        "why": "public exchanges over MicroStrategy BTC math"
+      },
+      {
+        "handle": "intocryptoverse",
+        "inPool": true,
+        "why": "quant crypto analysis peer"
+      }
+    ]
+  },
+  {
+    "handle": "EricBalchunas",
+    "circle": [
+      {
+        "handle": "NateGeraci",
+        "inPool": true,
+        "why": "ETF twitter constant back-and-forth"
+      },
+      {
+        "handle": "JSeyff",
+        "inPool": false,
+        "why": "Bloomberg ETF desk colleague"
+      },
+      {
+        "handle": "PeterSchiff",
+        "inPool": true,
+        "why": "recurring bitcoin ETF spats"
+      },
+      {
+        "handle": "CathieDWood",
+        "inPool": true,
+        "why": "ARK flows coverage"
+      },
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "Bloomberg colleague banter"
+      }
+    ]
+  },
+  {
+    "handle": "NateGeraci",
+    "circle": [
+      {
+        "handle": "EricBalchunas",
+        "inPool": true,
+        "why": "ETF twitter mutual"
+      },
+      {
+        "handle": "JSeyff",
+        "inPool": false,
+        "why": "ETF approval odds threads"
+      },
+      {
+        "handle": "ToddRosenbluth",
+        "inPool": false,
+        "why": "ETF analyst peer"
+      },
+      {
+        "handle": "CathieDWood",
+        "inPool": true,
+        "why": "ETF industry commentary"
+      },
+      {
+        "handle": "ritholtz",
+        "inPool": true,
+        "why": "advisor-industry crossover"
+      }
+    ]
+  },
+  {
+    "handle": "CliffordAsness",
+    "circle": [
+      {
+        "handle": "profplum99",
+        "inPool": true,
+        "why": "famous active-vs-passive debates"
+      },
+      {
+        "handle": "bennpeifert",
+        "inPool": true,
+        "why": "quant/vol twitter mutual respect"
+      },
+      {
+        "handle": "choffstein",
+        "inPool": false,
+        "why": "factor investing shop-talk"
+      },
+      {
+        "handle": "AswathDamodaran",
+        "inPool": true,
+        "why": "valuation discourse"
+      },
+      {
+        "handle": "matt_levine",
+        "inPool": false,
+        "why": "responds to Money Stuff columns"
+      },
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "financial media engagement"
+      }
+    ]
+  },
+  {
+    "handle": "Claudia_Sahm",
+    "circle": [
+      {
+        "handle": "jasonfurman",
+        "inPool": false,
+        "why": "econ-policy twitter colleague"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "macro policy alignment and debate"
+      },
+      {
+        "handle": "NickTimiraos",
+        "inPool": true,
+        "why": "Fed-watcher mutual"
+      },
+      {
+        "handle": "noahpinion",
+        "inPool": true,
+        "why": "econ blogosphere peer"
+      },
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "Odd Lots guest"
+      }
+    ]
+  },
+  {
+    "handle": "SamRo",
+    "circle": [
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "former Business Insider colleague and friend"
+      },
+      {
+        "handle": "michaelbatnick",
+        "inPool": true,
+        "why": "fintwit compounding crew"
+      },
+      {
+        "handle": "awealthofcs",
+        "inPool": true,
+        "why": "Ritholtz-orbit newsletter peers"
+      },
+      {
+        "handle": "charliebilello",
+        "inPool": true,
+        "why": "chart-sharing mutual"
+      },
+      {
+        "handle": "ritholtz",
+        "inPool": true,
+        "why": "fintwit community elder"
+      }
+    ]
+  },
+  {
+    "handle": "GavinSBaker",
+    "circle": [
+      {
+        "handle": "modestproposal1",
+        "inPool": true,
+        "why": "fintwit mutual on tech valuations"
+      },
+      {
+        "handle": "bgurley",
+        "inPool": true,
+        "why": "tech-investing discourse"
+      },
+      {
+        "handle": "patrick_oshag",
+        "inPool": false,
+        "why": "Invest Like the Best guest"
+      },
+      {
+        "handle": "profplum99",
+        "inPool": true,
+        "why": "market structure debates"
+      },
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "macro-tech crossover commentary"
+      }
+    ]
+  },
+  {
+    "handle": "bennpeifert",
+    "circle": [
+      {
+        "handle": "jam_croissant",
+        "inPool": true,
+        "why": "vol twitter sparring partner"
+      },
+      {
+        "handle": "dampedspring",
+        "inPool": true,
+        "why": "derivatives/macro back-and-forth"
+      },
+      {
+        "handle": "CliffordAsness",
+        "inPool": true,
+        "why": "quant mutual"
+      },
+      {
+        "handle": "choffstein",
+        "inPool": false,
+        "why": "options and quant shop-talk"
+      },
+      {
+        "handle": "profplum99",
+        "inPool": true,
+        "why": "market structure debates"
+      }
+    ]
+  },
+  {
+    "handle": "jam_croissant",
+    "circle": [
+      {
+        "handle": "bennpeifert",
+        "inPool": true,
+        "why": "vol twitter peer and friendly critic"
+      },
+      {
+        "handle": "dampedspring",
+        "inPool": true,
+        "why": "flows and dealer-positioning debates"
+      },
+      {
+        "handle": "SpotGamma",
+        "inPool": false,
+        "why": "gamma-exposure discourse"
+      },
+      {
+        "handle": "RaoulGMI",
+        "inPool": true,
+        "why": "Real Vision appearances"
+      },
+      {
+        "handle": "MacroAlf",
+        "inPool": true,
+        "why": "macro podcast crossovers"
+      }
+    ]
+  },
+  {
+    "handle": "dampedspring",
+    "circle": [
+      {
+        "handle": "jam_croissant",
+        "inPool": true,
+        "why": "flows debate sparring partner"
+      },
+      {
+        "handle": "bennpeifert",
+        "inPool": true,
+        "why": "derivatives twitter mutual"
+      },
+      {
+        "handle": "FedGuy12",
+        "inPool": true,
+        "why": "monetary plumbing discussions"
+      },
+      {
+        "handle": "MacroAlf",
+        "inPool": true,
+        "why": "macro twitter engagement"
+      },
+      {
+        "handle": "RayDalio",
+        "inPool": true,
+        "why": "ex-Bridgewater lineage commentary"
+      }
+    ]
+  },
+  {
+    "handle": "FedGuy12",
+    "circle": [
+      {
+        "handle": "dampedspring",
+        "inPool": true,
+        "why": "Fed plumbing back-and-forth"
+      },
+      {
+        "handle": "MacroAlf",
+        "inPool": true,
+        "why": "collaborations and macro courses"
+      },
+      {
+        "handle": "NickTimiraos",
+        "inPool": true,
+        "why": "Fed policy coverage engagement"
+      },
+      {
+        "handle": "LynAldenContact",
+        "inPool": true,
+        "why": "liquidity framework discussions"
+      },
+      {
+        "handle": "jam_croissant",
+        "inPool": true,
+        "why": "liquidity vs flows debates"
+      }
+    ]
+  },
+  {
+    "handle": "BobEUnlimited",
+    "circle": [
+      {
+        "handle": "dampedspring",
+        "inPool": true,
+        "why": "fellow Bridgewater alum"
+      },
+      {
+        "handle": "FedGuy12",
+        "inPool": true,
+        "why": "macro liquidity discussions"
+      },
+      {
+        "handle": "MacroAlf",
+        "inPool": true,
+        "why": "macro twitter mutual"
+      },
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "Odd Lots guest"
+      },
+      {
+        "handle": "RaoulGMI",
+        "inPool": true,
+        "why": "macro framework debates"
+      }
+    ]
+  },
+  {
+    "handle": "Schuldensuehner",
+    "circle": [
+      {
+        "handle": "jsblokland",
+        "inPool": false,
+        "why": "fellow euro chart-poster mutual"
+      },
+      {
+        "handle": "MichaelAArouet",
+        "inPool": false,
+        "why": "European macro chart circle"
+      },
+      {
+        "handle": "zerohedge",
+        "inPool": true,
+        "why": "frequent amplification of his charts"
+      },
+      {
+        "handle": "lisaabramowicz1",
+        "inPool": true,
+        "why": "bond-market chart commentary"
+      },
+      {
+        "handle": "charliebilello",
+        "inPool": true,
+        "why": "chart twitter peer"
+      }
+    ]
+  },
+  {
+    "handle": "JavierBlas",
+    "circle": [
+      {
+        "handle": "tracyalloway",
+        "inPool": true,
+        "why": "Odd Lots commodities episodes"
+      },
+      {
+        "handle": "TheStalwart",
+        "inPool": true,
+        "why": "Bloomberg colleague, commodity threads"
+      },
+      {
+        "handle": "chigrl",
+        "inPool": false,
+        "why": "oil twitter mutual"
+      },
+      {
+        "handle": "staunovo",
+        "inPool": false,
+        "why": "oil analyst peer exchanges"
+      },
+      {
+        "handle": "JKempEnergy",
+        "inPool": false,
+        "why": "energy data wonk mutual"
+      }
+    ]
+  },
+  {
+    "handle": "steve_hanke",
+    "circle": [
+      {
+        "handle": "PeterSchiff",
+        "inPool": true,
+        "why": "inflation and sound-money alignment"
+      },
+      {
+        "handle": "Nouriel",
+        "inPool": true,
+        "why": "economist spats and crisis calls"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "public economist disagreements"
+      },
+      {
+        "handle": "zerohedge",
+        "inPool": true,
+        "why": "frequent amplification of his inflation dashboard"
+      },
+      {
+        "handle": "federalreserve",
+        "inPool": true,
+        "why": "constant target of his money-supply critiques"
+      }
+    ]
+  },
+  {
+    "handle": "StockMKTNewz",
+    "circle": [
+      {
+        "handle": "unusual_whales",
+        "inPool": true,
+        "why": "breaking-news account banter"
+      },
+      {
+        "handle": "KobeissiLetter",
+        "inPool": true,
+        "why": "market headlines peer"
+      },
+      {
+        "handle": "DeItaone",
+        "inPool": true,
+        "why": "headline-race mutual"
+      },
+      {
+        "handle": "WatcherGuru",
+        "inPool": true,
+        "why": "cross-amplification of breaking news"
+      },
+      {
+        "handle": "amitisinvesting",
+        "inPool": false,
+        "why": "fintwit news-account friendship"
+      }
+    ]
+  },
+  {
+    "handle": "vladtenev",
+    "circle": [
+      {
+        "handle": "chamath",
+        "inPool": true,
+        "why": "GameStop saga and SPAC-era exchanges"
+      },
+      {
+        "handle": "jason",
+        "inPool": true,
+        "why": "interviewed during the GME hearings cycle"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "GameStop clubhouse grilling and ongoing replies"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "All-In pod appearance and fintech discourse"
+      },
+      {
+        "handle": "brian_armstrong",
+        "inPool": true,
+        "why": "fintech/crypto platform rivalry"
+      }
+    ]
+  }
+]

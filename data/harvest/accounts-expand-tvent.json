@@ -1,0 +1,303 @@
+[
+  {
+    "handle": "hbo",
+    "name": "HBO",
+    "followers": 2400000,
+    "tags": [
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "primevideo",
+    "name": "Prime Video",
+    "followers": 3000000,
+    "tags": [
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "appletv",
+    "name": "Apple TV",
+    "followers": 1800000,
+    "tags": [
+      "film-tv",
+      "tech"
+    ]
+  },
+  {
+    "handle": "peacock",
+    "name": "Peacock",
+    "followers": 400000,
+    "tags": [
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "paramountplus",
+    "name": "Paramount+",
+    "followers": 600000,
+    "tags": [
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "fxnetworks",
+    "name": "FX Networks",
+    "followers": 1300000,
+    "tags": [
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "comedycentral",
+    "name": "Comedy Central",
+    "followers": 8500000,
+    "tags": [
+      "film-tv",
+      "humor"
+    ]
+  },
+  {
+    "handle": "amc_tv",
+    "name": "AMC",
+    "followers": 1600000,
+    "tags": [
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "vh1",
+    "name": "VH1",
+    "followers": 4000000,
+    "tags": [
+      "film-tv",
+      "music",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "tlc",
+    "name": "TLC",
+    "followers": 1400000,
+    "tags": [
+      "film-tv",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "nbcsnl",
+    "name": "Saturday Night Live",
+    "followers": 11000000,
+    "tags": [
+      "film-tv",
+      "humor",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "thesimpsons",
+    "name": "The Simpsons",
+    "followers": 9000000,
+    "tags": [
+      "film-tv",
+      "humor",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "southpark",
+    "name": "South Park",
+    "followers": 4500000,
+    "tags": [
+      "film-tv",
+      "humor"
+    ]
+  },
+  {
+    "handle": "stranger_things",
+    "name": "Stranger Things",
+    "followers": 7500000,
+    "tags": [
+      "film-tv",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "gameofthrones",
+    "name": "Game of Thrones",
+    "followers": 12000000,
+    "tags": [
+      "film-tv",
+      "iconic",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "survivorcbs",
+    "name": "Survivor",
+    "followers": 1000000,
+    "tags": [
+      "film-tv",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "bachelorabc",
+    "name": "The Bachelor",
+    "followers": 800000,
+    "tags": [
+      "film-tv",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "pumprules",
+    "name": "Vanderpump Rules",
+    "followers": 500000,
+    "tags": [
+      "film-tv",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "andy",
+    "name": "Andy Cohen",
+    "followers": 3600000,
+    "tags": [
+      "film-tv",
+      "media",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "bethenny",
+    "name": "Bethenny Frankel",
+    "followers": 1400000,
+    "tags": [
+      "film-tv",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "lisavanderpump",
+    "name": "Lisa Vanderpump",
+    "followers": 1700000,
+    "tags": [
+      "film-tv",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "nenelekes",
+    "name": "NeNe Leakes",
+    "followers": 4000000,
+    "tags": [
+      "film-tv",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "simoncowell",
+    "name": "Simon Cowell",
+    "followers": 9000000,
+    "tags": [
+      "film-tv",
+      "music",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "ryanseacrest",
+    "name": "Ryan Seacrest",
+    "followers": 14000000,
+    "tags": [
+      "film-tv",
+      "media",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "heidiklum",
+    "name": "Heidi Klum",
+    "followers": 5000000,
+    "tags": [
+      "film-tv",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "tyrabanks",
+    "name": "Tyra Banks",
+    "followers": 12000000,
+    "tags": [
+      "film-tv",
+      "pop-culture",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "enews",
+    "name": "E! News",
+    "followers": 12000000,
+    "tags": [
+      "media",
+      "pop-culture",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "tmz",
+    "name": "TMZ",
+    "followers": 6500000,
+    "tags": [
+      "media",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "people",
+    "name": "People",
+    "followers": 8000000,
+    "tags": [
+      "media",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "usweekly",
+    "name": "Us Weekly",
+    "followers": 2000000,
+    "tags": [
+      "media",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "pagesix",
+    "name": "Page Six",
+    "followers": 1000000,
+    "tags": [
+      "media",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "vulture",
+    "name": "Vulture",
+    "followers": 1300000,
+    "tags": [
+      "media",
+      "film-tv",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "tvline",
+    "name": "TVLine",
+    "followers": 700000,
+    "tags": [
+      "media",
+      "film-tv"
+    ]
+  }
+]

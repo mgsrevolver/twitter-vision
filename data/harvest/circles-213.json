@@ -1,0 +1,967 @@
+[
+  {
+    "handle": "clarissaward",
+    "circle": [
+      {
+        "handle": "amanpour",
+        "inPool": true,
+        "why": "CNN chief international anchor and mentor-colleague"
+      },
+      {
+        "handle": "cnn",
+        "inPool": true,
+        "why": "employer, constant cross-promotion of her reports"
+      },
+      {
+        "handle": "bencnn",
+        "inPool": true,
+        "why": "fellow CNN international correspondent"
+      },
+      {
+        "handle": "andersoncooper",
+        "inPool": true,
+        "why": "CNN colleague who anchors her field reports"
+      },
+      {
+        "handle": "RichardEngel",
+        "inPool": true,
+        "why": "rival-network war correspondent, mutual respect"
+      },
+      {
+        "handle": "JaneFerguson5",
+        "inPool": true,
+        "why": "fellow conflict reporter, mutual amplification"
+      }
+    ]
+  },
+  {
+    "handle": "amanpour",
+    "circle": [
+      {
+        "handle": "cnn",
+        "inPool": true,
+        "why": "employer, hosts Amanpour & Co"
+      },
+      {
+        "handle": "clarissaward",
+        "inPool": true,
+        "why": "CNN international colleague she champions"
+      },
+      {
+        "handle": "bencnn",
+        "inPool": true,
+        "why": "decades-long CNN international colleague"
+      },
+      {
+        "handle": "bbclysedoucet",
+        "inPool": true,
+        "why": "fellow veteran foreign correspondent and friend"
+      },
+      {
+        "handle": "mariaressa",
+        "inPool": true,
+        "why": "press-freedom advocacy and repeat interviews"
+      },
+      {
+        "handle": "JohnSimpsonNews",
+        "inPool": true,
+        "why": "fellow veteran of decades of war coverage"
+      }
+    ]
+  },
+  {
+    "handle": "RichardEngel",
+    "circle": [
+      {
+        "handle": "nbcnews",
+        "inPool": true,
+        "why": "employer, amplifies his field reporting"
+      },
+      {
+        "handle": "msnbc",
+        "inPool": true,
+        "why": "frequent on-air analysis home"
+      },
+      {
+        "handle": "clarissaward",
+        "inPool": true,
+        "why": "cross-network war-correspondent peer"
+      },
+      {
+        "handle": "JaneFerguson5",
+        "inPool": true,
+        "why": "conflict-reporting circle, mutual respect"
+      },
+      {
+        "handle": "IAPonomarenko",
+        "inPool": true,
+        "why": "amplified Ukraine frontline reporting"
+      },
+      {
+        "handle": "kwelkernbc",
+        "inPool": true,
+        "why": "NBC News colleague crossovers"
+      }
+    ]
+  },
+  {
+    "handle": "bbclysedoucet",
+    "circle": [
+      {
+        "handle": "BowenBBC",
+        "inPool": true,
+        "why": "BBC international editor colleague"
+      },
+      {
+        "handle": "JohnSimpsonNews",
+        "inPool": true,
+        "why": "veteran BBC foreign-desk colleague"
+      },
+      {
+        "handle": "lindseyhilsum",
+        "inPool": true,
+        "why": "close peer among veteran women war reporters"
+      },
+      {
+        "handle": "bbcworld",
+        "inPool": false,
+        "why": "employer outlet amplifying her dispatches"
+      },
+      {
+        "handle": "amanpour",
+        "inPool": true,
+        "why": "fellow veteran correspondent, mutual admiration"
+      }
+    ]
+  },
+  {
+    "handle": "BowenBBC",
+    "circle": [
+      {
+        "handle": "bbclysedoucet",
+        "inPool": true,
+        "why": "BBC chief international correspondent colleague"
+      },
+      {
+        "handle": "JohnSimpsonNews",
+        "inPool": true,
+        "why": "BBC world-affairs veteran colleague"
+      },
+      {
+        "handle": "lindseyhilsum",
+        "inPool": true,
+        "why": "Middle East press corps peer"
+      },
+      {
+        "handle": "bbcnews",
+        "inPool": false,
+        "why": "employer outlet"
+      },
+      {
+        "handle": "AnshelPfeffer",
+        "inPool": false,
+        "why": "Jerusalem press corps engagement"
+      }
+    ]
+  },
+  {
+    "handle": "JohnSimpsonNews",
+    "circle": [
+      {
+        "handle": "BowenBBC",
+        "inPool": true,
+        "why": "BBC colleague of decades"
+      },
+      {
+        "handle": "bbclysedoucet",
+        "inPool": true,
+        "why": "BBC foreign-desk colleague and friend"
+      },
+      {
+        "handle": "bbcworld",
+        "inPool": false,
+        "why": "employer outlet"
+      },
+      {
+        "handle": "lindseyhilsum",
+        "inPool": true,
+        "why": "veteran war-reporter peer"
+      },
+      {
+        "handle": "amanpour",
+        "inPool": true,
+        "why": "fellow legendary foreign correspondent"
+      }
+    ]
+  },
+  {
+    "handle": "lindseyhilsum",
+    "circle": [
+      {
+        "handle": "channel4news",
+        "inPool": true,
+        "why": "employer, international editor"
+      },
+      {
+        "handle": "krishgm",
+        "inPool": false,
+        "why": "Channel 4 News presenter colleague"
+      },
+      {
+        "handle": "bbclysedoucet",
+        "inPool": true,
+        "why": "close friend and fellow war reporter"
+      },
+      {
+        "handle": "JaneFerguson5",
+        "inPool": true,
+        "why": "conflict-journalism peer"
+      },
+      {
+        "handle": "BowenBBC",
+        "inPool": true,
+        "why": "Middle East coverage peer"
+      }
+    ]
+  },
+  {
+    "handle": "JaneFerguson5",
+    "circle": [
+      {
+        "handle": "NewsHour",
+        "inPool": false,
+        "why": "PBS NewsHour, long-time reporting home"
+      },
+      {
+        "handle": "clarissaward",
+        "inPool": true,
+        "why": "fellow war correspondent and friend"
+      },
+      {
+        "handle": "lindseyhilsum",
+        "inPool": true,
+        "why": "conflict-reporting mentor-peer"
+      },
+      {
+        "handle": "RichardEngel",
+        "inPool": true,
+        "why": "war-correspondent circle"
+      },
+      {
+        "handle": "IAmAmnaNawaz",
+        "inPool": false,
+        "why": "PBS NewsHour anchor colleague"
+      }
+    ]
+  },
+  {
+    "handle": "ChristopherJM",
+    "circle": [
+      {
+        "handle": "IAPonomarenko",
+        "inPool": true,
+        "why": "former Kyiv Post colleague and friend"
+      },
+      {
+        "handle": "KyivIndependent",
+        "inPool": true,
+        "why": "close ties from Kyiv press corps"
+      },
+      {
+        "handle": "maxseddon",
+        "inPool": true,
+        "why": "FT colleague on Russia-Ukraine coverage"
+      },
+      {
+        "handle": "shaunwalker7",
+        "inPool": false,
+        "why": "Ukraine press corps peer"
+      },
+      {
+        "handle": "yarotrof",
+        "inPool": true,
+        "why": "fellow Ukraine war chronicler"
+      },
+      {
+        "handle": "francis_scarr",
+        "inPool": true,
+        "why": "mutual Russia-Ukraine media analysis"
+      }
+    ]
+  },
+  {
+    "handle": "IAPonomarenko",
+    "circle": [
+      {
+        "handle": "KyivIndependent",
+        "inPool": true,
+        "why": "co-founding defense reporter"
+      },
+      {
+        "handle": "ChristopherJM",
+        "inPool": true,
+        "why": "former Kyiv Post colleague"
+      },
+      {
+        "handle": "francis_scarr",
+        "inPool": true,
+        "why": "mutual amplification on Russia coverage"
+      },
+      {
+        "handle": "JuliaDavisNews",
+        "inPool": true,
+        "why": "shared Russian-propaganda monitoring beat"
+      },
+      {
+        "handle": "maxseddon",
+        "inPool": true,
+        "why": "Ukraine war reporting circle"
+      }
+    ]
+  },
+  {
+    "handle": "KyivIndependent",
+    "circle": [
+      {
+        "handle": "IAPonomarenko",
+        "inPool": true,
+        "why": "former star defense reporter"
+      },
+      {
+        "handle": "ChristopherJM",
+        "inPool": true,
+        "why": "Kyiv press corps alumni network"
+      },
+      {
+        "handle": "ZelenskyyUa",
+        "inPool": false,
+        "why": "subject and frequent amplifier of coverage"
+      },
+      {
+        "handle": "EliotHiggins",
+        "inPool": true,
+        "why": "OSINT collaboration on war investigations"
+      },
+      {
+        "handle": "francis_scarr",
+        "inPool": true,
+        "why": "Russia media-monitoring crossover"
+      },
+      {
+        "handle": "bellingcat",
+        "inPool": true,
+        "why": "investigative partnership on Ukraine"
+      }
+    ]
+  },
+  {
+    "handle": "TreyYingst",
+    "circle": [
+      {
+        "handle": "foxnews",
+        "inPool": true,
+        "why": "employer, chief foreign correspondent"
+      },
+      {
+        "handle": "BarakRavid",
+        "inPool": true,
+        "why": "Israel press corps peer"
+      },
+      {
+        "handle": "RichardEngel",
+        "inPool": true,
+        "why": "cross-network conflict reporter"
+      },
+      {
+        "handle": "bencnn",
+        "inPool": true,
+        "why": "Middle East field-reporting peer"
+      },
+      {
+        "handle": "clarissaward",
+        "inPool": true,
+        "why": "war-zone correspondent circle"
+      }
+    ]
+  },
+  {
+    "handle": "BarakRavid",
+    "circle": [
+      {
+        "handle": "axios",
+        "inPool": true,
+        "why": "employer, breaks diplomacy scoops there"
+      },
+      {
+        "handle": "jonathanvswan",
+        "inPool": false,
+        "why": "close former Axios colleague and friend"
+      },
+      {
+        "handle": "AnshelPfeffer",
+        "inPool": false,
+        "why": "Israeli journalist peer and sparring partner"
+      },
+      {
+        "handle": "TreyYingst",
+        "inPool": true,
+        "why": "Israel-based press corps"
+      },
+      {
+        "handle": "NatashaBertrand",
+        "inPool": true,
+        "why": "US natsec reporting circle"
+      }
+    ]
+  },
+  {
+    "handle": "yarotrof",
+    "circle": [
+      {
+        "handle": "wsj",
+        "inPool": true,
+        "why": "employer, chief foreign-affairs correspondent"
+      },
+      {
+        "handle": "maxseddon",
+        "inPool": true,
+        "why": "Russia-Ukraine press corps peer"
+      },
+      {
+        "handle": "ChristopherJM",
+        "inPool": true,
+        "why": "fellow Ukraine war chronicler"
+      },
+      {
+        "handle": "shaunwalker7",
+        "inPool": false,
+        "why": "Eastern Europe correspondent circle"
+      },
+      {
+        "handle": "juliaioffe",
+        "inPool": true,
+        "why": "Russia-watcher mutual engagement"
+      }
+    ]
+  },
+  {
+    "handle": "maxseddon",
+    "circle": [
+      {
+        "handle": "FT",
+        "inPool": false,
+        "why": "employer, Moscow bureau chief"
+      },
+      {
+        "handle": "yarotrof",
+        "inPool": true,
+        "why": "Russia-Ukraine correspondent peer"
+      },
+      {
+        "handle": "ChristopherJM",
+        "inPool": true,
+        "why": "Kyiv-Moscow press corps circle"
+      },
+      {
+        "handle": "juliaioffe",
+        "inPool": true,
+        "why": "Russia analysis mutual engagement"
+      },
+      {
+        "handle": "francis_scarr",
+        "inPool": true,
+        "why": "Russian state-media monitoring crossover"
+      }
+    ]
+  },
+  {
+    "handle": "francis_scarr",
+    "circle": [
+      {
+        "handle": "JuliaDavisNews",
+        "inPool": true,
+        "why": "fellow Russian state-TV monitor, constant crossover"
+      },
+      {
+        "handle": "KevinRothrock",
+        "inPool": false,
+        "why": "Meduza editor, Russia-watcher banter"
+      },
+      {
+        "handle": "christogrozev",
+        "inPool": true,
+        "why": "Russia investigations engagement"
+      },
+      {
+        "handle": "maxseddon",
+        "inPool": true,
+        "why": "Moscow press corps interaction"
+      },
+      {
+        "handle": "IAPonomarenko",
+        "inPool": true,
+        "why": "Ukraine war coverage amplification"
+      }
+    ]
+  },
+  {
+    "handle": "JuliaDavisNews",
+    "circle": [
+      {
+        "handle": "francis_scarr",
+        "inPool": true,
+        "why": "fellow Russian propaganda monitor"
+      },
+      {
+        "handle": "KevinRothrock",
+        "inPool": false,
+        "why": "Russia media-watcher circle"
+      },
+      {
+        "handle": "christogrozev",
+        "inPool": true,
+        "why": "Kremlin investigations engagement"
+      },
+      {
+        "handle": "thedailybeast",
+        "inPool": true,
+        "why": "columnist home for her monitoring work"
+      },
+      {
+        "handle": "EliotHiggins",
+        "inPool": true,
+        "why": "OSINT and disinformation circle"
+      }
+    ]
+  },
+  {
+    "handle": "EliotHiggins",
+    "circle": [
+      {
+        "handle": "bellingcat",
+        "inPool": true,
+        "why": "founder, primary platform"
+      },
+      {
+        "handle": "christogrozev",
+        "inPool": true,
+        "why": "star investigator collaborator"
+      },
+      {
+        "handle": "AricToler",
+        "inPool": false,
+        "why": "longtime Bellingcat colleague"
+      },
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "long-running public feud over OSINT credibility"
+      },
+      {
+        "handle": "KyivIndependent",
+        "inPool": true,
+        "why": "Ukraine investigation collaborations"
+      },
+      {
+        "handle": "JuliaDavisNews",
+        "inPool": true,
+        "why": "disinformation-tracking circle"
+      }
+    ]
+  },
+  {
+    "handle": "bellingcat",
+    "circle": [
+      {
+        "handle": "EliotHiggins",
+        "inPool": true,
+        "why": "founder and loudest amplifier"
+      },
+      {
+        "handle": "christogrozev",
+        "inPool": true,
+        "why": "lead Russia investigator"
+      },
+      {
+        "handle": "AricToler",
+        "inPool": false,
+        "why": "veteran investigator and trainer"
+      },
+      {
+        "handle": "KyivIndependent",
+        "inPool": true,
+        "why": "Ukraine war investigative partner"
+      },
+      {
+        "handle": "francis_scarr",
+        "inPool": true,
+        "why": "Russian media evidence crossover"
+      }
+    ]
+  },
+  {
+    "handle": "christogrozev",
+    "circle": [
+      {
+        "handle": "EliotHiggins",
+        "inPool": true,
+        "why": "Bellingcat collaborator on Navalny probe"
+      },
+      {
+        "handle": "bellingcat",
+        "inPool": true,
+        "why": "investigative home for major exposes"
+      },
+      {
+        "handle": "AricToler",
+        "inPool": false,
+        "why": "co-investigator on Russia cases"
+      },
+      {
+        "handle": "pevchikh",
+        "inPool": false,
+        "why": "Navalny team investigations partner"
+      },
+      {
+        "handle": "JuliaDavisNews",
+        "inPool": true,
+        "why": "Kremlin-watcher mutual engagement"
+      }
+    ]
+  },
+  {
+    "handle": "ragipsoylu",
+    "circle": [
+      {
+        "handle": "MiddleEastEye",
+        "inPool": false,
+        "why": "employer, Turkey bureau chief"
+      },
+      {
+        "handle": "borzou",
+        "inPool": true,
+        "why": "Istanbul press corps peer"
+      },
+      {
+        "handle": "Joyce_Karam",
+        "inPool": false,
+        "why": "Middle East journalism circle"
+      },
+      {
+        "handle": "yarotrof",
+        "inPool": true,
+        "why": "regional geopolitics engagement"
+      },
+      {
+        "handle": "AnshelPfeffer",
+        "inPool": false,
+        "why": "regional analyst sparring"
+      }
+    ]
+  },
+  {
+    "handle": "bencnn",
+    "circle": [
+      {
+        "handle": "cnn",
+        "inPool": true,
+        "why": "employer of three decades"
+      },
+      {
+        "handle": "clarissaward",
+        "inPool": true,
+        "why": "CNN international colleague"
+      },
+      {
+        "handle": "amanpour",
+        "inPool": true,
+        "why": "veteran CNN colleague"
+      },
+      {
+        "handle": "BowenBBC",
+        "inPool": true,
+        "why": "Middle East veteran-correspondent peer"
+      },
+      {
+        "handle": "LizSly",
+        "inPool": true,
+        "why": "longtime Middle East press corps friend"
+      }
+    ]
+  },
+  {
+    "handle": "LizSly",
+    "circle": [
+      {
+        "handle": "washingtonpost",
+        "inPool": true,
+        "why": "longtime employer"
+      },
+      {
+        "handle": "borzou",
+        "inPool": true,
+        "why": "Middle East correspondent peer"
+      },
+      {
+        "handle": "joshrogin",
+        "inPool": false,
+        "why": "Washington Post foreign-desk circle"
+      },
+      {
+        "handle": "bencnn",
+        "inPool": true,
+        "why": "Beirut-era press corps friend"
+      },
+      {
+        "handle": "Joyce_Karam",
+        "inPool": false,
+        "why": "Middle East coverage engagement"
+      }
+    ]
+  },
+  {
+    "handle": "borzou",
+    "circle": [
+      {
+        "handle": "ragipsoylu",
+        "inPool": true,
+        "why": "Istanbul-based journalist circle"
+      },
+      {
+        "handle": "LizSly",
+        "inPool": true,
+        "why": "Middle East press corps veteran peer"
+      },
+      {
+        "handle": "Joyce_Karam",
+        "inPool": false,
+        "why": "regional journalism engagement"
+      },
+      {
+        "handle": "jenanmoussa",
+        "inPool": false,
+        "why": "Arab world investigative circle"
+      },
+      {
+        "handle": "Independent",
+        "inPool": false,
+        "why": "reporting home, The Independent"
+      }
+    ]
+  },
+  {
+    "handle": "rcallimachi",
+    "circle": [
+      {
+        "handle": "nytimes",
+        "inPool": true,
+        "why": "employer, terrorism beat fame"
+      },
+      {
+        "handle": "AricToler",
+        "inPool": false,
+        "why": "public critic in Caliphate podcast unraveling"
+      },
+      {
+        "handle": "EliotHiggins",
+        "inPool": true,
+        "why": "OSINT community scrutiny of her sourcing"
+      },
+      {
+        "handle": "MarkMazzettiNYT",
+        "inPool": false,
+        "why": "NYT national-security colleague"
+      },
+      {
+        "handle": "declanwalsh",
+        "inPool": false,
+        "why": "NYT foreign-desk colleague"
+      }
+    ]
+  },
+  {
+    "handle": "juliaioffe",
+    "circle": [
+      {
+        "handle": "PuckNews",
+        "inPool": false,
+        "why": "co-founding partner, publishes her column"
+      },
+      {
+        "handle": "maxseddon",
+        "inPool": true,
+        "why": "Russia-watcher peer engagement"
+      },
+      {
+        "handle": "mckaycoppins",
+        "inPool": false,
+        "why": "magazine-world friend from Atlantic days"
+      },
+      {
+        "handle": "FranklinFoer",
+        "inPool": false,
+        "why": "former New Republic colleague"
+      },
+      {
+        "handle": "JuliaDavisNews",
+        "inPool": true,
+        "why": "Russia propaganda discourse"
+      },
+      {
+        "handle": "christogrozev",
+        "inPool": true,
+        "why": "Kremlin investigations engagement"
+      }
+    ]
+  },
+  {
+    "handle": "W7VOA",
+    "circle": [
+      {
+        "handle": "VOANews",
+        "inPool": false,
+        "why": "longtime employer, chief national correspondent"
+      },
+      {
+        "handle": "brianstelter",
+        "inPool": false,
+        "why": "media reporting on VOA turmoil"
+      },
+      {
+        "handle": "oliverdarcy",
+        "inPool": false,
+        "why": "press-freedom media coverage engagement"
+      },
+      {
+        "handle": "mariaressa",
+        "inPool": true,
+        "why": "press-freedom advocacy circle"
+      },
+      {
+        "handle": "jaketapper",
+        "inPool": true,
+        "why": "White House press corps interactions"
+      }
+    ]
+  },
+  {
+    "handle": "mariaressa",
+    "circle": [
+      {
+        "handle": "rapplerdotcom",
+        "inPool": false,
+        "why": "co-founded Rappler, her newsroom"
+      },
+      {
+        "handle": "amanpour",
+        "inPool": true,
+        "why": "frequent interviewer and ally"
+      },
+      {
+        "handle": "carolecadwalla",
+        "inPool": true,
+        "why": "close ally fighting platform disinformation"
+      },
+      {
+        "handle": "karaswisher",
+        "inPool": true,
+        "why": "tech-accountability discourse partner"
+      },
+      {
+        "handle": "W7VOA",
+        "inPool": true,
+        "why": "press-freedom advocacy circle"
+      }
+    ]
+  },
+  {
+    "handle": "jeremyscahill",
+    "circle": [
+      {
+        "handle": "theintercept",
+        "inPool": true,
+        "why": "co-founder, longtime home"
+      },
+      {
+        "handle": "ggreenwald",
+        "inPool": true,
+        "why": "Intercept co-founder, complicated history"
+      },
+      {
+        "handle": "ryangrim",
+        "inPool": true,
+        "why": "Intercept colleague and ally"
+      },
+      {
+        "handle": "kenklippenstein",
+        "inPool": true,
+        "why": "fellow natsec muckraker, ex-colleague"
+      },
+      {
+        "handle": "democracynow",
+        "inPool": true,
+        "why": "decades of regular appearances"
+      }
+    ]
+  },
+  {
+    "handle": "carolecadwalla",
+    "circle": [
+      {
+        "handle": "guardian",
+        "inPool": false,
+        "why": "Observer/Guardian investigative home"
+      },
+      {
+        "handle": "mariaressa",
+        "inPool": true,
+        "why": "disinformation-fighting ally and friend"
+      },
+      {
+        "handle": "peterjukes",
+        "inPool": false,
+        "why": "Byline Times collaborator"
+      },
+      {
+        "handle": "chrisinsilico",
+        "inPool": false,
+        "why": "Cambridge Analytica whistleblower source"
+      },
+      {
+        "handle": "EliotHiggins",
+        "inPool": true,
+        "why": "platform-accountability discourse"
+      }
+    ]
+  },
+  {
+    "handle": "NatashaBertrand",
+    "circle": [
+      {
+        "handle": "cnn",
+        "inPool": true,
+        "why": "employer, natsec reporter"
+      },
+      {
+        "handle": "jimsciutto",
+        "inPool": false,
+        "why": "CNN national-security colleague"
+      },
+      {
+        "handle": "kaitlancollins",
+        "inPool": false,
+        "why": "CNN colleague crossovers"
+      },
+      {
+        "handle": "BarakRavid",
+        "inPool": true,
+        "why": "diplomacy scoop-trading circle"
+      },
+      {
+        "handle": "RichardEngel",
+        "inPool": true,
+        "why": "NBC-CNN natsec reporting overlap"
+      }
+    ]
+  }
+]

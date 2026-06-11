@@ -1,0 +1,280 @@
+[
+  {
+    "handle": "KMbappe",
+    "name": "Kylian Mbappé",
+    "followers": 15000000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "MoSalah",
+    "name": "Mohamed Salah",
+    "followers": 19000000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "vinijr",
+    "name": "Vini Jr.",
+    "followers": 14000000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "BellinghamJude",
+    "name": "Jude Bellingham",
+    "followers": 3500000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "tonikroos",
+    "name": "Toni Kroos",
+    "followers": 9000000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "SergioRamos",
+    "name": "Sergio Ramos",
+    "followers": 22000000,
+    "tags": [
+      "sports",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "andresiniesta8",
+    "name": "Andrés Iniesta",
+    "followers": 25000000,
+    "tags": [
+      "sports",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "10Ronaldinho",
+    "name": "Ronaldinho Gaúcho",
+    "followers": 22000000,
+    "tags": [
+      "sports",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "LuisSuarez9",
+    "name": "Luis Suárez",
+    "followers": 17000000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "DeBruyneKev",
+    "name": "Kevin De Bruyne",
+    "followers": 5000000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "premierleague",
+    "name": "Premier League",
+    "followers": 40000000,
+    "tags": [
+      "sports",
+      "media"
+    ]
+  },
+  {
+    "handle": "LaLiga",
+    "name": "LALIGA",
+    "followers": 9000000,
+    "tags": [
+      "sports",
+      "media"
+    ]
+  },
+  {
+    "handle": "FCBayern",
+    "name": "FC Bayern München",
+    "followers": 7000000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "BVB",
+    "name": "Borussia Dortmund",
+    "followers": 4500000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "Atleti",
+    "name": "Atlético de Madrid",
+    "followers": 6500000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "henrywinter",
+    "name": "Henry Winter",
+    "followers": 1500000,
+    "tags": [
+      "sports",
+      "media"
+    ]
+  },
+  {
+    "handle": "sidlowe",
+    "name": "Sid Lowe",
+    "followers": 1200000,
+    "tags": [
+      "sports",
+      "media"
+    ]
+  },
+  {
+    "handle": "imVkohli",
+    "name": "Virat Kohli",
+    "followers": 66000000,
+    "tags": [
+      "sports",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "sachin_rt",
+    "name": "Sachin Tendulkar",
+    "followers": 38000000,
+    "tags": [
+      "sports",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "ImRo45",
+    "name": "Rohit Sharma",
+    "followers": 25000000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "msdhoni",
+    "name": "Mahendra Singh Dhoni",
+    "followers": 8500000,
+    "tags": [
+      "sports",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "ICC",
+    "name": "ICC",
+    "followers": 21000000,
+    "tags": [
+      "sports",
+      "media"
+    ]
+  },
+  {
+    "handle": "BCCI",
+    "name": "BCCI",
+    "followers": 27000000,
+    "tags": [
+      "sports",
+      "media"
+    ]
+  },
+  {
+    "handle": "virendersehwag",
+    "name": "Virender Sehwag",
+    "followers": 24000000,
+    "tags": [
+      "sports",
+      "humor"
+    ]
+  },
+  {
+    "handle": "benstokes38",
+    "name": "Ben Stokes",
+    "followers": 1600000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "JordanSpieth",
+    "name": "Jordan Spieth",
+    "followers": 2500000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "TheMasters",
+    "name": "The Masters",
+    "followers": 1700000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "IanJamesPoulter",
+    "name": "Ian Poulter",
+    "followers": 2300000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "alo_oficial",
+    "name": "Fernando Alonso",
+    "followers": 5500000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "danielricciardo",
+    "name": "Daniel Ricciardo",
+    "followers": 2800000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "ValeYellow46",
+    "name": "Valentino Rossi",
+    "followers": 5700000,
+    "tags": [
+      "sports",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "marcmarquez93",
+    "name": "Marc Márquez",
+    "followers": 4000000,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "handle": "DaleJr",
+    "name": "Dale Earnhardt Jr.",
+    "followers": 5000000,
+    "tags": [
+      "sports"
+    ]
+  }
+]

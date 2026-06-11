@@ -1,0 +1,1112 @@
+[
+  {
+    "handle": "KMbappe",
+    "circle": [
+      {
+        "handle": "realmadrid",
+        "inPool": true,
+        "why": "his club, constantly tags and features him"
+      },
+      {
+        "handle": "vinijr",
+        "inPool": true,
+        "why": "Real Madrid teammate, frequent mutual replies and celebrations"
+      },
+      {
+        "handle": "BellinghamJude",
+        "inPool": true,
+        "why": "Real Madrid teammate, tagged in goal celebrations"
+      },
+      {
+        "handle": "equipedefrance",
+        "inPool": false,
+        "why": "France national team, he is captain and constantly featured"
+      },
+      {
+        "handle": "AntoGriezmann",
+        "inPool": false,
+        "why": "longtime France teammate"
+      },
+      {
+        "handle": "fabrizioromano",
+        "inPool": true,
+        "why": "covered every step of his transfer saga"
+      },
+      {
+        "handle": "Cristiano",
+        "inPool": true,
+        "why": "public mutual admiration and shared sponsor content"
+      }
+    ]
+  },
+  {
+    "handle": "MoSalah",
+    "circle": [
+      {
+        "handle": "LFC",
+        "inPool": true,
+        "why": "his club, posts revolve around Liverpool matches"
+      },
+      {
+        "handle": "TrentAA",
+        "inPool": false,
+        "why": "longtime Liverpool teammate"
+      },
+      {
+        "handle": "VirgilvDijk",
+        "inPool": false,
+        "why": "Liverpool teammate, frequent mutual posts"
+      },
+      {
+        "handle": "Roberto_Firmino",
+        "inPool": false,
+        "why": "former front-three partner at Liverpool"
+      },
+      {
+        "handle": "JamesPearceLFC",
+        "inPool": true,
+        "why": "journalist who covers him daily for The Athletic"
+      },
+      {
+        "handle": "premierleague",
+        "inPool": true,
+        "why": "regularly features his goals and awards"
+      }
+    ]
+  },
+  {
+    "handle": "vinijr",
+    "circle": [
+      {
+        "handle": "realmadrid",
+        "inPool": true,
+        "why": "his club, tags him in every matchday post"
+      },
+      {
+        "handle": "KMbappe",
+        "inPool": true,
+        "why": "Real Madrid strike partner, frequent mutual celebration posts"
+      },
+      {
+        "handle": "BellinghamJude",
+        "inPool": true,
+        "why": "Real Madrid teammate, public bromance"
+      },
+      {
+        "handle": "RodrygoGoes",
+        "inPool": false,
+        "why": "fellow Brazilian Real Madrid winger and close friend"
+      },
+      {
+        "handle": "CBF_Futebol",
+        "inPool": false,
+        "why": "Brazil national team features him constantly"
+      },
+      {
+        "handle": "neymarjr",
+        "inPool": true,
+        "why": "Brazilian mentor figure, defends him publicly"
+      }
+    ]
+  },
+  {
+    "handle": "BellinghamJude",
+    "circle": [
+      {
+        "handle": "realmadrid",
+        "inPool": true,
+        "why": "his club, tagged in matchday and goal posts"
+      },
+      {
+        "handle": "vinijr",
+        "inPool": true,
+        "why": "Madrid teammate, frequent mutual replies"
+      },
+      {
+        "handle": "KMbappe",
+        "inPool": true,
+        "why": "Madrid teammate"
+      },
+      {
+        "handle": "England",
+        "inPool": false,
+        "why": "national team account features him every camp"
+      },
+      {
+        "handle": "TrentAA",
+        "inPool": false,
+        "why": "England teammate and close friend"
+      },
+      {
+        "handle": "BVB",
+        "inPool": true,
+        "why": "former club, mutual respect posts since his transfer"
+      }
+    ]
+  },
+  {
+    "handle": "tonikroos",
+    "circle": [
+      {
+        "handle": "realmadrid",
+        "inPool": true,
+        "why": "spent a decade there, club honors him regularly"
+      },
+      {
+        "handle": "lukamodric10",
+        "inPool": false,
+        "why": "longtime midfield partner and close friend"
+      },
+      {
+        "handle": "DFB_Team",
+        "inPool": false,
+        "why": "Germany national team, World Cup winner with them"
+      },
+      {
+        "handle": "SergioRamos",
+        "inPool": true,
+        "why": "longtime Real Madrid teammate"
+      },
+      {
+        "handle": "FCBayern",
+        "inPool": true,
+        "why": "boyhood club where he came through"
+      }
+    ]
+  },
+  {
+    "handle": "SergioRamos",
+    "circle": [
+      {
+        "handle": "realmadrid",
+        "inPool": true,
+        "why": "club legend, 16 seasons as captain"
+      },
+      {
+        "handle": "IkerCasillas",
+        "inPool": false,
+        "why": "longtime Spain and Madrid teammate, frequent banter"
+      },
+      {
+        "handle": "SEFutbol",
+        "inPool": false,
+        "why": "Spain national team, record appearance holder"
+      },
+      {
+        "handle": "3gerardpique",
+        "inPool": false,
+        "why": "Spain center-back partner despite Clásico rivalry"
+      },
+      {
+        "handle": "PSG_inside",
+        "inPool": false,
+        "why": "former club, tagged him during his Paris spell"
+      },
+      {
+        "handle": "SevillaFC",
+        "inPool": false,
+        "why": "boyhood club he returned to"
+      },
+      {
+        "handle": "tonikroos",
+        "inPool": true,
+        "why": "longtime Madrid teammate"
+      }
+    ]
+  },
+  {
+    "handle": "andresiniesta8",
+    "circle": [
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "one-club legend, mutual tribute posts"
+      },
+      {
+        "handle": "3gerardpique",
+        "inPool": false,
+        "why": "longtime Barça and Spain teammate"
+      },
+      {
+        "handle": "cesc4official",
+        "inPool": false,
+        "why": "La Masia classmate and close friend"
+      },
+      {
+        "handle": "SEFutbol",
+        "inPool": false,
+        "why": "scored the 2010 World Cup winner for Spain"
+      },
+      {
+        "handle": "LaLiga",
+        "inPool": true,
+        "why": "league regularly celebrates his legacy"
+      },
+      {
+        "handle": "IkerCasillas",
+        "inPool": false,
+        "why": "Spain teammate, mutual anniversary posts"
+      }
+    ]
+  },
+  {
+    "handle": "10Ronaldinho",
+    "circle": [
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "club legend, frequent nostalgia posts both ways"
+      },
+      {
+        "handle": "neymarjr",
+        "inPool": true,
+        "why": "close friend and Brazilian successor, frequent mutual posts"
+      },
+      {
+        "handle": "KAKA",
+        "inPool": true,
+        "why": "Brazil 2002-era teammate and friend"
+      },
+      {
+        "handle": "CBF_Futebol",
+        "inPool": false,
+        "why": "Brazil legend featured in federation content"
+      },
+      {
+        "handle": "3gerardpique",
+        "inPool": false,
+        "why": "former Barça teammate, joined his Kings League"
+      },
+      {
+        "handle": "Ronaldo",
+        "inPool": false,
+        "why": "fellow Brazilian legend, mutual appearances"
+      }
+    ]
+  },
+  {
+    "handle": "LuisSuarez9",
+    "circle": [
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "scored 195 goals there, mutual tribute posts"
+      },
+      {
+        "handle": "neymarjr",
+        "inPool": true,
+        "why": "MSN trio partner and close friend"
+      },
+      {
+        "handle": "ECavaniOfficial",
+        "inPool": false,
+        "why": "longtime Uruguay strike partner"
+      },
+      {
+        "handle": "AUFOficial",
+        "inPool": false,
+        "why": "Uruguay national team, all-time top scorer"
+      },
+      {
+        "handle": "InterMiamiCF",
+        "inPool": false,
+        "why": "reunited with Messi there, tagged constantly"
+      }
+    ]
+  },
+  {
+    "handle": "DeBruyneKev",
+    "circle": [
+      {
+        "handle": "ManCity",
+        "inPool": true,
+        "why": "his club for a decade, tagged in assists compilations"
+      },
+      {
+        "handle": "erlinghaaland",
+        "inPool": true,
+        "why": "City strike partner, constant assist-goal connection posts"
+      },
+      {
+        "handle": "PhilFoden",
+        "inPool": false,
+        "why": "longtime City midfield teammate"
+      },
+      {
+        "handle": "BelRedDevils",
+        "inPool": false,
+        "why": "Belgium national team captain"
+      },
+      {
+        "handle": "premierleague",
+        "inPool": true,
+        "why": "features his playmaker awards"
+      },
+      {
+        "handle": "JackGrealish",
+        "inPool": false,
+        "why": "City teammate and friend"
+      }
+    ]
+  },
+  {
+    "handle": "premierleague",
+    "circle": [
+      {
+        "handle": "ManCity",
+        "inPool": true,
+        "why": "league club, constant retweets and features"
+      },
+      {
+        "handle": "Arsenal",
+        "inPool": true,
+        "why": "league club featured daily"
+      },
+      {
+        "handle": "LFC",
+        "inPool": true,
+        "why": "league club featured daily"
+      },
+      {
+        "handle": "ManUtd",
+        "inPool": true,
+        "why": "league club featured daily"
+      },
+      {
+        "handle": "ChelseaFC",
+        "inPool": true,
+        "why": "league club featured daily"
+      },
+      {
+        "handle": "SpursOfficial",
+        "inPool": true,
+        "why": "league club featured daily"
+      },
+      {
+        "handle": "garylineker",
+        "inPool": true,
+        "why": "face of league coverage, frequent interaction"
+      }
+    ]
+  },
+  {
+    "handle": "LaLiga",
+    "circle": [
+      {
+        "handle": "realmadrid",
+        "inPool": true,
+        "why": "flagship league club, featured daily"
+      },
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "flagship league club, featured daily"
+      },
+      {
+        "handle": "Atleti",
+        "inPool": true,
+        "why": "top league club, featured daily"
+      },
+      {
+        "handle": "SevillaFC",
+        "inPool": false,
+        "why": "league club featured regularly"
+      },
+      {
+        "handle": "vinijr",
+        "inPool": true,
+        "why": "league star featured in highlight content"
+      },
+      {
+        "handle": "KMbappe",
+        "inPool": true,
+        "why": "league star featured in highlight content"
+      }
+    ]
+  },
+  {
+    "handle": "FCBayern",
+    "circle": [
+      {
+        "handle": "HKane",
+        "inPool": false,
+        "why": "their record signing and top scorer, tagged constantly"
+      },
+      {
+        "handle": "Manuel_Neuer",
+        "inPool": false,
+        "why": "club captain for over a decade"
+      },
+      {
+        "handle": "esmuellert_",
+        "inPool": false,
+        "why": "Thomas Müller, club icon with constant banter"
+      },
+      {
+        "handle": "DFB_Team",
+        "inPool": false,
+        "why": "supplies the German national team core"
+      },
+      {
+        "handle": "BVB",
+        "inPool": true,
+        "why": "Der Klassiker rival, frequent head-to-head posts"
+      },
+      {
+        "handle": "Bundesliga_EN",
+        "inPool": false,
+        "why": "league account features them weekly"
+      }
+    ]
+  },
+  {
+    "handle": "BVB",
+    "circle": [
+      {
+        "handle": "FCBayern",
+        "inPool": true,
+        "why": "Der Klassiker rivalry, constant matchday interaction"
+      },
+      {
+        "handle": "Bundesliga_EN",
+        "inPool": false,
+        "why": "league features the Yellow Wall regularly"
+      },
+      {
+        "handle": "BellinghamJude",
+        "inPool": true,
+        "why": "former star, mutual posts since his move"
+      },
+      {
+        "handle": "erlinghaaland",
+        "inPool": true,
+        "why": "former striker, club still celebrates his era"
+      },
+      {
+        "handle": "woodyinho",
+        "inPool": false,
+        "why": "Marco Reus, longtime captain and club icon"
+      }
+    ]
+  },
+  {
+    "handle": "Atleti",
+    "circle": [
+      {
+        "handle": "LaLiga",
+        "inPool": true,
+        "why": "league account features them constantly"
+      },
+      {
+        "handle": "realmadrid",
+        "inPool": true,
+        "why": "Madrid derby rival"
+      },
+      {
+        "handle": "AntoGriezmann",
+        "inPool": false,
+        "why": "club's biggest star, tagged in every match post"
+      },
+      {
+        "handle": "Simeone",
+        "inPool": false,
+        "why": "iconic manager synonymous with the club"
+      },
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "frequent title-race rival"
+      }
+    ]
+  },
+  {
+    "handle": "henrywinter",
+    "circle": [
+      {
+        "handle": "garylineker",
+        "inPool": true,
+        "why": "fellow English football voice, frequent replies"
+      },
+      {
+        "handle": "fabrizioromano",
+        "inPool": true,
+        "why": "fellow football journalist, shared transfer discourse"
+      },
+      {
+        "handle": "David_Ornstein",
+        "inPool": true,
+        "why": "fellow top English football journalist"
+      },
+      {
+        "handle": "England",
+        "inPool": false,
+        "why": "covers the national team at every tournament"
+      },
+      {
+        "handle": "carra23",
+        "inPool": true,
+        "why": "pundit he regularly engages with"
+      },
+      {
+        "handle": "premierleague",
+        "inPool": true,
+        "why": "his daily coverage beat"
+      }
+    ]
+  },
+  {
+    "handle": "sidlowe",
+    "circle": [
+      {
+        "handle": "GuillemBalague",
+        "inPool": true,
+        "why": "fellow Spanish football journalist, frequent exchanges"
+      },
+      {
+        "handle": "LaLiga",
+        "inPool": true,
+        "why": "his beat, covers it weekly for the Guardian"
+      },
+      {
+        "handle": "JamesHorncastle",
+        "inPool": false,
+        "why": "fellow European football writer and podcast colleague"
+      },
+      {
+        "handle": "realmadrid",
+        "inPool": true,
+        "why": "covers them match by match"
+      },
+      {
+        "handle": "FCBarcelona",
+        "inPool": true,
+        "why": "covers them match by match"
+      }
+    ]
+  },
+  {
+    "handle": "imVkohli",
+    "circle": [
+      {
+        "handle": "BCCI",
+        "inPool": true,
+        "why": "national board, tagged in every India feature"
+      },
+      {
+        "handle": "ImRo45",
+        "inPool": true,
+        "why": "longtime India batting partner and captain"
+      },
+      {
+        "handle": "AnushkaSharma",
+        "inPool": false,
+        "why": "wife, frequent mutual posts"
+      },
+      {
+        "handle": "sachin_rt",
+        "inPool": true,
+        "why": "idol and predecessor, mutual tribute posts"
+      },
+      {
+        "handle": "ICC",
+        "inPool": true,
+        "why": "features his records constantly"
+      },
+      {
+        "handle": "RCBTweets",
+        "inPool": false,
+        "why": "his lifelong IPL franchise"
+      }
+    ]
+  },
+  {
+    "handle": "sachin_rt",
+    "circle": [
+      {
+        "handle": "BCCI",
+        "inPool": true,
+        "why": "Indian cricket board, celebrates his milestones"
+      },
+      {
+        "handle": "ICC",
+        "inPool": true,
+        "why": "features his records and tributes"
+      },
+      {
+        "handle": "imVkohli",
+        "inPool": true,
+        "why": "successor who he publicly praises"
+      },
+      {
+        "handle": "virendersehwag",
+        "inPool": true,
+        "why": "longtime opening partner, constant banter"
+      },
+      {
+        "handle": "YUVSTRONG12",
+        "inPool": false,
+        "why": "former India teammate and friend"
+      },
+      {
+        "handle": "mipaltan",
+        "inPool": false,
+        "why": "Mumbai Indians icon and mentor"
+      }
+    ]
+  },
+  {
+    "handle": "ImRo45",
+    "circle": [
+      {
+        "handle": "BCCI",
+        "inPool": true,
+        "why": "tagged in every India captaincy post"
+      },
+      {
+        "handle": "mipaltan",
+        "inPool": false,
+        "why": "Mumbai Indians, five IPL titles with them"
+      },
+      {
+        "handle": "imVkohli",
+        "inPool": true,
+        "why": "longtime batting partner"
+      },
+      {
+        "handle": "hardikpandya7",
+        "inPool": false,
+        "why": "India and Mumbai teammate"
+      },
+      {
+        "handle": "ICC",
+        "inPool": true,
+        "why": "features his white-ball records"
+      },
+      {
+        "handle": "sachin_rt",
+        "inPool": true,
+        "why": "fellow Mumbai batting great, mutual praise"
+      }
+    ]
+  },
+  {
+    "handle": "msdhoni",
+    "circle": [
+      {
+        "handle": "ChennaiIPL",
+        "inPool": false,
+        "why": "CSK, the franchise built around him"
+      },
+      {
+        "handle": "BCCI",
+        "inPool": true,
+        "why": "World Cup winning captain, featured in tributes"
+      },
+      {
+        "handle": "sachin_rt",
+        "inPool": true,
+        "why": "former teammate, mutual respect posts"
+      },
+      {
+        "handle": "ImRaina",
+        "inPool": false,
+        "why": "Suresh Raina, closest friend in cricket"
+      },
+      {
+        "handle": "imVkohli",
+        "inPool": true,
+        "why": "successor as India captain, public mutual praise"
+      }
+    ]
+  },
+  {
+    "handle": "ICC",
+    "circle": [
+      {
+        "handle": "BCCI",
+        "inPool": true,
+        "why": "member board, constant cross-posting"
+      },
+      {
+        "handle": "englandcricket",
+        "inPool": false,
+        "why": "member board featured in event coverage"
+      },
+      {
+        "handle": "CricketAus",
+        "inPool": false,
+        "why": "member board featured in event coverage"
+      },
+      {
+        "handle": "TheRealPCB",
+        "inPool": false,
+        "why": "member board featured in event coverage"
+      },
+      {
+        "handle": "imVkohli",
+        "inPool": true,
+        "why": "most-featured player in their content"
+      },
+      {
+        "handle": "sachin_rt",
+        "inPool": true,
+        "why": "legend featured in tribute content"
+      }
+    ]
+  },
+  {
+    "handle": "BCCI",
+    "circle": [
+      {
+        "handle": "imVkohli",
+        "inPool": true,
+        "why": "star player tagged in team posts daily"
+      },
+      {
+        "handle": "ImRo45",
+        "inPool": true,
+        "why": "captain tagged in team posts"
+      },
+      {
+        "handle": "msdhoni",
+        "inPool": true,
+        "why": "legendary captain featured in tributes"
+      },
+      {
+        "handle": "IPL",
+        "inPool": false,
+        "why": "their own franchise league, constant cross-posting"
+      },
+      {
+        "handle": "ICC",
+        "inPool": true,
+        "why": "global governing body, event coordination"
+      },
+      {
+        "handle": "sachin_rt",
+        "inPool": true,
+        "why": "greatest Indian cricketer, milestone tributes"
+      }
+    ]
+  },
+  {
+    "handle": "virendersehwag",
+    "circle": [
+      {
+        "handle": "sachin_rt",
+        "inPool": true,
+        "why": "opening partner for a decade, birthday banter every year"
+      },
+      {
+        "handle": "YUVSTRONG12",
+        "inPool": false,
+        "why": "former teammate, frequent joke exchanges"
+      },
+      {
+        "handle": "harbhajan_singh",
+        "inPool": false,
+        "why": "former teammate and close friend"
+      },
+      {
+        "handle": "BCCI",
+        "inPool": true,
+        "why": "featured in throwback content"
+      },
+      {
+        "handle": "GautamGambhir",
+        "inPool": false,
+        "why": "former opening partner"
+      },
+      {
+        "handle": "imVkohli",
+        "inPool": true,
+        "why": "regularly praises and ribs him"
+      }
+    ]
+  },
+  {
+    "handle": "benstokes38",
+    "circle": [
+      {
+        "handle": "englandcricket",
+        "inPool": false,
+        "why": "Test captain, tagged in every England post"
+      },
+      {
+        "handle": "root66",
+        "inPool": false,
+        "why": "Joe Root, longtime teammate and predecessor as captain"
+      },
+      {
+        "handle": "jbairstow21",
+        "inPool": false,
+        "why": "Jonny Bairstow, longtime England teammate"
+      },
+      {
+        "handle": "StuartBroad8",
+        "inPool": false,
+        "why": "former England teammate, frequent banter"
+      },
+      {
+        "handle": "ICC",
+        "inPool": true,
+        "why": "features his match-winning performances"
+      },
+      {
+        "handle": "KP24",
+        "inPool": false,
+        "why": "former England star who frequently comments on him"
+      }
+    ]
+  },
+  {
+    "handle": "JordanSpieth",
+    "circle": [
+      {
+        "handle": "PGATOUR",
+        "inPool": true,
+        "why": "tour features him weekly"
+      },
+      {
+        "handle": "JustinThomas34",
+        "inPool": false,
+        "why": "best friend on tour, constant mutual banter"
+      },
+      {
+        "handle": "TheMasters",
+        "inPool": true,
+        "why": "2015 champion, featured in tournament content"
+      },
+      {
+        "handle": "RickieFowler",
+        "inPool": false,
+        "why": "close friend and frequent practice partner"
+      },
+      {
+        "handle": "McIlroyRory",
+        "inPool": true,
+        "why": "longtime rival and Ryder Cup teammate-adjacent star"
+      }
+    ]
+  },
+  {
+    "handle": "TheMasters",
+    "circle": [
+      {
+        "handle": "PGATOUR",
+        "inPool": true,
+        "why": "co-promotes the major every April"
+      },
+      {
+        "handle": "TigerWoods",
+        "inPool": true,
+        "why": "five-time champion, centerpiece of their content"
+      },
+      {
+        "handle": "McIlroyRory",
+        "inPool": true,
+        "why": "career grand slam storyline they feature"
+      },
+      {
+        "handle": "JordanSpieth",
+        "inPool": true,
+        "why": "former champion featured annually"
+      },
+      {
+        "handle": "jacknicklaus",
+        "inPool": false,
+        "why": "record six-time champion, honorary starter"
+      },
+      {
+        "handle": "PhilMickelson",
+        "inPool": true,
+        "why": "three-time champion featured in archives"
+      }
+    ]
+  },
+  {
+    "handle": "IanJamesPoulter",
+    "circle": [
+      {
+        "handle": "RickieFowler",
+        "inPool": false,
+        "why": "tour friend, frequent reply banter"
+      },
+      {
+        "handle": "JustinRose99",
+        "inPool": false,
+        "why": "fellow English golfer and Ryder Cup teammate"
+      },
+      {
+        "handle": "PGATOUR",
+        "inPool": true,
+        "why": "longtime tour member"
+      },
+      {
+        "handle": "rydercup",
+        "inPool": false,
+        "why": "the event he is most famous for, featured as legend"
+      },
+      {
+        "handle": "Graeme_McDowell",
+        "inPool": false,
+        "why": "close friend and LIV teammate"
+      }
+    ]
+  },
+  {
+    "handle": "alo_oficial",
+    "circle": [
+      {
+        "handle": "AstonMartinF1",
+        "inPool": false,
+        "why": "current team, tagged in every race post"
+      },
+      {
+        "handle": "F1",
+        "inPool": true,
+        "why": "two-time champion featured constantly"
+      },
+      {
+        "handle": "Carlossainz55",
+        "inPool": false,
+        "why": "fellow Spanish F1 driver, mutual support"
+      },
+      {
+        "handle": "lewishamilton",
+        "inPool": true,
+        "why": "career-long rival since 2007 McLaren days"
+      },
+      {
+        "handle": "Max33Verstappen",
+        "inPool": true,
+        "why": "on-track rival with public mutual respect"
+      }
+    ]
+  },
+  {
+    "handle": "danielricciardo",
+    "circle": [
+      {
+        "handle": "McLarenF1",
+        "inPool": true,
+        "why": "former team, Monza 2021 win posts"
+      },
+      {
+        "handle": "redbullracing",
+        "inPool": true,
+        "why": "former team where he won 7 races"
+      },
+      {
+        "handle": "LandoNorris",
+        "inPool": true,
+        "why": "former McLaren teammate, famous comedic duo"
+      },
+      {
+        "handle": "Max33Verstappen",
+        "inPool": true,
+        "why": "former Red Bull teammate"
+      },
+      {
+        "handle": "F1",
+        "inPool": true,
+        "why": "fan favorite featured in league content"
+      },
+      {
+        "handle": "SChecoPerez",
+        "inPool": false,
+        "why": "former grid colleague and friend"
+      }
+    ]
+  },
+  {
+    "handle": "ValeYellow46",
+    "circle": [
+      {
+        "handle": "MotoGP",
+        "inPool": true,
+        "why": "nine-time champion, the face of the series"
+      },
+      {
+        "handle": "marcmarquez93",
+        "inPool": true,
+        "why": "defining career rivalry"
+      },
+      {
+        "handle": "PeccoBagnaia",
+        "inPool": false,
+        "why": "his VR46 Academy protégé and champion"
+      },
+      {
+        "handle": "VR46RacingTeam",
+        "inPool": false,
+        "why": "his own racing team"
+      },
+      {
+        "handle": "FrankyMorbido12",
+        "inPool": false,
+        "why": "VR46 Academy rider and close friend"
+      }
+    ]
+  },
+  {
+    "handle": "marcmarquez93",
+    "circle": [
+      {
+        "handle": "MotoGP",
+        "inPool": true,
+        "why": "multiple-time champion featured constantly"
+      },
+      {
+        "handle": "ValeYellow46",
+        "inPool": true,
+        "why": "career-defining rivalry"
+      },
+      {
+        "handle": "alexmarquez73",
+        "inPool": false,
+        "why": "brother and fellow MotoGP rider"
+      },
+      {
+        "handle": "ducaticorse",
+        "inPool": false,
+        "why": "current factory team"
+      },
+      {
+        "handle": "boxrepsol",
+        "inPool": false,
+        "why": "longtime Honda-era sponsor account"
+      }
+    ]
+  },
+  {
+    "handle": "DaleJr",
+    "circle": [
+      {
+        "handle": "NASCAR",
+        "inPool": false,
+        "why": "sport's most popular driver, featured constantly"
+      },
+      {
+        "handle": "DirtyMoMedia",
+        "inPool": false,
+        "why": "his own media company"
+      },
+      {
+        "handle": "chaseelliott",
+        "inPool": false,
+        "why": "Hendrick driver he mentored and co-owns history with"
+      },
+      {
+        "handle": "JimmieJohnson",
+        "inPool": false,
+        "why": "longtime Hendrick teammate and friend"
+      },
+      {
+        "handle": "TeamHendrick",
+        "inPool": false,
+        "why": "drove for them for a decade"
+      }
+    ]
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "handle": "novogratz",
+    "name": "Mike Novogratz",
+    "followers": 550000,
+    "tags": [
+      "crypto",
+      "finance"
+    ]
+  },
+  {
+    "handle": "tyler",
+    "name": "Tyler Winklevoss",
+    "followers": 1100000,
+    "tags": [
+      "crypto",
+      "finance"
+    ]
+  },
+  {
+    "handle": "aeyakovenko",
+    "name": "Anatoly Yakovenko",
+    "followers": 500000,
+    "tags": [
+      "crypto",
+      "tech"
+    ]
+  },
+  {
+    "handle": "rajgokal",
+    "name": "Raj Gokal",
+    "followers": 350000,
+    "tags": [
+      "crypto",
+      "tech"
+    ]
+  },
+  {
+    "handle": "jessepollak",
+    "name": "Jesse Pollak",
+    "followers": 500000,
+    "tags": [
+      "crypto",
+      "tech"
+    ]
+  },
+  {
+    "handle": "haydenzadams",
+    "name": "Hayden Adams",
+    "followers": 280000,
+    "tags": [
+      "crypto",
+      "tech"
+    ]
+  },
+  {
+    "handle": "samczsun",
+    "name": "samczsun",
+    "followers": 320000,
+    "tags": [
+      "crypto",
+      "tech"
+    ]
+  },
+  {
+    "handle": "blknoiz06",
+    "name": "Ansem",
+    "followers": 750000,
+    "tags": [
+      "crypto"
+    ]
+  },
+  {
+    "handle": "0xMert_",
+    "name": "Mert Mumtaz",
+    "followers": 350000,
+    "tags": [
+      "crypto",
+      "tech"
+    ]
+  },
+  {
+    "handle": "CryptoDonAlt",
+    "name": "DonAlt",
+    "followers": 600000,
+    "tags": [
+      "crypto",
+      "finance"
+    ]
+  },
+  {
+    "handle": "RyanSAdams",
+    "name": "Ryan Sean Adams",
+    "followers": 280000,
+    "tags": [
+      "crypto",
+      "media"
+    ]
+  },
+  {
+    "handle": "TrustlessState",
+    "name": "David Hoffman",
+    "followers": 200000,
+    "tags": [
+      "crypto",
+      "media"
+    ]
+  },
+  {
+    "handle": "PeterMcCormack",
+    "name": "Peter McCormack",
+    "followers": 600000,
+    "tags": [
+      "crypto",
+      "media"
+    ]
+  },
+  {
+    "handle": "adam3us",
+    "name": "Adam Back",
+    "followers": 550000,
+    "tags": [
+      "crypto",
+      "tech"
+    ]
+  },
+  {
+    "handle": "ki_young_ju",
+    "name": "Ki Young Ju",
+    "followers": 400000,
+    "tags": [
+      "crypto",
+      "finance"
+    ]
+  },
+  {
+    "handle": "EricBalchunas",
+    "name": "Eric Balchunas",
+    "followers": 280000,
+    "tags": [
+      "finance",
+      "crypto",
+      "media"
+    ]
+  },
+  {
+    "handle": "NateGeraci",
+    "name": "Nate Geraci",
+    "followers": 120000,
+    "tags": [
+      "finance",
+      "crypto"
+    ]
+  },
+  {
+    "handle": "CliffordAsness",
+    "name": "Cliff Asness",
+    "followers": 120000,
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "handle": "Claudia_Sahm",
+    "name": "Claudia Sahm",
+    "followers": 120000,
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "handle": "SamRo",
+    "name": "Sam Ro",
+    "followers": 150000,
+    "tags": [
+      "finance",
+      "media"
+    ]
+  },
+  {
+    "handle": "GavinSBaker",
+    "name": "Gavin Baker",
+    "followers": 250000,
+    "tags": [
+      "finance",
+      "tech"
+    ]
+  },
+  {
+    "handle": "bennpeifert",
+    "name": "Benn Eifert",
+    "followers": 160000,
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "handle": "jam_croissant",
+    "name": "Cem Karsan",
+    "followers": 200000,
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "handle": "dampedspring",
+    "name": "Andy Constan",
+    "followers": 180000,
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "handle": "FedGuy12",
+    "name": "Joseph Wang",
+    "followers": 160000,
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "handle": "BobEUnlimited",
+    "name": "Bob Elliott",
+    "followers": 180000,
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "handle": "Schuldensuehner",
+    "name": "Holger Zschaepitz",
+    "followers": 400000,
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "handle": "JavierBlas",
+    "name": "Javier Blas",
+    "followers": 500000,
+    "tags": [
+      "finance",
+      "media"
+    ]
+  },
+  {
+    "handle": "steve_hanke",
+    "name": "Steve Hanke",
+    "followers": 700000,
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "handle": "StockMKTNewz",
+    "name": "Evan (Stock Market News)",
+    "followers": 450000,
+    "tags": [
+      "finance",
+      "media"
+    ]
+  },
+  {
+    "handle": "vladtenev",
+    "name": "Vlad Tenev",
+    "followers": 250000,
+    "tags": [
+      "finance",
+      "tech"
+    ]
+  }
+]

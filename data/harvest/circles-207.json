@@ -1,0 +1,1002 @@
+[
+  {
+    "handle": "levie",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "frequent AI-optimist banter and OpenAI praise"
+      },
+      {
+        "handle": "satyanadella",
+        "inPool": true,
+        "why": "Box-Microsoft partnership and CEO repartee"
+      },
+      {
+        "handle": "benthompson",
+        "inPool": true,
+        "why": "engages with Stratechery analysis"
+      },
+      {
+        "handle": "garrytan",
+        "inPool": true,
+        "why": "SF tech scene mutual replies"
+      },
+      {
+        "handle": "Jason",
+        "inPool": true,
+        "why": "longtime startup-twitter sparring partner"
+      },
+      {
+        "handle": "karaswisher",
+        "inPool": true,
+        "why": "recurring interview subject and replies"
+      }
+    ]
+  },
+  {
+    "handle": "reidhoffman",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "close friend, OpenAI backer and ally"
+      },
+      {
+        "handle": "satyanadella",
+        "inPool": true,
+        "why": "sold LinkedIn to Microsoft, frequent mutual promotion"
+      },
+      {
+        "handle": "mustafasuleyman",
+        "inPool": true,
+        "why": "Inflection AI co-founder"
+      },
+      {
+        "handle": "BillGates",
+        "inPool": true,
+        "why": "longtime friend and podcast swaps"
+      },
+      {
+        "handle": "demishassabis",
+        "inPool": true,
+        "why": "AI leadership circuit engagement"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "PayPal mafia history turned public sparring"
+      }
+    ]
+  },
+  {
+    "handle": "bhorowitz",
+    "circle": [
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "a16z co-founder"
+      },
+      {
+        "handle": "a16z",
+        "inPool": true,
+        "why": "his own firm's account"
+      },
+      {
+        "handle": "cdixon",
+        "inPool": true,
+        "why": "longtime a16z partner"
+      },
+      {
+        "handle": "martin_casado",
+        "inPool": true,
+        "why": "a16z GP he amplifies"
+      },
+      {
+        "handle": "balajis",
+        "inPool": true,
+        "why": "former a16z GP, mutual engagement"
+      }
+    ]
+  },
+  {
+    "handle": "vkhosla",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "early OpenAI backer and vocal defender"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "public sparring over the OpenAI lawsuit"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "debated open-source AI and doomerism"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech-politics debates"
+      },
+      {
+        "handle": "GaryMarcus",
+        "inPool": true,
+        "why": "recurring AI-skeptic debate foil"
+      }
+    ]
+  },
+  {
+    "handle": "rabois",
+    "circle": [
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "PayPal mafia, close friend"
+      },
+      {
+        "handle": "Jason",
+        "inPool": true,
+        "why": "All-In orbit and startup banter"
+      },
+      {
+        "handle": "zebulgar",
+        "inPool": true,
+        "why": "protege and close VC friend"
+      },
+      {
+        "handle": "garrytan",
+        "inPool": true,
+        "why": "SF politics co-belligerent"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "VC discourse mutual"
+      }
+    ]
+  },
+  {
+    "handle": "tobi",
+    "circle": [
+      {
+        "handle": "dhh",
+        "inPool": true,
+        "why": "Rails roots, long public exchanges"
+      },
+      {
+        "handle": "patrickc",
+        "inPool": true,
+        "why": "fellow technical founder-CEO mutual"
+      },
+      {
+        "handle": "harleyf",
+        "inPool": false,
+        "why": "Shopify president, constant amplification"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI and AGI discourse engagement"
+      },
+      {
+        "handle": "levie",
+        "inPool": true,
+        "why": "CEO-twitter AI banter"
+      }
+    ]
+  },
+  {
+    "handle": "bchesky",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "close friend, frequent mutual shoutouts"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "founder mode essay sprang from Chesky's talk"
+      },
+      {
+        "handle": "garrytan",
+        "inPool": true,
+        "why": "YC alum boosted by current YC head"
+      },
+      {
+        "handle": "reidhoffman",
+        "inPool": true,
+        "why": "early Airbnb board member at Greylock"
+      },
+      {
+        "handle": "patrickc",
+        "inPool": true,
+        "why": "fellow founder-CEO friendship"
+      }
+    ]
+  },
+  {
+    "handle": "amasad",
+    "circle": [
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "Replit is YC, frequent reply mutual"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI agents discourse and OpenAI partnership"
+      },
+      {
+        "handle": "garrytan",
+        "inPool": true,
+        "why": "YC cheerleading and SF scene"
+      },
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "Replit investor and podcast partner"
+      },
+      {
+        "handle": "swyx",
+        "inPool": true,
+        "why": "AI engineering community engagement"
+      }
+    ]
+  },
+  {
+    "handle": "AravSrinivas",
+    "circle": [
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "public Grok vs Perplexity jousting"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI rivalry subtweets and replies"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": true,
+        "why": "openly fanboys and engages him"
+      },
+      {
+        "handle": "lexfridman",
+        "inPool": true,
+        "why": "podcast guest and mutual"
+      },
+      {
+        "handle": "JeffBezos",
+        "inPool": true,
+        "why": "Perplexity investor he celebrates"
+      }
+    ]
+  },
+  {
+    "handle": "alexandr_wang",
+    "circle": [
+      {
+        "handle": "natfriedman",
+        "inPool": true,
+        "why": "Meta superintelligence org colleague"
+      },
+      {
+        "handle": "danielgross",
+        "inPool": true,
+        "why": "Meta AI leadership colleague"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "fellow young AI CEO mutual"
+      },
+      {
+        "handle": "dwarkesh_sp",
+        "inPool": true,
+        "why": "podcast guest appearance"
+      },
+      {
+        "handle": "garrytan",
+        "inPool": true,
+        "why": "Scale AI was YC-backed"
+      }
+    ]
+  },
+  {
+    "handle": "miramurati",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "former boss at OpenAI"
+      },
+      {
+        "handle": "gdb",
+        "inPool": true,
+        "why": "longtime OpenAI colleague"
+      },
+      {
+        "handle": "johnschulman2",
+        "inPool": false,
+        "why": "Thinking Machines co-founder"
+      },
+      {
+        "handle": "lilianweng",
+        "inPool": false,
+        "why": "Thinking Machines co-founder"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": true,
+        "why": "former OpenAI colleague"
+      }
+    ]
+  },
+  {
+    "handle": "mustafasuleyman",
+    "circle": [
+      {
+        "handle": "satyanadella",
+        "inPool": true,
+        "why": "his boss at Microsoft AI"
+      },
+      {
+        "handle": "reidhoffman",
+        "inPool": true,
+        "why": "Inflection AI co-founder and friend"
+      },
+      {
+        "handle": "demishassabis",
+        "inPool": true,
+        "why": "DeepMind co-founder, lifelong friend"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI-Microsoft frenemy dynamics"
+      },
+      {
+        "handle": "ylecun",
+        "inPool": true,
+        "why": "AI debate counterpart"
+      }
+    ]
+  },
+  {
+    "handle": "ClementDelangue",
+    "circle": [
+      {
+        "handle": "huggingface",
+        "inPool": true,
+        "why": "his company's account"
+      },
+      {
+        "handle": "_akhaliq",
+        "inPool": true,
+        "why": "Hugging Face colleague, paper poster"
+      },
+      {
+        "handle": "abidlabs",
+        "inPool": true,
+        "why": "Gradio founder he acquired"
+      },
+      {
+        "handle": "ylecun",
+        "inPool": true,
+        "why": "open-source AI ally"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "friendly open vs closed AI ribbing"
+      }
+    ]
+  },
+  {
+    "handle": "natfriedman",
+    "circle": [
+      {
+        "handle": "danielgross",
+        "inPool": true,
+        "why": "NFDG investing partner"
+      },
+      {
+        "handle": "patrickc",
+        "inPool": true,
+        "why": "close friend, co-funds research prizes"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": true,
+        "why": "AI scene mutual admiration"
+      },
+      {
+        "handle": "github",
+        "inPool": true,
+        "why": "company he ran as CEO"
+      },
+      {
+        "handle": "alexandr_wang",
+        "inPool": true,
+        "why": "Meta superintelligence colleague"
+      }
+    ]
+  },
+  {
+    "handle": "danielgross",
+    "circle": [
+      {
+        "handle": "natfriedman",
+        "inPool": true,
+        "why": "NFDG fund partner"
+      },
+      {
+        "handle": "ilyasut",
+        "inPool": true,
+        "why": "SSI co-founder"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "was YC partner under his presidency"
+      },
+      {
+        "handle": "patrickc",
+        "inPool": true,
+        "why": "Pioneer backer and friend"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": true,
+        "why": "AI talent circle mutual"
+      }
+    ]
+  },
+  {
+    "handle": "Suhail",
+    "circle": [
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "Mixpanel was YC, longtime mutual"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI scaling banter and pushback"
+      },
+      {
+        "handle": "garrytan",
+        "inPool": true,
+        "why": "YC network engagement"
+      },
+      {
+        "handle": "levelsio",
+        "inPool": true,
+        "why": "indie AI builder mutual"
+      },
+      {
+        "handle": "amasad",
+        "inPool": true,
+        "why": "dev-tools founder banter"
+      }
+    ]
+  },
+  {
+    "handle": "rauchg",
+    "circle": [
+      {
+        "handle": "dhh",
+        "inPool": true,
+        "why": "framework and runtime debates"
+      },
+      {
+        "handle": "swyx",
+        "inPool": true,
+        "why": "AI engineering community mutual"
+      },
+      {
+        "handle": "shadcn",
+        "inPool": false,
+        "why": "Vercel colleague he champions"
+      },
+      {
+        "handle": "leerob",
+        "inPool": false,
+        "why": "longtime Vercel lieutenant"
+      },
+      {
+        "handle": "github",
+        "inPool": true,
+        "why": "platform partnership engagement"
+      }
+    ]
+  },
+  {
+    "handle": "mitchellh",
+    "circle": [
+      {
+        "handle": "armon",
+        "inPool": false,
+        "why": "HashiCorp co-founder"
+      },
+      {
+        "handle": "github",
+        "inPool": true,
+        "why": "OSS home of his projects"
+      },
+      {
+        "handle": "gergelyorosz",
+        "inPool": true,
+        "why": "Pragmatic Engineer interviews and threads"
+      },
+      {
+        "handle": "simonw",
+        "inPool": true,
+        "why": "fellow OSS tooling blogger"
+      },
+      {
+        "handle": "dhh",
+        "inPool": true,
+        "why": "open-source opinion exchanges"
+      }
+    ]
+  },
+  {
+    "handle": "shl",
+    "circle": [
+      {
+        "handle": "naval",
+        "inPool": true,
+        "why": "AngelList orbit and angel backer"
+      },
+      {
+        "handle": "levelsio",
+        "inPool": true,
+        "why": "indie hacker mutual"
+      },
+      {
+        "handle": "awilkinson",
+        "inPool": true,
+        "why": "fellow bootstrapper-investor friend"
+      },
+      {
+        "handle": "paulg",
+        "inPool": true,
+        "why": "essay-driven exchanges"
+      },
+      {
+        "handle": "dvassallo",
+        "inPool": false,
+        "why": "small bets community mutual"
+      }
+    ]
+  },
+  {
+    "handle": "awilkinson",
+    "circle": [
+      {
+        "handle": "shl",
+        "inPool": true,
+        "why": "fellow indie acquirer friend"
+      },
+      {
+        "handle": "thesamparr",
+        "inPool": true,
+        "why": "MFM circle friendship"
+      },
+      {
+        "handle": "ShaanVP",
+        "inPool": true,
+        "why": "My First Million guest spots"
+      },
+      {
+        "handle": "morganhousel",
+        "inPool": true,
+        "why": "investing-writing mutual admiration"
+      },
+      {
+        "handle": "patrick_oshag",
+        "inPool": false,
+        "why": "Invest Like the Best guest and friend"
+      }
+    ]
+  },
+  {
+    "handle": "thesamparr",
+    "circle": [
+      {
+        "handle": "ShaanVP",
+        "inPool": true,
+        "why": "My First Million co-host"
+      },
+      {
+        "handle": "awilkinson",
+        "inPool": true,
+        "why": "MFM guest and friend"
+      },
+      {
+        "handle": "GregIsenberg",
+        "inPool": false,
+        "why": "startup ideas twitter mutual"
+      },
+      {
+        "handle": "Codie_Sanchez",
+        "inPool": false,
+        "why": "biz-buying twitter circle"
+      },
+      {
+        "handle": "shl",
+        "inPool": true,
+        "why": "indie founder banter"
+      }
+    ]
+  },
+  {
+    "handle": "eriktorenberg",
+    "circle": [
+      {
+        "handle": "a16z",
+        "inPool": true,
+        "why": "general partner there"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "boss and frequent podcast subject"
+      },
+      {
+        "handle": "balajis",
+        "inPool": true,
+        "why": "frequent podcast guest"
+      },
+      {
+        "handle": "reidhoffman",
+        "inPool": true,
+        "why": "Village Global network backer"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "tech-politics podcast circuit"
+      }
+    ]
+  },
+  {
+    "handle": "saranormous",
+    "circle": [
+      {
+        "handle": "eladgil",
+        "inPool": true,
+        "why": "No Priors co-host"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "No Priors guest"
+      },
+      {
+        "handle": "garrytan",
+        "inPool": true,
+        "why": "SF AI scene mutual"
+      },
+      {
+        "handle": "AravSrinivas",
+        "inPool": true,
+        "why": "No Priors guest"
+      },
+      {
+        "handle": "amasad",
+        "inPool": true,
+        "why": "AI founder circles"
+      }
+    ]
+  },
+  {
+    "handle": "martin_casado",
+    "circle": [
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "a16z boss and ideological ally"
+      },
+      {
+        "handle": "a16z",
+        "inPool": true,
+        "why": "his firm"
+      },
+      {
+        "handle": "ylecun",
+        "inPool": true,
+        "why": "open-source AI policy ally"
+      },
+      {
+        "handle": "bhorowitz",
+        "inPool": true,
+        "why": "a16z co-founder"
+      },
+      {
+        "handle": "eriktorenberg",
+        "inPool": true,
+        "why": "a16z podcast colleague"
+      }
+    ]
+  },
+  {
+    "handle": "sarahtavel",
+    "circle": [
+      {
+        "handle": "bgurley",
+        "inPool": true,
+        "why": "Benchmark partner"
+      },
+      {
+        "handle": "ericvishria",
+        "inPool": false,
+        "why": "Benchmark partner"
+      },
+      {
+        "handle": "hunterwalk",
+        "inPool": true,
+        "why": "VC twitter mutual"
+      },
+      {
+        "handle": "lennysan",
+        "inPool": true,
+        "why": "Lenny's Podcast guest"
+      },
+      {
+        "handle": "saranormous",
+        "inPool": true,
+        "why": "consumer-AI investing discourse"
+      }
+    ]
+  },
+  {
+    "handle": "hunterwalk",
+    "circle": [
+      {
+        "handle": "satyap",
+        "inPool": false,
+        "why": "Homebrew co-founder"
+      },
+      {
+        "handle": "sarahtavel",
+        "inPool": true,
+        "why": "VC twitter mutual"
+      },
+      {
+        "handle": "msuster",
+        "inPool": false,
+        "why": "fellow VC blogger friend"
+      },
+      {
+        "handle": "fredwilson",
+        "inPool": true,
+        "why": "VC blogging generation peer"
+      },
+      {
+        "handle": "bfeld",
+        "inPool": true,
+        "why": "VC blogging generation peer"
+      }
+    ]
+  },
+  {
+    "handle": "zebulgar",
+    "circle": [
+      {
+        "handle": "rabois",
+        "inPool": true,
+        "why": "mentor and close friend"
+      },
+      {
+        "handle": "PalmerLuckey",
+        "inPool": false,
+        "why": "defense tech ally"
+      },
+      {
+        "handle": "shaunmmaguire",
+        "inPool": false,
+        "why": "defense-tech VC mutual"
+      },
+      {
+        "handle": "DavidSacks",
+        "inPool": true,
+        "why": "All-In orbit engagement"
+      },
+      {
+        "handle": "Jason",
+        "inPool": true,
+        "why": "podcast appearances"
+      }
+    ]
+  },
+  {
+    "handle": "dwarkesh_sp",
+    "circle": [
+      {
+        "handle": "karpathy",
+        "inPool": true,
+        "why": "landmark podcast interview"
+      },
+      {
+        "handle": "ilyasut",
+        "inPool": true,
+        "why": "podcast guest"
+      },
+      {
+        "handle": "demishassabis",
+        "inPool": true,
+        "why": "podcast guest"
+      },
+      {
+        "handle": "leopoldasch",
+        "inPool": false,
+        "why": "close friend, Situational Awareness episode"
+      },
+      {
+        "handle": "tszzl",
+        "inPool": true,
+        "why": "tpot mutual and podcast guest"
+      }
+    ]
+  },
+  {
+    "handle": "dylan522p",
+    "circle": [
+      {
+        "handle": "bgurley",
+        "inPool": true,
+        "why": "BG2 pod appearances"
+      },
+      {
+        "handle": "altcap",
+        "inPool": false,
+        "why": "BG2 pod appearances"
+      },
+      {
+        "handle": "nvidia",
+        "inPool": true,
+        "why": "constant subject of his chip analysis"
+      },
+      {
+        "handle": "dwarkesh_sp",
+        "inPool": true,
+        "why": "podcast guest spots"
+      },
+      {
+        "handle": "elonmusk",
+        "inPool": true,
+        "why": "publicly disputed SemiAnalysis xAI estimates"
+      }
+    ]
+  },
+  {
+    "handle": "tszzl",
+    "circle": [
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "OpenAI colleague and banter"
+      },
+      {
+        "handle": "gdb",
+        "inPool": true,
+        "why": "OpenAI colleague"
+      },
+      {
+        "handle": "ESYudkowsky",
+        "inPool": true,
+        "why": "doomer vs accelerationist sparring"
+      },
+      {
+        "handle": "pmarca",
+        "inPool": true,
+        "why": "amplifies his shitposts"
+      },
+      {
+        "handle": "dwarkesh_sp",
+        "inPool": true,
+        "why": "tpot friend and podcast"
+      }
+    ]
+  },
+  {
+    "handle": "_akhaliq",
+    "circle": [
+      {
+        "handle": "huggingface",
+        "inPool": true,
+        "why": "employer"
+      },
+      {
+        "handle": "ClementDelangue",
+        "inPool": true,
+        "why": "Hugging Face CEO, his boss"
+      },
+      {
+        "handle": "arankomatsuzaki",
+        "inPool": true,
+        "why": "fellow daily paper poster"
+      },
+      {
+        "handle": "DrJimFan",
+        "inPool": true,
+        "why": "AI research commentary mutual"
+      },
+      {
+        "handle": "omarsar0",
+        "inPool": true,
+        "why": "AI paper summarizer peer"
+      }
+    ]
+  },
+  {
+    "handle": "simonw",
+    "circle": [
+      {
+        "handle": "swyx",
+        "inPool": true,
+        "why": "AI engineering community mutual"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": true,
+        "why": "cites his LLM writing"
+      },
+      {
+        "handle": "jeremyphoward",
+        "inPool": true,
+        "why": "longtime mutual, fast.ai ties"
+      },
+      {
+        "handle": "mitchellh",
+        "inPool": true,
+        "why": "OSS tooling mutual"
+      },
+      {
+        "handle": "HamelHusain",
+        "inPool": true,
+        "why": "evals and AI engineering collaborator"
+      }
+    ]
+  },
+  {
+    "handle": "soumithchintala",
+    "circle": [
+      {
+        "handle": "ylecun",
+        "inPool": true,
+        "why": "Meta AI colleague"
+      },
+      {
+        "handle": "karpathy",
+        "inPool": true,
+        "why": "PyTorch community mutual"
+      },
+      {
+        "handle": "clattner_llvm",
+        "inPool": false,
+        "why": "framework debates with Mojo creator"
+      },
+      {
+        "handle": "huggingface",
+        "inPool": true,
+        "why": "PyTorch ecosystem partner"
+      },
+      {
+        "handle": "_akhaliq",
+        "inPool": true,
+        "why": "ML twitter mutual"
+      }
+    ]
+  }
+]

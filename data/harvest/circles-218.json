@@ -1,0 +1,312 @@
+[
+  {
+    "handle": "mang0ld",
+    "circle": [
+      { "handle": "RealHughJackman", "inPool": false, "why": "directed Jackman in Logan; ongoing mutual praise" },
+      { "handle": "scottderrickson", "inPool": true, "why": "director mutuals who trade film-craft threads" },
+      { "handle": "rianjohnson", "inPool": true, "why": "fellow writer-director, frequent mutual replies" },
+      { "handle": "edgarwright", "inPool": true, "why": "director peers who boost each other's films" },
+      { "handle": "discussingfilm", "inPool": true, "why": "regularly quoted/replied to on his project news" }
+    ]
+  },
+  {
+    "handle": "mattreevesLA",
+    "circle": [
+      { "handle": "jamesgunn", "inPool": true, "why": "DC Studios colleague on The Batman universe" },
+      { "handle": "ManMadeMoon", "inPool": true, "why": "longtime director friends on the platform" },
+      { "handle": "andyserkis", "inPool": false, "why": "Planet of the Apes and The Batman collaborator" },
+      { "handle": "mang0ld", "inPool": true, "why": "fellow blockbuster director, mutual respect replies" },
+      { "handle": "discussingfilm", "inPool": true, "why": "engages with their Batman casting/production posts" }
+    ]
+  },
+  {
+    "handle": "ManMadeMoon",
+    "circle": [
+      { "handle": "edgarwright", "inPool": true, "why": "British director friends, frequent banter" },
+      { "handle": "ponysmasher", "inPool": true, "why": "director mutuals who discuss filmmaking online" },
+      { "handle": "garywhitta", "inPool": true, "why": "gaming-and-film twitter friends" },
+      { "handle": "rianjohnson", "inPool": true, "why": "genre director peers, mutual replies" },
+      { "handle": "geoffkeighley", "inPool": true, "why": "Jones is a vocal gamer, engages on game events" }
+    ]
+  },
+  {
+    "handle": "Russo_Brothers",
+    "circle": [
+      { "handle": "chrisevans", "inPool": true, "why": "directed him across four Marvel films" },
+      { "handle": "markruffalo", "inPool": true, "why": "Avengers collaborator, anniversary exchanges" },
+      { "handle": "chrishemsworth", "inPool": true, "why": "directed in Infinity War/Endgame" },
+      { "handle": "robertdowneyjr", "inPool": true, "why": "Endgame and Doomsday collaborator" },
+      { "handle": "discussingfilm", "inPool": true, "why": "AGBO project announcements get quoted/replied" }
+    ]
+  },
+  {
+    "handle": "ponysmasher",
+    "circle": [
+      { "handle": "lottalosten", "inPool": false, "why": "wife and collaborator in his short films" },
+      { "handle": "jamesgunn", "inPool": true, "why": "Shazam-era DC colleague, public exchanges" },
+      { "handle": "LWhannell", "inPool": true, "why": "horror director mutuals" },
+      { "handle": "ZacharyLevi", "inPool": false, "why": "directed him in both Shazam films" },
+      { "handle": "eliroth", "inPool": true, "why": "horror filmmaker community interactions" }
+    ]
+  },
+  {
+    "handle": "BarryJenkins",
+    "circle": [
+      { "handle": "ava", "inPool": true, "why": "close director friends, constant mutual support" },
+      { "handle": "jordanpeele", "inPool": true, "why": "peer Black auteurs who boost each other" },
+      { "handle": "franklinleonard", "inPool": true, "why": "film twitter mutuals; Black List champion of his work" },
+      { "handle": "thumbelulu", "inPool": false, "why": "fellow indie director (Lulu Wang), friendly replies" },
+      { "handle": "filmindependent", "inPool": true, "why": "Spirit Awards alum, engages with their posts" }
+    ]
+  },
+  {
+    "handle": "DarrenAronofsky",
+    "circle": [
+      { "handle": "natgeo", "inPool": true, "why": "directed One Strange Rock and Welcome to Earth for NatGeo" },
+      { "handle": "filmlinc", "inPool": true, "why": "NYC filmmaker, regular Film at Lincoln Center Q&As" },
+      { "handle": "theacademy", "inPool": true, "why": "Academy member/nominee engagement" },
+      { "handle": "momafilm", "inPool": true, "why": "retrospectives and premieres at MoMA film" },
+      { "handle": "mubi", "inPool": true, "why": "arthouse distributor circle engagement" }
+    ]
+  },
+  {
+    "handle": "MNightShyamalan",
+    "circle": [
+      { "handle": "jason_blum", "inPool": true, "why": "producer of Split, Glass, and Knock at the Cabin" },
+      { "handle": "UniversalPics", "inPool": false, "why": "studio home for his recent thrillers" },
+      { "handle": "discussingfilm", "inPool": true, "why": "replies to coverage of his releases" },
+      { "handle": "rottentomatoes", "inPool": true, "why": "famously engages with reception of his films" },
+      { "handle": "mattreevesLA", "inPool": true, "why": "director peers exchanging public praise" }
+    ]
+  },
+  {
+    "handle": "Rodriguez",
+    "circle": [
+      { "handle": "officialDannyT", "inPool": false, "why": "Danny Trejo, lifelong collaborator (Machete, Spy Kids)" },
+      { "handle": "eliroth", "inPool": true, "why": "friend and grindhouse-era collaborator" },
+      { "handle": "jon_favreau", "inPool": true, "why": "directed episodes of Favreau's The Mandalorian" },
+      { "handle": "rosariodawson", "inPool": false, "why": "Sin City star, friendly exchanges" },
+      { "handle": "discussingfilm", "inPool": true, "why": "engages on Spy Kids/El Rey project news" }
+    ]
+  },
+  {
+    "handle": "TheHorrorMaster",
+    "circle": [
+      { "handle": "sandykingcarp", "inPool": false, "why": "wife and producing partner Sandy King" },
+      { "handle": "jason_blum", "inPool": true, "why": "produced the new Halloween trilogy Carpenter scored" },
+      { "handle": "shudder", "inPool": true, "why": "horror streamer that programs his catalog" },
+      { "handle": "eliroth", "inPool": true, "why": "horror director community mutual respect" },
+      { "handle": "slashfilm", "inPool": true, "why": "frequent interviews and quote engagement" }
+    ]
+  },
+  {
+    "handle": "eliroth",
+    "circle": [
+      { "handle": "TheHorrorMaster", "inPool": true, "why": "horror master he publicly reveres and engages" },
+      { "handle": "jason_blum", "inPool": true, "why": "horror producer circle, project exchanges" },
+      { "handle": "shudder", "inPool": true, "why": "his History of Horror world overlaps their content" },
+      { "handle": "BDisgusting", "inPool": false, "why": "Bloody Disgusting covers and chats with him often" },
+      { "handle": "slashfilm", "inPool": true, "why": "regular interview and reply engagement" }
+    ]
+  },
+  {
+    "handle": "PattyJenks",
+    "circle": [
+      { "handle": "GalGadot", "inPool": false, "why": "Wonder Woman star and close collaborator" },
+      { "handle": "RealLyndaCarter", "inPool": false, "why": "original Wonder Woman, public friendship" },
+      { "handle": "jamesgunn", "inPool": true, "why": "DC universe director colleague" },
+      { "handle": "discussingfilm", "inPool": true, "why": "responds to coverage of her projects" },
+      { "handle": "wbpictures", "inPool": false, "why": "studio partner on Wonder Woman films" }
+    ]
+  },
+  {
+    "handle": "RealRonHoward",
+    "circle": [
+      { "handle": "BryceDHoward", "inPool": false, "why": "daughter; constant warm public exchanges" },
+      { "handle": "BrianGrazer", "inPool": false, "why": "Imagine Entertainment co-founder and partner" },
+      { "handle": "tomhanks", "inPool": false, "why": "Apollo 13/Splash collaborator and friend" },
+      { "handle": "hwinkler4real", "inPool": true, "why": "Happy Days castmate, decades-long friendship" },
+      { "handle": "theacademy", "inPool": true, "why": "Oscar-winning director, Academy engagement" }
+    ]
+  },
+  {
+    "handle": "robreiner",
+    "circle": [
+      { "handle": "BetteMidler", "inPool": true, "why": "fellow Hollywood liberal, political reply mutuals" },
+      { "handle": "georgetakei", "inPool": true, "why": "political twitter mutuals" },
+      { "handle": "markhamill", "inPool": true, "why": "frequent political banter and co-signs" },
+      { "handle": "mmflint", "inPool": true, "why": "progressive filmmaker circle" },
+      { "handle": "kamalaharris", "inPool": true, "why": "vocal campaign supporter and amplifier" }
+    ]
+  },
+  {
+    "handle": "philiplord",
+    "circle": [
+      { "handle": "chrizmillr", "inPool": false, "why": "Chris Miller, his directing/producing partner" },
+      { "handle": "edgarwright", "inPool": true, "why": "comedy-director friends, frequent banter" },
+      { "handle": "rianjohnson", "inPool": true, "why": "filmmaker mutuals trading jokes and praise" },
+      { "handle": "MrJakeJohnson", "inPool": false, "why": "Spider-Verse voice star, friendly replies" },
+      { "handle": "sonypictures", "inPool": false, "why": "Spider-Verse studio partner" }
+    ]
+  },
+  {
+    "handle": "DannyTRS",
+    "circle": [
+      { "handle": "geoffkeighley", "inPool": true, "why": "appears at Game Awards/gaming showcases (Predator reveals)" },
+      { "handle": "hulu", "inPool": true, "why": "Prey and Prey-universe releases on Hulu" },
+      { "handle": "AmberMidthunder", "inPool": false, "why": "Prey star, mutual promotion" },
+      { "handle": "discussingfilm", "inPool": true, "why": "replies to their Predator franchise coverage" },
+      { "handle": "ponysmasher", "inPool": true, "why": "genre director mutuals" }
+    ]
+  },
+  {
+    "handle": "LWhannell",
+    "circle": [
+      { "handle": "creepypuppet", "inPool": false, "why": "James Wan, Saw co-creator and longtime friend" },
+      { "handle": "jason_blum", "inPool": true, "why": "Blumhouse boss on Upgrade-era and Invisible Man" },
+      { "handle": "ponysmasher", "inPool": true, "why": "horror director twitter friends" },
+      { "handle": "eliroth", "inPool": true, "why": "horror filmmaker community" },
+      { "handle": "shudder", "inPool": true, "why": "horror platform engagement" }
+    ]
+  },
+  {
+    "handle": "chrismcquarrie",
+    "circle": [
+      { "handle": "TomCruise", "inPool": false, "why": "Mission: Impossible star and constant collaborator" },
+      { "handle": "simonpegg", "inPool": true, "why": "M:I cast member, frequent friendly exchanges" },
+      { "handle": "HayleyAtwell", "inPool": false, "why": "M:I Dead Reckoning cast collaborator" },
+      { "handle": "mang0ld", "inPool": true, "why": "director peers swapping film-craft talk" },
+      { "handle": "empiremagazine", "inPool": false, "why": "regular long-form interviews and replies" }
+    ]
+  },
+  {
+    "handle": "Lilfilm",
+    "circle": [
+      { "handle": "neonrated", "inPool": true, "why": "NEON distributed Anora and Red Rocket" },
+      { "handle": "a24", "inPool": true, "why": "A24 released The Florida Project" },
+      { "handle": "filmlinc", "inPool": true, "why": "NYFF premieres and Q&As" },
+      { "handle": "letterboxd", "inPool": true, "why": "indie-film community interviews and engagement" },
+      { "handle": "mubi", "inPool": true, "why": "arthouse circuit engagement" }
+    ]
+  },
+  {
+    "handle": "garywhitta",
+    "circle": [
+      { "handle": "geoffkeighley", "inPool": true, "why": "gaming media friends; Game Awards circles" },
+      { "handle": "Massawyrm", "inPool": true, "why": "fellow screenwriter, longtime twitter friends" },
+      { "handle": "rianjohnson", "inPool": true, "why": "Star Wars-world writer mutuals" },
+      { "handle": "pablohidalgo", "inPool": false, "why": "Lucasfilm story group, Rogue One connection" },
+      { "handle": "ManMadeMoon", "inPool": true, "why": "film-and-games twitter friends" }
+    ]
+  },
+  {
+    "handle": "Massawyrm",
+    "circle": [
+      { "handle": "scottderrickson", "inPool": true, "why": "writing partner (Sinister, Doctor Strange, Black Phone)" },
+      { "handle": "garywhitta", "inPool": true, "why": "screenwriter twitter friends" },
+      { "handle": "johnaugust", "inPool": true, "why": "screenwriting community exchanges" },
+      { "handle": "clmazin", "inPool": true, "why": "screenwriter peers, craft-talk replies" },
+      { "handle": "shudder", "inPool": true, "why": "horror community engagement" }
+    ]
+  },
+  {
+    "handle": "ed_solomon",
+    "circle": [
+      { "handle": "Winter", "inPool": false, "why": "Alex Winter; Bill & Ted creator-star friendship" },
+      { "handle": "stevemartintogo", "inPool": true, "why": "longtime comedy friends with real banter threads" },
+      { "handle": "johnaugust", "inPool": true, "why": "screenwriter community mutuals" },
+      { "handle": "clmazin", "inPool": true, "why": "screenwriter peers and WGA allies" },
+      { "handle": "franklinleonard", "inPool": true, "why": "film twitter mutuals on industry talk" }
+    ]
+  },
+  {
+    "handle": "BeauWillimon",
+    "circle": [
+      { "handle": "WGAEast", "inPool": false, "why": "served as WGA East president" },
+      { "handle": "franklinleonard", "inPool": true, "why": "industry-labor twitter mutuals" },
+      { "handle": "johnaugust", "inPool": true, "why": "WGA strike-era solidarity exchanges" },
+      { "handle": "clmazin", "inPool": true, "why": "fellow showrunner-writer, guild circles" },
+      { "handle": "lin_manuel", "inPool": true, "why": "theater-to-screen writer mutuals" }
+    ]
+  },
+  {
+    "handle": "franklinleonard",
+    "circle": [
+      { "handle": "theblcklst", "inPool": false, "why": "founder of The Black List" },
+      { "handle": "ava", "inPool": true, "why": "close industry ally, frequent mutual amplification" },
+      { "handle": "BarryJenkins", "inPool": true, "why": "champions his work; friendly exchanges" },
+      { "handle": "kumailn", "inPool": true, "why": "film twitter mutuals (Big Sick was a Black List script)" },
+      { "handle": "johnaugust", "inPool": true, "why": "screenwriting ecosystem colleagues" }
+    ]
+  },
+  {
+    "handle": "joshgad",
+    "circle": [
+      { "handle": "lin_manuel", "inPool": true, "why": "real friends with running musical-theater banter" },
+      { "handle": "idinamenzel", "inPool": true, "why": "Frozen castmate, frequent exchanges" },
+      { "handle": "TheRealLukevans", "inPool": false, "why": "Beauty and the Beast co-star, joke threads" },
+      { "handle": "disneyanimation", "inPool": true, "why": "voice of Olaf, Frozen franchise posts" },
+      { "handle": "sethrogen", "inPool": true, "why": "comedy actor mutuals" }
+    ]
+  },
+  {
+    "handle": "WilliamShatner",
+    "circle": [
+      { "handle": "georgetakei", "inPool": true, "why": "Star Trek castmate; famous long-running public feud" },
+      { "handle": "nasa", "inPool": true, "why": "space-flight passenger and frequent NASA engager" },
+      { "handle": "stationcdrkelly", "inPool": true, "why": "astronaut twitter exchanges" },
+      { "handle": "neiltyson", "inPool": true, "why": "science twitter back-and-forths" },
+      { "handle": "StarTrek", "inPool": false, "why": "franchise account engagement" }
+    ]
+  },
+  {
+    "handle": "BetteMidler",
+    "circle": [
+      { "handle": "robreiner", "inPool": true, "why": "Hollywood liberal mutuals, political co-signs" },
+      { "handle": "georgetakei", "inPool": true, "why": "political twitter circle" },
+      { "handle": "markhamill", "inPool": true, "why": "resistance-twitter mutual replies" },
+      { "handle": "BarbraStreisand", "inPool": false, "why": "showbiz peer and fellow political poster" },
+      { "handle": "chelseahandler", "inPool": true, "why": "comedy and politics mutuals" }
+    ]
+  },
+  {
+    "handle": "JohnBoyega",
+    "circle": [
+      { "handle": "starwars", "inPool": true, "why": "Star Wars sequel trilogy lead" },
+      { "handle": "arsenal", "inPool": true, "why": "diehard Arsenal fan who posts match reactions" },
+      { "handle": "discussingfilm", "inPool": true, "why": "replies to coverage of his roles" },
+      { "handle": "filmupdates", "inPool": true, "why": "engages with casting/project posts about him" },
+      { "handle": "netflix", "inPool": true, "why": "They Cloned Tyrone promotion" }
+    ]
+  },
+  {
+    "handle": "russellcrowe",
+    "circle": [
+      { "handle": "SSFCRABBITOHS", "inPool": false, "why": "co-owns the South Sydney Rabbitohs NRL club" },
+      { "handle": "RealHughJackman", "inPool": false, "why": "Aussie actor mates with public banter" },
+      { "handle": "RZA", "inPool": false, "why": "The Man with the Iron Fists collaborator and friend" },
+      { "handle": "NRL", "inPool": false, "why": "constant rugby league posting" },
+      { "handle": "tennistv", "inPool": true, "why": "avid tennis poster and event attendee" }
+    ]
+  },
+  {
+    "handle": "kerrywashington",
+    "circle": [
+      { "handle": "shondarhimes", "inPool": true, "why": "Scandal creator; long collaboration and friendship" },
+      { "handle": "violadavis", "inPool": false, "why": "peer and friend, mutual award-season support" },
+      { "handle": "kamalaharris", "inPool": true, "why": "prominent campaign surrogate and amplifier" },
+      { "handle": "ava", "inPool": true, "why": "industry friends, mutual project support" },
+      { "handle": "michelleobama", "inPool": true, "why": "When We All Vote and advocacy collaborations" }
+    ]
+  },
+  {
+    "handle": "hwinkler4real",
+    "circle": [
+      { "handle": "RealRonHoward", "inPool": true, "why": "Happy Days castmate, 50-year friendship" },
+      { "handle": "joshgad", "inPool": true, "why": "wholesome comedy mutuals" },
+      { "handle": "paulfeig", "inPool": true, "why": "comedy industry friends" },
+      { "handle": "pattonoswalt", "inPool": true, "why": "comedy twitter mutual admiration" },
+      { "handle": "theacademy", "inPool": true, "why": "Emmy/awards-circuit engagement" }
+    ]
+  }
+]

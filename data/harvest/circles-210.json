@@ -1,0 +1,997 @@
+[
+ {
+  "handle": "Super70sSports",
+  "circle": [
+   {
+    "handle": "RexChapman",
+    "inPool": true,
+    "why": "fellow nostalgia/feel-good sports poster, frequent mutual RTs and banter"
+   },
+   {
+    "handle": "OldTakesExposed",
+    "inPool": true,
+    "why": "retro sports-content mutuals who riff on the same archival clips"
+   },
+   {
+    "handle": "PFTCommenter",
+    "inPool": true,
+    "why": "sports-humor scene mutuals; trades jokes on football nostalgia"
+   },
+   {
+    "handle": "BarstoolBigCat",
+    "inPool": true,
+    "why": "Big Cat regularly RTs and replies to his retro sports bits"
+   },
+   {
+    "handle": "NOTSportsCenter",
+    "inPool": true,
+    "why": "overlapping sports-joke audience; frequent mutual engagement"
+   },
+   {
+    "handle": "MLB",
+    "inPool": true,
+    "why": "posts constant retro baseball content MLB engages with"
+   }
+  ]
+ },
+ {
+  "handle": "depthsofwiki",
+  "circle": [
+   {
+    "handle": "Wikipedia",
+    "inPool": false,
+    "why": "her entire account is built on Wikipedia finds; the org engages with her posts"
+   },
+   {
+    "handle": "hankgreen",
+    "inPool": true,
+    "why": "fellow internet educator; mutual fans who boost each other"
+   },
+   {
+    "handle": "WeirdMedieval",
+    "inPool": true,
+    "why": "fellow niche-curio account; frequent mutual amplification"
+   },
+   {
+    "handle": "culturaltutor",
+    "inPool": true,
+    "why": "fellow viral educational curiosity account in the same QT circles"
+   },
+   {
+    "handle": "CrimeADay",
+    "inPool": true,
+    "why": "fellow obscure-facts account with heavily overlapping audience and RTs"
+   }
+  ]
+ },
+ {
+  "handle": "CrimeADay",
+  "circle": [
+   {
+    "handle": "Popehat",
+    "inPool": false,
+    "why": "law-twitter mutuals; Ken White frequently RTs his federal crime finds"
+   },
+   {
+    "handle": "OrinKerr",
+    "inPool": false,
+    "why": "law professor who regularly engages with his statute jokes"
+   },
+   {
+    "handle": "bradheath",
+    "inPool": false,
+    "why": "legal-journalism twitter mutual who shares his absurd-law finds"
+   },
+   {
+    "handle": "loweringthebar",
+    "inPool": false,
+    "why": "fellow legal-humor account covering the same absurd-law beat"
+   },
+   {
+    "handle": "depthsofwiki",
+    "inPool": true,
+    "why": "fellow obscure-trivia account with mutual RT relationship"
+   }
+  ]
+ },
+ {
+  "handle": "KylePlantEmoji",
+  "circle": [
+   {
+    "handle": "CaucasianJames",
+    "inPool": true,
+    "why": "reply-guy circle of big shitposters who constantly riff on each other"
+   },
+   {
+    "handle": "MNateShyamalan",
+    "inPool": true,
+    "why": "fellow joke-twitter mutual; frequent QT and reply banter"
+   },
+   {
+    "handle": "AndrewNadeau0",
+    "inPool": true,
+    "why": "joke-writer mutuals who trade replies on each other's bits"
+   },
+   {
+    "handle": "HenpeckedHal",
+    "inPool": true,
+    "why": "same daily joke-twitter circle, regular mutual engagement"
+   },
+   {
+    "handle": "growing_daniel",
+    "inPool": true,
+    "why": "shitposter mutuals whose jokes circulate in the same QT scene"
+   }
+  ]
+ },
+ {
+  "handle": "MNateShyamalan",
+  "circle": [
+   {
+    "handle": "CaucasianJames",
+    "inPool": true,
+    "why": "top-replies shitposter circle; constant mutual banter"
+   },
+   {
+    "handle": "KylePlantEmoji",
+    "inPool": true,
+    "why": "fellow joke account; frequent reply and QT exchanges"
+   },
+   {
+    "handle": "growing_daniel",
+    "inPool": true,
+    "why": "shitposter mutuals in the same viral-joke ecosystem"
+   },
+   {
+    "handle": "vornietom",
+    "inPool": true,
+    "why": "weird-twitter joke writers who RT each other"
+   },
+   {
+    "handle": "ZachSilberberg",
+    "inPool": true,
+    "why": "fellow comedy-twitter mutual from the same bit-trading scene"
+   }
+  ]
+ },
+ {
+  "handle": "dieworkwear",
+  "circle": [
+   {
+    "handle": "elonmusk",
+    "inPool": true,
+    "why": "famously viral menswear critiques of Musk and direct exchanges"
+   },
+   {
+    "handle": "JDVance",
+    "inPool": true,
+    "why": "his suit critiques of Vance went viral and drew direct responses"
+   },
+   {
+    "handle": "Noahpinion",
+    "inPool": true,
+    "why": "frequent friendly sparring partner on econ/fashion crossover posts"
+   },
+   {
+    "handle": "mattyglesias",
+    "inPool": false,
+    "why": "pundit-twitter mutual he regularly replies to and riffs with"
+   },
+   {
+    "handle": "tszzl",
+    "inPool": true,
+    "why": "tech-twitter shitposter scene he banters with about menswear"
+   }
+  ]
+ },
+ {
+  "handle": "culturaltutor",
+  "circle": [
+   {
+    "handle": "david_perell",
+    "inPool": true,
+    "why": "Perell championed and helped grow the account; frequent mutual boosts"
+   },
+   {
+    "handle": "AlexAndBooks_",
+    "inPool": true,
+    "why": "fellow long-form thread writer in the same growth-twitter circle"
+   },
+   {
+    "handle": "TrungTPhan",
+    "inPool": true,
+    "why": "thread-writer mutuals who RT each other's deep dives"
+   },
+   {
+    "handle": "SahilBloom",
+    "inPool": false,
+    "why": "thread-twitter circle; mutual amplification of viral threads"
+   },
+   {
+    "handle": "thedankoe",
+    "inPool": true,
+    "why": "writer-twitter mutual in the same audience-building scene"
+   }
+  ]
+ },
+ {
+  "handle": "historyinmemes",
+  "circle": [
+   {
+    "handle": "TheFigen_",
+    "inPool": true,
+    "why": "fellow mega viral aggregator; constantly reposting overlapping clips"
+   },
+   {
+    "handle": "fasc1nate",
+    "inPool": true,
+    "why": "viral-curiosity aggregator network with mutual amplification"
+   },
+   {
+    "handle": "gunsnrosesgirl3",
+    "inPool": true,
+    "why": "same viral aggregator ecosystem, overlapping content and QTs"
+   },
+   {
+    "handle": "InternetH0F",
+    "inPool": true,
+    "why": "fellow viral-clip aggregator with heavy content overlap"
+   },
+   {
+    "handle": "NoContextHumans",
+    "inPool": true,
+    "why": "aggregator scene mutuals trading the same viral footage"
+   }
+  ]
+ },
+ {
+  "handle": "TheFigen_",
+  "circle": [
+   {
+    "handle": "historyinmemes",
+    "inPool": true,
+    "why": "fellow mega-aggregator; same viral clips circulate between them"
+   },
+   {
+    "handle": "fasc1nate",
+    "inPool": true,
+    "why": "viral aggregator network mutual"
+   },
+   {
+    "handle": "gunsnrosesgirl3",
+    "inPool": true,
+    "why": "fellow viral curiosity poster, frequent overlapping content"
+   },
+   {
+    "handle": "buitengebieden",
+    "inPool": true,
+    "why": "wholesome-viral aggregator scene; mutual reposts"
+   },
+   {
+    "handle": "InternetH0F",
+    "inPool": true,
+    "why": "viral-clip aggregator circle"
+   }
+  ]
+ },
+ {
+  "handle": "gunsnrosesgirl3",
+  "circle": [
+   {
+    "handle": "Rainmaker1973",
+    "inPool": true,
+    "why": "fellow science-viral aggregator; constant overlapping posts and QTs"
+   },
+   {
+    "handle": "TheFigen_",
+    "inPool": true,
+    "why": "viral aggregator network mutual"
+   },
+   {
+    "handle": "fasc1nate",
+    "inPool": true,
+    "why": "same viral-curiosity aggregator ecosystem"
+   },
+   {
+    "handle": "historyinmemes",
+    "inPool": true,
+    "why": "aggregator scene with heavy mutual content overlap"
+   },
+   {
+    "handle": "buitengebieden",
+    "inPool": true,
+    "why": "wholesome viral-clip circle, frequent mutual engagement"
+   }
+  ]
+ },
+ {
+  "handle": "fasc1nate",
+  "circle": [
+   {
+    "handle": "historyinmemes",
+    "inPool": true,
+    "why": "fellow viral aggregator, shared clip ecosystem"
+   },
+   {
+    "handle": "TheFigen_",
+    "inPool": true,
+    "why": "aggregator network mutual"
+   },
+   {
+    "handle": "InternetH0F",
+    "inPool": true,
+    "why": "viral-content aggregator circle"
+   },
+   {
+    "handle": "gunsnrosesgirl3",
+    "inPool": true,
+    "why": "science/curiosity viral scene mutual"
+   },
+   {
+    "handle": "NoContextHumans",
+    "inPool": true,
+    "why": "aggregator mutuals posting overlapping viral content"
+   }
+  ]
+ },
+ {
+  "handle": "CatsWithJobs",
+  "circle": [
+   {
+    "handle": "bodegacats_",
+    "inPool": true,
+    "why": "fellow cat-content account; mutual RTs of working cats"
+   },
+   {
+    "handle": "PepitoTheCat",
+    "inPool": true,
+    "why": "beloved cat-twitter institution its audience overlaps with"
+   },
+   {
+    "handle": "PossumEveryHour",
+    "inPool": true,
+    "why": "wholesome animal-account scene, mutual boosts"
+   },
+   {
+    "handle": "buitengebieden",
+    "inPool": true,
+    "why": "wholesome viral animal clips frequently cross-posted"
+   },
+   {
+    "handle": "hourlyotters",
+    "inPool": true,
+    "why": "hourly/animal account network with shared audience"
+   }
+  ]
+ },
+ {
+  "handle": "TerribleMaps",
+  "circle": [
+   {
+    "handle": "simongerman600",
+    "inPool": false,
+    "why": "map-twitter mutual; data-map scene RTs each other constantly"
+   },
+   {
+    "handle": "onlmaps",
+    "inPool": false,
+    "why": "fellow map account; the joke maps riff on its serious ones"
+   },
+   {
+    "handle": "Amazing_Maps",
+    "inPool": false,
+    "why": "sibling map account in the same niche network"
+   },
+   {
+    "handle": "SoVeryBritish",
+    "inPool": true,
+    "why": "British-humor scene overlap with frequent mutual engagement"
+   },
+   {
+    "handle": "WorldBollard",
+    "inPool": true,
+    "why": "absurdist niche-account mutuals who RT each other's bits"
+   }
+  ]
+ },
+ {
+  "handle": "BoredElonMusk",
+  "circle": [
+   {
+    "handle": "elonmusk",
+    "inPool": true,
+    "why": "the account is an Elon parody and replies to/riffs on his posts"
+   },
+   {
+    "handle": "Tesla",
+    "inPool": true,
+    "why": "constant parody material; replies on launch posts"
+   },
+   {
+    "handle": "SpaceX",
+    "inPool": true,
+    "why": "riffs on launches and announcements in replies"
+   },
+   {
+    "handle": "parikpatelcfa",
+    "inPool": true,
+    "why": "fellow parody/satire account in fintwit-humor circles"
+   },
+   {
+    "handle": "wu_tang_finance",
+    "inPool": true,
+    "why": "finance-meme twitter mutual"
+   }
+  ]
+ },
+ {
+  "handle": "NOTSportsCenter",
+  "circle": [
+   {
+    "handle": "SportsCenter",
+    "inPool": true,
+    "why": "direct parody target it riffs on daily"
+   },
+   {
+    "handle": "espn",
+    "inPool": true,
+    "why": "its jokes piggyback on ESPN news cycles and replies"
+   },
+   {
+    "handle": "OldTakesExposed",
+    "inPool": true,
+    "why": "sports-humor scene mutual"
+   },
+   {
+    "handle": "Super70sSports",
+    "inPool": true,
+    "why": "fellow sports-joke account with mutual RTs"
+   },
+   {
+    "handle": "BarstoolBigCat",
+    "inPool": true,
+    "why": "sports-comedy circle engagement"
+   }
+  ]
+ },
+ {
+  "handle": "kirawontmiss",
+  "circle": [
+   {
+    "handle": "InternetH0F",
+    "inPool": true,
+    "why": "viral aggregator circle that QTs and reposts her content"
+   },
+   {
+    "handle": "NoContextHumans",
+    "inPool": true,
+    "why": "aggregator scene mutual"
+   },
+   {
+    "handle": "DailyLoud",
+    "inPool": true,
+    "why": "viral-content network with frequent crossover"
+   },
+   {
+    "handle": "PopCrave",
+    "inPool": true,
+    "why": "pop-viral ecosystem; her posts get picked up and QT'd"
+   },
+   {
+    "handle": "CaucasianJames",
+    "inPool": true,
+    "why": "big-shitposter reply circles overlap constantly"
+   }
+  ]
+ },
+ {
+  "handle": "CaucasianJames",
+  "circle": [
+   {
+    "handle": "KylePlantEmoji",
+    "inPool": true,
+    "why": "core joke-twitter mutual; constant reply banter"
+   },
+   {
+    "handle": "MNateShyamalan",
+    "inPool": true,
+    "why": "fellow shitposter in the same QT circle"
+   },
+   {
+    "handle": "growing_daniel",
+    "inPool": true,
+    "why": "shitposter mutuals trading replies"
+   },
+   {
+    "handle": "kirawontmiss",
+    "inPool": true,
+    "why": "big-engagement shitposter scene overlap"
+   },
+   {
+    "handle": "vornietom",
+    "inPool": true,
+    "why": "comedy-twitter mutual"
+   }
+  ]
+ },
+ {
+  "handle": "NoContextHumans",
+  "circle": [
+   {
+    "handle": "InternetH0F",
+    "inPool": true,
+    "why": "fellow viral-clip aggregator; same footage circulates between them"
+   },
+   {
+    "handle": "fasc1nate",
+    "inPool": true,
+    "why": "aggregator network mutual"
+   },
+   {
+    "handle": "historyinmemes",
+    "inPool": true,
+    "why": "viral aggregator scene with content overlap"
+   },
+   {
+    "handle": "cctv_idiots",
+    "inPool": false,
+    "why": "fellow found-footage viral account, heavy crossover"
+   },
+   {
+    "handle": "TheFigen_",
+    "inPool": true,
+    "why": "mega-aggregator circle"
+   }
+  ]
+ },
+ {
+  "handle": "InternetH0F",
+  "circle": [
+   {
+    "handle": "NoContextHumans",
+    "inPool": true,
+    "why": "sibling viral-clip aggregator, constant content overlap"
+   },
+   {
+    "handle": "kirawontmiss",
+    "inPool": true,
+    "why": "frequently reposts and QTs her viral posts"
+   },
+   {
+    "handle": "DailyLoud",
+    "inPool": true,
+    "why": "viral aggregator network mutual"
+   },
+   {
+    "handle": "fasc1nate",
+    "inPool": true,
+    "why": "aggregator scene crossover"
+   },
+   {
+    "handle": "historyinmemes",
+    "inPool": true,
+    "why": "viral-clip ecosystem mutual"
+   }
+  ]
+ },
+ {
+  "handle": "DailyLoud",
+  "circle": [
+   {
+    "handle": "Kurrco",
+    "inPool": true,
+    "why": "fellow rap/viral aggregator; race to post the same stories"
+   },
+   {
+    "handle": "RapAlert6",
+    "inPool": true,
+    "why": "competing hip-hop news aggregator with constant overlap"
+   },
+   {
+    "handle": "Akademiks",
+    "inPool": true,
+    "why": "hip-hop media scene; covers and engages the same stories"
+   },
+   {
+    "handle": "HotNewHipHop",
+    "inPool": true,
+    "why": "hip-hop media network mutual"
+   },
+   {
+    "handle": "ComplexMusic",
+    "inPool": true,
+    "why": "overlapping hip-hop news beat and engagement"
+   }
+  ]
+ },
+ {
+  "handle": "Reductress",
+  "circle": [
+   {
+    "handle": "TheOnion",
+    "inPool": true,
+    "why": "fellow satire institution; mutual jokes and shared writer scene"
+   },
+   {
+    "handle": "ClickHole",
+    "inPool": true,
+    "why": "satire-site sibling with overlapping writers and RTs"
+   },
+   {
+    "handle": "mcsweeneys",
+    "inPool": false,
+    "why": "comedy-writing world mutual; shared contributor base"
+   },
+   {
+    "handle": "betchesluvthis",
+    "inPool": false,
+    "why": "women's-humor media space with frequent crossover"
+   },
+   {
+    "handle": "funnyordie",
+    "inPool": true,
+    "why": "comedy media network mutual"
+   }
+  ]
+ },
+ {
+  "handle": "HardDriveMag",
+  "circle": [
+   {
+    "handle": "TheOnion",
+    "inPool": true,
+    "why": "its direct stylistic inspiration; satire scene mutuals"
+   },
+   {
+    "handle": "Kotaku",
+    "inPool": true,
+    "why": "gaming press it parodies and banters with"
+   },
+   {
+    "handle": "Polygon",
+    "inPool": true,
+    "why": "gaming media scene engagement"
+   },
+   {
+    "handle": "vgdunkey",
+    "inPool": false,
+    "why": "gaming-comedy world overlap; mutual fans and RTs"
+   },
+   {
+    "handle": "stephentotilo",
+    "inPool": true,
+    "why": "gaming journalist who engages with their headlines"
+   }
+  ]
+ },
+ {
+  "handle": "AcademicsSay",
+  "circle": [
+   {
+    "handle": "legogradstudent",
+    "inPool": false,
+    "why": "fellow academia-humor institution; constant mutual RTs"
+   },
+   {
+    "handle": "PHDcomics",
+    "inPool": false,
+    "why": "grad-school humor scene sibling"
+   },
+   {
+    "handle": "AcademicChatter",
+    "inPool": false,
+    "why": "academic-twitter hub that amplifies its posts"
+   },
+   {
+    "handle": "CT_Bergstrom",
+    "inPool": true,
+    "why": "academic twitter mutual who engages with its meta-jokes"
+   },
+   {
+    "handle": "depthsofwiki",
+    "inPool": true,
+    "why": "nerdy-niche humor account with audience overlap"
+   }
+  ]
+ },
+ {
+  "handle": "WorldBollard",
+  "circle": [
+   {
+    "handle": "TerribleMaps",
+    "inPool": true,
+    "why": "absurdist niche-account mutuals; RT each other's bits"
+   },
+   {
+    "handle": "SoVeryBritish",
+    "inPool": true,
+    "why": "British-humor scene overlap"
+   },
+   {
+    "handle": "WeirdMedieval",
+    "inPool": true,
+    "why": "fellow single-gimmick beloved account; mutual boosts"
+   },
+   {
+    "handle": "buitengebieden",
+    "inPool": true,
+    "why": "wholesome viral scene crossover"
+   },
+   {
+    "handle": "NoContextHumans",
+    "inPool": true,
+    "why": "its bollard saves go viral via aggregator QTs"
+   }
+  ]
+ },
+ {
+  "handle": "AndrewNadeau0",
+  "circle": [
+   {
+    "handle": "HenpeckedHal",
+    "inPool": true,
+    "why": "dad-joke twitter core duo; constant mutual replies"
+   },
+   {
+    "handle": "simoncholland",
+    "inPool": false,
+    "why": "fellow dad-humor poster in the same RT circle"
+   },
+   {
+    "handle": "mommajessiec",
+    "inPool": false,
+    "why": "parenting-humor twitter mutual"
+   },
+   {
+    "handle": "TheDad",
+    "inPool": false,
+    "why": "parenting-humor brand that regularly features his tweets"
+   },
+   {
+    "handle": "KylePlantEmoji",
+    "inPool": true,
+    "why": "joke-twitter circle overlap"
+   }
+  ]
+ },
+ {
+  "handle": "HenpeckedHal",
+  "circle": [
+   {
+    "handle": "AndrewNadeau0",
+    "inPool": true,
+    "why": "dad-joke twitter mutuals; reply to each other daily"
+   },
+   {
+    "handle": "simoncholland",
+    "inPool": false,
+    "why": "same parenting-humor RT circle"
+   },
+   {
+    "handle": "mommajessiec",
+    "inPool": false,
+    "why": "parenting-joke mutual"
+   },
+   {
+    "handle": "TheDad",
+    "inPool": false,
+    "why": "features his tweets regularly"
+   },
+   {
+    "handle": "KylePlantEmoji",
+    "inPool": true,
+    "why": "broader joke-twitter circle engagement"
+   }
+  ]
+ },
+ {
+  "handle": "stoolpresidente",
+  "circle": [
+   {
+    "handle": "barstoolsports",
+    "inPool": true,
+    "why": "founder of Barstool; posts from the brand account constantly"
+   },
+   {
+    "handle": "BarstoolBigCat",
+    "inPool": true,
+    "why": "top Barstool personality he banters and feuds with"
+   },
+   {
+    "handle": "KFCBarstool",
+    "inPool": false,
+    "why": "longtime Barstool employee with public on-feed beefs"
+   },
+   {
+    "handle": "PardonMyTake",
+    "inPool": true,
+    "why": "flagship Barstool show he promotes and spars with"
+   },
+   {
+    "handle": "PatMcAfeeShow",
+    "inPool": true,
+    "why": "sports-media peer; public exchanges and crossovers"
+   }
+  ]
+ },
+ {
+  "handle": "BarstoolBigCat",
+  "circle": [
+   {
+    "handle": "PFTCommenter",
+    "inPool": true,
+    "why": "his Pardon My Take co-host; daily interaction"
+   },
+   {
+    "handle": "PardonMyTake",
+    "inPool": true,
+    "why": "his own show account, constant cross-posting"
+   },
+   {
+    "handle": "stoolpresidente",
+    "inPool": true,
+    "why": "Barstool boss; frequent banter"
+   },
+   {
+    "handle": "barstoolsports",
+    "inPool": true,
+    "why": "his employer's main account"
+   },
+   {
+    "handle": "OldTakesExposed",
+    "inPool": true,
+    "why": "sports-humor mutual he riffs with"
+   }
+  ]
+ },
+ {
+  "handle": "PardonMyTake",
+  "circle": [
+   {
+    "handle": "PFTCommenter",
+    "inPool": true,
+    "why": "co-host of the show"
+   },
+   {
+    "handle": "BarstoolBigCat",
+    "inPool": true,
+    "why": "co-host of the show"
+   },
+   {
+    "handle": "barstoolsports",
+    "inPool": true,
+    "why": "parent brand cross-promotion"
+   },
+   {
+    "handle": "stoolpresidente",
+    "inPool": true,
+    "why": "Barstool founder engagement"
+   },
+   {
+    "handle": "PatMcAfeeShow",
+    "inPool": true,
+    "why": "competing/friendly sports-comedy show crossover"
+   }
+  ]
+ },
+ {
+  "handle": "tinycarebot",
+  "circle": [
+   {
+    "handle": "jonnysun",
+    "inPool": true,
+    "why": "created by Jonathan Sun; he maintains and promotes it"
+   },
+   {
+    "handle": "WholesomeMeme",
+    "inPool": true,
+    "why": "wholesome-twitter scene mutual"
+   },
+   {
+    "handle": "dog_feelings",
+    "inPool": true,
+    "why": "fellow gentle-internet account with shared audience"
+   },
+   {
+    "handle": "MagicRealismBot",
+    "inPool": true,
+    "why": "beloved-bot twitter peer"
+   },
+   {
+    "handle": "sosadtoday",
+    "inPool": true,
+    "why": "soft-feelings twitter scene overlap"
+   }
+  ]
+ },
+ {
+  "handle": "KimKierkegaard",
+  "circle": [
+   {
+    "handle": "KimKardashian",
+    "inPool": true,
+    "why": "one half of the mashup; the account riffs on her real posts"
+   },
+   {
+    "handle": "Seinfeld2000",
+    "inPool": true,
+    "why": "fellow classic weird-twitter parody account; scene mutuals"
+   },
+   {
+    "handle": "TheTweetOfGod",
+    "inPool": true,
+    "why": "parody-account old guard with mutual RTs"
+   },
+   {
+    "handle": "nihilist_arbys",
+    "inPool": true,
+    "why": "fellow bleak-humor institution from the same era"
+   },
+   {
+    "handle": "kanyewest",
+    "inPool": true,
+    "why": "recurring subject material in the mashups"
+   }
+  ]
+ },
+ {
+  "handle": "tszzl",
+  "circle": [
+   {
+    "handle": "sama",
+    "inPool": true,
+    "why": "OpenAI orbit; Altman engages with and references his posts"
+   },
+   {
+    "handle": "gdb",
+    "inPool": true,
+    "why": "OpenAI circle interaction"
+   },
+   {
+    "handle": "ESYudkowsky",
+    "inPool": true,
+    "why": "frequent public sparring over AI risk"
+   },
+   {
+    "handle": "karpathy",
+    "inPool": true,
+    "why": "AI-twitter mutual engagement"
+   },
+   {
+    "handle": "growing_daniel",
+    "inPool": true,
+    "why": "tech-shitposter scene mutual"
+   }
+  ]
+ },
+ {
+  "handle": "growing_daniel",
+  "circle": [
+   {
+    "handle": "nikitabier",
+    "inPool": true,
+    "why": "tech-shitposter mutuals; constant reply banter"
+   },
+   {
+    "handle": "tszzl",
+    "inPool": true,
+    "why": "tech/AI shitposting circle"
+   },
+   {
+    "handle": "KylePlantEmoji",
+    "inPool": true,
+    "why": "joke-twitter crossover engagement"
+   },
+   {
+    "handle": "MNateShyamalan",
+    "inPool": true,
+    "why": "shitposter QT-circle overlap"
+   },
+   {
+    "handle": "levelsio",
+    "inPool": true,
+    "why": "indie-hacker twitter scene he riffs with"
+   }
+  ]
+ }
+]

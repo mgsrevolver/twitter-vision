@@ -1,0 +1,1017 @@
+[
+  {
+    "handle": "nfergus",
+    "circle": [
+      {
+        "handle": "bariweiss",
+        "inPool": true,
+        "why": "co-founded University of Austin together"
+      },
+      {
+        "handle": "JoeLonsdale",
+        "inPool": false,
+        "why": "fellow University of Austin co-founder"
+      },
+      {
+        "handle": "sapinker",
+        "inPool": true,
+        "why": "UATX advisory board and public-intellectual circuit"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "long-running public feud over austerity economics"
+      },
+      {
+        "handle": "tylercowen",
+        "inPool": true,
+        "why": "Conversations with Tyler guest and econ-history sparring"
+      },
+      {
+        "handle": "holland_tom",
+        "inPool": true,
+        "why": "UK history-media world overlap and event panels"
+      }
+    ]
+  },
+  {
+    "handle": "wmarybeard",
+    "circle": [
+      {
+        "handle": "holland_tom",
+        "inPool": true,
+        "why": "friendly classics debates and shared panels"
+      },
+      {
+        "handle": "greg_jenner",
+        "inPool": false,
+        "why": "fellow UK public historian, frequent banter"
+      },
+      {
+        "handle": "thehistoryguy",
+        "inPool": true,
+        "why": "History Hit collaborations"
+      },
+      {
+        "handle": "simon_schama",
+        "inPool": true,
+        "why": "fellow UK historian-broadcaster, mutual replies"
+      },
+      {
+        "handle": "DrJaninaRamirez",
+        "inPool": false,
+        "why": "UK history broadcasting circle"
+      }
+    ]
+  },
+  {
+    "handle": "holland_tom",
+    "circle": [
+      {
+        "handle": "dcsandbrook",
+        "inPool": true,
+        "why": "co-host of The Rest is History podcast"
+      },
+      {
+        "handle": "TheRestHistory",
+        "inPool": false,
+        "why": "his podcast's official account"
+      },
+      {
+        "handle": "wmarybeard",
+        "inPool": true,
+        "why": "classics banter and friendly disputes"
+      },
+      {
+        "handle": "thehistoryguy",
+        "inPool": true,
+        "why": "History Hit appearances and history-media circle"
+      },
+      {
+        "handle": "Aggerscricket",
+        "inPool": false,
+        "why": "shared cricket obsession and banter"
+      },
+      {
+        "handle": "nfergus",
+        "inPool": true,
+        "why": "historian-circuit panels and exchanges"
+      }
+    ]
+  },
+  {
+    "handle": "dcsandbrook",
+    "circle": [
+      {
+        "handle": "holland_tom",
+        "inPool": true,
+        "why": "co-host of The Rest is History"
+      },
+      {
+        "handle": "TheRestHistory",
+        "inPool": false,
+        "why": "official podcast account he co-fronts"
+      },
+      {
+        "handle": "goalhangerpods",
+        "inPool": false,
+        "why": "his podcast network"
+      },
+      {
+        "handle": "campbellclaret",
+        "inPool": false,
+        "why": "Goalhanger stablemate on The Rest is Politics"
+      },
+      {
+        "handle": "thehistoryguy",
+        "inPool": true,
+        "why": "UK history-media overlap"
+      }
+    ]
+  },
+  {
+    "handle": "thehistoryguy",
+    "circle": [
+      {
+        "handle": "HistoryHit",
+        "inPool": false,
+        "why": "the history channel he founded"
+      },
+      {
+        "handle": "holland_tom",
+        "inPool": true,
+        "why": "podcast guest spots and history-media circle"
+      },
+      {
+        "handle": "dcsandbrook",
+        "inPool": true,
+        "why": "UK history broadcasting overlap"
+      },
+      {
+        "handle": "James1940",
+        "inPool": false,
+        "why": "fellow WWII-focused historian and friend"
+      },
+      {
+        "handle": "wmarybeard",
+        "inPool": true,
+        "why": "UK public-history circle"
+      },
+      {
+        "handle": "greg_jenner",
+        "inPool": false,
+        "why": "fellow popular historian"
+      }
+    ]
+  },
+  {
+    "handle": "KevinMKruse",
+    "circle": [
+      {
+        "handle": "julianzelizer",
+        "inPool": false,
+        "why": "Princeton colleague and co-author of Fault Lines"
+      },
+      {
+        "handle": "jbf1755",
+        "inPool": true,
+        "why": "history-twitter colleague and mutual amplifier"
+      },
+      {
+        "handle": "rickperlstein",
+        "inPool": false,
+        "why": "fellow historian of US conservatism"
+      },
+      {
+        "handle": "DineshDSouza",
+        "inPool": true,
+        "why": "frequent target of his historical debunkings"
+      },
+      {
+        "handle": "HC_Richardson",
+        "inPool": true,
+        "why": "fellow public-facing US historian"
+      },
+      {
+        "handle": "BeschlossDC",
+        "inPool": true,
+        "why": "history-twitter mutual"
+      }
+    ]
+  },
+  {
+    "handle": "BeschlossDC",
+    "circle": [
+      {
+        "handle": "DorisKGoodwin",
+        "inPool": false,
+        "why": "fellow presidential historian and friend"
+      },
+      {
+        "handle": "jmeacham",
+        "inPool": false,
+        "why": "fellow presidential historian, frequent co-panelist"
+      },
+      {
+        "handle": "maddow",
+        "inPool": true,
+        "why": "regular MSNBC historical commentary spots"
+      },
+      {
+        "handle": "mitchellreports",
+        "inPool": false,
+        "why": "longtime NBC/MSNBC colleague"
+      },
+      {
+        "handle": "KevinMKruse",
+        "inPool": true,
+        "why": "history-twitter mutual"
+      }
+    ]
+  },
+  {
+    "handle": "TimothyDSnyder",
+    "circle": [
+      {
+        "handle": "anneapplebaum",
+        "inPool": true,
+        "why": "close colleague on authoritarianism and Ukraine"
+      },
+      {
+        "handle": "ruthbenghiat",
+        "inPool": true,
+        "why": "fellow scholar of authoritarianism"
+      },
+      {
+        "handle": "Kasparov63",
+        "inPool": false,
+        "why": "shared pro-Ukraine advocacy circle"
+      },
+      {
+        "handle": "McFaul",
+        "inPool": false,
+        "why": "Russia-policy commentary overlap"
+      },
+      {
+        "handle": "HC_Richardson",
+        "inPool": true,
+        "why": "fellow historian writing on democracy"
+      }
+    ]
+  },
+  {
+    "handle": "simon_schama",
+    "circle": [
+      {
+        "handle": "wmarybeard",
+        "inPool": true,
+        "why": "fellow UK historian-broadcaster"
+      },
+      {
+        "handle": "simonmontefiore",
+        "inPool": false,
+        "why": "fellow popular historian, London literary circle"
+      },
+      {
+        "handle": "DavidOlusoga",
+        "inPool": false,
+        "why": "BBC history broadcasting colleague"
+      },
+      {
+        "handle": "FT",
+        "inPool": false,
+        "why": "longtime FT contributing editor"
+      },
+      {
+        "handle": "nfergus",
+        "inPool": true,
+        "why": "decades-long historian sparring partner"
+      }
+    ]
+  },
+  {
+    "handle": "jbf1755",
+    "circle": [
+      {
+        "handle": "HC_Richardson",
+        "inPool": true,
+        "why": "co-hosted the Now & Then podcast together"
+      },
+      {
+        "handle": "KevinMKruse",
+        "inPool": true,
+        "why": "history-twitter colleague"
+      },
+      {
+        "handle": "Lin_Manuel",
+        "inPool": true,
+        "why": "Hamilton-era scholarship exchanges"
+      },
+      {
+        "handle": "BeschlossDC",
+        "inPool": true,
+        "why": "fellow public-facing historian"
+      },
+      {
+        "handle": "julianzelizer",
+        "inPool": false,
+        "why": "early-America/US politics history circle"
+      }
+    ]
+  },
+  {
+    "handle": "ruthbenghiat",
+    "circle": [
+      {
+        "handle": "TimothyDSnyder",
+        "inPool": true,
+        "why": "fellow authoritarianism scholar"
+      },
+      {
+        "handle": "jasonintrator",
+        "inPool": false,
+        "why": "fellow fascism scholar, mutual amplification"
+      },
+      {
+        "handle": "anneapplebaum",
+        "inPool": true,
+        "why": "authoritarianism beat overlap"
+      },
+      {
+        "handle": "maddow",
+        "inPool": true,
+        "why": "MSNBC commentary appearances"
+      },
+      {
+        "handle": "McFaul",
+        "inPool": false,
+        "why": "democracy-defense commentary circle"
+      }
+    ]
+  },
+  {
+    "handle": "mikeduncan",
+    "circle": [
+      {
+        "handle": "Patrick_Wyman",
+        "inPool": false,
+        "why": "fellow history podcaster and friend"
+      },
+      {
+        "handle": "HardcoreHistory",
+        "inPool": false,
+        "why": "history-podcasting peer"
+      },
+      {
+        "handle": "KevinMKruse",
+        "inPool": true,
+        "why": "history-twitter mutual"
+      },
+      {
+        "handle": "jbf1755",
+        "inPool": true,
+        "why": "revolutions-era history overlap"
+      },
+      {
+        "handle": "holland_tom",
+        "inPool": true,
+        "why": "history-podcast world peer"
+      }
+    ]
+  },
+  {
+    "handle": "PeterSinger",
+    "circle": [
+      {
+        "handle": "willmacaskill",
+        "inPool": false,
+        "why": "effective altruism movement colleague"
+      },
+      {
+        "handle": "GiveWell",
+        "inPool": false,
+        "why": "EA charity evaluator he champions"
+      },
+      {
+        "handle": "sapinker",
+        "inPool": true,
+        "why": "public-intellectual circuit and mutual praise"
+      },
+      {
+        "handle": "RichardDawkins",
+        "inPool": true,
+        "why": "secular-ethics intellectual circle"
+      },
+      {
+        "handle": "SamHarrisOrg",
+        "inPool": true,
+        "why": "podcast appearances on ethics"
+      }
+    ]
+  },
+  {
+    "handle": "AgnesCallard",
+    "circle": [
+      {
+        "handle": "lastpositivist",
+        "inPool": false,
+        "why": "frequent philosophy-twitter interlocutor"
+      },
+      {
+        "handle": "tylercowen",
+        "inPool": true,
+        "why": "Conversations with Tyler guest and ongoing exchanges"
+      },
+      {
+        "handle": "ezraklein",
+        "inPool": true,
+        "why": "podcast appearances and public-philosophy overlap"
+      },
+      {
+        "handle": "kate_manne",
+        "inPool": true,
+        "why": "philosophy-twitter colleague"
+      },
+      {
+        "handle": "philosophybites",
+        "inPool": false,
+        "why": "public-philosophy media circle"
+      }
+    ]
+  },
+  {
+    "handle": "kate_manne",
+    "circle": [
+      {
+        "handle": "AgnesCallard",
+        "inPool": true,
+        "why": "philosophy-twitter colleague"
+      },
+      {
+        "handle": "lastpositivist",
+        "inPool": false,
+        "why": "philosophy-twitter mutual"
+      },
+      {
+        "handle": "JessicaValenti",
+        "inPool": false,
+        "why": "feminist commentary overlap"
+      },
+      {
+        "handle": "rgay",
+        "inPool": true,
+        "why": "feminist writing world mutual"
+      },
+      {
+        "handle": "MoiraDonegan",
+        "inPool": false,
+        "why": "feminist commentariat circle"
+      }
+    ]
+  },
+  {
+    "handle": "SamHarrisOrg",
+    "circle": [
+      {
+        "handle": "ezraklein",
+        "inPool": true,
+        "why": "famous 2018 public dispute over race and IQ"
+      },
+      {
+        "handle": "jordanbpeterson",
+        "inPool": true,
+        "why": "series of public debates"
+      },
+      {
+        "handle": "RichardDawkins",
+        "inPool": true,
+        "why": "New Atheist four horsemen colleague"
+      },
+      {
+        "handle": "EricRWeinstein",
+        "inPool": false,
+        "why": "longtime friendly sparring partner"
+      },
+      {
+        "handle": "lexfridman",
+        "inPool": true,
+        "why": "repeat podcast appearances"
+      },
+      {
+        "handle": "nntaleb",
+        "inPool": true,
+        "why": "target of Taleb's recurring attacks"
+      }
+    ]
+  },
+  {
+    "handle": "nntaleb",
+    "circle": [
+      {
+        "handle": "sapinker",
+        "inPool": true,
+        "why": "long-running feud over violence statistics"
+      },
+      {
+        "handle": "normonics",
+        "inPool": false,
+        "why": "complexity-science collaborator and ally"
+      },
+      {
+        "handle": "yaneerbaryam",
+        "inPool": false,
+        "why": "co-author on precautionary principle work"
+      },
+      {
+        "handle": "PTetlock",
+        "inPool": false,
+        "why": "public feud over forecasting"
+      },
+      {
+        "handle": "RichardDawkins",
+        "inPool": true,
+        "why": "sparring over GMOs and IQ research"
+      }
+    ]
+  },
+  {
+    "handle": "sapinker",
+    "circle": [
+      {
+        "handle": "RichardDawkins",
+        "inPool": true,
+        "why": "longtime mutual admiration and shared events"
+      },
+      {
+        "handle": "nntaleb",
+        "inPool": true,
+        "why": "on the receiving end of Taleb's feud"
+      },
+      {
+        "handle": "JonHaidt",
+        "inPool": true,
+        "why": "heterodox-academy intellectual circle"
+      },
+      {
+        "handle": "michaelshermer",
+        "inPool": true,
+        "why": "skeptic movement friend"
+      },
+      {
+        "handle": "mattwridley",
+        "inPool": false,
+        "why": "rational-optimism intellectual circle"
+      }
+    ]
+  },
+  {
+    "handle": "JonHaidt",
+    "circle": [
+      {
+        "handle": "glukianoff",
+        "inPool": false,
+        "why": "co-author of The Coddling of the American Mind"
+      },
+      {
+        "handle": "jean_twenge",
+        "inPool": false,
+        "why": "research collaborator on teens and social media"
+      },
+      {
+        "handle": "sapinker",
+        "inPool": true,
+        "why": "heterodox public-intellectual circle"
+      },
+      {
+        "handle": "bariweiss",
+        "inPool": true,
+        "why": "free-speech and heterodox media circle"
+      },
+      {
+        "handle": "tylercowen",
+        "inPool": true,
+        "why": "podcast and ideas-circuit exchanges"
+      }
+    ]
+  },
+  {
+    "handle": "LHSummers",
+    "circle": [
+      {
+        "handle": "jasonfurman",
+        "inPool": true,
+        "why": "Harvard colleague and frequent interlocutor"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "decades of public macro debates"
+      },
+      {
+        "handle": "elerianm",
+        "inPool": true,
+        "why": "macro-commentary sparring on inflation"
+      },
+      {
+        "handle": "SteveRattner",
+        "inPool": false,
+        "why": "economic-policy commentariat circle"
+      },
+      {
+        "handle": "Austan_Goolsbee",
+        "inPool": true,
+        "why": "Democratic economist circle"
+      }
+    ]
+  },
+  {
+    "handle": "JustinWolfers",
+    "circle": [
+      {
+        "handle": "betseystevenson",
+        "inPool": false,
+        "why": "partner and longtime co-author"
+      },
+      {
+        "handle": "jasonfurman",
+        "inPool": true,
+        "why": "econ-twitter mutual and policy debates"
+      },
+      {
+        "handle": "Austan_Goolsbee",
+        "inPool": true,
+        "why": "econ-twitter banter"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "macro commentary overlap"
+      },
+      {
+        "handle": "Noahpinion",
+        "inPool": true,
+        "why": "econ-twitter exchanges"
+      }
+    ]
+  },
+  {
+    "handle": "tylercowen",
+    "circle": [
+      {
+        "handle": "ATabarrok",
+        "inPool": false,
+        "why": "Marginal Revolution co-blogger for two decades"
+      },
+      {
+        "handle": "patrickc",
+        "inPool": true,
+        "why": "co-author on progress studies, frequent exchanges"
+      },
+      {
+        "handle": "ezraklein",
+        "inPool": true,
+        "why": "mutual podcast appearances"
+      },
+      {
+        "handle": "AgnesCallard",
+        "inPool": true,
+        "why": "CWT guest and ongoing intellectual exchange"
+      },
+      {
+        "handle": "Noahpinion",
+        "inPool": true,
+        "why": "econ-blogosphere sparring"
+      }
+    ]
+  },
+  {
+    "handle": "rodrikdani",
+    "circle": [
+      {
+        "handle": "brankomilan",
+        "inPool": false,
+        "why": "globalization and inequality colleague"
+      },
+      {
+        "handle": "adam_tooze",
+        "inPool": true,
+        "why": "economic-history commentary overlap"
+      },
+      {
+        "handle": "JosephEStiglitz",
+        "inPool": true,
+        "why": "heterodox globalization critique circle"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "trade-economics debates"
+      },
+      {
+        "handle": "MazzucatoM",
+        "inPool": false,
+        "why": "industrial-policy intellectual circle"
+      }
+    ]
+  },
+  {
+    "handle": "jasonfurman",
+    "circle": [
+      {
+        "handle": "LHSummers",
+        "inPool": true,
+        "why": "Harvard colleague and frequent ally in debates"
+      },
+      {
+        "handle": "JustinWolfers",
+        "inPool": true,
+        "why": "econ-twitter mutual"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "inflation-debate sparring"
+      },
+      {
+        "handle": "Claudia_Sahm",
+        "inPool": false,
+        "why": "macro econ-twitter exchanges"
+      },
+      {
+        "handle": "ernietedeschi",
+        "inPool": false,
+        "why": "budget and labor data wonk circle"
+      }
+    ]
+  },
+  {
+    "handle": "Austan_Goolsbee",
+    "circle": [
+      {
+        "handle": "JustinWolfers",
+        "inPool": true,
+        "why": "longtime econ-twitter banter"
+      },
+      {
+        "handle": "jasonfurman",
+        "inPool": true,
+        "why": "Democratic economist circle"
+      },
+      {
+        "handle": "betseystevenson",
+        "inPool": false,
+        "why": "econ-policy twitter mutual"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "macro commentary overlap"
+      },
+      {
+        "handle": "LHSummers",
+        "inPool": true,
+        "why": "policy debates among Democratic economists"
+      }
+    ]
+  },
+  {
+    "handle": "JosephEStiglitz",
+    "circle": [
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "fellow Nobel laureate and columnist ally"
+      },
+      {
+        "handle": "PikettyLeMonde",
+        "inPool": true,
+        "why": "inequality research circle"
+      },
+      {
+        "handle": "rodrikdani",
+        "inPool": true,
+        "why": "globalization critique colleague"
+      },
+      {
+        "handle": "MazzucatoM",
+        "inPool": false,
+        "why": "frequent co-panelist on rethinking capitalism"
+      },
+      {
+        "handle": "brankomilan",
+        "inPool": false,
+        "why": "inequality economics circle"
+      }
+    ]
+  },
+  {
+    "handle": "PikettyLeMonde",
+    "circle": [
+      {
+        "handle": "gabriel_zucman",
+        "inPool": false,
+        "why": "longtime co-author on wealth inequality"
+      },
+      {
+        "handle": "JosephEStiglitz",
+        "inPool": true,
+        "why": "inequality policy circle"
+      },
+      {
+        "handle": "brankomilan",
+        "inPool": false,
+        "why": "global inequality research peer"
+      },
+      {
+        "handle": "rodrikdani",
+        "inPool": true,
+        "why": "political economy circle"
+      },
+      {
+        "handle": "adam_tooze",
+        "inPool": true,
+        "why": "economic-history commentary overlap"
+      }
+    ]
+  },
+  {
+    "handle": "erikbryn",
+    "circle": [
+      {
+        "handle": "amcafee",
+        "inPool": false,
+        "why": "co-author of The Second Machine Age"
+      },
+      {
+        "handle": "sama",
+        "inPool": true,
+        "why": "AI-and-economy policy conversations"
+      },
+      {
+        "handle": "tylercowen",
+        "inPool": true,
+        "why": "economics of technology exchanges"
+      },
+      {
+        "handle": "jasonfurman",
+        "inPool": true,
+        "why": "AI policy panels and debates"
+      },
+      {
+        "handle": "Noahpinion",
+        "inPool": true,
+        "why": "tech-economics commentary overlap"
+      }
+    ]
+  },
+  {
+    "handle": "StephanieKelton",
+    "circle": [
+      {
+        "handle": "wbmosler",
+        "inPool": false,
+        "why": "MMT founder and intellectual mentor"
+      },
+      {
+        "handle": "NathanTankus",
+        "inPool": false,
+        "why": "MMT-circle colleague"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "high-profile MMT debates"
+      },
+      {
+        "handle": "jasonfurman",
+        "inPool": true,
+        "why": "mainstream-vs-MMT sparring"
+      },
+      {
+        "handle": "RBReich",
+        "inPool": true,
+        "why": "progressive economics media circle"
+      }
+    ]
+  },
+  {
+    "handle": "delong",
+    "circle": [
+      {
+        "handle": "Noahpinion",
+        "inPool": true,
+        "why": "co-host of the Hexapodia podcast"
+      },
+      {
+        "handle": "paulkrugman",
+        "inPool": true,
+        "why": "longtime friend and macro co-traveler"
+      },
+      {
+        "handle": "LHSummers",
+        "inPool": true,
+        "why": "former co-author on macro research"
+      },
+      {
+        "handle": "adam_tooze",
+        "inPool": true,
+        "why": "economic-history blogosphere exchanges"
+      },
+      {
+        "handle": "equitablegrowth",
+        "inPool": false,
+        "why": "think tank he helped lead"
+      }
+    ]
+  },
+  {
+    "handle": "harari_yuval",
+    "circle": [
+      {
+        "handle": "lexfridman",
+        "inPool": true,
+        "why": "long-form podcast appearances"
+      },
+      {
+        "handle": "SamHarrisOrg",
+        "inPool": true,
+        "why": "repeat guest on Making Sense"
+      },
+      {
+        "handle": "TEDTalks",
+        "inPool": false,
+        "why": "flagship TED speaker"
+      },
+      {
+        "handle": "TheEconomist",
+        "inPool": true,
+        "why": "essays and cover features"
+      },
+      {
+        "handle": "wef",
+        "inPool": false,
+        "why": "regular Davos headliner"
+      }
+    ]
+  },
+  {
+    "handle": "FukuyamaFrancis",
+    "circle": [
+      {
+        "handle": "McFaul",
+        "inPool": false,
+        "why": "Stanford FSI colleague"
+      },
+      {
+        "handle": "Yascha_Mounk",
+        "inPool": false,
+        "why": "Persuasion project collaborator"
+      },
+      {
+        "handle": "anneapplebaum",
+        "inPool": true,
+        "why": "liberal-democracy intellectual circle"
+      },
+      {
+        "handle": "LarryDiamond",
+        "inPool": false,
+        "why": "Stanford democracy-studies colleague"
+      },
+      {
+        "handle": "TimothyDSnyder",
+        "inPool": true,
+        "why": "democracy-and-authoritarianism debate circle"
+      }
+    ]
+  },
+  {
+    "handle": "CassSunstein",
+    "circle": [
+      {
+        "handle": "R_Thaler",
+        "inPool": false,
+        "why": "Nudge co-author"
+      },
+      {
+        "handle": "SamanthaJPower",
+        "inPool": false,
+        "why": "spouse and frequent mutual support"
+      },
+      {
+        "handle": "NoahRFeldman",
+        "inPool": false,
+        "why": "Harvard Law colleague and Bloomberg co-columnist"
+      },
+      {
+        "handle": "tribelaw",
+        "inPool": false,
+        "why": "Harvard Law colleague"
+      },
+      {
+        "handle": "ezraklein",
+        "inPool": true,
+        "why": "podcast appearances on behavioral policy"
+      }
+    ]
+  }
+]

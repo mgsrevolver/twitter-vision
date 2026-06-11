@@ -1,0 +1,338 @@
+[
+  {
+    "handle": "TheoVon",
+    "circle": [
+      { "handle": "joerogan", "inPool": true, "why": "frequent JRE guest and Austin comedy friend" },
+      { "handle": "BrendanSchaub", "inPool": true, "why": "former King and the Sting co-host" },
+      { "handle": "bertkreischer", "inPool": true, "why": "frequent podcast guest swaps and tour buddy" },
+      { "handle": "TonyHinchcliffe", "inPool": true, "why": "Kill Tony appearances, Austin scene" },
+      { "handle": "Shanemgillis", "inPool": true, "why": "podcast crossovers and mutual bits" }
+    ]
+  },
+  {
+    "handle": "tomsegura",
+    "circle": [
+      { "handle": "bertkreischer", "inPool": true, "why": "2 Bears 1 Cave co-host" },
+      { "handle": "christinapaz", "inPool": false, "why": "wife and Your Mom's House co-host" },
+      { "handle": "joerogan", "inPool": true, "why": "longtime friend and frequent JRE guest" },
+      { "handle": "WhitneyCummings", "inPool": true, "why": "comedy peer and podcast guest swaps" },
+      { "handle": "marknorm", "inPool": true, "why": "standup peer, frequent YMH guest" }
+    ]
+  },
+  {
+    "handle": "bertkreischer",
+    "circle": [
+      { "handle": "tomsegura", "inPool": true, "why": "2 Bears 1 Cave co-host and close friend" },
+      { "handle": "joerogan", "inPool": true, "why": "Sober October crew and frequent JRE guest" },
+      { "handle": "AriShaffir", "inPool": false, "why": "Sober October crew and longtime friend" },
+      { "handle": "billburr", "inPool": true, "why": "Bill Bert Podcast co-host" },
+      { "handle": "TheoVon", "inPool": true, "why": "frequent podcast guest swaps" }
+    ]
+  },
+  {
+    "handle": "andrewschulz",
+    "circle": [
+      { "handle": "cthagod", "inPool": true, "why": "Brilliant Idiots co-host" },
+      { "handle": "joerogan", "inPool": true, "why": "JRE appearances and comedy circuit" },
+      { "handle": "TheoVon", "inPool": true, "why": "podcast crossovers and mutual promotion" },
+      { "handle": "Shanemgillis", "inPool": true, "why": "Flagrant guest and standup peer" },
+      { "handle": "TimJDillon", "inPool": true, "why": "podcast comedy scene crossovers" }
+    ]
+  },
+  {
+    "handle": "TimJDillon",
+    "circle": [
+      { "handle": "joerogan", "inPool": true, "why": "frequent JRE guest" },
+      { "handle": "TheoVon", "inPool": true, "why": "podcast guest swaps and friendship" },
+      { "handle": "andrewschulz", "inPool": true, "why": "NY podcast comedy scene crossovers" },
+      { "handle": "lexfridman", "inPool": true, "why": "memorable podcast appearances" },
+      { "handle": "TuckerCarlson", "inPool": true, "why": "appeared on each other's shows" }
+    ]
+  },
+  {
+    "handle": "TonyHinchcliffe",
+    "circle": [
+      { "handle": "joerogan", "inPool": true, "why": "close friend, Comedy Mothership regular" },
+      { "handle": "redban", "inPool": false, "why": "Kill Tony co-host" },
+      { "handle": "Shanemgillis", "inPool": true, "why": "frequent Kill Tony guest" },
+      { "handle": "TheoVon", "inPool": true, "why": "Austin comedy scene and podcast swaps" },
+      { "handle": "danawhite", "inPool": true, "why": "UFC orbit, hosted Power Slap and roasts" }
+    ]
+  },
+  {
+    "handle": "WhitneyCummings",
+    "circle": [
+      { "handle": "joerogan", "inPool": true, "why": "frequent JRE guest and longtime friend" },
+      { "handle": "nikkiglaser", "inPool": true, "why": "fellow roast comic and friend" },
+      { "handle": "nealbrennan", "inPool": false, "why": "close friend and former podcast partner" },
+      { "handle": "bertkreischer", "inPool": true, "why": "podcast guest swaps" },
+      { "handle": "chelseahandler", "inPool": true, "why": "Chelsea Lately roundtable alum and peer" }
+    ]
+  },
+  {
+    "handle": "marknorm",
+    "circle": [
+      { "handle": "sammorril", "inPool": false, "why": "We Might Be Drunk co-host" },
+      { "handle": "JoeListComedy", "inPool": false, "why": "Tuesdays with Stories co-host" },
+      { "handle": "Shanemgillis", "inPool": true, "why": "close standup friend, frequent collabs" },
+      { "handle": "joerogan", "inPool": true, "why": "JRE appearances" },
+      { "handle": "bertkreischer", "inPool": true, "why": "Bertcast and tour appearances" }
+    ]
+  },
+  {
+    "handle": "Shanemgillis",
+    "circle": [
+      { "handle": "mattmccusker", "inPool": false, "why": "Matt and Shane's Secret Podcast co-host" },
+      { "handle": "marknorm", "inPool": true, "why": "close standup friend, frequent collabs" },
+      { "handle": "TonyHinchcliffe", "inPool": true, "why": "Kill Tony appearances" },
+      { "handle": "andrewschulz", "inPool": true, "why": "Flagrant appearances" },
+      { "handle": "joerogan", "inPool": true, "why": "JRE guest, Austin comedy orbit" },
+      { "handle": "PatMcAfeeShow", "inPool": true, "why": "recurring guest, shared football fandom" }
+    ]
+  },
+  {
+    "handle": "anthonyjeselnik",
+    "circle": [
+      { "handle": "greggrosenthal", "inPool": false, "why": "Jeselnik & Rosenthal Vanity Project co-host" },
+      { "handle": "nikkiglaser", "inPool": true, "why": "fellow roast comic and friend" },
+      { "handle": "WhitneyCummings", "inPool": true, "why": "roast circuit peer" },
+      { "handle": "marknorm", "inPool": true, "why": "standup peer and podcast guest" },
+      { "handle": "ConanOBrien", "inPool": true, "why": "early writing job and recurring guest" }
+    ]
+  },
+  {
+    "handle": "roywoodjr",
+    "circle": [
+      { "handle": "TheDailyShow", "inPool": true, "why": "longtime correspondent" },
+      { "handle": "Trevornoah", "inPool": true, "why": "former Daily Show host and colleague" },
+      { "handle": "dulcesloan", "inPool": true, "why": "Daily Show colleague and friend" },
+      { "handle": "wkamaubell", "inPool": true, "why": "fellow comic and frequent collaborator" },
+      { "handle": "hasanminhaj", "inPool": true, "why": "Daily Show orbit and comedy peer" }
+    ]
+  },
+  {
+    "handle": "ericandre",
+    "circle": [
+      { "handle": "hannibalburess", "inPool": true, "why": "Eric Andre Show co-star for five seasons" },
+      { "handle": "adultswim", "inPool": true, "why": "home network of his show" },
+      { "handle": "flyinglotus", "inPool": false, "why": "friend and musical collaborator" },
+      { "handle": "tylerthecreator", "inPool": true, "why": "friend, show appearances" },
+      { "handle": "ZackFox", "inPool": true, "why": "comedy-music scene friend and collaborator" }
+    ]
+  },
+  {
+    "handle": "hannibalburess",
+    "circle": [
+      { "handle": "ericandre", "inPool": true, "why": "Eric Andre Show co-star" },
+      { "handle": "adultswim", "inPool": true, "why": "longtime network collaborator" },
+      { "handle": "Mike_Eagle", "inPool": false, "why": "friend, music and comedy collaborator" },
+      { "handle": "questlove", "inPool": true, "why": "music-comedy scene friend" },
+      { "handle": "chancetherapper", "inPool": true, "why": "Chicago scene friend and collaborator" }
+    ]
+  },
+  {
+    "handle": "duncantrussell",
+    "circle": [
+      { "handle": "joerogan", "inPool": true, "why": "decades-long friendship, frequent JRE guest" },
+      { "handle": "peteholmes", "inPool": false, "why": "close friend, You Made It Weird regular" },
+      { "handle": "marcmaron", "inPool": true, "why": "WTF appearances and LA comedy friendship" },
+      { "handle": "TheComedyStore", "inPool": false, "why": "home club and documentary subject" },
+      { "handle": "aubreymarcus", "inPool": false, "why": "close friend, frequent podcast swaps" }
+    ]
+  },
+  {
+    "handle": "KaiCenat",
+    "circle": [
+      { "handle": "ishowspeedsui", "inPool": true, "why": "frequent collab streams and IRL events" },
+      { "handle": "FanumTV", "inPool": false, "why": "AMP member and roommate" },
+      { "handle": "ImDukeDennis", "inPool": false, "why": "AMP member" },
+      { "handle": "adinross", "inPool": true, "why": "fellow streamer, on-and-off collabs and beefs" },
+      { "handle": "nickiminaj", "inPool": true, "why": "streamed together during Mafiathon" },
+      { "handle": "KevinHart4real", "inPool": true, "why": "appeared on his stream with Druski" }
+    ]
+  },
+  {
+    "handle": "ishowspeedsui",
+    "circle": [
+      { "handle": "KaiCenat", "inPool": true, "why": "frequent collab partner and friend" },
+      { "handle": "Cristiano", "inPool": true, "why": "idol he has met and championed for years" },
+      { "handle": "KSI", "inPool": true, "why": "music and event collaborations" },
+      { "handle": "adinross", "inPool": true, "why": "fellow live streamer, repeated collabs" },
+      { "handle": "MrBeast", "inPool": true, "why": "video collaborations" }
+    ]
+  },
+  {
+    "handle": "adinross",
+    "circle": [
+      { "handle": "KaiCenat", "inPool": true, "why": "streamer friend with public collabs and beefs" },
+      { "handle": "ishowspeedsui", "inPool": true, "why": "fellow streamer, repeated collabs" },
+      { "handle": "xQc", "inPool": true, "why": "streamer friend from gambling-stream era" },
+      { "handle": "Drake", "inPool": true, "why": "hosted Drake on gambling streams" },
+      { "handle": "jakepaul", "inPool": true, "why": "interviews and boxing-world crossovers" }
+    ]
+  },
+  {
+    "handle": "Amouranth",
+    "circle": [
+      { "handle": "Asmongold", "inPool": true, "why": "fellow OTK/Austin streamer" },
+      { "handle": "REALMizkif", "inPool": true, "why": "OTK founder, org colleague" },
+      { "handle": "xQc", "inPool": true, "why": "top-streamer orbit and event crossovers" },
+      { "handle": "Trainwreckstv", "inPool": true, "why": "Kick-era streamer circle" },
+      { "handle": "Twitch", "inPool": true, "why": "longtime platform, frequent subject of her news" }
+    ]
+  },
+  {
+    "handle": "qtcinderella",
+    "circle": [
+      { "handle": "ludwigahgren", "inPool": true, "why": "longtime partner and collaborator" },
+      { "handle": "hasanthehun", "inPool": true, "why": "close streamer friend" },
+      { "handle": "pokimane", "inPool": true, "why": "friend, shared events and streams" },
+      { "handle": "Valkyrae", "inPool": true, "why": "friend, shared events" },
+      { "handle": "mayahiga", "inPool": false, "why": "best friend and frequent collaborator" },
+      { "handle": "REALMizkif", "inPool": true, "why": "Streamer Awards circle friend" }
+    ]
+  },
+  {
+    "handle": "CDawgVA",
+    "circle": [
+      { "handle": "GiggukAZ", "inPool": false, "why": "Trash Taste co-host" },
+      { "handle": "TheAn1meMan", "inPool": false, "why": "Trash Taste co-host" },
+      { "handle": "ironmouse", "inPool": false, "why": "close friend and charity-stream partner" },
+      { "handle": "ludwigahgren", "inPool": true, "why": "friend, cycling charity event collabs" },
+      { "handle": "Crunchyroll", "inPool": false, "why": "Anime Awards host gig" }
+    ]
+  },
+  {
+    "handle": "loltyler1",
+    "circle": [
+      { "handle": "LeagueOfLegends", "inPool": true, "why": "the game he is synonymous with" },
+      { "handle": "macaiyla", "inPool": false, "why": "longtime partner" },
+      { "handle": "erobb221", "inPool": false, "why": "brother and fellow streamer" },
+      { "handle": "GothamChess", "inPool": true, "why": "chess arc coaching and content" },
+      { "handle": "riotgames", "inPool": false, "why": "famous ban-and-redemption history with the dev" }
+    ]
+  },
+  {
+    "handle": "LIRIK",
+    "circle": [
+      { "handle": "summit1g", "inPool": true, "why": "longtime duo partner and friend" },
+      { "handle": "sodapoppintv", "inPool": true, "why": "fellow OG variety streamer friend" },
+      { "handle": "timthetatman", "inPool": true, "why": "streamer friend, frequent crossovers" },
+      { "handle": "shroud", "inPool": true, "why": "longtime Twitch peer and squadmate" },
+      { "handle": "Twitch", "inPool": true, "why": "decade-plus flagship partner" }
+    ]
+  },
+  {
+    "handle": "Trainwreckstv",
+    "circle": [
+      { "handle": "xQc", "inPool": true, "why": "fellow Kick gambling-era streamer and friend" },
+      { "handle": "adinross", "inPool": true, "why": "Kick colleague" },
+      { "handle": "KickStreaming", "inPool": false, "why": "platform he co-founded/advises" },
+      { "handle": "Stake", "inPool": false, "why": "longtime sponsor" },
+      { "handle": "Asmongold", "inPool": true, "why": "frequent podcast and drama-discourse interactions" }
+    ]
+  },
+  {
+    "handle": "NorthernlionLP",
+    "circle": [
+      { "handle": "DanGheesling", "inPool": false, "why": "longtime friend and co-op collaborator" },
+      { "handle": "RockLeeSmile", "inPool": false, "why": "NLSS crew member" },
+      { "handle": "Sinvicta", "inPool": false, "why": "NLSS crew member" },
+      { "handle": "MALF", "inPool": false, "why": "NLSS crew member" },
+      { "handle": "Twitch", "inPool": true, "why": "daily streaming home for over a decade" }
+    ]
+  },
+  {
+    "handle": "vgdunkey",
+    "circle": [
+      { "handle": "bigmodegames", "inPool": false, "why": "game publisher he founded" },
+      { "handle": "leahbee", "inPool": false, "why": "wife and Bigmode co-founder" },
+      { "handle": "Billy_Basso", "inPool": false, "why": "Animal Well dev he published" },
+      { "handle": "theneedledrop", "inPool": true, "why": "fellow reviewer, longtime mutual references" },
+      { "handle": "MoistCr1TiKaL", "inPool": true, "why": "mutual respect and coverage between channels" }
+    ]
+  },
+  {
+    "handle": "KSI",
+    "circle": [
+      { "handle": "Sidemen", "inPool": true, "why": "founding member of the group" },
+      { "handle": "LoganPaul", "inPool": true, "why": "Prime co-founder, former boxing rival" },
+      { "handle": "jakepaul", "inPool": true, "why": "boxing rivalry turned business orbit" },
+      { "handle": "miniminter", "inPool": false, "why": "best friend and fellow Sideman" },
+      { "handle": "Wroetoshaw", "inPool": false, "why": "fellow Sideman" },
+      { "handle": "MrBeast", "inPool": true, "why": "collabs and friendly challenges" }
+    ]
+  },
+  {
+    "handle": "Sidemen",
+    "circle": [
+      { "handle": "KSI", "inPool": true, "why": "founding member" },
+      { "handle": "miniminter", "inPool": false, "why": "founding member" },
+      { "handle": "Vikkstar123", "inPool": false, "why": "founding member" },
+      { "handle": "Behzinga", "inPool": false, "why": "founding member" },
+      { "handle": "Zerkaa", "inPool": false, "why": "founding member" },
+      { "handle": "Tobjizzle", "inPool": false, "why": "founding member" },
+      { "handle": "Wroetoshaw", "inPool": false, "why": "founding member" }
+    ]
+  },
+  {
+    "handle": "LoganPaul",
+    "circle": [
+      { "handle": "KSI", "inPool": true, "why": "Prime co-founder and former rival" },
+      { "handle": "jakepaul", "inPool": true, "why": "brother" },
+      { "handle": "MrBeast", "inPool": true, "why": "friend and collaborator" },
+      { "handle": "WWE", "inPool": true, "why": "active WWE superstar" },
+      { "handle": "mikemajlak", "inPool": false, "why": "Impaulsive co-host" }
+    ]
+  },
+  {
+    "handle": "jakepaul",
+    "circle": [
+      { "handle": "LoganPaul", "inPool": true, "why": "brother" },
+      { "handle": "KSI", "inPool": true, "why": "long-running boxing rivalry and banter" },
+      { "handle": "danawhite", "inPool": true, "why": "years-long public feud over fighter pay" },
+      { "handle": "Serranosisters", "inPool": false, "why": "Amanda Serrano, his MVP co-headliner" },
+      { "handle": "netflix", "inPool": true, "why": "broadcast partner for his biggest fights" }
+    ]
+  },
+  {
+    "handle": "Casey",
+    "circle": [
+      { "handle": "MKBHD", "inPool": true, "why": "fellow OG YouTuber and friend" },
+      { "handle": "MrBeast", "inPool": true, "why": "interviews and creator-economy conversations" },
+      { "handle": "PeterMcKinnon", "inPool": false, "why": "filmmaker YouTuber friend" },
+      { "handle": "DavidDobrik", "inPool": false, "why": "made a documentary about him" },
+      { "handle": "YouTube", "inPool": true, "why": "platform he helped define the vlog era on" }
+    ]
+  },
+  {
+    "handle": "Mrwhosetheboss",
+    "circle": [
+      { "handle": "MKBHD", "inPool": true, "why": "fellow top tech reviewer, frequent interactions" },
+      { "handle": "LinusTech", "inPool": true, "why": "tech YouTube peer and collab partner" },
+      { "handle": "unboxtherapy", "inPool": false, "why": "tech reviewer peer" },
+      { "handle": "ZacksJerryRig", "inPool": false, "why": "tech YouTube peer, durability-test crossovers" },
+      { "handle": "Dave2D", "inPool": false, "why": "tech reviewer peer" }
+    ]
+  },
+  {
+    "handle": "LinusTech",
+    "circle": [
+      { "handle": "MKBHD", "inPool": true, "why": "fellow top tech creator, event crossovers" },
+      { "handle": "GamersNexus", "inPool": false, "why": "tech-media peer with public history" },
+      { "handle": "Dave2D", "inPool": false, "why": "friend and fellow Canadian tech YouTuber" },
+      { "handle": "nvidia", "inPool": true, "why": "constant review subject and industry contact" },
+      { "handle": "AMD", "inPool": false, "why": "constant review subject and industry contact" }
+    ]
+  },
+  {
+    "handle": "veritasium",
+    "circle": [
+      { "handle": "smartereveryday", "inPool": false, "why": "close friend and frequent collaborator" },
+      { "handle": "3blue1brown", "inPool": false, "why": "fellow educator, collab videos" },
+      { "handle": "thephysicsgirl", "inPool": false, "why": "friend and longtime collaborator" },
+      { "handle": "MouldS", "inPool": false, "why": "science YouTuber friend, famous physics wager" },
+      { "handle": "hankgreen", "inPool": true, "why": "science communication community peer" }
+    ]
+  }
+]

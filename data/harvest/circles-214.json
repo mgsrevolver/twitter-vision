@@ -1,0 +1,320 @@
+[
+  {
+    "handle": "edyong209",
+    "circle": [
+      {"handle": "kakape", "inPool": true, "why": "fellow science journalist, constant mutual amplification during pandemic coverage"},
+      {"handle": "HelenBranswell", "inPool": true, "why": "STAT infectious-disease reporter, longtime beat colleague"},
+      {"handle": "carlzimmer", "inPool": true, "why": "fellow science writer, mutual praise of each other's books and features"},
+      {"handle": "CT_Bergstrom", "inPool": true, "why": "frequently cited and discussed Yong's COVID reporting"},
+      {"handle": "apoorva_nyc", "inPool": true, "why": "COVID beat reporter peer, frequent exchanges on coverage"},
+      {"handle": "trvrb", "inPool": true, "why": "interviewed and cited Bedford's variant tracking in his Atlantic pieces"}
+    ]
+  },
+  {
+    "handle": "ScottGottliebMD",
+    "circle": [
+      {"handle": "ashishkjha", "inPool": true, "why": "frequent public dialogue on COVID policy"},
+      {"handle": "DrTomFrieden", "inPool": true, "why": "fellow former federal health agency head, policy exchanges"},
+      {"handle": "CDCgov", "inPool": true, "why": "former FDA commissioner commenting on CDC guidance"},
+      {"handle": "CNBC", "inPool": true, "why": "regular Squawk Box contributor, clips and replies"},
+      {"handle": "mtosterholm", "inPool": false, "why": "epidemiologist counterpart in pandemic policy debates"}
+    ]
+  },
+  {
+    "handle": "ashishkjha",
+    "circle": [
+      {"handle": "Bob_Wachter", "inPool": true, "why": "frequent back-and-forth on COVID risk assessment"},
+      {"handle": "ScottGottliebMD", "inPool": true, "why": "public health policy dialogue across administrations"},
+      {"handle": "DrTomFrieden", "inPool": true, "why": "fellow public health leader, mutual amplification"},
+      {"handle": "EricTopol", "inPool": true, "why": "frequent mutual citation on COVID data"},
+      {"handle": "WhiteHouse", "inPool": true, "why": "served as White House COVID response coordinator"},
+      {"handle": "meganranney", "inPool": false, "why": "Brown public health colleague and frequent interlocutor"}
+    ]
+  },
+  {
+    "handle": "Bob_Wachter",
+    "circle": [
+      {"handle": "EricTopol", "inPool": true, "why": "close colleague, constant mutual replies on medical evidence"},
+      {"handle": "ashishkjha", "inPool": true, "why": "frequent dialogue on hospital and COVID policy"},
+      {"handle": "MonicaGandhi9", "inPool": false, "why": "UCSF colleague with whom he publicly debated COVID caution"},
+      {"handle": "mlipsitch", "inPool": false, "why": "epidemiologist he frequently cites and engages"},
+      {"handle": "angie_rasmussen", "inPool": true, "why": "virology threads he amplifies and discusses"}
+    ]
+  },
+  {
+    "handle": "DrTomFrieden",
+    "circle": [
+      {"handle": "CDCgov", "inPool": true, "why": "former CDC director, constant commentary on agency work"},
+      {"handle": "WHO", "inPool": true, "why": "global health initiatives and pandemic preparedness threads"},
+      {"handle": "ashishkjha", "inPool": true, "why": "fellow public health leader, mutual amplification"},
+      {"handle": "ScottGottliebMD", "inPool": true, "why": "cross-agency policy exchanges"},
+      {"handle": "EricTopol", "inPool": true, "why": "mutual engagement on COVID evidence"}
+    ]
+  },
+  {
+    "handle": "trvrb",
+    "circle": [
+      {"handle": "florian_krammer", "inPool": false, "why": "fellow virologist, frequent variant and vaccine exchanges"},
+      {"handle": "angie_rasmussen", "inPool": true, "why": "virology twitter peer, frequent replies"},
+      {"handle": "VirusesImmunity", "inPool": true, "why": "immunology colleague, mutual citation"},
+      {"handle": "K_G_Andersen", "inPool": false, "why": "co-author on SARS-CoV-2 origins work"},
+      {"handle": "HelenBranswell", "inPool": true, "why": "regularly interviewed for his variant tracking"},
+      {"handle": "edyong209", "inPool": true, "why": "his phylogenetics work featured in Yong's reporting"}
+    ]
+  },
+  {
+    "handle": "VirusesImmunity",
+    "circle": [
+      {"handle": "EricTopol", "inPool": true, "why": "constant mutual amplification on long COVID research"},
+      {"handle": "trvrb", "inPool": true, "why": "fellow academic virology/immunology peer"},
+      {"handle": "angie_rasmussen", "inPool": true, "why": "virology community exchanges"},
+      {"handle": "florian_krammer", "inPool": false, "why": "immunology colleague, frequent threads together"},
+      {"handle": "edyong209", "inPool": true, "why": "her long COVID research featured in his reporting"}
+    ]
+  },
+  {
+    "handle": "angie_rasmussen",
+    "circle": [
+      {"handle": "trvrb", "inPool": true, "why": "fellow virologist, frequent replies"},
+      {"handle": "VirusesImmunity", "inPool": true, "why": "immunology colleague exchanges"},
+      {"handle": "florian_krammer", "inPool": false, "why": "virology twitter peer, frequent threads"},
+      {"handle": "kakape", "inPool": true, "why": "frequently quoted in his science journalism"},
+      {"handle": "CT_Bergstrom", "inPool": true, "why": "mutual engagement debunking COVID misinformation"},
+      {"handle": "K_G_Andersen", "inPool": false, "why": "co-author and ally in origins debates"}
+    ]
+  },
+  {
+    "handle": "kakape",
+    "circle": [
+      {"handle": "edyong209", "inPool": true, "why": "fellow science journalist, mutual admiration and replies"},
+      {"handle": "HelenBranswell", "inPool": true, "why": "infectious disease journalism peer"},
+      {"handle": "apoorva_nyc", "inPool": true, "why": "fellow outbreak reporter, frequent exchanges"},
+      {"handle": "trvrb", "inPool": true, "why": "regularly interviews and cites his variant analyses"},
+      {"handle": "adamkucharski", "inPool": true, "why": "epidemiologist source and frequent interlocutor"},
+      {"handle": "mlipsitch", "inPool": false, "why": "epidemiology source he frequently engages"}
+    ]
+  },
+  {
+    "handle": "uche_blackstock",
+    "circle": [
+      {"handle": "oni_blackstock", "inPool": false, "why": "twin sister and fellow physician, constant mutual support"},
+      {"handle": "JoyAnnReid", "inPool": true, "why": "regular MSNBC contributor appearances and replies"},
+      {"handle": "meganranney", "inPool": false, "why": "emergency medicine colleague, mutual amplification"},
+      {"handle": "ashishkjha", "inPool": true, "why": "public health equity exchanges"},
+      {"handle": "nhannahjones", "inPool": true, "why": "mutual engagement on race and health equity"}
+    ]
+  },
+  {
+    "handle": "KHayhoe",
+    "circle": [
+      {"handle": "MichaelEMann", "inPool": true, "why": "fellow prominent climate scientist, constant mutual support"},
+      {"handle": "ClimateOfGavin", "inPool": true, "why": "climate science community exchanges"},
+      {"handle": "hausfath", "inPool": true, "why": "frequent mutual citation on climate data"},
+      {"handle": "ed_hawkins", "inPool": true, "why": "amplifies his warming stripes visualizations"},
+      {"handle": "GretaThunberg", "inPool": true, "why": "public support for youth climate movement"},
+      {"handle": "billmckibben", "inPool": true, "why": "climate communication allies, mutual amplification"}
+    ]
+  },
+  {
+    "handle": "MichaelEMann",
+    "circle": [
+      {"handle": "KHayhoe", "inPool": true, "why": "close colleague in climate communication"},
+      {"handle": "ClimateOfGavin", "inPool": true, "why": "RealClimate co-founder and longtime collaborator"},
+      {"handle": "billmckibben", "inPool": true, "why": "climate movement ally, mutual promotion"},
+      {"handle": "NaomiOreskes", "inPool": true, "why": "fellow scholar of climate denial, mutual citation"},
+      {"handle": "hausfath", "inPool": true, "why": "engages his analyses on warming trajectories"},
+      {"handle": "GretaThunberg", "inPool": true, "why": "vocal public supporter of her activism"}
+    ]
+  },
+  {
+    "handle": "ClimateOfGavin",
+    "circle": [
+      {"handle": "MichaelEMann", "inPool": true, "why": "RealClimate co-founder, decades of collaboration"},
+      {"handle": "hausfath", "inPool": true, "why": "frequent technical exchanges on temperature records"},
+      {"handle": "KHayhoe", "inPool": true, "why": "climate science community peer"},
+      {"handle": "NASA", "inPool": true, "why": "directs NASA GISS, constant agency engagement"},
+      {"handle": "ed_hawkins", "inPool": true, "why": "climate data visualization exchanges"}
+    ]
+  },
+  {
+    "handle": "hausfath",
+    "circle": [
+      {"handle": "ClimateOfGavin", "inPool": true, "why": "frequent technical debates on climate sensitivity"},
+      {"handle": "MichaelEMann", "inPool": true, "why": "climate science exchanges"},
+      {"handle": "KHayhoe", "inPool": true, "why": "mutual amplification of climate data"},
+      {"handle": "ed_hawkins", "inPool": true, "why": "fellow climate data communicator"},
+      {"handle": "CarbonBrief", "inPool": false, "why": "longtime contributor to their analyses"}
+    ]
+  },
+  {
+    "handle": "ed_hawkins",
+    "circle": [
+      {"handle": "hausfath", "inPool": true, "why": "climate data visualization peers"},
+      {"handle": "ClimateOfGavin", "inPool": true, "why": "temperature record discussions"},
+      {"handle": "KHayhoe", "inPool": true, "why": "amplifies his warming stripes worldwide"},
+      {"handle": "metoffice", "inPool": false, "why": "UK climate science institutional collaborator"},
+      {"handle": "MichaelEMann", "inPool": true, "why": "climate science community exchanges"}
+    ]
+  },
+  {
+    "handle": "EricHolthaus",
+    "circle": [
+      {"handle": "KHayhoe", "inPool": true, "why": "frequently cites her climate communication"},
+      {"handle": "leahstokes", "inPool": true, "why": "climate media and policy exchanges"},
+      {"handle": "billmckibben", "inPool": true, "why": "climate movement amplification"},
+      {"handle": "drvolts", "inPool": false, "why": "fellow climate-media voice, frequent replies"},
+      {"handle": "capitalweather", "inPool": false, "why": "meteorology peer community"}
+    ]
+  },
+  {
+    "handle": "leahstokes",
+    "circle": [
+      {"handle": "drvolts", "inPool": false, "why": "energy policy twitter peer, frequent podcast crossovers"},
+      {"handle": "KHayhoe", "inPool": true, "why": "climate communication mutual support"},
+      {"handle": "EricHolthaus", "inPool": true, "why": "climate media exchanges"},
+      {"handle": "JesseJenkins", "inPool": false, "why": "energy systems modeling debates and collaboration"},
+      {"handle": "billmckibben", "inPool": true, "why": "climate policy movement ally"}
+    ]
+  },
+  {
+    "handle": "plutokiller",
+    "circle": [
+      {"handle": "kbatygin", "inPool": false, "why": "Caltech colleague and Planet Nine co-discoverer"},
+      {"handle": "AstroKatie", "inPool": true, "why": "astronomy twitter community peer"},
+      {"handle": "BadAstronomer", "inPool": true, "why": "longtime exchanges over Pluto's demotion"},
+      {"handle": "neiltyson", "inPool": true, "why": "fellow Pluto-demotion advocate, public banter"},
+      {"handle": "elakdawalla", "inPool": true, "why": "planetary science community discussion"}
+    ]
+  },
+  {
+    "handle": "carolynporco",
+    "circle": [
+      {"handle": "BadAstronomer", "inPool": true, "why": "astronomy communication peer, frequent replies"},
+      {"handle": "elakdawalla", "inPool": true, "why": "planetary science community colleague"},
+      {"handle": "NASAJPL", "inPool": true, "why": "led Cassini imaging team at JPL missions"},
+      {"handle": "exploreplanets", "inPool": true, "why": "Planetary Society events and amplification"},
+      {"handle": "neiltyson", "inPool": true, "why": "fellow Sagan-lineage science communicator, public exchanges"}
+    ]
+  },
+  {
+    "handle": "elakdawalla",
+    "circle": [
+      {"handle": "exploreplanets", "inPool": true, "why": "longtime Planetary Society senior editor"},
+      {"handle": "NASAJPL", "inPool": true, "why": "covers JPL missions in depth"},
+      {"handle": "SciGuySpace", "inPool": true, "why": "space journalism community exchanges"},
+      {"handle": "jeff_foust", "inPool": true, "why": "space reporting peer, frequent replies"},
+      {"handle": "tanyaofmars", "inPool": false, "why": "fellow planetary scientist and friend"},
+      {"handle": "carolynporco", "inPool": true, "why": "planetary imaging community colleague"}
+    ]
+  },
+  {
+    "handle": "astro_timpeake",
+    "circle": [
+      {"handle": "esa", "inPool": true, "why": "his agency, constant mission engagement"},
+      {"handle": "Space_Station", "inPool": true, "why": "flew Principia mission aboard ISS"},
+      {"handle": "StationCDRKelly", "inPool": true, "why": "fellow astronaut, served on ISS during same era"},
+      {"handle": "Cmdr_Hadfield", "inPool": true, "why": "fellow astronaut-communicator, mutual replies"},
+      {"handle": "AstroSamantha", "inPool": true, "why": "ESA astronaut corps colleague"}
+    ]
+  },
+  {
+    "handle": "AstroSamantha",
+    "circle": [
+      {"handle": "esa", "inPool": true, "why": "ESA astronaut, constant agency engagement"},
+      {"handle": "Astro_Alex", "inPool": true, "why": "ESA astronaut class colleague and friend"},
+      {"handle": "Space_Station", "inPool": true, "why": "commanded ISS Expedition 68"},
+      {"handle": "astro_timpeake", "inPool": true, "why": "ESA astronaut corps colleague"},
+      {"handle": "NASA", "inPool": true, "why": "flew NASA-partnered ISS missions"}
+    ]
+  },
+  {
+    "handle": "Astro_Alex",
+    "circle": [
+      {"handle": "esa", "inPool": true, "why": "ESA astronaut, constant agency engagement"},
+      {"handle": "AstroSamantha", "inPool": true, "why": "ESA astronaut class colleague"},
+      {"handle": "Space_Station", "inPool": true, "why": "commanded ISS Expedition 57"},
+      {"handle": "astro_timpeake", "inPool": true, "why": "ESA astronaut corps colleague"},
+      {"handle": "DLR_de", "inPool": false, "why": "German space agency, frequent joint outreach"}
+    ]
+  },
+  {
+    "handle": "Astro_Christina",
+    "circle": [
+      {"handle": "NASA", "inPool": true, "why": "NASA astronaut, Artemis II crew member"},
+      {"handle": "Space_Station", "inPool": true, "why": "holds record for longest single spaceflight by a woman"},
+      {"handle": "Astro_Jessica", "inPool": false, "why": "partner in first all-female spacewalk"},
+      {"handle": "NASA_Astronauts", "inPool": false, "why": "astronaut corps account, constant engagement"},
+      {"handle": "SpaceX", "inPool": true, "why": "crew transport missions engagement"}
+    ]
+  },
+  {
+    "handle": "smartereveryday",
+    "circle": [
+      {"handle": "veritasium", "inPool": true, "why": "longtime collaborator and friend, joint videos"},
+      {"handle": "hankgreen", "inPool": true, "why": "online educational video community, mutual support"},
+      {"handle": "MarkRober", "inPool": false, "why": "close friend, frequent collaborations"},
+      {"handle": "NASA", "inPool": true, "why": "multiple NASA collaboration videos"},
+      {"handle": "minutephysics", "inPool": false, "why": "science YouTube community collaborator"}
+    ]
+  },
+  {
+    "handle": "FryRsquared",
+    "circle": [
+      {"handle": "AdamRutherford", "inPool": false, "why": "co-host of BBC's Rutherford & Fry podcast"},
+      {"handle": "standupmaths", "inPool": false, "why": "frequent collaborator and friend in UK maths comedy scene"},
+      {"handle": "numberphile", "inPool": false, "why": "recurring guest on the channel"},
+      {"handle": "ProfBrianCox", "inPool": true, "why": "UK science broadcasting circuit peer"},
+      {"handle": "jimalkhalili", "inPool": true, "why": "fellow UK science presenter, mutual engagement"}
+    ]
+  },
+  {
+    "handle": "jimalkhalili",
+    "circle": [
+      {"handle": "ProfBrianCox", "inPool": true, "why": "fellow UK physicist-broadcaster, frequent exchanges"},
+      {"handle": "FryRsquared", "inPool": true, "why": "UK science presenting circuit peer"},
+      {"handle": "AdamRutherford", "inPool": false, "why": "fellow BBC science broadcaster and friend"},
+      {"handle": "BBCRadio4", "inPool": false, "why": "hosts The Life Scientific on the network"},
+      {"handle": "theAliceRoberts", "inPool": false, "why": "fellow UK science presenter, mutual support"}
+    ]
+  },
+  {
+    "handle": "stevenstrogatz",
+    "circle": [
+      {"handle": "3blue1brown", "inPool": true, "why": "mutual admiration, podcast appearances together"},
+      {"handle": "QuantaMagazine", "inPool": true, "why": "hosts Quanta's Joy of Why podcast"},
+      {"handle": "standupmaths", "inPool": false, "why": "math communication community exchanges"},
+      {"handle": "seanmcarroll", "inPool": true, "why": "appeared on Mindscape podcast, mutual engagement"},
+      {"handle": "FryRsquared", "inPool": true, "why": "fellow math communicator, mutual amplification"}
+    ]
+  },
+  {
+    "handle": "3blue1brown",
+    "circle": [
+      {"handle": "stevenstrogatz", "inPool": true, "why": "podcast guest and frequent mutual citation"},
+      {"handle": "standupmaths", "inPool": false, "why": "friendly collaborations in math YouTube"},
+      {"handle": "numberphile", "inPool": false, "why": "appeared on the channel multiple times"},
+      {"handle": "veritasium", "inPool": true, "why": "science YouTube community collaborator"},
+      {"handle": "minutephysics", "inPool": false, "why": "collaborated on physics explainer videos"}
+    ]
+  },
+  {
+    "handle": "veritasium",
+    "circle": [
+      {"handle": "smartereveryday", "inPool": true, "why": "longtime collaborator and close friend"},
+      {"handle": "3blue1brown", "inPool": true, "why": "collaborated on math/physics videos"},
+      {"handle": "thephysicsgirl", "inPool": true, "why": "mentored her early channel, frequent collabs"},
+      {"handle": "ElectroBOOMGuy", "inPool": false, "why": "famous public video debates on electricity"},
+      {"handle": "neiltyson", "inPool": true, "why": "StarTalk appearances and exchanges"}
+    ]
+  },
+  {
+    "handle": "thephysicsgirl",
+    "circle": [
+      {"handle": "veritasium", "inPool": true, "why": "early mentor and frequent collaborator"},
+      {"handle": "smartereveryday", "inPool": true, "why": "science YouTube friend, public support during her illness"},
+      {"handle": "hankgreen", "inPool": true, "why": "online educator community, vocal supporter"},
+      {"handle": "MarkRober", "inPool": false, "why": "science creator community friend"},
+      {"handle": "minutephysics", "inPool": false, "why": "physics YouTube collaborator"}
+    ]
+  }
+]

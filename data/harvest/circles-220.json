@@ -1,0 +1,315 @@
+[
+  {
+    "handle": "JoyceWhiteVance",
+    "circle": [
+      { "handle": "BarbMcQuade", "inPool": false, "why": "co-host of the #SistersInLaw podcast" },
+      { "handle": "JillWineBanks", "inPool": false, "why": "co-host of the #SistersInLaw podcast" },
+      { "handle": "PreetBharara", "inPool": true, "why": "co-hosts the CAFE Insider podcast with Preet" },
+      { "handle": "AWeissmann_", "inPool": true, "why": "fellow MSNBC legal analyst and ex-DOJ colleague" },
+      { "handle": "neal_katyal", "inPool": true, "why": "legal-Twitter circle; frequent mutual amplification" },
+      { "handle": "maddow", "inPool": true, "why": "regular legal-analysis guest on Maddow's MSNBC show" }
+    ]
+  },
+  {
+    "handle": "tribelaw",
+    "circle": [
+      { "handle": "gtconway3d", "inPool": false, "why": "frequent anti-Trump legal-commentary ally and co-signer" },
+      { "handle": "neal_katyal", "inPool": true, "why": "former Harvard student turned colleague; frequent mutual praise" },
+      { "handle": "JoyceWhiteVance", "inPool": true, "why": "legal-Twitter circle; mutual retweets on court rulings" },
+      { "handle": "glennkirschner2", "inPool": true, "why": "fellow legal commentator; frequent cross-replies" },
+      { "handle": "AWeissmann_", "inPool": true, "why": "fellow legal analyst; amplifies his case breakdowns" }
+    ]
+  },
+  {
+    "handle": "neal_katyal",
+    "circle": [
+      { "handle": "PreetBharara", "inPool": true, "why": "close friend; recurring guest on Stay Tuned" },
+      { "handle": "tribelaw", "inPool": true, "why": "his Harvard mentor; constant mutual engagement" },
+      { "handle": "JoyceWhiteVance", "inPool": true, "why": "MSNBC legal-analyst circle" },
+      { "handle": "AWeissmann_", "inPool": true, "why": "fellow MSNBC legal analyst" },
+      { "handle": "maddow", "inPool": true, "why": "frequent legal guest on her show" }
+    ]
+  },
+  {
+    "handle": "PreetBharara",
+    "circle": [
+      { "handle": "JoyceWhiteVance", "inPool": true, "why": "CAFE Insider co-host" },
+      { "handle": "neal_katyal", "inPool": true, "why": "close friend and frequent podcast guest" },
+      { "handle": "AWeissmann_", "inPool": true, "why": "fellow SDNY/DOJ alum and podcast guest" },
+      { "handle": "Comey", "inPool": false, "why": "former DOJ colleague; both fired by Trump and interact publicly" },
+      { "handle": "tribelaw", "inPool": true, "why": "legal-commentary circle; mutual amplification" }
+    ]
+  },
+  {
+    "handle": "glennkirschner2",
+    "circle": [
+      { "handle": "AWeissmann_", "inPool": true, "why": "fellow former federal prosecutor turned commentator" },
+      { "handle": "JoyceWhiteVance", "inPool": true, "why": "legal-analyst circle; frequent mutual RTs" },
+      { "handle": "meidastouch", "inPool": true, "why": "collaborates with the MeidasTouch network" },
+      { "handle": "briantylercohen", "inPool": true, "why": "recurring legal-breakdown interviews on Cohen's channel" },
+      { "handle": "tribelaw", "inPool": true, "why": "mutual amplification on accountability cases" }
+    ]
+  },
+  {
+    "handle": "ElieNYC",
+    "circle": [
+      { "handle": "thenation", "inPool": true, "why": "justice correspondent for The Nation" },
+      { "handle": "joyannreid", "inPool": true, "why": "frequent panelist on Reid's MSNBC shows" },
+      { "handle": "mehdirhasan", "inPool": true, "why": "frequent guest on Hasan's shows; friendly mutuals" },
+      { "handle": "wajahatali", "inPool": true, "why": "friend and frequent reply-thread partner" },
+      { "handle": "chrislhayes", "inPool": true, "why": "recurring MSNBC guest with Hayes" }
+    ]
+  },
+  {
+    "handle": "AWeissmann_",
+    "circle": [
+      { "handle": "MaryBMcCord", "inPool": false, "why": "co-host of MSNBC's Main Justice podcast" },
+      { "handle": "maddow", "inPool": true, "why": "MSNBC colleague; frequent on-air legal analyst for her" },
+      { "handle": "JoyceWhiteVance", "inPool": true, "why": "ex-DOJ legal-analyst circle" },
+      { "handle": "neal_katyal", "inPool": true, "why": "fellow MSNBC legal analyst" },
+      { "handle": "chrislhayes", "inPool": true, "why": "recurring guest on All In" }
+    ]
+  },
+  {
+    "handle": "mattyglesias",
+    "circle": [
+      { "handle": "ezraklein", "inPool": true, "why": "co-founded Vox together; longtime collaborator" },
+      { "handle": "noahpinion", "inPool": true, "why": "fellow centrist-wonk Substacker; constant mutual engagement" },
+      { "handle": "willstancil", "inPool": true, "why": "recurring sparring partner on wonk Twitter" },
+      { "handle": "jbarro", "inPool": false, "why": "friend and fellow centrist pundit; podcast crossovers" },
+      { "handle": "DKThomp", "inPool": false, "why": "Derek Thompson; abundance-agenda fellow traveler" },
+      { "handle": "oren_cass", "inPool": true, "why": "frequent trade and industrial-policy debate opponent" }
+    ]
+  },
+  {
+    "handle": "davidaxelrod",
+    "circle": [
+      { "handle": "murphymike", "inPool": false, "why": "Hacks on Tap podcast co-host Mike Murphy" },
+      { "handle": "jheil", "inPool": false, "why": "Hacks on Tap co-host John Heilemann" },
+      { "handle": "KarlRove", "inPool": true, "why": "longtime cross-aisle debate and event partner" },
+      { "handle": "jonfavs", "inPool": false, "why": "fellow Obama alum; Obama-world circle" },
+      { "handle": "davidplouffe", "inPool": false, "why": "co-architect of the Obama campaigns" },
+      { "handle": "jaketapper", "inPool": true, "why": "longtime CNN colleague" }
+    ]
+  },
+  {
+    "handle": "donnabrazile",
+    "circle": [
+      { "handle": "ananavarro", "inPool": true, "why": "close friend; co-authored For Colored Girls Who Have Considered Politics" },
+      { "handle": "VanJones68", "inPool": true, "why": "fellow Democratic commentator; frequent mutual support" },
+      { "handle": "Bakari_Sellers", "inPool": true, "why": "Democratic punditry circle" },
+      { "handle": "SymoneDSanders", "inPool": false, "why": "fellow Democratic strategist with DNC ties" },
+      { "handle": "abcpolitics", "inPool": true, "why": "ABC News contributor" }
+    ]
+  },
+  {
+    "handle": "VanJones68",
+    "circle": [
+      { "handle": "andersoncooper", "inPool": true, "why": "CNN colleague; frequent panel appearances" },
+      { "handle": "Bakari_Sellers", "inPool": true, "why": "fellow CNN Democratic commentator" },
+      { "handle": "killermike", "inPool": true, "why": "criminal-justice reform collaborator" },
+      { "handle": "jaketapper", "inPool": true, "why": "CNN colleague" },
+      { "handle": "ScottJenningsKY", "inPool": true, "why": "regular CNN panel sparring partner" }
+    ]
+  },
+  {
+    "handle": "Bakari_Sellers",
+    "circle": [
+      { "handle": "ScottJenningsKY", "inPool": true, "why": "signature CNN left-right debate counterpart" },
+      { "handle": "VanJones68", "inPool": true, "why": "fellow CNN Democratic commentator" },
+      { "handle": "ananavarro", "inPool": true, "why": "CNN panel colleague" },
+      { "handle": "abbydphillip", "inPool": true, "why": "regular on CNN NewsNight roundtable" },
+      { "handle": "donnabrazile", "inPool": true, "why": "South Carolina Democratic politics circle" }
+    ]
+  },
+  {
+    "handle": "briantylercohen",
+    "circle": [
+      { "handle": "glennkirschner2", "inPool": true, "why": "weekly legal-breakdown segments together" },
+      { "handle": "meidastouch", "inPool": true, "why": "allied pro-Democratic digital media network" },
+      { "handle": "harryjsisson", "inPool": true, "why": "fellow young Democratic digital creator; mutual boosts" },
+      { "handle": "petebuttigieg", "inPool": true, "why": "repeat long-form interview guest" },
+      { "handle": "gavinnewsom", "inPool": true, "why": "repeat interview guest on his channel" }
+    ]
+  },
+  {
+    "handle": "harryjsisson",
+    "circle": [
+      { "handle": "briantylercohen", "inPool": true, "why": "fellow Dem digital creator; frequent mutual amplification" },
+      { "handle": "davidhogg111", "inPool": true, "why": "Gen-Z Democratic organizing circle" },
+      { "handle": "0liviajulianna", "inPool": false, "why": "fellow Gen-Z Democratic influencer; frequent mutuals" },
+      { "handle": "meidastouch", "inPool": true, "why": "allied pro-Dem network that amplifies his posts" },
+      { "handle": "CalltoActivism", "inPool": false, "why": "allied Democratic activist account; mutual RTs" }
+    ]
+  },
+  {
+    "handle": "shannonrwatts",
+    "circle": [
+      { "handle": "fred_guttenberg", "inPool": true, "why": "fellow gun-safety advocate; constant mutual support" },
+      { "handle": "davidhogg111", "inPool": true, "why": "March for Our Lives ally in the gun-safety movement" },
+      { "handle": "MomsDemand", "inPool": false, "why": "the organization she founded" },
+      { "handle": "Everytown", "inPool": false, "why": "umbrella organization of Moms Demand Action" },
+      { "handle": "dloesch", "inPool": true, "why": "longtime NRA-era public sparring opponent" }
+    ]
+  },
+  {
+    "handle": "fred_guttenberg",
+    "circle": [
+      { "handle": "shannonrwatts", "inPool": true, "why": "gun-safety movement ally" },
+      { "handle": "davidhogg111", "inPool": true, "why": "Parkland-linked gun-safety advocacy circle" },
+      { "handle": "maxwellfrostfl", "inPool": true, "why": "gun-safety ally in Congress; mutual support" },
+      { "handle": "Everytown", "inPool": false, "why": "advocacy organization he works with" },
+      { "handle": "briantylercohen", "inPool": true, "why": "recurring interview appearances" }
+    ]
+  },
+  {
+    "handle": "JonathanTurley",
+    "circle": [
+      { "handle": "foxnews", "inPool": true, "why": "Fox News legal contributor" },
+      { "handle": "seanhannity", "inPool": true, "why": "frequent Hannity legal guest" },
+      { "handle": "AlanDersh", "inPool": false, "why": "fellow contrarian legal scholar; mutual defenses" },
+      { "handle": "mrddmia", "inPool": true, "why": "right-leaning legal commentary circle" },
+      { "handle": "thehill", "inPool": true, "why": "longtime opinion contributor to The Hill" }
+    ]
+  },
+  {
+    "handle": "mrddmia",
+    "circle": [
+      { "handle": "jackposobiec", "inPool": true, "why": "MAGA media ally; frequent mutual retweets" },
+      { "handle": "bennyjohnson", "inPool": true, "why": "recurring guest on Johnson's show" },
+      { "handle": "charliekirk11", "inPool": true, "why": "TPUSA-adjacent legal voice; frequent collaborator" },
+      { "handle": "JonathanTurley", "inPool": true, "why": "right-leaning legal commentary circle" },
+      { "handle": "seanhannity", "inPool": true, "why": "frequent guest on judicial-nominations fights" }
+    ]
+  },
+  {
+    "handle": "KurtSchlichter",
+    "circle": [
+      { "handle": "hughhewitt", "inPool": true, "why": "regular guest on Hewitt's Salem radio show" },
+      { "handle": "townhallcom", "inPool": true, "why": "senior columnist at Townhall" },
+      { "handle": "katiepavlich", "inPool": true, "why": "Townhall colleague" },
+      { "handle": "instapundit", "inPool": false, "why": "Glenn Reynolds; mutual links and retweets" },
+      { "handle": "jessekellydc", "inPool": true, "why": "fellow right-wing radio host; frequent banter" }
+    ]
+  },
+  {
+    "handle": "KarlRove",
+    "circle": [
+      { "handle": "foxnews", "inPool": true, "why": "longtime Fox News contributor" },
+      { "handle": "wsj", "inPool": true, "why": "weekly Wall Street Journal columnist" },
+      { "handle": "davidaxelrod", "inPool": true, "why": "recurring cross-party debate partner" },
+      { "handle": "hughhewitt", "inPool": true, "why": "frequent guest on Hewitt's radio show" },
+      { "handle": "brithume", "inPool": false, "why": "longtime Fox News colleague" }
+    ]
+  },
+  {
+    "handle": "KellyannePolls",
+    "circle": [
+      { "handle": "foxnews", "inPool": true, "why": "Fox News contributor" },
+      { "handle": "mschlapp", "inPool": true, "why": "longtime friend; Trump White House and CPAC circle with the Schlapps" },
+      { "handle": "realdonaldtrump", "inPool": true, "why": "his 2016 campaign manager and White House counselor" },
+      { "handle": "charliekirk11", "inPool": true, "why": "MAGA media circuit; frequent co-appearances" },
+      { "handle": "DonaldJTrumpJr", "inPool": true, "why": "Trump-world inner circle" }
+    ]
+  },
+  {
+    "handle": "RogerJStoneJr",
+    "circle": [
+      { "handle": "RealAlexJones", "inPool": false, "why": "longtime InfoWars collaborator" },
+      { "handle": "GenFlynn", "inPool": false, "why": "fellow pardoned Trump ally; frequent co-appearances" },
+      { "handle": "jackposobiec", "inPool": true, "why": "MAGA media circle; mutual amplification" },
+      { "handle": "realdonaldtrump", "inPool": true, "why": "decades-long political advisor to Trump" },
+      { "handle": "DonaldJTrumpJr", "inPool": true, "why": "Trump-world circle" }
+    ]
+  },
+  {
+    "handle": "ScottJenningsKY",
+    "circle": [
+      { "handle": "Bakari_Sellers", "inPool": true, "why": "regular CNN debate counterpart" },
+      { "handle": "abbydphillip", "inPool": true, "why": "nightly CNN NewsNight roundtable host" },
+      { "handle": "VanJones68", "inPool": true, "why": "CNN panel sparring partner" },
+      { "handle": "ananavarro", "inPool": true, "why": "frequent on-air clashes on CNN panels" },
+      { "handle": "jaketapper", "inPool": true, "why": "CNN colleague" }
+    ]
+  },
+  {
+    "handle": "ChristinaPushaw",
+    "circle": [
+      { "handle": "govrondesantis", "inPool": true, "why": "served as DeSantis's press secretary and rapid-response director" },
+      { "handle": "rondesantis", "inPool": true, "why": "campaign rapid-response director for DeSantis" },
+      { "handle": "libsoftiktok", "inPool": true, "why": "publicly defended and frequently amplifies Raichik" },
+      { "handle": "realchrisrufo", "inPool": true, "why": "Florida culture-war policy ally" },
+      { "handle": "jackposobiec", "inPool": true, "why": "right-wing media circle; mutual RTs" }
+    ]
+  },
+  {
+    "handle": "ACTBrigitte",
+    "circle": [
+      { "handle": "realdonaldtrump", "inPool": true, "why": "constant amplifier of Trump posts" },
+      { "handle": "charliekirk11", "inPool": true, "why": "MAGA influencer circle; mutual retweets" },
+      { "handle": "RyanAFournier", "inPool": true, "why": "fellow MAGA influencer; frequent mutuals" },
+      { "handle": "bennyjohnson", "inPool": true, "why": "right-wing engagement-circle mutuals" },
+      { "handle": "catturd2", "inPool": true, "why": "MAGA Twitter mutual amplification" }
+    ]
+  },
+  {
+    "handle": "Riley_Gaines_",
+    "circle": [
+      { "handle": "claytravis", "inPool": true, "why": "OutKick founder; her employer and frequent booster" },
+      { "handle": "outkick", "inPool": true, "why": "hosts Gaines for Girls on OutKick" },
+      { "handle": "charliekirk11", "inPool": true, "why": "TPUSA campus tour collaborator" },
+      { "handle": "libsoftiktok", "inPool": true, "why": "mutual amplification on women's-sports stories" },
+      { "handle": "tomilahren", "inPool": true, "why": "OutKick/right-media colleague" }
+    ]
+  },
+  {
+    "handle": "RyanAFournier",
+    "circle": [
+      { "handle": "charliekirk11", "inPool": true, "why": "fellow young-conservative org founder; longtime mutuals" },
+      { "handle": "ACTBrigitte", "inPool": true, "why": "MAGA influencer circle; frequent mutual RTs" },
+      { "handle": "bennyjohnson", "inPool": true, "why": "right-wing digital media circle" },
+      { "handle": "DonaldJTrumpJr", "inPool": true, "why": "Students for Trump ties to Trump family" },
+      { "handle": "jackposobiec", "inPool": true, "why": "MAGA media mutual amplification" }
+    ]
+  },
+  {
+    "handle": "mschlapp",
+    "circle": [
+      { "handle": "KellyannePolls", "inPool": true, "why": "longtime friends in Trump-world consulting circles" },
+      { "handle": "realdonaldtrump", "inPool": true, "why": "CPAC's headline speaker every year" },
+      { "handle": "seanhannity", "inPool": true, "why": "frequent Fox guest; conservative media circle" },
+      { "handle": "CPAC", "inPool": false, "why": "chairs the American Conservative Union / CPAC" },
+      { "handle": "charliekirk11", "inPool": true, "why": "conservative conference circuit; CPAC regular" }
+    ]
+  },
+  {
+    "handle": "oren_cass",
+    "circle": [
+      { "handle": "jdvance", "inPool": true, "why": "intellectual ally; Vance champions his industrial policy" },
+      { "handle": "marcorubio", "inPool": true, "why": "advised Rubio's common-good capitalism agenda" },
+      { "handle": "mattyglesias", "inPool": true, "why": "frequent wonk-Twitter debate opponent on trade" },
+      { "handle": "noahpinion", "inPool": true, "why": "recurring economics-policy sparring partner" },
+      { "handle": "SohrabAhmari", "inPool": false, "why": "fellow New Right policy intellectual" }
+    ]
+  },
+  {
+    "handle": "hughhewitt",
+    "circle": [
+      { "handle": "KurtSchlichter", "inPool": true, "why": "weekly guest on his Salem radio show" },
+      { "handle": "KarlRove", "inPool": true, "why": "frequent radio guest" },
+      { "handle": "townhallcom", "inPool": true, "why": "Salem Media network colleague outlet" },
+      { "handle": "marcorubio", "inPool": true, "why": "frequent interview guest over many cycles" },
+      { "handle": "EWErickson", "inPool": true, "why": "fellow Salem radio host" }
+    ]
+  },
+  {
+    "handle": "EWErickson",
+    "circle": [
+      { "handle": "hughhewitt", "inPool": true, "why": "fellow Salem radio host" },
+      { "handle": "redsteeze", "inPool": true, "why": "longtime conservative-Twitter banter partner" },
+      { "handle": "benshapiro", "inPool": true, "why": "conservative media circle; mutual appearances" },
+      { "handle": "DavidAFrench", "inPool": false, "why": "fellow Christian-conservative writer; longtime friendly debates" },
+      { "handle": "townhallcom", "inPool": true, "why": "RedState founder; Salem/Townhall network ties" }
+    ]
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "handle": "nfergus",
+    "name": "Niall Ferguson",
+    "followers": 900000,
+    "tags": [
+      "books",
+      "politics-right",
+      "media"
+    ]
+  },
+  {
+    "handle": "wmarybeard",
+    "name": "Mary Beard",
+    "followers": 300000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "holland_tom",
+    "name": "Tom Holland",
+    "followers": 500000,
+    "tags": [
+      "books",
+      "media"
+    ]
+  },
+  {
+    "handle": "dcsandbrook",
+    "name": "Dominic Sandbrook",
+    "followers": 200000,
+    "tags": [
+      "books",
+      "media"
+    ]
+  },
+  {
+    "handle": "thehistoryguy",
+    "name": "Dan Snow",
+    "followers": 330000,
+    "tags": [
+      "books",
+      "media"
+    ]
+  },
+  {
+    "handle": "KevinMKruse",
+    "name": "Kevin M. Kruse",
+    "followers": 550000,
+    "tags": [
+      "books",
+      "politics-left"
+    ]
+  },
+  {
+    "handle": "BeschlossDC",
+    "name": "Michael Beschloss",
+    "followers": 2400000,
+    "tags": [
+      "books",
+      "politics-left",
+      "media"
+    ]
+  },
+  {
+    "handle": "TimothyDSnyder",
+    "name": "Timothy Snyder",
+    "followers": 580000,
+    "tags": [
+      "books",
+      "politics-left"
+    ]
+  },
+  {
+    "handle": "simon_schama",
+    "name": "Simon Schama",
+    "followers": 250000,
+    "tags": [
+      "books",
+      "media"
+    ]
+  },
+  {
+    "handle": "jbf1755",
+    "name": "Joanne Freeman",
+    "followers": 180000,
+    "tags": [
+      "books",
+      "politics-left"
+    ]
+  },
+  {
+    "handle": "ruthbenghiat",
+    "name": "Ruth Ben-Ghiat",
+    "followers": 400000,
+    "tags": [
+      "books",
+      "politics-left"
+    ]
+  },
+  {
+    "handle": "mikeduncan",
+    "name": "Mike Duncan",
+    "followers": 180000,
+    "tags": [
+      "books",
+      "media",
+      "humor"
+    ]
+  },
+  {
+    "handle": "PeterSinger",
+    "name": "Peter Singer",
+    "followers": 450000,
+    "tags": [
+      "books",
+      "wholesome"
+    ]
+  },
+  {
+    "handle": "AgnesCallard",
+    "name": "Agnes Callard",
+    "followers": 120000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "kate_manne",
+    "name": "Kate Manne",
+    "followers": 130000,
+    "tags": [
+      "books",
+      "politics-left"
+    ]
+  },
+  {
+    "handle": "SamHarrisOrg",
+    "name": "Sam Harris",
+    "followers": 1500000,
+    "tags": [
+      "books",
+      "media"
+    ]
+  },
+  {
+    "handle": "nntaleb",
+    "name": "Nassim Nicholas Taleb",
+    "followers": 1000000,
+    "tags": [
+      "books",
+      "finance"
+    ]
+  },
+  {
+    "handle": "sapinker",
+    "name": "Steven Pinker",
+    "followers": 800000,
+    "tags": [
+      "books",
+      "science"
+    ]
+  },
+  {
+    "handle": "JonHaidt",
+    "name": "Jonathan Haidt",
+    "followers": 400000,
+    "tags": [
+      "books",
+      "science"
+    ]
+  },
+  {
+    "handle": "LHSummers",
+    "name": "Lawrence H. Summers",
+    "followers": 1000000,
+    "tags": [
+      "finance"
+    ]
+  },
+  {
+    "handle": "JustinWolfers",
+    "name": "Justin Wolfers",
+    "followers": 400000,
+    "tags": [
+      "finance",
+      "humor"
+    ]
+  },
+  {
+    "handle": "tylercowen",
+    "name": "Tyler Cowen",
+    "followers": 350000,
+    "tags": [
+      "finance",
+      "books"
+    ]
+  },
+  {
+    "handle": "rodrikdani",
+    "name": "Dani Rodrik",
+    "followers": 400000,
+    "tags": [
+      "finance",
+      "books"
+    ]
+  },
+  {
+    "handle": "jasonfurman",
+    "name": "Jason Furman",
+    "followers": 200000,
+    "tags": [
+      "finance",
+      "politics-left"
+    ]
+  },
+  {
+    "handle": "Austan_Goolsbee",
+    "name": "Austan Goolsbee",
+    "followers": 160000,
+    "tags": [
+      "finance",
+      "humor"
+    ]
+  },
+  {
+    "handle": "JosephEStiglitz",
+    "name": "Joseph E. Stiglitz",
+    "followers": 300000,
+    "tags": [
+      "finance",
+      "books",
+      "politics-left"
+    ]
+  },
+  {
+    "handle": "PikettyLeMonde",
+    "name": "Thomas Piketty",
+    "followers": 400000,
+    "tags": [
+      "finance",
+      "books",
+      "politics-left"
+    ]
+  },
+  {
+    "handle": "erikbryn",
+    "name": "Erik Brynjolfsson",
+    "followers": 130000,
+    "tags": [
+      "tech",
+      "ai",
+      "finance"
+    ]
+  },
+  {
+    "handle": "StephanieKelton",
+    "name": "Stephanie Kelton",
+    "followers": 180000,
+    "tags": [
+      "finance",
+      "politics-left"
+    ]
+  },
+  {
+    "handle": "delong",
+    "name": "Brad DeLong",
+    "followers": 150000,
+    "tags": [
+      "finance",
+      "books"
+    ]
+  },
+  {
+    "handle": "harari_yuval",
+    "name": "Yuval Noah Harari",
+    "followers": 800000,
+    "tags": [
+      "books",
+      "science"
+    ]
+  },
+  {
+    "handle": "FukuyamaFrancis",
+    "name": "Francis Fukuyama",
+    "followers": 200000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "CassSunstein",
+    "name": "Cass Sunstein",
+    "followers": 250000,
+    "tags": [
+      "books",
+      "politics-left"
+    ]
+  }
+]

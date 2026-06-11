@@ -1,0 +1,952 @@
+[
+ {
+  "handle": "DollyParton",
+  "circle": [
+   {
+    "handle": "MileyCyrus",
+    "inPool": true,
+    "why": "goddaughter and frequent duet partner"
+   },
+   {
+    "handle": "reba",
+    "inPool": true,
+    "why": "longtime country peer and friend"
+   },
+   {
+    "handle": "KaceyMusgraves",
+    "inPool": false,
+    "why": "duet partner and mutual admiration"
+   },
+   {
+    "handle": "garthbrooks",
+    "inPool": false,
+    "why": "country royalty, co-presented awards"
+   },
+   {
+    "handle": "LilNasX",
+    "inPool": true,
+    "why": "publicly praised his Jolene cover"
+   },
+   {
+    "handle": "carrieunderwood",
+    "inPool": true,
+    "why": "awards-show duets and tributes"
+   }
+  ]
+ },
+ {
+  "handle": "blakeshelton",
+  "circle": [
+   {
+    "handle": "gwenstefani",
+    "inPool": false,
+    "why": "wife, met on The Voice"
+   },
+   {
+    "handle": "adamlevine",
+    "inPool": false,
+    "why": "long-running Voice frenemy banter"
+   },
+   {
+    "handle": "kellyclarkson",
+    "inPool": false,
+    "why": "fellow Voice coach and friend"
+   },
+   {
+    "handle": "CarsonDaly",
+    "inPool": false,
+    "why": "Voice host and close friend"
+   },
+   {
+    "handle": "NBCTheVoice",
+    "inPool": false,
+    "why": "his longtime show account"
+   },
+   {
+    "handle": "LukeBryanOnline",
+    "inPool": true,
+    "why": "country peer banter"
+   }
+  ]
+ },
+ {
+  "handle": "LukeBryanOnline",
+  "circle": [
+   {
+    "handle": "katyperry",
+    "inPool": true,
+    "why": "fellow American Idol judge"
+   },
+   {
+    "handle": "LionelRichie",
+    "inPool": false,
+    "why": "fellow American Idol judge"
+   },
+   {
+    "handle": "RyanSeacrest",
+    "inPool": false,
+    "why": "American Idol host"
+   },
+   {
+    "handle": "Jason_Aldean",
+    "inPool": true,
+    "why": "longtime friend and collaborator"
+   },
+   {
+    "handle": "DierksBentley",
+    "inPool": false,
+    "why": "country tour peer"
+   },
+   {
+    "handle": "blakeshelton",
+    "inPool": true,
+    "why": "country star banter"
+   }
+  ]
+ },
+ {
+  "handle": "carrieunderwood",
+  "circle": [
+   {
+    "handle": "BradPaisley",
+    "inPool": false,
+    "why": "longtime CMA Awards co-host"
+   },
+   {
+    "handle": "mfisher1212",
+    "inPool": false,
+    "why": "husband, ex-NHL player"
+   },
+   {
+    "handle": "CountryMusic",
+    "inPool": false,
+    "why": "CMA awards mainstay"
+   },
+   {
+    "handle": "SNFonNBC",
+    "inPool": false,
+    "why": "sang the Sunday Night Football theme for years"
+   },
+   {
+    "handle": "AmericanIdol",
+    "inPool": false,
+    "why": "the show that launched her"
+   },
+   {
+    "handle": "reba",
+    "inPool": true,
+    "why": "mentor figure and duet partner"
+   }
+  ]
+ },
+ {
+  "handle": "TimMcGraw",
+  "circle": [
+   {
+    "handle": "FaithHill",
+    "inPool": false,
+    "why": "wife and duet partner"
+   },
+   {
+    "handle": "taylorswift13",
+    "inPool": true,
+    "why": "her debut single bears his name; joint performances"
+   },
+   {
+    "handle": "kennychesney",
+    "inPool": false,
+    "why": "longtime friend and tourmate"
+   },
+   {
+    "handle": "KeithUrban",
+    "inPool": true,
+    "why": "country peer and friend"
+   },
+   {
+    "handle": "CountryMusic",
+    "inPool": false,
+    "why": "CMA fixture"
+   }
+  ]
+ },
+ {
+  "handle": "KeithUrban",
+  "circle": [
+   {
+    "handle": "carrieunderwood",
+    "inPool": true,
+    "why": "duet partner on The Fighter"
+   },
+   {
+    "handle": "Pink",
+    "inPool": false,
+    "why": "duet partner on One Too Many"
+   },
+   {
+    "handle": "AmericanIdol",
+    "inPool": false,
+    "why": "former judge"
+   },
+   {
+    "handle": "TimMcGraw",
+    "inPool": true,
+    "why": "country peer and friend"
+   },
+   {
+    "handle": "CountryMusic",
+    "inPool": false,
+    "why": "CMA fixture"
+   }
+  ]
+ },
+ {
+  "handle": "mirandalambert",
+  "circle": [
+   {
+    "handle": "carrieunderwood",
+    "inPool": true,
+    "why": "Somethin' Bad duet partner"
+   },
+   {
+    "handle": "MuttNation",
+    "inPool": false,
+    "why": "her own animal rescue foundation"
+   },
+   {
+    "handle": "littlebigtown",
+    "inPool": false,
+    "why": "frequent tourmates and collaborators"
+   },
+   {
+    "handle": "KeithUrban",
+    "inPool": true,
+    "why": "tourmate"
+   },
+   {
+    "handle": "CountryMusic",
+    "inPool": false,
+    "why": "CMA awards regular"
+   }
+  ]
+ },
+ {
+  "handle": "Jason_Aldean",
+  "circle": [
+   {
+    "handle": "BrittanyAldean",
+    "inPool": false,
+    "why": "wife, frequent mutual posts"
+   },
+   {
+    "handle": "LukeBryanOnline",
+    "inPool": true,
+    "why": "longtime friend and collaborator"
+   },
+   {
+    "handle": "MorganWallen",
+    "inPool": false,
+    "why": "tourmate and collaborator"
+   },
+   {
+    "handle": "KidRock",
+    "inPool": false,
+    "why": "friend and political ally"
+   },
+   {
+    "handle": "CountryMusic",
+    "inPool": false,
+    "why": "CMA awards regular"
+   }
+  ]
+ },
+ {
+  "handle": "LukeCombs",
+  "circle": [
+   {
+    "handle": "ericchurch",
+    "inPool": false,
+    "why": "idol turned collaborator on Does to Me"
+   },
+   {
+    "handle": "MorganWallen",
+    "inPool": false,
+    "why": "peer and early co-writer circle"
+   },
+   {
+    "handle": "Panthers",
+    "inPool": false,
+    "why": "diehard Carolina Panthers superfan"
+   },
+   {
+    "handle": "ChrisStapleton",
+    "inPool": true,
+    "why": "tourmate and admired peer"
+   },
+   {
+    "handle": "CountryMusic",
+    "inPool": false,
+    "why": "CMA entertainer of the year winner"
+   }
+  ]
+ },
+ {
+  "handle": "ChrisStapleton",
+  "circle": [
+   {
+    "handle": "jtimberlake",
+    "inPool": true,
+    "why": "famous 2015 CMA duet partner"
+   },
+   {
+    "handle": "GeorgeStrait",
+    "inPool": false,
+    "why": "2024 stadium tour co-headliner"
+   },
+   {
+    "handle": "DUALIPA",
+    "inPool": true,
+    "why": "ACM duet partner on Think I'm In Love With You"
+   },
+   {
+    "handle": "LukeCombs",
+    "inPool": true,
+    "why": "peer and tourmate"
+   },
+   {
+    "handle": "CountryMusic",
+    "inPool": false,
+    "why": "perennial CMA winner"
+   }
+  ]
+ },
+ {
+  "handle": "reba",
+  "circle": [
+   {
+    "handle": "dollyparton",
+    "inPool": true,
+    "why": "fellow country queen and friend"
+   },
+   {
+    "handle": "kellyclarkson",
+    "inPool": false,
+    "why": "Because of You duet partner, family ties"
+   },
+   {
+    "handle": "carrieunderwood",
+    "inPool": true,
+    "why": "mentee and duet partner"
+   },
+   {
+    "handle": "blakeshelton",
+    "inPool": true,
+    "why": "friend and Voice colleague"
+   },
+   {
+    "handle": "CountryMusic",
+    "inPool": false,
+    "why": "CMA icon"
+   }
+  ]
+ },
+ {
+  "handle": "sanbenito",
+  "circle": [
+   {
+    "handle": "JBALVIN",
+    "inPool": true,
+    "why": "Oasis joint-album collaborator"
+   },
+   {
+    "handle": "karolg",
+    "inPool": true,
+    "why": "reggaeton peer and collaborator"
+   },
+   {
+    "handle": "daddy_yankee",
+    "inPool": true,
+    "why": "early collaborator and PR mentor figure"
+   },
+   {
+    "handle": "WWE",
+    "inPool": true,
+    "why": "wrestled at WrestleMania, ongoing relationship"
+   },
+   {
+    "handle": "Residente",
+    "inPool": false,
+    "why": "fellow Puerto Rican artist and ally"
+   }
+  ]
+ },
+ {
+  "handle": "JBALVIN",
+  "circle": [
+   {
+    "handle": "sanbenito",
+    "inPool": true,
+    "why": "Oasis joint-album collaborator"
+   },
+   {
+    "handle": "karolg",
+    "inPool": true,
+    "why": "fellow Colombian reggaeton star"
+   },
+   {
+    "handle": "maluma",
+    "inPool": true,
+    "why": "Colombian peer with friendly rivalry"
+   },
+   {
+    "handle": "daddy_yankee",
+    "inPool": true,
+    "why": "genre elder and collaborator"
+   },
+   {
+    "handle": "Pharrell",
+    "inPool": false,
+    "why": "mentor and collaborator"
+   }
+  ]
+ },
+ {
+  "handle": "karolg",
+  "circle": [
+   {
+    "handle": "shakira",
+    "inPool": true,
+    "why": "TQG duet partner"
+   },
+   {
+    "handle": "iambeckyg",
+    "inPool": false,
+    "why": "MAMIII duet partner"
+   },
+   {
+    "handle": "JBALVIN",
+    "inPool": true,
+    "why": "fellow Colombian reggaeton star"
+   },
+   {
+    "handle": "sanbenito",
+    "inPool": true,
+    "why": "collaborator and peer"
+   },
+   {
+    "handle": "maluma",
+    "inPool": true,
+    "why": "fellow Medellin artist"
+   }
+  ]
+ },
+ {
+  "handle": "daddy_yankee",
+  "circle": [
+   {
+    "handle": "LuisFonsi",
+    "inPool": true,
+    "why": "Despacito collaborator"
+   },
+   {
+    "handle": "NickyJamPR",
+    "inPool": false,
+    "why": "longtime duo partner from Los Cangris era"
+   },
+   {
+    "handle": "sanbenito",
+    "inPool": true,
+    "why": "mentored the generation he inspired"
+   },
+   {
+    "handle": "MarcAnthony",
+    "inPool": true,
+    "why": "fellow Puerto Rican music icon"
+   },
+   {
+    "handle": "karolg",
+    "inPool": true,
+    "why": "collaborator on remixes"
+   }
+  ]
+ },
+ {
+  "handle": "LuisFonsi",
+  "circle": [
+   {
+    "handle": "daddy_yankee",
+    "inPool": true,
+    "why": "Despacito collaborator"
+   },
+   {
+    "handle": "justinbieber",
+    "inPool": true,
+    "why": "Despacito remix partner"
+   },
+   {
+    "handle": "enriqueiglesias",
+    "inPool": true,
+    "why": "Latin pop peer"
+   },
+   {
+    "handle": "SebastianYatra",
+    "inPool": false,
+    "why": "younger Latin pop collaborator"
+   },
+   {
+    "handle": "MarcAnthony",
+    "inPool": true,
+    "why": "Puerto Rican music peer"
+   }
+  ]
+ },
+ {
+  "handle": "enriqueiglesias",
+  "circle": [
+   {
+    "handle": "rickymartin",
+    "inPool": true,
+    "why": "Trilogy Tour co-headliner"
+   },
+   {
+    "handle": "pitbull",
+    "inPool": true,
+    "why": "frequent collaborator over a decade"
+   },
+   {
+    "handle": "LuisFonsi",
+    "inPool": true,
+    "why": "Latin pop peer"
+   },
+   {
+    "handle": "gentedezona",
+    "inPool": false,
+    "why": "Bailando collaborators"
+   },
+   {
+    "handle": "MarcAnthony",
+    "inPool": true,
+    "why": "Latin music elder statesman peer"
+   }
+  ]
+ },
+ {
+  "handle": "MarcAnthony",
+  "circle": [
+   {
+    "handle": "JLo",
+    "inPool": true,
+    "why": "ex-wife and co-parent"
+   },
+   {
+    "handle": "pitbull",
+    "inPool": true,
+    "why": "Rain Over Me collaborator"
+   },
+   {
+    "handle": "maluma",
+    "inPool": true,
+    "why": "collaborator and mentee"
+   },
+   {
+    "handle": "GloriaEstefan",
+    "inPool": true,
+    "why": "Miami Latin music royalty"
+   },
+   {
+    "handle": "rickymartin",
+    "inPool": true,
+    "why": "fellow Puerto Rican icon"
+   }
+  ]
+ },
+ {
+  "handle": "AlejandroSanz",
+  "circle": [
+   {
+    "handle": "shakira",
+    "inPool": true,
+    "why": "La Tortura duet partner"
+   },
+   {
+    "handle": "Camila_Cabello",
+    "inPool": false,
+    "why": "Mi Persona Favorita duet partner"
+   },
+   {
+    "handle": "JUANES",
+    "inPool": true,
+    "why": "Spanish-language rock-pop peer"
+   },
+   {
+    "handle": "aliciakeys",
+    "inPool": false,
+    "why": "Looking for Paradise collaborator"
+   },
+   {
+    "handle": "LuisFonsi",
+    "inPool": true,
+    "why": "Latin pop peer"
+   }
+  ]
+ },
+ {
+  "handle": "JUANES",
+  "circle": [
+   {
+    "handle": "shakira",
+    "inPool": true,
+    "why": "fellow Colombian superstar"
+   },
+   {
+    "handle": "JBALVIN",
+    "inPool": true,
+    "why": "Colombian cross-generation mutual respect"
+   },
+   {
+    "handle": "AlejandroSanz",
+    "inPool": true,
+    "why": "longtime peer and collaborator"
+   },
+   {
+    "handle": "SebastianYatra",
+    "inPool": false,
+    "why": "Bonita collaborator"
+   },
+   {
+    "handle": "karolg",
+    "inPool": true,
+    "why": "Colombian pride shoutouts"
+   }
+  ]
+ },
+ {
+  "handle": "GloriaEstefan",
+  "circle": [
+   {
+    "handle": "rickymartin",
+    "inPool": true,
+    "why": "fellow Miami Latin icon"
+   },
+   {
+    "handle": "MarcAnthony",
+    "inPool": true,
+    "why": "salsa and Latin pop royalty circle"
+   },
+   {
+    "handle": "pitbull",
+    "inPool": true,
+    "why": "Miami music family"
+   },
+   {
+    "handle": "EmilioEstefanJr",
+    "inPool": false,
+    "why": "husband and producer"
+   },
+   {
+    "handle": "JLo",
+    "inPool": true,
+    "why": "Latin entertainment peer"
+   }
+  ]
+ },
+ {
+  "handle": "Metallica",
+  "circle": [
+   {
+    "handle": "Megadeth",
+    "inPool": false,
+    "why": "Big Four thrash peers with shared history"
+   },
+   {
+    "handle": "Anthrax",
+    "inPool": false,
+    "why": "Big Four festival mates"
+   },
+   {
+    "handle": "Slayer",
+    "inPool": false,
+    "why": "Big Four festival mates"
+   },
+   {
+    "handle": "MileyCyrus",
+    "inPool": true,
+    "why": "Blacklist Nothing Else Matters collaborator"
+   },
+   {
+    "handle": "IronMaiden",
+    "inPool": true,
+    "why": "metal institution mutual respect"
+   }
+  ]
+ },
+ {
+  "handle": "IronMaiden",
+  "circle": [
+   {
+    "handle": "Metallica",
+    "inPool": true,
+    "why": "metal institution peers"
+   },
+   {
+    "handle": "judaspriest",
+    "inPool": false,
+    "why": "British metal touring peers"
+   },
+   {
+    "handle": "TheOfficialA7X",
+    "inPool": false,
+    "why": "tour opener turned peer"
+   },
+   {
+    "handle": "Megadeth",
+    "inPool": false,
+    "why": "frequent tour support act"
+   },
+   {
+    "handle": "Slayer",
+    "inPool": false,
+    "why": "festival circuit peers"
+   }
+  ]
+ },
+ {
+  "handle": "RollingStones",
+  "circle": [
+   {
+    "handle": "MickJagger",
+    "inPool": true,
+    "why": "frontman"
+   },
+   {
+    "handle": "officialKeef",
+    "inPool": false,
+    "why": "Keith Richards, founding guitarist"
+   },
+   {
+    "handle": "ronniewood",
+    "inPool": false,
+    "why": "guitarist"
+   },
+   {
+    "handle": "PaulMcCartney",
+    "inPool": true,
+    "why": "guested on Hackney Diamonds"
+   },
+   {
+    "handle": "ladygaga",
+    "inPool": true,
+    "why": "Sweet Sounds of Heaven collaborator"
+   }
+  ]
+ },
+ {
+  "handle": "MickJagger",
+  "circle": [
+   {
+    "handle": "RollingStones",
+    "inPool": true,
+    "why": "his band"
+   },
+   {
+    "handle": "officialKeef",
+    "inPool": false,
+    "why": "bandmate of six decades"
+   },
+   {
+    "handle": "ronniewood",
+    "inPool": false,
+    "why": "bandmate"
+   },
+   {
+    "handle": "foofighters",
+    "inPool": true,
+    "why": "Eazy Sleazy collaboration with Dave Grohl"
+   },
+   {
+    "handle": "eltonjohn",
+    "inPool": true,
+    "why": "fellow British rock royalty"
+   }
+  ]
+ },
+ {
+  "handle": "springsteen",
+  "circle": [
+   {
+    "handle": "BarackObama",
+    "inPool": true,
+    "why": "Renegades podcast co-host"
+   },
+   {
+    "handle": "StevieVanZandt",
+    "inPool": false,
+    "why": "E Street Band guitarist and lifelong friend"
+   },
+   {
+    "handle": "tmorello",
+    "inPool": false,
+    "why": "High Hopes collaborator and touring guest"
+   },
+   {
+    "handle": "billyjoel",
+    "inPool": false,
+    "why": "MSG stage-sharing peer"
+   },
+   {
+    "handle": "jacksonbrowne",
+    "inPool": false,
+    "why": "longtime activist-rock friend"
+   }
+  ]
+ },
+ {
+  "handle": "foofighters",
+  "circle": [
+   {
+    "handle": "MickJagger",
+    "inPool": true,
+    "why": "Eazy Sleazy collaboration"
+   },
+   {
+    "handle": "DrBrianMay",
+    "inPool": true,
+    "why": "performed at Taylor Hawkins tribute shows"
+   },
+   {
+    "handle": "GreenDay",
+    "inPool": true,
+    "why": "festival headliner peers"
+   },
+   {
+    "handle": "travisbarker",
+    "inPool": false,
+    "why": "played the Hawkins tribute concerts"
+   },
+   {
+    "handle": "Metallica",
+    "inPool": true,
+    "why": "festival circuit peers"
+   }
+  ]
+ },
+ {
+  "handle": "GreenDay",
+  "circle": [
+   {
+    "handle": "Weezer",
+    "inPool": false,
+    "why": "Hella Mega Tour co-headliners"
+   },
+   {
+    "handle": "falloutboy",
+    "inPool": false,
+    "why": "Hella Mega Tour co-headliners"
+   },
+   {
+    "handle": "blink182",
+    "inPool": false,
+    "why": "pop-punk peers for decades"
+   },
+   {
+    "handle": "U2",
+    "inPool": true,
+    "why": "The Saints Are Coming collaboration"
+   },
+   {
+    "handle": "foofighters",
+    "inPool": true,
+    "why": "festival headliner peers"
+   }
+  ]
+ },
+ {
+  "handle": "Slash",
+  "circle": [
+   {
+    "handle": "gunsnroses",
+    "inPool": false,
+    "why": "his band"
+   },
+   {
+    "handle": "DuffMcKagan",
+    "inPool": false,
+    "why": "GNR bandmate and friend"
+   },
+   {
+    "handle": "MylesKennedy",
+    "inPool": false,
+    "why": "frontman of his Conspirators project"
+   },
+   {
+    "handle": "axlrose",
+    "inPool": false,
+    "why": "reunited GNR bandmate"
+   },
+   {
+    "handle": "gibsonguitar",
+    "inPool": false,
+    "why": "signature guitar partnership"
+   }
+  ]
+ },
+ {
+  "handle": "genesimmons",
+  "circle": [
+   {
+    "handle": "PaulStanleyLive",
+    "inPool": false,
+    "why": "KISS co-founder of 50 years"
+   },
+   {
+    "handle": "KISSOnline",
+    "inPool": false,
+    "why": "his band"
+   },
+   {
+    "handle": "NikkiSixx",
+    "inPool": false,
+    "why": "rock elder peer banter"
+   },
+   {
+    "handle": "sammyhagar",
+    "inPool": false,
+    "why": "rock veteran circuit friend"
+   },
+   {
+    "handle": "WilliamShatner",
+    "inPool": false,
+    "why": "celebrity friend and mutual banter"
+   }
+  ]
+ },
+ {
+  "handle": "DrBrianMay",
+  "circle": [
+   {
+    "handle": "QueenWillRock",
+    "inPool": false,
+    "why": "his band"
+   },
+   {
+    "handle": "adamlambert",
+    "inPool": false,
+    "why": "Queen + Adam Lambert tour frontman"
+   },
+   {
+    "handle": "OfficialRMT",
+    "inPool": false,
+    "why": "Roger Taylor, Queen bandmate"
+   },
+   {
+    "handle": "NASA",
+    "inPool": true,
+    "why": "collaborated on New Horizons imaging as astrophysicist"
+   },
+   {
+    "handle": "foofighters",
+    "inPool": true,
+    "why": "performed at Taylor Hawkins tribute"
+   }
+  ]
+ }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "handle": "tomcolicchio",
+    "circle": [
+      { "handle": "padmalakshmi", "inPool": true, "why": "longtime Top Chef co-stars" },
+      { "handle": "gailsimmons", "inPool": true, "why": "fellow Top Chef judge for 20+ seasons" },
+      { "handle": "BravoTopChef", "inPool": true, "why": "head judge of the show" },
+      { "handle": "chefjoseandres", "inPool": true, "why": "allies on hunger policy and food advocacy" },
+      { "handle": "ericripert", "inPool": true, "why": "fellow NYC fine-dining chef peers" },
+      { "handle": "RichardBlais", "inPool": true, "why": "Top Chef alum he judged and banters with" }
+    ]
+  },
+  {
+    "handle": "ericripert",
+    "circle": [
+      { "handle": "bourdain", "inPool": true, "why": "best friend and Parts Unknown travel companion" },
+      { "handle": "tomcolicchio", "inPool": true, "why": "NYC chef peer and Top Chef guest judge" },
+      { "handle": "chefjoseandres", "inPool": true, "why": "close chef friend and charity collaborator" },
+      { "handle": "davidchang", "inPool": true, "why": "fellow NYC chef-media figure" },
+      { "handle": "danielboulud", "inPool": false, "why": "fellow French chef in NYC fine dining" },
+      { "handle": "WolfgangPuck", "inPool": true, "why": "elder-statesman chef circuit appearances" }
+    ]
+  },
+  {
+    "handle": "carlahall",
+    "circle": [
+      { "handle": "chefsymon", "inPool": true, "why": "co-hosted The Chew together for years" },
+      { "handle": "gzchef", "inPool": true, "why": "fellow Food Network personality and friend" },
+      { "handle": "padmalakshmi", "inPool": true, "why": "Top Chef alum turned friend" },
+      { "handle": "FoodNetwork", "inPool": true, "why": "network she hosts and judges for" },
+      { "handle": "MarcusCooks", "inPool": true, "why": "fellow chef championing Black foodways" }
+    ]
+  },
+  {
+    "handle": "MarcusCooks",
+    "circle": [
+      { "handle": "chefjoseandres", "inPool": true, "why": "World Central Kitchen and chef-advocacy ties" },
+      { "handle": "questlove", "inPool": true, "why": "NYC food-music crossover friends" },
+      { "handle": "padmalakshmi", "inPool": true, "why": "fellow food-TV host and friend" },
+      { "handle": "carlahall", "inPool": true, "why": "fellow chef on TV judging circuits" },
+      { "handle": "foodandwine", "inPool": true, "why": "frequent feature subject and contributor" }
+    ]
+  },
+  {
+    "handle": "Rick_Bayless",
+    "circle": [
+      { "handle": "chefjoseandres", "inPool": true, "why": "fellow chef-restaurateur and advocacy peer" },
+      { "handle": "tomcolicchio", "inPool": true, "why": "Top Chef Masters circuit peers" },
+      { "handle": "andrewzimmern", "inPool": true, "why": "fellow food-TV veteran and friend" },
+      { "handle": "kenjilopezalt", "inPool": true, "why": "mutual respect on recipe technique threads" },
+      { "handle": "foodandwine", "inPool": true, "why": "longtime magazine feature relationship" }
+    ]
+  },
+  {
+    "handle": "mattymatheson",
+    "circle": [
+      { "handle": "ActionBronson", "inPool": true, "why": "Viceland food-show era friends" },
+      { "handle": "firstwefeast", "inPool": true, "why": "Hot Ones guest and food-media circuit" },
+      { "handle": "davidchang", "inPool": true, "why": "fellow chef-media personality" },
+      { "handle": "MrEddieHuang", "inPool": true, "why": "Vice food alumni network" },
+      { "handle": "bonappetit", "inPool": true, "why": "food-media coverage and collabs" }
+    ]
+  },
+  {
+    "handle": "WolfgangPuck",
+    "circle": [
+      { "handle": "gordonramsay", "inPool": true, "why": "celebrity-chef elder statesmen banter" },
+      { "handle": "marthastewart", "inPool": true, "why": "decades of celebrity food-world friendship" },
+      { "handle": "Emeril", "inPool": true, "why": "fellow original celebrity-chef generation" },
+      { "handle": "theacademy", "inPool": true, "why": "longtime Oscars Governors Ball chef" },
+      { "handle": "ericripert", "inPool": true, "why": "fine-dining peer appearances" }
+    ]
+  },
+  {
+    "handle": "Emeril",
+    "circle": [
+      { "handle": "marthastewart", "inPool": true, "why": "Martha Stewart Omnimedia acquired his brand; longtime partner" },
+      { "handle": "FoodNetwork", "inPool": true, "why": "network that made him a star" },
+      { "handle": "Rachaelray", "inPool": true, "why": "fellow daytime food-TV icon" },
+      { "handle": "bflay", "inPool": true, "why": "original Food Network generation peers" },
+      { "handle": "guyfieri", "inPool": true, "why": "Food Network family appearances" }
+    ]
+  },
+  {
+    "handle": "rachaelray",
+    "circle": [
+      { "handle": "guyfieri", "inPool": true, "why": "Food Network peers and tournament co-stars" },
+      { "handle": "FoodNetwork", "inPool": true, "why": "her longtime network home" },
+      { "handle": "Emeril", "inPool": true, "why": "fellow food-TV pioneer and friend" },
+      { "handle": "oprah", "inPool": true, "why": "Oprah launched her daytime show" },
+      { "handle": "bflay", "inPool": true, "why": "longtime Food Network colleague" }
+    ]
+  },
+  {
+    "handle": "inagarten",
+    "circle": [
+      { "handle": "FoodNetwork", "inPool": true, "why": "Barefoot Contessa network home" },
+      { "handle": "marthastewart", "inPool": true, "why": "Hamptons food-lifestyle peers" },
+      { "handle": "bonappetit", "inPool": true, "why": "frequent feature and interview subject" },
+      { "handle": "nytfood", "inPool": true, "why": "cookbook coverage and interviews" },
+      { "handle": "hels", "inPool": true, "why": "Helen Rosner's New Yorker profiles of her" }
+    ]
+  },
+  {
+    "handle": "AdamRichman",
+    "circle": [
+      { "handle": "andrewzimmern", "inPool": true, "why": "fellow food-travel TV host" },
+      { "handle": "guyfieri", "inPool": true, "why": "food-TV circuit and event appearances" },
+      { "handle": "firstwefeast", "inPool": true, "why": "food-media guest appearances" },
+      { "handle": "SpursOfficial", "inPool": true, "why": "outspoken Tottenham Hotspur superfan" },
+      { "handle": "FoodNetwork", "inPool": true, "why": "hosting and guest-judge work" }
+    ]
+  },
+  {
+    "handle": "RichardBlais",
+    "circle": [
+      { "handle": "tomcolicchio", "inPool": true, "why": "Top Chef judge who crowned him All-Stars winner" },
+      { "handle": "BravoTopChef", "inPool": true, "why": "franchise alum and recurring judge" },
+      { "handle": "gailsimmons", "inPool": true, "why": "Top Chef judge and friend" },
+      { "handle": "padmalakshmi", "inPool": true, "why": "Top Chef host during his seasons" },
+      { "handle": "guyfieri", "inPool": true, "why": "Tournament of Champions competitor" }
+    ]
+  },
+  {
+    "handle": "chefsymon",
+    "circle": [
+      { "handle": "carlahall", "inPool": true, "why": "The Chew co-hosts and close friends" },
+      { "handle": "bflay", "inPool": true, "why": "Iron Chef colleagues" },
+      { "handle": "FoodNetwork", "inPool": true, "why": "longtime network personality" },
+      { "handle": "guarnaschelli", "inPool": true, "why": "fellow Food Network judge circuit" },
+      { "handle": "cavs", "inPool": true, "why": "diehard Cleveland sports superfan" }
+    ]
+  },
+  {
+    "handle": "DuffGoldman",
+    "circle": [
+      { "handle": "FoodNetwork", "inPool": true, "why": "Ace of Cakes and baking-show home" },
+      { "handle": "CakeBossBuddy", "inPool": false, "why": "Buddy vs. Duff baking rivalry series" },
+      { "handle": "guyfieri", "inPool": true, "why": "Food Network family appearances" },
+      { "handle": "altonbrown", "inPool": true, "why": "fellow Food Network science-of-cooking nerd" },
+      { "handle": "christinatosi", "inPool": true, "why": "fellow celebrity pastry world" }
+    ]
+  },
+  {
+    "handle": "TedAllen",
+    "circle": [
+      { "handle": "FoodNetwork", "inPool": true, "why": "longtime Chopped host" },
+      { "handle": "guarnaschelli", "inPool": true, "why": "Chopped judge on his show" },
+      { "handle": "chefsymon", "inPool": true, "why": "Chopped judge and FN colleague" },
+      { "handle": "gzchef", "inPool": true, "why": "Chopped judge on his show" },
+      { "handle": "antoni", "inPool": true, "why": "original Queer Eye food expert to successor" }
+    ]
+  },
+  {
+    "handle": "hels",
+    "circle": [
+      { "handle": "newyorker", "inPool": true, "why": "staff food correspondent" },
+      { "handle": "kenjilopezalt", "inPool": true, "why": "food-writer friends who trade threads" },
+      { "handle": "tejalrao", "inPool": true, "why": "fellow food critic peer" },
+      { "handle": "priyakrishna", "inPool": true, "why": "food-writing world friends" },
+      { "handle": "eater", "inPool": true, "why": "former Eater features editor" },
+      { "handle": "ciaosamin", "inPool": true, "why": "food-media mutuals" }
+    ]
+  },
+  {
+    "handle": "davidlebovitz",
+    "circle": [
+      { "handle": "doriegreenspan", "inPool": false, "why": "fellow Paris-based baking author and friend" },
+      { "handle": "smittenkitchen", "inPool": true, "why": "OG food-blogger generation friends" },
+      { "handle": "food52", "inPool": true, "why": "longtime contributor and partner" },
+      { "handle": "101cookbooks", "inPool": true, "why": "early food-blog peers" },
+      { "handle": "ottolenghi", "inPool": true, "why": "cookbook-author world mutuals" }
+    ]
+  },
+  {
+    "handle": "guarnaschelli",
+    "circle": [
+      { "handle": "FoodNetwork", "inPool": true, "why": "Iron Chef and Chopped mainstay" },
+      { "handle": "chefsymon", "inPool": true, "why": "fellow Iron Chef and frequent co-judge" },
+      { "handle": "TedAllen", "inPool": true, "why": "Chopped host she judges alongside" },
+      { "handle": "gzchef", "inPool": true, "why": "fellow Chopped judge and friend" },
+      { "handle": "bflay", "inPool": true, "why": "Beat Bobby Flay regular" }
+    ]
+  },
+  {
+    "handle": "gzchef",
+    "circle": [
+      { "handle": "FoodNetwork", "inPool": true, "why": "The Kitchen and Chopped personality" },
+      { "handle": "guarnaschelli", "inPool": true, "why": "fellow Chopped judge" },
+      { "handle": "TedAllen", "inPool": true, "why": "Chopped host colleague" },
+      { "handle": "bflay", "inPool": true, "why": "Iron Chef era colleagues" },
+      { "handle": "carlahall", "inPool": true, "why": "food-TV judging circuit friends" }
+    ]
+  },
+  {
+    "handle": "antoni",
+    "circle": [
+      { "handle": "netflix", "inPool": true, "why": "Queer Eye cast member" },
+      { "handle": "TedAllen", "inPool": true, "why": "original Queer Eye food expert he succeeded" },
+      { "handle": "bonappetit", "inPool": true, "why": "cookbook and food-media features" },
+      { "handle": "foodandwine", "inPool": true, "why": "recurring food-media coverage" },
+      { "handle": "padmalakshmi", "inPool": true, "why": "food-TV personality mutuals" }
+    ]
+  },
+  {
+    "handle": "gailsimmons",
+    "circle": [
+      { "handle": "tomcolicchio", "inPool": true, "why": "Top Chef judging table for 20+ seasons" },
+      { "handle": "padmalakshmi", "inPool": true, "why": "longtime Top Chef colleague and friend" },
+      { "handle": "BravoTopChef", "inPool": true, "why": "permanent judge on the show" },
+      { "handle": "foodandwine", "inPool": true, "why": "longtime Food & Wine special projects director" },
+      { "handle": "RichardBlais", "inPool": true, "why": "Top Chef alum she judged" }
+    ]
+  },
+  {
+    "handle": "MrEddieHuang",
+    "circle": [
+      { "handle": "davidchang", "inPool": true, "why": "chef-media peers with public sparring history" },
+      { "handle": "ActionBronson", "inPool": true, "why": "Vice food-show era friends" },
+      { "handle": "firstwefeast", "inPool": true, "why": "food-and-hip-hop media overlap" },
+      { "handle": "mattymatheson", "inPool": true, "why": "Vice food alumni" },
+      { "handle": "eater", "inPool": true, "why": "restaurant-world coverage of Baohaus and his takes" }
+    ]
+  },
+  {
+    "handle": "ActionBronson",
+    "circle": [
+      { "handle": "mattymatheson", "inPool": true, "why": "Viceland food-show friends" },
+      { "handle": "firstwefeast", "inPool": true, "why": "F*ck That's Delicious food-media world" },
+      { "handle": "MrEddieHuang", "inPool": true, "why": "food-rap crossover circle" },
+      { "handle": "hotnewhiphop", "inPool": true, "why": "rap-media coverage of his releases" },
+      { "handle": "complexmusic", "inPool": true, "why": "long relationship with Complex media" }
+    ]
+  },
+  {
+    "handle": "IamTabithaBrown",
+    "circle": [
+      { "handle": "FoodNetwork", "inPool": true, "why": "hosted It's CompliPlated on the network" },
+      { "handle": "oprah", "inPool": true, "why": "interviewed and championed by Oprah" },
+      { "handle": "theellenshow", "inPool": true, "why": "breakout daytime-TV appearances" },
+      { "handle": "carlahall", "inPool": true, "why": "fellow joyful Black food-TV personality" },
+      { "handle": "Target", "inPool": false, "why": "her Target product-line partnership" }
+    ]
+  },
+  {
+    "handle": "FoodNetwork",
+    "circle": [
+      { "handle": "guyfieri", "inPool": true, "why": "flagship network star" },
+      { "handle": "bflay", "inPool": true, "why": "decades-long network mainstay" },
+      { "handle": "altonbrown", "inPool": true, "why": "Good Eats and Iron Chef host" },
+      { "handle": "rachaelray", "inPool": true, "why": "longtime network personality" },
+      { "handle": "chefsymon", "inPool": true, "why": "Iron Chef and network regular" },
+      { "handle": "DuffGoldman", "inPool": true, "why": "Ace of Cakes and baking franchises" },
+      { "handle": "inagarten", "inPool": true, "why": "Barefoot Contessa flagship show" }
+    ]
+  },
+  {
+    "handle": "epicurious",
+    "circle": [
+      { "handle": "bonappetit", "inPool": true, "why": "sister Condé Nast food brand" },
+      { "handle": "seriouseats", "inPool": true, "why": "recipe-site peer ecosystem" },
+      { "handle": "food52", "inPool": true, "why": "food-media recipe space peers" },
+      { "handle": "nytfood", "inPool": true, "why": "recipe-journalism peer outlet" },
+      { "handle": "thekitchn", "inPool": true, "why": "home-cooking content peers" }
+    ]
+  },
+  {
+    "handle": "TestKitchen",
+    "circle": [
+      { "handle": "kenjilopezalt", "inPool": true, "why": "famous America's Test Kitchen alum" },
+      { "handle": "seriouseats", "inPool": true, "why": "rigorous recipe-testing peer site" },
+      { "handle": "food52", "inPool": true, "why": "home-cook media ecosystem" },
+      { "handle": "smittenkitchen", "inPool": true, "why": "trusted-recipe world mutuals" },
+      { "handle": "epicurious", "inPool": true, "why": "recipe-publishing peers" }
+    ]
+  },
+  {
+    "handle": "PaulHollywood",
+    "circle": [
+      { "handle": "PrueLeith", "inPool": true, "why": "Bake Off co-judge" },
+      { "handle": "BritishBakeOff", "inPool": false, "why": "the show he judges" },
+      { "handle": "nigella_lawson", "inPool": true, "why": "British food-TV royalty circle" },
+      { "handle": "jamieoliver", "inPool": true, "why": "UK celebrity-chef world" },
+      { "handle": "channel4news", "inPool": true, "why": "Bake Off's broadcaster orbit" }
+    ]
+  },
+  {
+    "handle": "PrueLeith",
+    "circle": [
+      { "handle": "PaulHollywood", "inPool": true, "why": "Bake Off co-judge" },
+      { "handle": "BritishBakeOff", "inPool": false, "why": "the show she judges" },
+      { "handle": "nigella_lawson", "inPool": true, "why": "British food-writing grande dames" },
+      { "handle": "jamieoliver", "inPool": true, "why": "UK food-world campaigns and events" },
+      { "handle": "bbcbreakfast", "inPool": true, "why": "frequent UK morning-TV guest" }
+    ]
+  },
+  {
+    "handle": "BravoTopChef",
+    "circle": [
+      { "handle": "padmalakshmi", "inPool": true, "why": "longtime host" },
+      { "handle": "tomcolicchio", "inPool": true, "why": "head judge" },
+      { "handle": "gailsimmons", "inPool": true, "why": "permanent judge" },
+      { "handle": "bravotv", "inPool": true, "why": "parent network" },
+      { "handle": "RichardBlais", "inPool": true, "why": "famous All-Stars winner and recurring judge" }
+    ]
+  },
+  {
+    "handle": "thepioneerwoman",
+    "circle": [
+      { "handle": "FoodNetwork", "inPool": true, "why": "The Pioneer Woman network home" },
+      { "handle": "inagarten", "inPool": true, "why": "Food Network colleague and mutual admiration" },
+      { "handle": "rachaelray", "inPool": true, "why": "fellow food-TV and magazine personality" },
+      { "handle": "bflay", "inPool": true, "why": "Food Network family appearances" },
+      { "handle": "mollyyeh", "inPool": false, "why": "fellow Food Network prairie-cooking host" }
+    ]
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "handle": "Schwarzenegger",
+    "circle": [
+      {"handle": "therock", "inPool": true, "why": "longtime Hollywood/fitness friendship, mutual shoutouts"},
+      {"handle": "TheSlyStallone", "inPool": false, "why": "decades-long friendship and rivalry, frequent banter"},
+      {"handle": "PHILHEATH", "inPool": true, "why": "Mr. Olympia champion in Arnold's bodybuilding orbit"},
+      {"handle": "eddiehallWSM", "inPool": true, "why": "won Arnold Strongman Classic, event interactions"},
+      {"handle": "ShawStrength", "inPool": true, "why": "multi-time Arnold Strongman Classic champion"},
+      {"handle": "jimmykimmellive", "inPool": true, "why": "recurring talk show guest, promo exchanges"}
+    ]
+  },
+  {
+    "handle": "MikeTyson",
+    "circle": [
+      {"handle": "jakepaul", "inPool": false, "why": "fought him in 2024 Netflix event, heavy promo back-and-forth"},
+      {"handle": "danawhite", "inPool": true, "why": "longtime friend, frequent UFC cageside appearances"},
+      {"handle": "thenotoriousmma", "inPool": true, "why": "mutual respect posts between combat icons"},
+      {"handle": "holyfield", "inPool": false, "why": "historic rivalry turned friendship, joint promos"},
+      {"handle": "ShannonSharpe", "inPool": false, "why": "viral Club Shay Shay interview, clips shared by both"}
+    ]
+  },
+  {
+    "handle": "FloydMayweather",
+    "circle": [
+      {"handle": "50cent", "inPool": true, "why": "long-running public feud and reconciliations"},
+      {"handle": "thenotoriousmma", "inPool": true, "why": "2017 megafight, years of trash talk"},
+      {"handle": "LoganPaul", "inPool": false, "why": "2021 exhibition bout and promo beef"},
+      {"handle": "jakepaul", "inPool": false, "why": "hat-snatching incident and ongoing feud"},
+      {"handle": "danawhite", "inPool": true, "why": "crossover fight negotiations and public exchanges"}
+    ]
+  },
+  {
+    "handle": "RondaRousey",
+    "circle": [
+      {"handle": "wwe", "inPool": true, "why": "headlined WrestleMania, years on WWE roster"},
+      {"handle": "tripleh", "inPool": true, "why": "WWE storyline rivalry and real-life signing"},
+      {"handle": "danawhite", "inPool": true, "why": "UFC's first female champion under his promotion"},
+      {"handle": "ufc", "inPool": true, "why": "Hall of Famer, promoted heavily by the account"},
+      {"handle": "BeckyLynchWWE", "inPool": false, "why": "WrestleMania main event feud with real Twitter beef"},
+      {"handle": "StephMcMahon", "inPool": false, "why": "WWE storyline and on-screen rivalry"}
+    ]
+  },
+  {
+    "handle": "GeorgesStPierre",
+    "circle": [
+      {"handle": "danawhite", "inPool": true, "why": "longtime UFC champ-promoter relationship, public disputes"},
+      {"handle": "ufc", "inPool": true, "why": "two-division champion, constant promo"},
+      {"handle": "joerogan", "inPool": true, "why": "multiple JRE appearances, octagon interviews"},
+      {"handle": "lexfridman", "inPool": true, "why": "repeat podcast guest, posts training clips together"},
+      {"handle": "TeamKhabib", "inPool": true, "why": "mutual respect, long-discussed superfight"}
+    ]
+  },
+  {
+    "handle": "TeamKhabib",
+    "circle": [
+      {"handle": "danawhite", "inPool": true, "why": "champ-promoter relationship, retirement negotiations"},
+      {"handle": "ufc", "inPool": true, "why": "undefeated lightweight champion, constant promo"},
+      {"handle": "thenotoriousmma", "inPool": true, "why": "UFC 229 rivalry, years of Twitter exchanges"},
+      {"handle": "DustinPoirier", "inPool": true, "why": "fought 2019, post-fight charity jersey swap"},
+      {"handle": "Justin_Gaethje", "inPool": false, "why": "final title defense opponent in 2020"},
+      {"handle": "MAKHACHEVMMA", "inPool": false, "why": "protege and teammate, corners his fights"}
+    ]
+  },
+  {
+    "handle": "stylebender",
+    "circle": [
+      {"handle": "ufc", "inPool": true, "why": "middleweight champion, constant promo"},
+      {"handle": "danawhite", "inPool": true, "why": "headline fighter for his promotion"},
+      {"handle": "AlexPereiraUFC", "inPool": false, "why": "career-defining rivalry across kickboxing and UFC"},
+      {"handle": "dc_mma", "inPool": true, "why": "commentary banter and interview exchanges"},
+      {"handle": "jonnybones", "inPool": true, "why": "GOAT-debate Twitter beef over the years"}
+    ]
+  },
+  {
+    "handle": "DustinPoirier",
+    "circle": [
+      {"handle": "thenotoriousmma", "inPool": true, "why": "trilogy opponent, heated Twitter exchanges"},
+      {"handle": "TeamKhabib", "inPool": true, "why": "2019 title fight, post-fight charity respect"},
+      {"handle": "Justin_Gaethje", "inPool": false, "why": "fought twice, mutual respect posts"},
+      {"handle": "ufc", "inPool": true, "why": "longtime contender promoted constantly"},
+      {"handle": "danawhite", "inPool": true, "why": "fighter-promoter relationship over a decade"},
+      {"handle": "arielhelwani", "inPool": true, "why": "recurring interview subject, breaks his news"}
+    ]
+  },
+  {
+    "handle": "dc_mma",
+    "circle": [
+      {"handle": "ufc", "inPool": true, "why": "former double champ, lead color commentator"},
+      {"handle": "danawhite", "inPool": true, "why": "works UFC broadcasts for his promotion"},
+      {"handle": "jonnybones", "inPool": true, "why": "career-defining rivalry, ongoing Twitter sparring"},
+      {"handle": "TeamKhabib", "inPool": true, "why": "AKA teammates and close friends, coached him"},
+      {"handle": "stylebender", "inPool": true, "why": "interviews and commentary banter"},
+      {"handle": "espnmma", "inPool": false, "why": "ESPN MMA analyst, constant cross-posting"}
+    ]
+  },
+  {
+    "handle": "ChaelSonnen",
+    "circle": [
+      {"handle": "jonnybones", "inPool": true, "why": "famous rivalry and fight, years of banter"},
+      {"handle": "danawhite", "inPool": true, "why": "long fighter-promoter history, media exchanges"},
+      {"handle": "dc_mma", "inPool": true, "why": "fellow analyst, friendly on-air and online banter"},
+      {"handle": "TitoOrtiz", "inPool": false, "why": "Bellator fight and long-running trash talk"},
+      {"handle": "arielhelwani", "inPool": true, "why": "frequent interview sparring partner"}
+    ]
+  },
+  {
+    "handle": "Tyson_Fury",
+    "circle": [
+      {"handle": "anthonyjoshua", "inPool": true, "why": "years of failed-fight negotiations and callouts"},
+      {"handle": "BronzeBomber", "inPool": false, "why": "trilogy opponent Deontay Wilder, heated rivalry"},
+      {"handle": "usykaa", "inPool": false, "why": "undisputed title fights, promo exchanges"},
+      {"handle": "EddieHearn", "inPool": false, "why": "negotiation battles and public jabs with the promoter"},
+      {"handle": "piersmorgan", "inPool": true, "why": "multiple sit-down interviews, mutual posts"}
+    ]
+  },
+  {
+    "handle": "anthonyjoshua",
+    "circle": [
+      {"handle": "EddieHearn", "inPool": false, "why": "career-long promoter at Matchroom"},
+      {"handle": "Tyson_Fury", "inPool": true, "why": "British heavyweight rivalry, endless negotiations"},
+      {"handle": "usykaa", "inPool": false, "why": "fought twice for unified titles"},
+      {"handle": "DillianWhyte", "inPool": false, "why": "domestic rival, fought twice with real beef"},
+      {"handle": "BronzeBomber", "inPool": false, "why": "years of on-off fight negotiations"}
+    ]
+  },
+  {
+    "handle": "RyanGarcia",
+    "circle": [
+      {"handle": "Gervontaa", "inPool": false, "why": "2023 megafight with Tank, constant callouts"},
+      {"handle": "Realdevinhaney", "inPool": false, "why": "2024 fight and ongoing public drama"},
+      {"handle": "OscarDeLaHoya", "inPool": false, "why": "Golden Boy promoter, public disputes and makeups"},
+      {"handle": "jakepaul", "inPool": false, "why": "former training partners turned on-off feud"},
+      {"handle": "EddieHearn", "inPool": false, "why": "promotional negotiations and interviews"}
+    ]
+  },
+  {
+    "handle": "PHILHEATH",
+    "circle": [
+      {"handle": "Schwarzenegger", "inPool": true, "why": "Mr. Olympia lineage, Arnold Classic appearances"},
+      {"handle": "KaiGreene", "inPool": false, "why": "defining Olympia rivalry, mutual respect posts"},
+      {"handle": "Bodybuildingcom", "inPool": true, "why": "longtime sponsor and content features"},
+      {"handle": "ShawStrength", "inPool": true, "why": "strength-sport events and expo circuit together"},
+      {"handle": "muscle_fitness", "inPool": false, "why": "repeat cover athlete and features"}
+    ]
+  },
+  {
+    "handle": "BioLayne",
+    "circle": [
+      {"handle": "jeffnippard", "inPool": true, "why": "frequent collaborator on evidence-based content"},
+      {"handle": "hubermanlab", "inPool": true, "why": "Huberman Lab podcast guest on nutrition science"},
+      {"handle": "peterattiamd", "inPool": true, "why": "guest on The Drive, science exchanges"},
+      {"handle": "MarkSmellyBell", "inPool": true, "why": "repeat Power Project podcast guest"},
+      {"handle": "BradSchoenfeld", "inPool": false, "why": "fellow researcher, cites and debates his studies"}
+    ]
+  },
+  {
+    "handle": "jeffnippard",
+    "circle": [
+      {"handle": "BioLayne", "inPool": true, "why": "frequent video collaborator and friend"},
+      {"handle": "BradSchoenfeld", "inPool": false, "why": "interviews him on hypertrophy research"},
+      {"handle": "GregNuckols", "inPool": false, "why": "Stronger By Science collaborations"},
+      {"handle": "rpstrength", "inPool": false, "why": "collabs with Dr. Mike and RP Strength content"},
+      {"handle": "MarkSmellyBell", "inPool": true, "why": "podcast circuit crossovers"}
+    ]
+  },
+  {
+    "handle": "ATHLEANX",
+    "circle": [
+      {"handle": "MensHealthMag", "inPool": true, "why": "longtime featured training expert"},
+      {"handle": "Bodybuildingcom", "inPool": true, "why": "content features and industry events"},
+      {"handle": "muscle_fitness", "inPool": false, "why": "featured contributor and coverage"},
+      {"handle": "jeffnippard", "inPool": true, "why": "YouTube fitness peer, technique debates"},
+      {"handle": "MarkSmellyBell", "inPool": true, "why": "fitness YouTube commentary crossover"}
+    ]
+  },
+  {
+    "handle": "MarkSmellyBell",
+    "circle": [
+      {"handle": "BioLayne", "inPool": true, "why": "repeat guest on Power Project podcast"},
+      {"handle": "ShawStrength", "inPool": true, "why": "strongman content and podcast crossovers"},
+      {"handle": "jeffnippard", "inPool": true, "why": "podcast guest, training science talk"},
+      {"handle": "eddiehallWSM", "inPool": true, "why": "strength community content crossover"},
+      {"handle": "StanEfferding", "inPool": false, "why": "close friend, Vertical Diet and gym collaborations"}
+    ]
+  },
+  {
+    "handle": "eddiehallWSM",
+    "circle": [
+      {"handle": "ThorBjornsson_", "inPool": false, "why": "WSM rivalry culminating in 2022 boxing match"},
+      {"handle": "ShawStrength", "inPool": true, "why": "World's Strongest Man competitors for years"},
+      {"handle": "Schwarzenegger", "inPool": true, "why": "Arnold Strongman Classic winner, event posts"},
+      {"handle": "MarkSmellyBell", "inPool": true, "why": "podcast and strength content crossovers"},
+      {"handle": "wwe", "inPool": true, "why": "crossover appearances and callouts"}
+    ]
+  },
+  {
+    "handle": "ShawStrength",
+    "circle": [
+      {"handle": "eddiehallWSM", "inPool": true, "why": "longtime WSM rival and friend"},
+      {"handle": "ThorBjornsson_", "inPool": false, "why": "competed against him across strongman era"},
+      {"handle": "Schwarzenegger", "inPool": true, "why": "multi-time Arnold Strongman Classic champion"},
+      {"handle": "MarkSmellyBell", "inPool": true, "why": "podcast appearances and training collabs"},
+      {"handle": "PHILHEATH", "inPool": true, "why": "expo and strength-sport event circuit"}
+    ]
+  },
+  {
+    "handle": "Bodybuildingcom",
+    "circle": [
+      {"handle": "PHILHEATH", "inPool": true, "why": "sponsored athlete and content star"},
+      {"handle": "ATHLEANX", "inPool": true, "why": "featured trainer content"},
+      {"handle": "BioLayne", "inPool": true, "why": "longtime contributor on nutrition science"},
+      {"handle": "MensHealthMag", "inPool": true, "why": "fitness media peer, shared coverage"},
+      {"handle": "muscle_fitness", "inPool": false, "why": "industry media peer"}
+    ]
+  },
+  {
+    "handle": "MensHealthMag",
+    "circle": [
+      {"handle": "therock", "inPool": true, "why": "repeat cover star, workout features"},
+      {"handle": "chrishemsworth", "inPool": true, "why": "cover star, Centr training features"},
+      {"handle": "kevinhart4real", "inPool": true, "why": "cover star and fitness features"},
+      {"handle": "ATHLEANX", "inPool": true, "why": "regular expert contributor"},
+      {"handle": "WomensHealthMag", "inPool": false, "why": "sister publication, cross-promotion"},
+      {"handle": "Bodybuildingcom", "inPool": true, "why": "fitness media ecosystem peer"}
+    ]
+  },
+  {
+    "handle": "runnersworld",
+    "circle": [
+      {"handle": "EliudKipchoge", "inPool": true, "why": "constant coverage of his marathon records"},
+      {"handle": "Mo_Farah", "inPool": true, "why": "coverage and interviews across his career"},
+      {"handle": "des_linden", "inPool": false, "why": "Boston champion, frequent interviews"},
+      {"handle": "karagoucher", "inPool": false, "why": "contributor and commentary interactions"},
+      {"handle": "bostonmarathon", "inPool": false, "why": "race coverage every April"},
+      {"handle": "Strava", "inPool": true, "why": "running data stories and cross-promotion"}
+    ]
+  },
+  {
+    "handle": "CrossFit",
+    "circle": [
+      {"handle": "CrossFitGames", "inPool": false, "why": "its own Games competition account"},
+      {"handle": "richfroning", "inPool": false, "why": "4x Fittest Man, face of the brand"},
+      {"handle": "TheDaveCastro", "inPool": false, "why": "longtime Games director, constant cross-posts"},
+      {"handle": "RogueFitness", "inPool": false, "why": "equipment partner and Games sponsor"},
+      {"handle": "WHOOP", "inPool": false, "why": "wearable partner for athletes and events"}
+    ]
+  },
+  {
+    "handle": "Strava",
+    "circle": [
+      {"handle": "runnersworld", "inPool": true, "why": "running media coverage and data stories"},
+      {"handle": "EliudKipchoge", "inPool": true, "why": "high-profile athlete on the platform"},
+      {"handle": "kilianj", "inPool": false, "why": "famous Strava power user, activity posts"},
+      {"handle": "Garmin", "inPool": false, "why": "device sync partner, frequent cross-mentions"},
+      {"handle": "bostonmarathon", "inPool": false, "why": "race-week challenges and promos"},
+      {"handle": "nycmarathon", "inPool": false, "why": "official challenges and partnership posts"}
+    ]
+  },
+  {
+    "handle": "foundmyfitness",
+    "circle": [
+      {"handle": "joerogan", "inPool": true, "why": "many JRE appearances on nutrition science"},
+      {"handle": "hubermanlab", "inPool": true, "why": "health podcast circle, mutual citations"},
+      {"handle": "peterattiamd", "inPool": true, "why": "longevity podcast crossovers"},
+      {"handle": "davidasinclair", "inPool": true, "why": "interviewed him on FoundMyFitness"},
+      {"handle": "timferriss", "inPool": true, "why": "podcast guest, mutual promotion"}
+    ]
+  },
+  {
+    "handle": "davidasinclair",
+    "circle": [
+      {"handle": "peterattiamd", "inPool": true, "why": "longevity peer, podcast episodes and debates"},
+      {"handle": "hubermanlab", "inPool": true, "why": "Huberman Lab guest on aging research"},
+      {"handle": "foundmyfitness", "inPool": true, "why": "FoundMyFitness interviews"},
+      {"handle": "bryan_johnson", "inPool": true, "why": "longevity community exchanges"},
+      {"handle": "joerogan", "inPool": true, "why": "JRE guest discussing lifespan research"}
+    ]
+  },
+  {
+    "handle": "bryan_johnson",
+    "circle": [
+      {"handle": "davidasinclair", "inPool": true, "why": "longevity science exchanges"},
+      {"handle": "peterattiamd", "inPool": true, "why": "public back-and-forth on Blueprint protocols"},
+      {"handle": "hubermanlab", "inPool": true, "why": "health-optimization podcast circuit"},
+      {"handle": "shaanvp", "inPool": true, "why": "My First Million appearances, tech-founder circle"},
+      {"handle": "foundmyfitness", "inPool": true, "why": "longevity research community overlap"}
+    ]
+  },
+  {
+    "handle": "davidgoggins",
+    "circle": [
+      {"handle": "jockowillink", "inPool": true, "why": "fellow SEAL-adjacent discipline icon, podcast crossovers"},
+      {"handle": "joerogan", "inPool": true, "why": "breakout JRE appearances"},
+      {"handle": "hubermanlab", "inPool": true, "why": "viral Huberman Lab episode on willpower"},
+      {"handle": "therock", "inPool": true, "why": "mutual public shoutouts on grind culture"},
+      {"handle": "ChrisWillx", "inPool": false, "why": "Modern Wisdom podcast appearances"}
+    ]
+  },
+  {
+    "handle": "jockowillink",
+    "circle": [
+      {"handle": "davidgoggins", "inPool": true, "why": "discipline-culture peer, mutual respect"},
+      {"handle": "joerogan", "inPool": true, "why": "repeat JRE guest"},
+      {"handle": "timferriss", "inPool": true, "why": "podcast guest, book promotion"},
+      {"handle": "lexfridman", "inPool": true, "why": "multiple Lex Fridman podcast episodes"},
+      {"handle": "hubermanlab", "inPool": true, "why": "health and discipline podcast circle"}
+    ]
+  },
+  {
+    "handle": "thebodycoach",
+    "circle": [
+      {"handle": "jamieoliver", "inPool": true, "why": "UK healthy-eating advocates, real friendship"},
+      {"handle": "bbcbreakfast", "inPool": true, "why": "frequent guest, PE With Joe coverage"},
+      {"handle": "MensHealthMag", "inPool": true, "why": "cover features and workouts"},
+      {"handle": "gordonramsay", "inPool": true, "why": "UK food-TV circle interactions"},
+      {"handle": "WomensHealthMag", "inPool": false, "why": "features and family fitness coverage"}
+    ]
+  },
+  {
+    "handle": "EliudKipchoge",
+    "circle": [
+      {"handle": "NNRunningTeam", "inPool": false, "why": "his professional running team"},
+      {"handle": "nike", "inPool": true, "why": "career sponsor, Breaking2 and Alphafly launches"},
+      {"handle": "Mo_Farah", "inPool": true, "why": "raced each other in London Marathon era"},
+      {"handle": "runnersworld", "inPool": true, "why": "constant record coverage and interviews"},
+      {"handle": "bostonmarathon", "inPool": false, "why": "raced Boston 2023, promo posts"}
+    ]
+  },
+  {
+    "handle": "Mo_Farah",
+    "circle": [
+      {"handle": "EliudKipchoge", "inPool": true, "why": "marathon rival and mutual respect"},
+      {"handle": "usainbolt", "inPool": true, "why": "track-era peers, real friendship and photos"},
+      {"handle": "garylineker", "inPool": true, "why": "UK sport figures, public praise exchanges"},
+      {"handle": "LondonMarathon", "inPool": false, "why": "raced and promoted the event repeatedly"},
+      {"handle": "runnersworld", "inPool": true, "why": "career coverage and interviews"}
+    ]
+  }
+]

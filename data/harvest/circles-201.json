@@ -1,0 +1,333 @@
+[
+  {
+    "handle": "Jim_Jordan",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "staunch ally; Trump endorsed his speaker bid"},
+      {"handle": "mtgreenee", "inPool": true, "why": "House Freedom Caucus ally"},
+      {"handle": "chiproytx", "inPool": true, "why": "Freedom Caucus colleague in spending fights"},
+      {"handle": "SpeakerJohnson", "inPool": false, "why": "House GOP leadership colleague"},
+      {"handle": "foxnews", "inPool": true, "why": "frequent prime-time interview guest"}
+    ]
+  },
+  {
+    "handle": "HawleyMO",
+    "circle": [
+      {"handle": "tedcruz", "inPool": true, "why": "Senate Judiciary ally"},
+      {"handle": "BasedMikeLee", "inPool": true, "why": "Senate GOP colleague and frequent co-signer"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "prominent MAGA-aligned senator"},
+      {"handle": "TomCottonAR", "inPool": false, "why": "fellow populist-hawk senator"},
+      {"handle": "elizabethwarren", "inPool": true, "why": "odd-couple co-sponsorships and public sparring"}
+    ]
+  },
+  {
+    "handle": "NikkiHaley",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "2024 primary rival; bitter public feud"},
+      {"handle": "rondesantis", "inPool": true, "why": "2024 primary rival"},
+      {"handle": "vivekgramaswamy", "inPool": true, "why": "heated debate-stage clashes"},
+      {"handle": "mikepompeo", "inPool": true, "why": "fellow Trump-administration alum"},
+      {"handle": "marcorubio", "inPool": true, "why": "GOP foreign-policy hawk circle"}
+    ]
+  },
+  {
+    "handle": "KristiNoem",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "serves in his cabinet as DHS secretary"},
+      {"handle": "DHSgov", "inPool": false, "why": "official account of the department she leads"},
+      {"handle": "KariLake", "inPool": true, "why": "MAGA campaign-trail ally"},
+      {"handle": "SarahHuckabee", "inPool": true, "why": "fellow Trump-orbit GOP governor"},
+      {"handle": "foxnews", "inPool": true, "why": "regular interview platform"}
+    ]
+  },
+  {
+    "handle": "SarahHuckabee",
+    "circle": [
+      {"handle": "GovMikeHuckabee", "inPool": false, "why": "her father"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "former boss as White House press secretary"},
+      {"handle": "kayleighmcenany", "inPool": true, "why": "fellow Trump press secretary"},
+      {"handle": "KristiNoem", "inPool": true, "why": "fellow Republican governor"},
+      {"handle": "foxnews", "inPool": true, "why": "former contributor between White House and governorship"}
+    ]
+  },
+  {
+    "handle": "laurenboebert",
+    "circle": [
+      {"handle": "mtgreenee", "inPool": true, "why": "ally turned very public feud"},
+      {"handle": "mattgaetz", "inPool": true, "why": "Freedom Caucus ally"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "endorsed her reelection bids"},
+      {"handle": "libsoftiktok", "inPool": true, "why": "mutual amplification online"},
+      {"handle": "Jim_Jordan", "inPool": true, "why": "Freedom Caucus colleague"}
+    ]
+  },
+  {
+    "handle": "RepThomasMassie",
+    "circle": [
+      {"handle": "RandPaul", "inPool": true, "why": "closest Senate ally and fellow Kentuckian"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "Trump campaigned to primary him; running feud"},
+      {"handle": "chiproytx", "inPool": true, "why": "fiscal-hawk House ally"},
+      {"handle": "justinamash", "inPool": false, "why": "libertarian former House colleague and friend"},
+      {"handle": "elonmusk", "inPool": true, "why": "Musk publicly backed him against Trump's primary threat"},
+      {"handle": "tuckercarlson", "inPool": true, "why": "endorsed and fundraised for him"}
+    ]
+  },
+  {
+    "handle": "chiproytx",
+    "circle": [
+      {"handle": "tedcruz", "inPool": true, "why": "former chief of staff to Cruz"},
+      {"handle": "Jim_Jordan", "inPool": true, "why": "Freedom Caucus colleague"},
+      {"handle": "RepThomasMassie", "inPool": true, "why": "spending-fight ally"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "Trump blasted him over a spending-bill vote"},
+      {"handle": "mtgreenee", "inPool": true, "why": "intra-Freedom-Caucus sparring"}
+    ]
+  },
+  {
+    "handle": "newtgingrich",
+    "circle": [
+      {"handle": "seanhannity", "inPool": true, "why": "frequent show guest"},
+      {"handle": "foxnews", "inPool": true, "why": "longtime contributor"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "informal advisor and ally"},
+      {"handle": "marklevinshow", "inPool": true, "why": "conservative talk-circuit peer"},
+      {"handle": "BretBaier", "inPool": true, "why": "election-night panel appearances"}
+    ]
+  },
+  {
+    "handle": "DanCrenshawTX",
+    "circle": [
+      {"handle": "mtgreenee", "inPool": true, "why": "open intra-GOP feud"},
+      {"handle": "tuckercarlson", "inPool": true, "why": "public feud after Carlson mocked him"},
+      {"handle": "joerogan", "inPool": true, "why": "multiple podcast appearances; fellow Texan"},
+      {"handle": "benshapiro", "inPool": true, "why": "friendly conservative-media interviews"},
+      {"handle": "Jim_Jordan", "inPool": true, "why": "House GOP colleague"}
+    ]
+  },
+  {
+    "handle": "mikepompeo",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "served as his secretary of state"},
+      {"handle": "NikkiHaley", "inPool": true, "why": "fellow Trump cabinet alum"},
+      {"handle": "marcorubio", "inPool": true, "why": "GOP foreign-policy hawk ally"},
+      {"handle": "hughhewitt", "inPool": false, "why": "frequent friendly radio interviewer"},
+      {"handle": "foxnews", "inPool": true, "why": "contributor stint after leaving office"}
+    ]
+  },
+  {
+    "handle": "KariLake",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "devoted ally; he endorsed her Arizona runs"},
+      {"handle": "charliekirk11", "inPool": true, "why": "Arizona MAGA ally"},
+      {"handle": "stevebannon", "inPool": true, "why": "War Room regular"},
+      {"handle": "DC_Draino", "inPool": true, "why": "MAGA influencer amplifier of her campaigns"},
+      {"handle": "mtgreenee", "inPool": true, "why": "campaign-trail ally"}
+    ]
+  },
+  {
+    "handle": "BasedMikeLee",
+    "circle": [
+      {"handle": "tedcruz", "inPool": true, "why": "close Senate friend with running podcast banter"},
+      {"handle": "RandPaul", "inPool": true, "why": "constitutionalist Senate ally"},
+      {"handle": "elonmusk", "inPool": true, "why": "frequently replies to Musk's posts"},
+      {"handle": "HawleyMO", "inPool": true, "why": "Judiciary Committee colleague"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "vocal online defender"}
+    ]
+  },
+  {
+    "handle": "MarshaBlackburn",
+    "circle": [
+      {"handle": "tedcruz", "inPool": true, "why": "Senate Judiciary ally"},
+      {"handle": "HawleyMO", "inPool": true, "why": "Big Tech hearings tag-team"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "endorsed her campaigns"},
+      {"handle": "taylorswift13", "inPool": true, "why": "Swift publicly campaigned against her in 2018"},
+      {"handle": "foxnews", "inPool": true, "why": "regular interview platform"}
+    ]
+  },
+  {
+    "handle": "greggutfeld",
+    "circle": [
+      {"handle": "JesseBWatters", "inPool": true, "why": "The Five co-host"},
+      {"handle": "KatTimpf", "inPool": false, "why": "Gutfeld! co-host"},
+      {"handle": "PlanetTyrus", "inPool": false, "why": "Gutfeld! co-host"},
+      {"handle": "DanaPerino", "inPool": false, "why": "The Five co-host"},
+      {"handle": "foxnews", "inPool": true, "why": "network home"}
+    ]
+  },
+  {
+    "handle": "JesseBWatters",
+    "circle": [
+      {"handle": "greggutfeld", "inPool": true, "why": "The Five co-host"},
+      {"handle": "DanaPerino", "inPool": false, "why": "The Five co-host"},
+      {"handle": "seanhannity", "inPool": true, "why": "Fox primetime lineup colleague"},
+      {"handle": "foxnews", "inPool": true, "why": "network home"},
+      {"handle": "BillOReilly", "inPool": true, "why": "career began as O'Reilly Factor correspondent"}
+    ]
+  },
+  {
+    "handle": "BretBaier",
+    "circle": [
+      {"handle": "brithume", "inPool": true, "why": "longtime Fox colleague and mentor"},
+      {"handle": "marthamaccallum", "inPool": false, "why": "election-coverage co-anchor"},
+      {"handle": "foxnews", "inPool": true, "why": "network home of Special Report"},
+      {"handle": "DanaPerino", "inPool": false, "why": "Fox colleague"},
+      {"handle": "megynkelly", "inPool": true, "why": "former GOP debate co-moderator"}
+    ]
+  },
+  {
+    "handle": "MariaBartiromo",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "frequent friendly interviewer"},
+      {"handle": "cvpayne", "inPool": false, "why": "Fox Business colleague"},
+      {"handle": "jimcramer", "inPool": true, "why": "former CNBC colleague"},
+      {"handle": "DevinNunes", "inPool": false, "why": "frequent guest and ally"},
+      {"handle": "foxnews", "inPool": true, "why": "parent network for Sunday Morning Futures"}
+    ]
+  },
+  {
+    "handle": "brithume",
+    "circle": [
+      {"handle": "BretBaier", "inPool": true, "why": "Special Report successor and colleague"},
+      {"handle": "foxnews", "inPool": true, "why": "longtime network home"},
+      {"handle": "megynkelly", "inPool": true, "why": "former Fox colleague"},
+      {"handle": "redsteeze", "inPool": true, "why": "frequently retweets his commentary"},
+      {"handle": "ByronYork", "inPool": false, "why": "fellow veteran conservative journalist"}
+    ]
+  },
+  {
+    "handle": "glennbeck",
+    "circle": [
+      {"handle": "WorldOfStu", "inPool": false, "why": "BlazeTV co-host and longtime producer"},
+      {"handle": "tuckercarlson", "inPool": true, "why": "long-form interview exchanges"},
+      {"handle": "charliekirk11", "inPool": true, "why": "Blaze-TPUSA event circuit"},
+      {"handle": "megynkelly", "inPool": true, "why": "podcast-circuit interviews"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "2016 critic turned endorser"}
+    ]
+  },
+  {
+    "handle": "AnnCoulter",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "early booster turned bitter critic over immigration"},
+      {"handle": "billmaher", "inPool": false, "why": "longtime friendly sparring partner on Real Time"},
+      {"handle": "Cernovich", "inPool": true, "why": "online-right discourse sparring"},
+      {"handle": "vivekgramaswamy", "inPool": true, "why": "insulted him on his own podcast; he kept engaging"},
+      {"handle": "tuckercarlson", "inPool": true, "why": "show appearances over the years"}
+    ]
+  },
+  {
+    "handle": "BillOReilly",
+    "circle": [
+      {"handle": "JesseBWatters", "inPool": true, "why": "his former Factor protege"},
+      {"handle": "seanhannity", "inPool": true, "why": "old Fox primetime colleague"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "History Tour stage partner and decades-long acquaintance"},
+      {"handle": "megynkelly", "inPool": true, "why": "post-Fox feud over harassment coverage"},
+      {"handle": "glennbeck", "inPool": true, "why": "weekly radio segment partnership"}
+    ]
+  },
+  {
+    "handle": "larryelder",
+    "circle": [
+      {"handle": "realcandaceo", "inPool": true, "why": "conservative media circuit; gave her early platforms"},
+      {"handle": "DennisPrager", "inPool": false, "why": "fellow Salem radio host and close friend"},
+      {"handle": "charliekirk11", "inPool": true, "why": "Salem and TPUSA event circuit"},
+      {"handle": "GavinNewsom", "inPool": true, "why": "ran against him in the 2021 recall"},
+      {"handle": "benshapiro", "inPool": true, "why": "conservative talk-circuit interviews"}
+    ]
+  },
+  {
+    "handle": "scrowder",
+    "circle": [
+      {"handle": "benshapiro", "inPool": true, "why": "public contract feud over leaked Daily Wire offer"},
+      {"handle": "realdailywire", "inPool": true, "why": "leaked-term-sheet feud"},
+      {"handle": "charliekirk11", "inPool": true, "why": "campus-tour conservative circuit"},
+      {"handle": "RealAlexJones", "inPool": false, "why": "recurring show crossovers"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "early viral long-form interviews"}
+    ]
+  },
+  {
+    "handle": "GadSaad",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "Musk regularly replies to his posts"},
+      {"handle": "jordanbpeterson", "inPool": true, "why": "friend and fellow heterodox academic"},
+      {"handle": "joerogan", "inPool": true, "why": "multiple JRE appearances"},
+      {"handle": "benshapiro", "inPool": true, "why": "Sunday Special and event-circuit interviews"},
+      {"handle": "SamHarrisOrg", "inPool": false, "why": "public falling-out over Trump"}
+    ]
+  },
+  {
+    "handle": "Cernovich",
+    "circle": [
+      {"handle": "jackposobiec", "inPool": true, "why": "longtime MAGA media ally"},
+      {"handle": "elonmusk", "inPool": true, "why": "Musk engages with his takes"},
+      {"handle": "MrAndyNgo", "inPool": true, "why": "mutual amplification"},
+      {"handle": "libsoftiktok", "inPool": true, "why": "online-right network"},
+      {"handle": "ggreenwald", "inPool": true, "why": "civil-liberties crossover exchanges"}
+    ]
+  },
+  {
+    "handle": "MrAndyNgo",
+    "circle": [
+      {"handle": "TPostMillennial", "inPool": false, "why": "senior editor at the outlet"},
+      {"handle": "libsoftiktok", "inPool": true, "why": "mutual amplification"},
+      {"handle": "Cernovich", "inPool": true, "why": "online-right ally"},
+      {"handle": "elonmusk", "inPool": true, "why": "Musk amplifies his antifa reporting"},
+      {"handle": "jackposobiec", "inPool": true, "why": "MAGA media circuit"}
+    ]
+  },
+  {
+    "handle": "EndWokeness",
+    "circle": [
+      {"handle": "elonmusk", "inPool": true, "why": "Musk frequently replies to its posts"},
+      {"handle": "libsoftiktok", "inPool": true, "why": "same outrage-aggregation lane"},
+      {"handle": "catturd2", "inPool": true, "why": "MAGA meme-account network"},
+      {"handle": "DC_Draino", "inPool": true, "why": "mutual amplification"},
+      {"handle": "collinrugg", "inPool": true, "why": "aggregator peer"}
+    ]
+  },
+  {
+    "handle": "DC_Draino",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "staunch promoter; Mar-a-Lago influencer events"},
+      {"handle": "donaldjtrumpjr", "inPool": true, "why": "frequent interaction and amplification"},
+      {"handle": "charliekirk11", "inPool": true, "why": "MAGA influencer circuit"},
+      {"handle": "KariLake", "inPool": true, "why": "boosted her Arizona campaigns"},
+      {"handle": "EndWokeness", "inPool": true, "why": "mutual amplification"}
+    ]
+  },
+  {
+    "handle": "Riley_Gaines_",
+    "circle": [
+      {"handle": "claytravis", "inPool": true, "why": "OutKick founder; she hosts a show there"},
+      {"handle": "outkick", "inPool": true, "why": "her network home"},
+      {"handle": "megynkelly", "inPool": true, "why": "frequent interview ally on women's sports"},
+      {"handle": "charliekirk11", "inPool": true, "why": "TPUSA campus events"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "stood with him at women's sports executive-order signing"}
+    ]
+  },
+  {
+    "handle": "JamesOKeefeIII",
+    "circle": [
+      {"handle": "Project_Veritas", "inPool": false, "why": "the org that ousted him; public feud"},
+      {"handle": "elonmusk", "inPool": true, "why": "amplified his undercover stings"},
+      {"handle": "jackposobiec", "inPool": true, "why": "MAGA media ally"},
+      {"handle": "Cernovich", "inPool": true, "why": "online-right network"},
+      {"handle": "bennyjohnson", "inPool": true, "why": "friendly interviews"}
+    ]
+  },
+  {
+    "handle": "NEWSMAX",
+    "circle": [
+      {"handle": "realDonaldTrump", "inPool": true, "why": "has promoted the network as a Fox alternative"},
+      {"handle": "gregkellyusa", "inPool": false, "why": "primetime host"},
+      {"handle": "ericbolling", "inPool": true, "why": "hosted The Balance on the network"},
+      {"handle": "foxnews", "inPool": true, "why": "chief cable-news rival"},
+      {"handle": "SebGorka", "inPool": false, "why": "frequent guest and former host"}
+    ]
+  },
+  {
+    "handle": "BreitbartNews",
+    "circle": [
+      {"handle": "stevebannon", "inPool": true, "why": "former executive chairman"},
+      {"handle": "joelpollak", "inPool": false, "why": "senior editor-at-large"},
+      {"handle": "mboyle1", "inPool": false, "why": "Washington bureau chief"},
+      {"handle": "realDonaldTrump", "inPool": true, "why": "gives the outlet friendly interviews"},
+      {"handle": "charliekirk11", "inPool": true, "why": "syndication and event-coverage ally"}
+    ]
+  }
+]

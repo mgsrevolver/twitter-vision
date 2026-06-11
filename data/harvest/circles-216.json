@@ -1,0 +1,932 @@
+[
+  {
+    "handle": "Naughty_Dog",
+    "circle": [
+      {
+        "handle": "Neil_Druckmann",
+        "inPool": true,
+        "why": "studio head, constantly cross-promotes studio news"
+      },
+      {
+        "handle": "PlayStation",
+        "inPool": true,
+        "why": "first-party Sony studio, parent platform account"
+      },
+      {
+        "handle": "TroyBakerVA",
+        "inPool": false,
+        "why": "voice of Joel, promotes The Last of Us together"
+      },
+      {
+        "handle": "insomniacgames",
+        "inPool": true,
+        "why": "fellow PlayStation Studios team, mutual congratulations"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "reveals trailers at The Game Awards / Summer Game Fest"
+      }
+    ]
+  },
+  {
+    "handle": "insomniacgames",
+    "circle": [
+      {
+        "handle": "PlayStation",
+        "inPool": true,
+        "why": "first-party Sony studio, parent platform account"
+      },
+      {
+        "handle": "Naughty_Dog",
+        "inPool": true,
+        "why": "sibling PlayStation studio, mutual shoutouts"
+      },
+      {
+        "handle": "MarvelGames",
+        "inPool": false,
+        "why": "Spider-Man and Wolverine partnership"
+      },
+      {
+        "handle": "SonySantaMonica",
+        "inPool": true,
+        "why": "fellow PlayStation Studios team"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "Spider-Man 2 showings at The Game Awards"
+      }
+    ]
+  },
+  {
+    "handle": "Bungie",
+    "circle": [
+      {
+        "handle": "DestinyTheGame",
+        "inPool": false,
+        "why": "their own franchise account, constant retweets"
+      },
+      {
+        "handle": "PlayStation",
+        "inPool": true,
+        "why": "parent company since 2022 acquisition"
+      },
+      {
+        "handle": "A_dmg04",
+        "inPool": false,
+        "why": "longtime Bungie community lead, amplifies studio posts"
+      },
+      {
+        "handle": "PaulTassi",
+        "inPool": false,
+        "why": "Forbes Destiny writer Bungie regularly engages with"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "Marathon and Destiny reveals at his showcases"
+      }
+    ]
+  },
+  {
+    "handle": "CDPROJEKTRED",
+    "circle": [
+      {
+        "handle": "CyberpunkGame",
+        "inPool": false,
+        "why": "their own Cyberpunk 2077 franchise account"
+      },
+      {
+        "handle": "witchergame",
+        "inPool": false,
+        "why": "their own Witcher franchise account"
+      },
+      {
+        "handle": "GOGcom",
+        "inPool": false,
+        "why": "sister company under CD PROJEKT group"
+      },
+      {
+        "handle": "UnrealEngine",
+        "inPool": true,
+        "why": "Witcher 4 built on UE5, public partnership"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "premieres trailers at The Game Awards"
+      }
+    ]
+  },
+  {
+    "handle": "UnrealEngine",
+    "circle": [
+      {
+        "handle": "EpicGames",
+        "inPool": true,
+        "why": "parent company account"
+      },
+      {
+        "handle": "TimSweeneyEpic",
+        "inPool": true,
+        "why": "Epic CEO, retweets engine news constantly"
+      },
+      {
+        "handle": "FortniteGame",
+        "inPool": true,
+        "why": "flagship UE showcase title from Epic"
+      },
+      {
+        "handle": "CDPROJEKTRED",
+        "inPool": true,
+        "why": "high-profile UE5 partner for The Witcher 4"
+      },
+      {
+        "handle": "NinjaTheory",
+        "inPool": false,
+        "why": "showcase UE5 studio (Hellblade 2 features)"
+      }
+    ]
+  },
+  {
+    "handle": "bethesda",
+    "circle": [
+      {
+        "handle": "Xbox",
+        "inPool": true,
+        "why": "parent company since Microsoft acquisition"
+      },
+      {
+        "handle": "ElderScrolls",
+        "inPool": false,
+        "why": "their own franchise account"
+      },
+      {
+        "handle": "Fallout",
+        "inPool": false,
+        "why": "their own franchise account, amplified during the TV show"
+      },
+      {
+        "handle": "idSoftware",
+        "inPool": true,
+        "why": "sibling studio under Bethesda/ZeniMax"
+      },
+      {
+        "handle": "StarfieldGame",
+        "inPool": false,
+        "why": "their own Starfield account"
+      }
+    ]
+  },
+  {
+    "handle": "idSoftware",
+    "circle": [
+      {
+        "handle": "bethesda",
+        "inPool": true,
+        "why": "publisher and sibling org, constant cross-posting"
+      },
+      {
+        "handle": "Xbox",
+        "inPool": true,
+        "why": "parent platform since Microsoft acquisition"
+      },
+      {
+        "handle": "DOOM",
+        "inPool": false,
+        "why": "their own franchise account"
+      },
+      {
+        "handle": "QuakeCon",
+        "inPool": false,
+        "why": "the studio's own annual convention"
+      },
+      {
+        "handle": "geoffkeighley",
+        "inPool": true,
+        "why": "DOOM reveals at his showcases"
+      }
+    ]
+  },
+  {
+    "handle": "riotgames",
+    "circle": [
+      {
+        "handle": "LeagueOfLegends",
+        "inPool": true,
+        "why": "their flagship game account"
+      },
+      {
+        "handle": "PlayVALORANT",
+        "inPool": true,
+        "why": "their FPS title account"
+      },
+      {
+        "handle": "lolesports",
+        "inPool": true,
+        "why": "their own esports broadcast arm"
+      },
+      {
+        "handle": "ValorantEsports",
+        "inPool": false,
+        "why": "their VALORANT esports arm"
+      },
+      {
+        "handle": "arcaneshow",
+        "inPool": false,
+        "why": "their Netflix series, heavily cross-promoted"
+      }
+    ]
+  },
+  {
+    "handle": "CounterStrike",
+    "circle": [
+      {
+        "handle": "valvesoftware",
+        "inPool": false,
+        "why": "Valve developer account"
+      },
+      {
+        "handle": "DOTA2",
+        "inPool": true,
+        "why": "sibling Valve title account"
+      },
+      {
+        "handle": "ESLCS",
+        "inPool": false,
+        "why": "major CS tournament organizer it amplifies"
+      },
+      {
+        "handle": "HLTVorg",
+        "inPool": false,
+        "why": "the CS scene's stats/news hub, constant ecosystem chatter"
+      },
+      {
+        "handle": "natusvincere",
+        "inPool": true,
+        "why": "top CS org, Major champions covered by the account"
+      }
+    ]
+  },
+  {
+    "handle": "DOTA2",
+    "circle": [
+      {
+        "handle": "valvesoftware",
+        "inPool": false,
+        "why": "Valve developer account"
+      },
+      {
+        "handle": "wykrhm",
+        "inPool": false,
+        "why": "Wykrhm Reddy, Valve-adjacent Dota announcer of patches"
+      },
+      {
+        "handle": "CounterStrike",
+        "inPool": true,
+        "why": "sibling Valve title account"
+      },
+      {
+        "handle": "TeamLiquid",
+        "inPool": true,
+        "why": "The International champion org in its scene"
+      },
+      {
+        "handle": "natusvincere",
+        "inPool": true,
+        "why": "TI1 champions, storied Dota org"
+      }
+    ]
+  },
+  {
+    "handle": "PlayVALORANT",
+    "circle": [
+      {
+        "handle": "riotgames",
+        "inPool": true,
+        "why": "developer parent account"
+      },
+      {
+        "handle": "ValorantEsports",
+        "inPool": false,
+        "why": "official esports arm, constant retweets"
+      },
+      {
+        "handle": "LeagueOfLegends",
+        "inPool": true,
+        "why": "sibling Riot title"
+      },
+      {
+        "handle": "Sentinels",
+        "inPool": false,
+        "why": "marquee VCT org in its scene"
+      },
+      {
+        "handle": "100thieves",
+        "inPool": true,
+        "why": "VCT partner org it engages with"
+      }
+    ]
+  },
+  {
+    "handle": "RocketLeague",
+    "circle": [
+      {
+        "handle": "Psyonix",
+        "inPool": false,
+        "why": "developer studio account"
+      },
+      {
+        "handle": "EpicGames",
+        "inPool": true,
+        "why": "parent company since 2019 acquisition"
+      },
+      {
+        "handle": "RLEsports",
+        "inPool": false,
+        "why": "official Rocket League esports account"
+      },
+      {
+        "handle": "FortniteGame",
+        "inPool": true,
+        "why": "sibling Epic title, frequent crossover events"
+      },
+      {
+        "handle": "G2esports",
+        "inPool": true,
+        "why": "RLCS championship org in its scene"
+      }
+    ]
+  },
+  {
+    "handle": "TimSweeneyEpic",
+    "circle": [
+      {
+        "handle": "EpicGames",
+        "inPool": true,
+        "why": "his company"
+      },
+      {
+        "handle": "UnrealEngine",
+        "inPool": true,
+        "why": "his engine, retweets every release"
+      },
+      {
+        "handle": "FortniteGame",
+        "inPool": true,
+        "why": "his flagship game"
+      },
+      {
+        "handle": "Apple",
+        "inPool": true,
+        "why": "years-long public App Store fight (Epic v. Apple)"
+      },
+      {
+        "handle": "garrynewman",
+        "inPool": true,
+        "why": "fellow engine/dev-platform founder he trades takes with"
+      }
+    ]
+  },
+  {
+    "handle": "Neil_Druckmann",
+    "circle": [
+      {
+        "handle": "Naughty_Dog",
+        "inPool": true,
+        "why": "studio he co-leads"
+      },
+      {
+        "handle": "PlayStation",
+        "inPool": true,
+        "why": "parent platform, cross-promotes announcements"
+      },
+      {
+        "handle": "TroyBakerVA",
+        "inPool": false,
+        "why": "voice of Joel, frequent mutual posts"
+      },
+      {
+        "handle": "TheVulcanSalute",
+        "inPool": false,
+        "why": "Ashley Johnson (Ellie), promotes TLOU together"
+      },
+      {
+        "handle": "clmazin",
+        "inPool": true,
+        "why": "co-creator of HBO's The Last of Us"
+      }
+    ]
+  },
+  {
+    "handle": "Harada_TEKKEN",
+    "circle": [
+      {
+        "handle": "maximilian_",
+        "inPool": false,
+        "why": "FGC creator Harada replies to and banters with"
+      },
+      {
+        "handle": "Yoshi_OnoChin",
+        "inPool": false,
+        "why": "ex-Street Fighter producer, famous friendly rivalry"
+      },
+      {
+        "handle": "EVO",
+        "inPool": false,
+        "why": "premier fighting game tournament Tekken headlines"
+      },
+      {
+        "handle": "BandaiNamcoUS",
+        "inPool": false,
+        "why": "his publisher"
+      },
+      {
+        "handle": "Sora_Sakurai",
+        "inPool": true,
+        "why": "Kazuya-in-Smash collaboration, mutual respect posts"
+      }
+    ]
+  },
+  {
+    "handle": "Sora_Sakurai",
+    "circle": [
+      {
+        "handle": "NintendoAmerica",
+        "inPool": true,
+        "why": "Smash Bros platform partner, constant cross-promotion"
+      },
+      {
+        "handle": "Harada_TEKKEN",
+        "inPool": true,
+        "why": "Kazuya Smash collab and public banter"
+      },
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "longtime friend; Snake in Smash history"
+      },
+      {
+        "handle": "famitsu",
+        "inPool": false,
+        "why": "wrote a long-running Famitsu column"
+      },
+      {
+        "handle": "tobyfox",
+        "inPool": true,
+        "why": "Sans Mii costume collab and mutual admiration"
+      }
+    ]
+  },
+  {
+    "handle": "yokotaro",
+    "circle": [
+      {
+        "handle": "SquareEnix",
+        "inPool": false,
+        "why": "NieR publisher"
+      },
+      {
+        "handle": "platinumgames",
+        "inPool": false,
+        "why": "developer of NieR: Automata"
+      },
+      {
+        "handle": "suda_51",
+        "inPool": true,
+        "why": "friend, frequent joint event appearances"
+      },
+      {
+        "handle": "Swery65",
+        "inPool": false,
+        "why": "fellow auteur dev in the same Japanese indie circle"
+      },
+      {
+        "handle": "famitsu",
+        "inPool": false,
+        "why": "regular Japanese games-press interviews"
+      }
+    ]
+  },
+  {
+    "handle": "suda_51",
+    "circle": [
+      {
+        "handle": "Swery65",
+        "inPool": false,
+        "why": "co-developing Hotel Barcelona together"
+      },
+      {
+        "handle": "yokotaro",
+        "inPool": true,
+        "why": "friend, joint panels and event stages"
+      },
+      {
+        "handle": "HIDEO_KOJIMA_EN",
+        "inPool": true,
+        "why": "longtime friend, mutual appearances"
+      },
+      {
+        "handle": "NintendoAmerica",
+        "inPool": true,
+        "why": "No More Heroes platform partner"
+      },
+      {
+        "handle": "famitsu",
+        "inPool": false,
+        "why": "regular Japanese games-press coverage"
+      }
+    ]
+  },
+  {
+    "handle": "tobyfox",
+    "circle": [
+      {
+        "handle": "fangamer",
+        "inPool": false,
+        "why": "official Undertale/Deltarune merch partner"
+      },
+      {
+        "handle": "NintendoAmerica",
+        "inPool": true,
+        "why": "Deltarune Directs and Switch releases"
+      },
+      {
+        "handle": "Sora_Sakurai",
+        "inPool": true,
+        "why": "Sans in Smash collaboration"
+      },
+      {
+        "handle": "itoi_shigesato",
+        "inPool": false,
+        "why": "MOTHER creator and personal hero he has interacted with"
+      },
+      {
+        "handle": "tuyoki",
+        "inPool": false,
+        "why": "Temmie Chang, longtime Undertale/Deltarune artist collaborator"
+      }
+    ]
+  },
+  {
+    "handle": "garrynewman",
+    "circle": [
+      {
+        "handle": "playrust",
+        "inPool": false,
+        "why": "Rust, his studio's flagship game"
+      },
+      {
+        "handle": "valvesoftware",
+        "inPool": false,
+        "why": "Garry's Mod and s&box built on Valve tech"
+      },
+      {
+        "handle": "notch",
+        "inPool": false,
+        "why": "fellow indie-founder, longtime gamedev-Twitter back-and-forth"
+      },
+      {
+        "handle": "TimSweeneyEpic",
+        "inPool": true,
+        "why": "engine and store discourse between platform founders"
+      },
+      {
+        "handle": "shroud",
+        "inPool": true,
+        "why": "big Rust streamer ecosystem his account engages"
+      }
+    ]
+  },
+  {
+    "handle": "TimOfLegend",
+    "circle": [
+      {
+        "handle": "DoubleFine",
+        "inPool": false,
+        "why": "studio he founded and leads"
+      },
+      {
+        "handle": "Xbox",
+        "inPool": true,
+        "why": "parent company since 2019 acquisition"
+      },
+      {
+        "handle": "jackblack",
+        "inPool": true,
+        "why": "starred in Brutal Legend and Psychonauts 2"
+      },
+      {
+        "handle": "grumpygamer",
+        "inPool": false,
+        "why": "Ron Gilbert, LucasArts collaborator and longtime friend"
+      },
+      {
+        "handle": "Official_GDC",
+        "inPool": false,
+        "why": "frequent GDC speaker and awards host"
+      }
+    ]
+  },
+  {
+    "handle": "FNATIC",
+    "circle": [
+      {
+        "handle": "G2esports",
+        "inPool": true,
+        "why": "classic EU rivalry with constant banter"
+      },
+      {
+        "handle": "LEC",
+        "inPool": false,
+        "why": "their League of Legends league"
+      },
+      {
+        "handle": "lolesports",
+        "inPool": true,
+        "why": "global League esports ecosystem"
+      },
+      {
+        "handle": "ValorantEsports",
+        "inPool": false,
+        "why": "VCT league they compete in"
+      },
+      {
+        "handle": "RekklesLOL",
+        "inPool": false,
+        "why": "iconic longtime Fnatic AD carry"
+      }
+    ]
+  },
+  {
+    "handle": "TeamLiquid",
+    "circle": [
+      {
+        "handle": "lolesports",
+        "inPool": true,
+        "why": "LoL esports ecosystem they compete in"
+      },
+      {
+        "handle": "DOTA2",
+        "inPool": true,
+        "why": "TI7 champions, core Dota org"
+      },
+      {
+        "handle": "Cloud9",
+        "inPool": true,
+        "why": "NA rivalry, frequent head-to-heads"
+      },
+      {
+        "handle": "TSM",
+        "inPool": false,
+        "why": "historic NA rival org"
+      },
+      {
+        "handle": "CounterStrike",
+        "inPool": true,
+        "why": "longtime CS roster and Major runs"
+      }
+    ]
+  },
+  {
+    "handle": "Cloud9",
+    "circle": [
+      {
+        "handle": "TSM",
+        "inPool": false,
+        "why": "defining NA League rivalry"
+      },
+      {
+        "handle": "TeamLiquid",
+        "inPool": true,
+        "why": "NA rival, frequent banter"
+      },
+      {
+        "handle": "lolesports",
+        "inPool": true,
+        "why": "LCS/Worlds ecosystem"
+      },
+      {
+        "handle": "Sneaky",
+        "inPool": false,
+        "why": "beloved longtime C9 AD carry and co-owner"
+      },
+      {
+        "handle": "PlayVALORANT",
+        "inPool": true,
+        "why": "fields a VALORANT roster in VCT"
+      }
+    ]
+  },
+  {
+    "handle": "G2esports",
+    "circle": [
+      {
+        "handle": "FNATIC",
+        "inPool": true,
+        "why": "biggest EU rivalry, constant trash talk"
+      },
+      {
+        "handle": "LEC",
+        "inPool": false,
+        "why": "their home League of Legends league"
+      },
+      {
+        "handle": "lolesports",
+        "inPool": true,
+        "why": "Worlds ecosystem and memes"
+      },
+      {
+        "handle": "natusvincere",
+        "inPool": true,
+        "why": "CS rivalry at Majors"
+      },
+      {
+        "handle": "CounterStrike",
+        "inPool": true,
+        "why": "longtime CS competitive presence"
+      }
+    ]
+  },
+  {
+    "handle": "natusvincere",
+    "circle": [
+      {
+        "handle": "s1mpleO",
+        "inPool": true,
+        "why": "legendary NAVI CS player, organization icon"
+      },
+      {
+        "handle": "CounterStrike",
+        "inPool": true,
+        "why": "core game they compete in"
+      },
+      {
+        "handle": "ESLCS",
+        "inPool": false,
+        "why": "tournament circuit they headline"
+      },
+      {
+        "handle": "G2esports",
+        "inPool": true,
+        "why": "Major-stage rivalry"
+      },
+      {
+        "handle": "HLTVorg",
+        "inPool": false,
+        "why": "CS news hub that covers them constantly"
+      }
+    ]
+  },
+  {
+    "handle": "T1",
+    "circle": [
+      {
+        "handle": "lolesports",
+        "inPool": true,
+        "why": "Worlds champions, global LoL ecosystem"
+      },
+      {
+        "handle": "LCK",
+        "inPool": false,
+        "why": "their home Korean league"
+      },
+      {
+        "handle": "GenG",
+        "inPool": false,
+        "why": "premier LCK rivalry"
+      },
+      {
+        "handle": "riotgames",
+        "inPool": true,
+        "why": "league operator and partner"
+      },
+      {
+        "handle": "ValorantEsports",
+        "inPool": false,
+        "why": "fields a VCT Pacific roster"
+      }
+    ]
+  },
+  {
+    "handle": "GamesDoneQuick",
+    "circle": [
+      {
+        "handle": "MSF_USA",
+        "inPool": false,
+        "why": "Doctors Without Borders, SGDQ charity beneficiary"
+      },
+      {
+        "handle": "PreventCancer",
+        "inPool": false,
+        "why": "Prevent Cancer Foundation, AGDQ beneficiary"
+      },
+      {
+        "handle": "GrandPOOBear",
+        "inPool": false,
+        "why": "star speedrunner and frequent GDQ runner"
+      },
+      {
+        "handle": "Smallant",
+        "inPool": false,
+        "why": "popular runner featured at GDQ events"
+      },
+      {
+        "handle": "summoningsalt",
+        "inPool": false,
+        "why": "speedrun-history YouTuber tied to the community"
+      }
+    ]
+  },
+  {
+    "handle": "giantbomb",
+    "circle": [
+      {
+        "handle": "JeffGrubb",
+        "inPool": false,
+        "why": "Giant Bomb staffer and show host"
+      },
+      {
+        "handle": "jeffgerstmann",
+        "inPool": true,
+        "why": "co-founder, defined the site's voice"
+      },
+      {
+        "handle": "DanRyckert",
+        "inPool": false,
+        "why": "longtime former staffer, recurring guest"
+      },
+      {
+        "handle": "VinnyCaravella",
+        "inPool": false,
+        "why": "co-founder era personality and host"
+      },
+      {
+        "handle": "GameSpot",
+        "inPool": true,
+        "why": "former sister site under the same ownership"
+      }
+    ]
+  },
+  {
+    "handle": "jeffgerstmann",
+    "circle": [
+      {
+        "handle": "giantbomb",
+        "inPool": true,
+        "why": "site he co-founded and hosted for 14 years"
+      },
+      {
+        "handle": "JeffGrubb",
+        "inPool": false,
+        "why": "games-press peer, frequent podcast crossover"
+      },
+      {
+        "handle": "DanRyckert",
+        "inPool": false,
+        "why": "former Giant Bomb colleague and friend"
+      },
+      {
+        "handle": "patrickklepek",
+        "inPool": false,
+        "why": "former Giant Bomb colleague, games-press circle"
+      },
+      {
+        "handle": "GameSpot",
+        "inPool": true,
+        "why": "infamous 2007 firing, formative history"
+      }
+    ]
+  },
+  {
+    "handle": "digitalfoundry",
+    "circle": [
+      {
+        "handle": "eurogamer",
+        "inPool": true,
+        "why": "founding partner network"
+      },
+      {
+        "handle": "dark1x",
+        "inPool": false,
+        "why": "John Linneman, DF's own analyst"
+      },
+      {
+        "handle": "Xbox",
+        "inPool": true,
+        "why": "hardware deep-dives and early access coverage"
+      },
+      {
+        "handle": "PlayStation",
+        "inPool": true,
+        "why": "console teardown and PS5 Pro analysis coverage"
+      },
+      {
+        "handle": "nvidia",
+        "inPool": true,
+        "why": "DLSS and GPU tech coverage collaborations"
+      }
+    ]
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "handle": "Crunchyroll",
+    "circle": [
+      { "handle": "VIZMedia", "inPool": true, "why": "manga tie-in cross-promotion partner" },
+      { "handle": "shonenjump", "inPool": true, "why": "promotes Jump series simulcasts" },
+      { "handle": "aniplexUSA", "inPool": true, "why": "licensing and streaming partner" },
+      { "handle": "AnimeExpo", "inPool": true, "why": "annual industry panels and premieres" },
+      { "handle": "AttackonTitan", "inPool": true, "why": "streams and amplifies the series" },
+      { "handle": "animetv_jp", "inPool": true, "why": "fan news account amplifying its announcements" }
+    ]
+  },
+  {
+    "handle": "VIZMedia",
+    "circle": [
+      { "handle": "shonenjump", "inPool": true, "why": "its own Shonen Jump imprint account" },
+      { "handle": "Crunchyroll", "inPool": true, "why": "anime adaptation cross-promotion" },
+      { "handle": "horikoshiko", "inPool": true, "why": "publishes My Hero Academia in English" },
+      { "handle": "AnimeExpo", "inPool": true, "why": "exhibitor with annual panel announcements" },
+      { "handle": "myanimelist", "inPool": true, "why": "manga release news amplification" }
+    ]
+  },
+  {
+    "handle": "shonenjump",
+    "circle": [
+      { "handle": "VIZMedia", "inPool": true, "why": "parent company account" },
+      { "handle": "horikoshiko", "inPool": true, "why": "serialized Jump creator it promotes" },
+      { "handle": "Crunchyroll", "inPool": true, "why": "Jump anime adaptation cross-promo" },
+      { "handle": "myanimelist", "inPool": true, "why": "chapter release news circulation" },
+      { "handle": "AnimeExpo", "inPool": true, "why": "Jump panels at the convention" }
+    ]
+  },
+  {
+    "handle": "myanimelist",
+    "circle": [
+      { "handle": "Crunchyroll", "inPool": true, "why": "seasonal anime news sourcing" },
+      { "handle": "animetv_jp", "inPool": true, "why": "fellow anime news amplification orbit" },
+      { "handle": "AnimeCorner_ac", "inPool": true, "why": "competing anime rankings and polls" },
+      { "handle": "VIZMedia", "inPool": true, "why": "manga publication news coverage" },
+      { "handle": "AnimeExpo", "inPool": true, "why": "convention coverage and booth presence" }
+    ]
+  },
+  {
+    "handle": "KodanshaManga",
+    "circle": [
+      { "handle": "AttackonTitan", "inPool": true, "why": "its flagship series account" },
+      { "handle": "Crunchyroll", "inPool": true, "why": "anime adaptations of Kodansha titles" },
+      { "handle": "AnimeExpo", "inPool": true, "why": "annual licensing announcements at AX" },
+      { "handle": "myanimelist", "inPool": true, "why": "manga release news circulation" },
+      { "handle": "VIZMedia", "inPool": true, "why": "fellow manga publisher industry orbit" }
+    ]
+  },
+  {
+    "handle": "animetv_jp",
+    "circle": [
+      { "handle": "Crunchyroll", "inPool": true, "why": "amplifies its simulcast announcements" },
+      { "handle": "AnimeCorner_ac", "inPool": true, "why": "fellow anime news account orbit" },
+      { "handle": "myanimelist", "inPool": true, "why": "shared seasonal anime news beat" },
+      { "handle": "NetflixGeeked", "inPool": true, "why": "covers Netflix anime reveals" },
+      { "handle": "AttackonTitan", "inPool": true, "why": "trailer and key visual amplification" }
+    ]
+  },
+  {
+    "handle": "AnimeCorner_ac",
+    "circle": [
+      { "handle": "animetv_jp", "inPool": true, "why": "fellow anime news account orbit" },
+      { "handle": "Crunchyroll", "inPool": true, "why": "sources its simulcast announcements" },
+      { "handle": "myanimelist", "inPool": true, "why": "competing weekly anime rankings" },
+      { "handle": "AnimeExpo", "inPool": true, "why": "convention news coverage" },
+      { "handle": "NetflixGeeked", "inPool": true, "why": "covers Netflix anime slate news" }
+    ]
+  },
+  {
+    "handle": "AttackonTitan",
+    "circle": [
+      { "handle": "KodanshaManga", "inPool": true, "why": "its English publisher" },
+      { "handle": "Crunchyroll", "inPool": true, "why": "streaming home of the anime" },
+      { "handle": "animetv_jp", "inPool": true, "why": "fan news amplifying its trailers" },
+      { "handle": "AnimeExpo", "inPool": true, "why": "finale events and panels" },
+      { "handle": "myanimelist", "inPool": true, "why": "tops its rankings, news circulation" }
+    ]
+  },
+  {
+    "handle": "NetflixGeeked",
+    "circle": [
+      { "handle": "netflix", "inPool": true, "why": "parent brand account" },
+      { "handle": "Stranger_Things", "inPool": false, "why": "own franchise account it amplifies" },
+      { "handle": "DiscussingFilm", "inPool": true, "why": "film fandom news orbit covering its reveals" },
+      { "handle": "culturecrave", "inPool": true, "why": "pop culture news amplifying announcements" },
+      { "handle": "PopBase", "inPool": true, "why": "entertainment news circulation of trailers" }
+    ]
+  },
+  {
+    "handle": "aniplexUSA",
+    "circle": [
+      { "handle": "Crunchyroll", "inPool": true, "why": "Sony sibling and streaming partner" },
+      { "handle": "AnimeExpo", "inPool": true, "why": "hosts premieres and panels at AX" },
+      { "handle": "animetv_jp", "inPool": true, "why": "amplifies its title announcements" },
+      { "handle": "AnimeCorner_ac", "inPool": true, "why": "covers its anime slate news" },
+      { "handle": "myanimelist", "inPool": true, "why": "release news circulation" }
+    ]
+  },
+  {
+    "handle": "horikoshiko",
+    "circle": [
+      { "handle": "shonenjump", "inPool": true, "why": "serialization home of My Hero Academia" },
+      { "handle": "VIZMedia", "inPool": true, "why": "his English-language publisher" },
+      { "handle": "Crunchyroll", "inPool": true, "why": "promotes the MHA anime he illustrates for" },
+      { "handle": "animetv_jp", "inPool": true, "why": "amplifies his celebration sketches" },
+      { "handle": "AnimeCorner_ac", "inPool": true, "why": "covers his art posts as news" }
+    ]
+  },
+  {
+    "handle": "AnimeExpo",
+    "circle": [
+      { "handle": "Crunchyroll", "inPool": true, "why": "headline industry exhibitor" },
+      { "handle": "aniplexUSA", "inPool": true, "why": "annual premiere events at the con" },
+      { "handle": "VIZMedia", "inPool": true, "why": "panel and licensing announcements" },
+      { "handle": "KodanshaManga", "inPool": true, "why": "publisher panels and guests" },
+      { "handle": "animetv_jp", "inPool": true, "why": "live coverage of its announcements" }
+    ]
+  },
+  {
+    "handle": "HYBEOFFICIALtwt",
+    "circle": [
+      { "handle": "BIGHIT_MUSIC", "inPool": true, "why": "flagship subsidiary label" },
+      { "handle": "bts_twt", "inPool": true, "why": "flagship artist it promotes" },
+      { "handle": "TXT_bighit", "inPool": true, "why": "roster artist promotion" },
+      { "handle": "ENHYPEN", "inPool": true, "why": "BELIFT LAB roster artist" },
+      { "handle": "le_sserafim", "inPool": true, "why": "Source Music roster artist" },
+      { "handle": "NewJeans_ADOR", "inPool": true, "why": "ADOR sublabel artist" },
+      { "handle": "weverseofficial", "inPool": true, "why": "its own fan platform" }
+    ]
+  },
+  {
+    "handle": "weverseofficial",
+    "circle": [
+      { "handle": "HYBEOFFICIALtwt", "inPool": true, "why": "parent company" },
+      { "handle": "BIGHIT_MUSIC", "inPool": true, "why": "label whose artists live on the platform" },
+      { "handle": "bts_twt", "inPool": true, "why": "promotes their Weverse lives and posts" },
+      { "handle": "TXT_bighit", "inPool": true, "why": "platform content cross-promotion" },
+      { "handle": "ENHYPEN", "inPool": true, "why": "platform content cross-promotion" },
+      { "handle": "pledis_17", "inPool": true, "why": "SEVENTEEN Weverse content promotion" }
+    ]
+  },
+  {
+    "handle": "SMTOWNGLOBAL",
+    "circle": [
+      { "handle": "aespa_official", "inPool": true, "why": "roster artist promotion" },
+      { "handle": "NCTsmtown", "inPool": true, "why": "roster artist promotion" },
+      { "handle": "weareoneEXO", "inPool": false, "why": "veteran SM roster group" },
+      { "handle": "RVsmtown", "inPool": false, "why": "Red Velvet roster promotion" },
+      { "handle": "soompi", "inPool": true, "why": "constant coverage of SM announcements" }
+    ]
+  },
+  {
+    "handle": "JYPETWITTER",
+    "circle": [
+      { "handle": "JYPETWICE", "inPool": true, "why": "flagship roster group" },
+      { "handle": "Stray_Kids", "inPool": true, "why": "roster artist promotion" },
+      { "handle": "ITZYofficial", "inPool": false, "why": "roster artist promotion" },
+      { "handle": "NMIXX_official", "inPool": false, "why": "roster artist promotion" },
+      { "handle": "soompi", "inPool": true, "why": "covers every JYP comeback" }
+    ]
+  },
+  {
+    "handle": "ygent_official",
+    "circle": [
+      { "handle": "BLACKPINK", "inPool": true, "why": "flagship roster group" },
+      { "handle": "soompi", "inPool": true, "why": "constant coverage of YG announcements" },
+      { "handle": "allkpop", "inPool": true, "why": "covers its label news and statements" },
+      { "handle": "SMTOWNGLOBAL", "inPool": true, "why": "big-3 label industry rival orbit" },
+      { "handle": "JYPETWITTER", "inPool": true, "why": "big-3 label industry rival orbit" }
+    ]
+  },
+  {
+    "handle": "BLACKPINK",
+    "circle": [
+      { "handle": "ygent_official", "inPool": true, "why": "their label" },
+      { "handle": "selenagomez", "inPool": true, "why": "Ice Cream collaboration promo" },
+      { "handle": "ladygaga", "inPool": true, "why": "Sour Candy collaboration promo" },
+      { "handle": "dualipa", "inPool": true, "why": "Kiss and Make Up collaboration" },
+      { "handle": "soompi", "inPool": true, "why": "covers every release and tour date" },
+      { "handle": "chartdata", "inPool": true, "why": "constant chart milestone posts about them" }
+    ]
+  },
+  {
+    "handle": "Stray_Kids",
+    "circle": [
+      { "handle": "JYPETWITTER", "inPool": true, "why": "their label" },
+      { "handle": "JYPETWICE", "inPool": true, "why": "JYP label-mate interactions" },
+      { "handle": "ITZYofficial", "inPool": false, "why": "JYP label-mate interactions" },
+      { "handle": "charlieputh", "inPool": false, "why": "Lose My Breath collaboration" },
+      { "handle": "chartdata", "inPool": true, "why": "Billboard 200 number-one milestone posts" },
+      { "handle": "soompi", "inPool": true, "why": "comeback and tour coverage" }
+    ]
+  },
+  {
+    "handle": "pledis_17",
+    "circle": [
+      { "handle": "HYBEOFFICIALtwt", "inPool": true, "why": "parent company of Pledis" },
+      { "handle": "weverseofficial", "inPool": true, "why": "fan platform where they post lives" },
+      { "handle": "soompi", "inPool": true, "why": "covers every SEVENTEEN comeback" },
+      { "handle": "allkpop", "inPool": true, "why": "constant coverage of group news" },
+      { "handle": "chartdata", "inPool": true, "why": "album sales milestone posts about them" }
+    ]
+  },
+  {
+    "handle": "TXT_bighit",
+    "circle": [
+      { "handle": "BIGHIT_MUSIC", "inPool": true, "why": "their label" },
+      { "handle": "bts_twt", "inPool": true, "why": "label seniors and mentors" },
+      { "handle": "HYBEOFFICIALtwt", "inPool": true, "why": "parent company promotion" },
+      { "handle": "weverseofficial", "inPool": true, "why": "fan platform content promotion" },
+      { "handle": "ENHYPEN", "inPool": true, "why": "same-generation HYBE group interactions" }
+    ]
+  },
+  {
+    "handle": "ENHYPEN",
+    "circle": [
+      { "handle": "HYBEOFFICIALtwt", "inPool": true, "why": "parent company of BELIFT LAB" },
+      { "handle": "weverseofficial", "inPool": true, "why": "fan platform content promotion" },
+      { "handle": "TXT_bighit", "inPool": true, "why": "same-generation HYBE group interactions" },
+      { "handle": "soompi", "inPool": true, "why": "comeback and tour coverage" },
+      { "handle": "chartdata", "inPool": true, "why": "chart milestone posts about them" }
+    ]
+  },
+  {
+    "handle": "NewJeans_ADOR",
+    "circle": [
+      { "handle": "HYBEOFFICIALtwt", "inPool": true, "why": "parent company of ADOR" },
+      { "handle": "weverseofficial", "inPool": true, "why": "fan platform where they post" },
+      { "handle": "soompi", "inPool": true, "why": "heavy coverage of group news" },
+      { "handle": "allkpop", "inPool": true, "why": "covered their label dispute saga closely" },
+      { "handle": "koreaboo", "inPool": false, "why": "viral fan-moment coverage of the group" }
+    ]
+  },
+  {
+    "handle": "IVEstarship",
+    "circle": [
+      { "handle": "soompi", "inPool": true, "why": "comeback coverage" },
+      { "handle": "allkpop", "inPool": true, "why": "constant group news coverage" },
+      { "handle": "chartdata", "inPool": true, "why": "chart milestone posts about them" },
+      { "handle": "billboardcharts", "inPool": true, "why": "Billboard chart entries coverage" },
+      { "handle": "koreaboo", "inPool": false, "why": "viral fan-moment coverage" }
+    ]
+  },
+  {
+    "handle": "le_sserafim",
+    "circle": [
+      { "handle": "HYBEOFFICIALtwt", "inPool": true, "why": "parent company of Source Music" },
+      { "handle": "weverseofficial", "inPool": true, "why": "fan platform content promotion" },
+      { "handle": "soompi", "inPool": true, "why": "comeback and Coachella coverage" },
+      { "handle": "chartdata", "inPool": true, "why": "Hot 100 entry milestone posts" },
+      { "handle": "allkpop", "inPool": true, "why": "constant group news coverage" }
+    ]
+  },
+  {
+    "handle": "aespa_official",
+    "circle": [
+      { "handle": "SMTOWNGLOBAL", "inPool": true, "why": "their label" },
+      { "handle": "NCTsmtown", "inPool": true, "why": "SM label-mate interactions" },
+      { "handle": "soompi", "inPool": true, "why": "comeback coverage" },
+      { "handle": "allkpop", "inPool": true, "why": "constant group news coverage" },
+      { "handle": "chartdata", "inPool": true, "why": "album sales milestone posts" }
+    ]
+  },
+  {
+    "handle": "JYPETWICE",
+    "circle": [
+      { "handle": "JYPETWITTER", "inPool": true, "why": "their label" },
+      { "handle": "Stray_Kids", "inPool": true, "why": "JYP label-mate interactions" },
+      { "handle": "ITZYofficial", "inPool": false, "why": "JYP junior group interactions" },
+      { "handle": "soompi", "inPool": true, "why": "comeback and tour coverage" },
+      { "handle": "chartdata", "inPool": true, "why": "chart milestone posts about them" },
+      { "handle": "billboardcharts", "inPool": true, "why": "Billboard 200 number-one coverage" }
+    ]
+  },
+  {
+    "handle": "NCTsmtown",
+    "circle": [
+      { "handle": "SMTOWNGLOBAL", "inPool": true, "why": "their label" },
+      { "handle": "aespa_official", "inPool": true, "why": "SM label-mate interactions" },
+      { "handle": "weareoneEXO", "inPool": false, "why": "SM senior group orbit" },
+      { "handle": "RVsmtown", "inPool": false, "why": "SM label-mate orbit" },
+      { "handle": "soompi", "inPool": true, "why": "unit comeback coverage" }
+    ]
+  },
+  {
+    "handle": "soompi",
+    "circle": [
+      { "handle": "bts_twt", "inPool": true, "why": "core coverage subject" },
+      { "handle": "BLACKPINK", "inPool": true, "why": "core coverage subject" },
+      { "handle": "JYPETWICE", "inPool": true, "why": "comeback coverage subject" },
+      { "handle": "Stray_Kids", "inPool": true, "why": "comeback coverage subject" },
+      { "handle": "HYBEOFFICIALtwt", "inPool": true, "why": "sources label announcements" },
+      { "handle": "SMTOWNGLOBAL", "inPool": true, "why": "sources label announcements" }
+    ]
+  },
+  {
+    "handle": "allkpop",
+    "circle": [
+      { "handle": "bts_twt", "inPool": true, "why": "core coverage subject" },
+      { "handle": "BLACKPINK", "inPool": true, "why": "core coverage subject" },
+      { "handle": "JYPETWICE", "inPool": true, "why": "comeback coverage subject" },
+      { "handle": "SMTOWNGLOBAL", "inPool": true, "why": "sources label announcements" },
+      { "handle": "chartdata", "inPool": true, "why": "cites chart data in coverage" }
+    ]
+  },
+  {
+    "handle": "AO3_Status",
+    "circle": [
+      { "handle": "tumblr", "inPool": true, "why": "sibling fandom platform, shared user base" },
+      { "handle": "wattpad", "inPool": false, "why": "fellow fanfiction platform orbit" },
+      { "handle": "getfandom", "inPool": false, "why": "fandom wiki platform orbit" },
+      { "handle": "dreamwidth", "inPool": false, "why": "fellow fan-community platform orbit" },
+      { "handle": "culturecrave", "inPool": true, "why": "fandom news covering AO3 milestones" }
+    ]
+  },
+  {
+    "handle": "tumblr",
+    "circle": [
+      { "handle": "AO3_Status", "inPool": true, "why": "fandom platform sibling, migration discourse" },
+      { "handle": "netflix", "inPool": true, "why": "brand-account banter and fandom promos" },
+      { "handle": "wendys", "inPool": true, "why": "brand-account humor exchanges" },
+      { "handle": "duolingo", "inPool": false, "why": "chaotic brand-account humor exchanges" },
+      { "handle": "getfandom", "inPool": false, "why": "fandom platform orbit" }
+    ]
+  },
+  {
+    "handle": "culturecrave",
+    "circle": [
+      { "handle": "DiscussingFilm", "inPool": true, "why": "fellow film fandom news account" },
+      { "handle": "PopBase", "inPool": true, "why": "fellow pop culture news account" },
+      { "handle": "PopCrave", "inPool": true, "why": "fellow pop culture news account" },
+      { "handle": "netflix", "inPool": true, "why": "covers its announcements and trailers" },
+      { "handle": "MTV", "inPool": true, "why": "award show coverage orbit" }
+    ]
+  }
+]

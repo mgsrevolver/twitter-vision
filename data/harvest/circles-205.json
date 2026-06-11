@@ -1,0 +1,1002 @@
+[
+  {
+    "handle": "deadmau5",
+    "circle": [
+      {
+        "handle": "OfficialRezz",
+        "inPool": true,
+        "why": "mau5trap signee; 'Hypnocurrency' collab"
+      },
+      {
+        "handle": "kaskade",
+        "inPool": false,
+        "why": "'I Remember' and 'Move for Me' collabs"
+      },
+      {
+        "handle": "Skrillex",
+        "inPool": true,
+        "why": "longtime friend; early releases on mau5trap"
+      },
+      {
+        "handle": "lightsmusic",
+        "inPool": false,
+        "why": "'Drama Free' collab; fellow Canadian friend"
+      },
+      {
+        "handle": "SteveDuda",
+        "inPool": false,
+        "why": "close friend and longtime studio collaborator"
+      },
+      {
+        "handle": "wolfganggartner",
+        "inPool": false,
+        "why": "'Animal Rights' collab"
+      }
+    ]
+  },
+  {
+    "handle": "Skrillex",
+    "circle": [
+      {
+        "handle": "diplo",
+        "inPool": true,
+        "why": "Jack U duo"
+      },
+      {
+        "handle": "boysnoize",
+        "inPool": false,
+        "why": "Dog Blood duo"
+      },
+      {
+        "handle": "fredagainagain1",
+        "inPool": false,
+        "why": "'Rumble' collab; Coachella 2023 b2b"
+      },
+      {
+        "handle": "FourTet",
+        "inPool": false,
+        "why": "'Butterflies' collab; b2b trio with Fred again.."
+      },
+      {
+        "handle": "justinbieber",
+        "inPool": true,
+        "why": "'Where Are U Now' collab"
+      },
+      {
+        "handle": "deadmau5",
+        "inPool": true,
+        "why": "longtime friend in dance scene"
+      }
+    ]
+  },
+  {
+    "handle": "diplo",
+    "circle": [
+      {
+        "handle": "Skrillex",
+        "inPool": true,
+        "why": "Jack U duo"
+      },
+      {
+        "handle": "MAJORLAZER",
+        "inPool": false,
+        "why": "his own group"
+      },
+      {
+        "handle": "DillonFrancis",
+        "inPool": true,
+        "why": "Mad Decent signee and longtime friend"
+      },
+      {
+        "handle": "MarkRonson",
+        "inPool": true,
+        "why": "Silk City duo"
+      },
+      {
+        "handle": "DUALIPA",
+        "inPool": true,
+        "why": "'Electricity' with Silk City"
+      }
+    ]
+  },
+  {
+    "handle": "Zedd",
+    "circle": [
+      {
+        "handle": "alessiacara",
+        "inPool": false,
+        "why": "'Stay' collab"
+      },
+      {
+        "handle": "MarenMorris",
+        "inPool": false,
+        "why": "'The Middle' collab"
+      },
+      {
+        "handle": "KeshaRose",
+        "inPool": false,
+        "why": "'True Colors' collab"
+      },
+      {
+        "handle": "yelyahwilliams",
+        "inPool": false,
+        "why": "'Stay the Night' collab"
+      },
+      {
+        "handle": "katyperry",
+        "inPool": true,
+        "why": "'365' collab"
+      }
+    ]
+  },
+  {
+    "handle": "flyinglotus",
+    "circle": [
+      {
+        "handle": "Thundercat",
+        "inPool": true,
+        "why": "Brainfeeder signee; co-produces his albums"
+      },
+      {
+        "handle": "TOKiMONSTA",
+        "inPool": false,
+        "why": "LA beat-scene peer; Brainfeeder alum"
+      },
+      {
+        "handle": "KamasiW",
+        "inPool": false,
+        "why": "Brainfeeder released The Epic"
+      },
+      {
+        "handle": "denzelcurry",
+        "inPool": false,
+        "why": "'Black Balloons Reprise' collab"
+      },
+      {
+        "handle": "AndersonPaak",
+        "inPool": true,
+        "why": "'More' collab on Flamagra"
+      }
+    ]
+  },
+  {
+    "handle": "porterrobinson",
+    "circle": [
+      {
+        "handle": "madeon",
+        "inPool": true,
+        "why": "'Shelter' collab and lifelong friend"
+      },
+      {
+        "handle": "Skrillex",
+        "inPool": true,
+        "why": "signed his early EPs to OWSLA"
+      },
+      {
+        "handle": "kerokerobonito",
+        "inPool": false,
+        "why": "toured together; Second Sky lineup"
+      },
+      {
+        "handle": "100gecs",
+        "inPool": true,
+        "why": "booked them for Second Sky festival"
+      },
+      {
+        "handle": "LeagueOfLegends",
+        "inPool": true,
+        "why": "wrote 'Everything Goes On' for the game"
+      }
+    ]
+  },
+  {
+    "handle": "madeon",
+    "circle": [
+      {
+        "handle": "porterrobinson",
+        "inPool": true,
+        "why": "'Shelter' collab and lifelong friend"
+      },
+      {
+        "handle": "ladygaga",
+        "inPool": true,
+        "why": "opened her artRAVE: ARTPOP Ball tour"
+      },
+      {
+        "handle": "passionpit",
+        "inPool": false,
+        "why": "'Pay No Mind' features Michael Angelakos"
+      },
+      {
+        "handle": "Zedd",
+        "inPool": true,
+        "why": "festival-circuit friend; frequent mutuals"
+      },
+      {
+        "handle": "Skrillex",
+        "inPool": true,
+        "why": "longtime mutual supporter in dance scene"
+      }
+    ]
+  },
+  {
+    "handle": "odesza",
+    "circle": [
+      {
+        "handle": "RUFUSDUSOL",
+        "inPool": false,
+        "why": "live-electronic peers; co-headline festivals"
+      },
+      {
+        "handle": "bigwildmusic",
+        "inPool": false,
+        "why": "signed to their Foreign Family Collective"
+      },
+      {
+        "handle": "leonbridges",
+        "inPool": false,
+        "why": "'Across the Room' collab"
+      },
+      {
+        "handle": "GoldenFeatures",
+        "inPool": false,
+        "why": "BRONSON joint album"
+      },
+      {
+        "handle": "flumemusic",
+        "inPool": true,
+        "why": "festival co-headliner peer"
+      }
+    ]
+  },
+  {
+    "handle": "flumemusic",
+    "circle": [
+      {
+        "handle": "carolineplz",
+        "inPool": true,
+        "why": "'Sirens' collab"
+      },
+      {
+        "handle": "vincestaples",
+        "inPool": false,
+        "why": "produced 'Yeah Right'"
+      },
+      {
+        "handle": "ToroyMoi",
+        "inPool": false,
+        "why": "'The Difference' collab"
+      },
+      {
+        "handle": "londongrammar",
+        "inPool": false,
+        "why": "'Let You Know' collab"
+      },
+      {
+        "handle": "WhatSoNot",
+        "inPool": false,
+        "why": "founding member of What So Not before going solo"
+      }
+    ]
+  },
+  {
+    "handle": "KAYTRANADA",
+    "circle": [
+      {
+        "handle": "AndersonPaak",
+        "inPool": true,
+        "why": "'Glowed Up' collab"
+      },
+      {
+        "handle": "KALIUCHIS",
+        "inPool": false,
+        "why": "'10%' collab"
+      },
+      {
+        "handle": "GoldLink",
+        "inPool": false,
+        "why": "frequent production collaborator"
+      },
+      {
+        "handle": "internetsyd",
+        "inPool": false,
+        "why": "'You're the One' collab"
+      },
+      {
+        "handle": "HERMusicx",
+        "inPool": true,
+        "why": "'Intimidated' collab"
+      }
+    ]
+  },
+  {
+    "handle": "OfficialRezz",
+    "circle": [
+      {
+        "handle": "deadmau5",
+        "inPool": true,
+        "why": "mau5trap signee; 'Hypnocurrency' collab"
+      },
+      {
+        "handle": "Skrillex",
+        "inPool": true,
+        "why": "OWSLA released her early EP"
+      },
+      {
+        "handle": "grabbitz",
+        "inPool": false,
+        "why": "'Someone Else' collab"
+      },
+      {
+        "handle": "awonderland",
+        "inPool": true,
+        "why": "festival peer; mutual support"
+      },
+      {
+        "handle": "Subtronics",
+        "inPool": false,
+        "why": "'Puzzle Box' collab"
+      }
+    ]
+  },
+  {
+    "handle": "awonderland",
+    "circle": [
+      {
+        "handle": "DillonFrancis",
+        "inPool": true,
+        "why": "'Lost My Mind' collab and close friend"
+      },
+      {
+        "handle": "diplo",
+        "inPool": true,
+        "why": "toured together; Mad Decent ties"
+      },
+      {
+        "handle": "Skrillex",
+        "inPool": true,
+        "why": "early champion and close friend"
+      },
+      {
+        "handle": "WhatSoNot",
+        "inPool": false,
+        "why": "fellow Aussie; longtime scene friend"
+      },
+      {
+        "handle": "OfficialRezz",
+        "inPool": true,
+        "why": "mutual support; festival peers"
+      }
+    ]
+  },
+  {
+    "handle": "DillonFrancis",
+    "circle": [
+      {
+        "handle": "diplo",
+        "inPool": true,
+        "why": "'Que Que' collab; Mad Decent family"
+      },
+      {
+        "handle": "awonderland",
+        "inPool": true,
+        "why": "'Lost My Mind' collab"
+      },
+      {
+        "handle": "djsnake",
+        "inPool": false,
+        "why": "'Get Low' collab"
+      },
+      {
+        "handle": "NGHTMRE",
+        "inPool": false,
+        "why": "'Need You' collab"
+      },
+      {
+        "handle": "Skrillex",
+        "inPool": true,
+        "why": "'Bun Up the Dance' collab"
+      }
+    ]
+  },
+  {
+    "handle": "Carl_Cox",
+    "circle": [
+      {
+        "handle": "richiehawtin",
+        "inPool": true,
+        "why": "fellow techno pioneer; decades of shared lineups"
+      },
+      {
+        "handle": "NinaKraviz",
+        "inPool": false,
+        "why": "techno circuit peer"
+      },
+      {
+        "handle": "FatboySlim",
+        "inPool": false,
+        "why": "UK dance veteran friend"
+      },
+      {
+        "handle": "petetong",
+        "inPool": false,
+        "why": "BBC Radio 1 dance family"
+      },
+      {
+        "handle": "ericprydz",
+        "inPool": false,
+        "why": "Ibiza headliner peer"
+      }
+    ]
+  },
+  {
+    "handle": "richiehawtin",
+    "circle": [
+      {
+        "handle": "Carl_Cox",
+        "inPool": true,
+        "why": "fellow techno pioneer and longtime friend"
+      },
+      {
+        "handle": "dubfire",
+        "inPool": false,
+        "why": "techno peer and friend"
+      },
+      {
+        "handle": "NinaKraviz",
+        "inPool": false,
+        "why": "played his ENTER. nights in Ibiza"
+      },
+      {
+        "handle": "chris_liebing",
+        "inPool": false,
+        "why": "fellow techno veteran friend"
+      },
+      {
+        "handle": "petetong",
+        "inPool": false,
+        "why": "BBC Radio 1 dance family"
+      }
+    ]
+  },
+  {
+    "handle": "peggygou_",
+    "circle": [
+      {
+        "handle": "honeydijon",
+        "inPool": false,
+        "why": "house scene peer and friend"
+      },
+      {
+        "handle": "LennyKravitz",
+        "inPool": false,
+        "why": "'I Believe in Love Again' collab"
+      },
+      {
+        "handle": "RealBlackCoffee",
+        "inPool": true,
+        "why": "festival and Ibiza circuit peer"
+      },
+      {
+        "handle": "NinaKraviz",
+        "inPool": false,
+        "why": "DJ circuit peer"
+      },
+      {
+        "handle": "Carl_Cox",
+        "inPool": true,
+        "why": "veteran supporter; shared festival stages"
+      }
+    ]
+  },
+  {
+    "handle": "RealBlackCoffee",
+    "circle": [
+      {
+        "handle": "Drake",
+        "inPool": true,
+        "why": "Drake's 'Get It Together' reworked his 'Superman'"
+      },
+      {
+        "handle": "davidguetta",
+        "inPool": false,
+        "why": "'Drive' collab"
+      },
+      {
+        "handle": "Usher",
+        "inPool": true,
+        "why": "'LaLaLa' collab"
+      },
+      {
+        "handle": "peggygou_",
+        "inPool": true,
+        "why": "circuit peer; Ibiza scene"
+      },
+      {
+        "handle": "diplo",
+        "inPool": true,
+        "why": "'Never Gonna Forget' collab"
+      }
+    ]
+  },
+  {
+    "handle": "thomyorke",
+    "circle": [
+      {
+        "handle": "radiohead",
+        "inPool": false,
+        "why": "his band"
+      },
+      {
+        "handle": "nigelgod",
+        "inPool": false,
+        "why": "longtime producer; Atoms for Peace bandmate"
+      },
+      {
+        "handle": "flea333",
+        "inPool": false,
+        "why": "Atoms for Peace bandmate"
+      },
+      {
+        "handle": "FourTet",
+        "inPool": false,
+        "why": "remixes and mutual collabs"
+      },
+      {
+        "handle": "modeselektor",
+        "inPool": false,
+        "why": "frequent guest vocalist on their records"
+      }
+    ]
+  },
+  {
+    "handle": "tameimpala",
+    "circle": [
+      {
+        "handle": "MarkRonson",
+        "inPool": true,
+        "why": "'Daffodils' collab with Kevin Parker"
+      },
+      {
+        "handle": "trvisXX",
+        "inPool": true,
+        "why": "'Skeletons' collab"
+      },
+      {
+        "handle": "ladygaga",
+        "inPool": true,
+        "why": "Kevin Parker co-wrote 'Perfect Illusion'"
+      },
+      {
+        "handle": "rihanna",
+        "inPool": true,
+        "why": "covered 'New Person, Same Old Mistakes'"
+      },
+      {
+        "handle": "pondband",
+        "inPool": false,
+        "why": "sister band from Perth"
+      }
+    ]
+  },
+  {
+    "handle": "vampireweekend",
+    "circle": [
+      {
+        "handle": "matsor",
+        "inPool": false,
+        "why": "Rostam, founding member"
+      },
+      {
+        "handle": "HAIMtheband",
+        "inPool": false,
+        "why": "Danielle Haim featured on Father of the Bride"
+      },
+      {
+        "handle": "sbtrkt",
+        "inPool": false,
+        "why": "Ezra featured on 'NEW DORP. NEW YORK'"
+      },
+      {
+        "handle": "JonahHill",
+        "inPool": false,
+        "why": "directed the 'Sunflower' video"
+      },
+      {
+        "handle": "daniellehaim",
+        "inPool": false,
+        "why": "duets on 'Hold You Now' and 'Married in a Gold Rush'"
+      }
+    ]
+  },
+  {
+    "handle": "boniver",
+    "circle": [
+      {
+        "handle": "aaron_dessner",
+        "inPool": false,
+        "why": "Big Red Machine duo"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": true,
+        "why": "'exile' collab"
+      },
+      {
+        "handle": "TheNational",
+        "inPool": false,
+        "why": "tours and collabs with the Dessners"
+      },
+      {
+        "handle": "kanyewest",
+        "inPool": true,
+        "why": "featured on 'Lost in the World'"
+      },
+      {
+        "handle": "jamesblake",
+        "inPool": false,
+        "why": "'I Need a Forest Fire' collab"
+      }
+    ]
+  },
+  {
+    "handle": "Jbrekkie",
+    "circle": [
+      {
+        "handle": "mitskileaks",
+        "inPool": true,
+        "why": "opened for Mitski on tour"
+      },
+      {
+        "handle": "lucydacus",
+        "inPool": true,
+        "why": "indie peer and friend"
+      },
+      {
+        "handle": "phoebe_bridgers",
+        "inPool": true,
+        "why": "indie circle; mutual support"
+      },
+      {
+        "handle": "sad13",
+        "inPool": false,
+        "why": "Philly/DIY scene friend"
+      },
+      {
+        "handle": "k_crutchfield",
+        "inPool": false,
+        "why": "indie singer-songwriter circle"
+      }
+    ]
+  },
+  {
+    "handle": "lucydacus",
+    "circle": [
+      {
+        "handle": "phoebe_bridgers",
+        "inPool": true,
+        "why": "boygenius bandmate"
+      },
+      {
+        "handle": "julienrbaker",
+        "inPool": false,
+        "why": "boygenius bandmate"
+      },
+      {
+        "handle": "xboygeniusx",
+        "inPool": true,
+        "why": "her band"
+      },
+      {
+        "handle": "Jbrekkie",
+        "inPool": true,
+        "why": "indie peer and friend"
+      },
+      {
+        "handle": "whereisMUNA",
+        "inPool": false,
+        "why": "MUNA opened the boygenius tour"
+      }
+    ]
+  },
+  {
+    "handle": "clairo",
+    "circle": [
+      {
+        "handle": "jackantonoff",
+        "inPool": true,
+        "why": "produced Sling"
+      },
+      {
+        "handle": "matsor",
+        "inPool": false,
+        "why": "Rostam produced Immunity"
+      },
+      {
+        "handle": "phoebe_bridgers",
+        "inPool": true,
+        "why": "indie peers; mutual support"
+      },
+      {
+        "handle": "beabad00bee",
+        "inPool": true,
+        "why": "close friend; toured together"
+      },
+      {
+        "handle": "wallowsmusic",
+        "inPool": false,
+        "why": "'Are You Bored Yet?' collab"
+      }
+    ]
+  },
+  {
+    "handle": "carolineplz",
+    "circle": [
+      {
+        "handle": "charli_xcx",
+        "inPool": true,
+        "why": "longtime collaborator; toured together"
+      },
+      {
+        "handle": "flumemusic",
+        "inPool": true,
+        "why": "'Sirens' collab"
+      },
+      {
+        "handle": "agcook404",
+        "inPool": false,
+        "why": "PC Music collaborator; produced Pang"
+      },
+      {
+        "handle": "dannylharle",
+        "inPool": false,
+        "why": "longtime producer collaborator"
+      },
+      {
+        "handle": "DUALIPA",
+        "inPool": true,
+        "why": "opened the Future Nostalgia tour"
+      }
+    ]
+  },
+  {
+    "handle": "robynkonichiwa",
+    "circle": [
+      {
+        "handle": "royksopp",
+        "inPool": false,
+        "why": "'Do It Again' joint EP"
+      },
+      {
+        "handle": "SnoopDogg",
+        "inPool": true,
+        "why": "'U Should Know Better' collab"
+      },
+      {
+        "handle": "ToveLo",
+        "inPool": false,
+        "why": "Swedish pop peer"
+      },
+      {
+        "handle": "lykkeli",
+        "inPool": false,
+        "why": "Swedish pop peer and friend"
+      },
+      {
+        "handle": "charli_xcx",
+        "inPool": true,
+        "why": "mutual admiration; Charli champions her constantly"
+      }
+    ]
+  },
+  {
+    "handle": "100gecs",
+    "circle": [
+      {
+        "handle": "charli_xcx",
+        "inPool": true,
+        "why": "'ringtone' remix collab"
+      },
+      {
+        "handle": "falloutboy",
+        "inPool": false,
+        "why": "'hand crushed by a mallet' remix feature"
+      },
+      {
+        "handle": "MsRebeccaBlack",
+        "inPool": false,
+        "why": "Dylan Brady produced the 'Friday' remix"
+      },
+      {
+        "handle": "Skrillex",
+        "inPool": true,
+        "why": "collabs and mutual support"
+      },
+      {
+        "handle": "theneedledrop",
+        "inPool": true,
+        "why": "early champion; frequent interactions"
+      }
+    ]
+  },
+  {
+    "handle": "MarkRonson",
+    "circle": [
+      {
+        "handle": "BrunoMars",
+        "inPool": false,
+        "why": "'Uptown Funk' collab"
+      },
+      {
+        "handle": "ladygaga",
+        "inPool": true,
+        "why": "'Shallow' co-writer and producer"
+      },
+      {
+        "handle": "MileyCyrus",
+        "inPool": true,
+        "why": "'Nothing Breaks Like a Heart' collab"
+      },
+      {
+        "handle": "tameimpala",
+        "inPool": true,
+        "why": "'Daffodils' collab with Kevin Parker"
+      },
+      {
+        "handle": "diplo",
+        "inPool": true,
+        "why": "Silk City duo"
+      }
+    ]
+  },
+  {
+    "handle": "finneas",
+    "circle": [
+      {
+        "handle": "billieeilish",
+        "inPool": true,
+        "why": "his sister; produces all her records"
+      },
+      {
+        "handle": "selenagomez",
+        "inPool": true,
+        "why": "produced 'Lose You to Love Me'"
+      },
+      {
+        "handle": "justinbieber",
+        "inPool": true,
+        "why": "'bad guy' remix"
+      },
+      {
+        "handle": "jackantonoff",
+        "inPool": true,
+        "why": "fellow pop producer; Grammy-circuit friend"
+      },
+      {
+        "handle": "ashemusic",
+        "inPool": false,
+        "why": "'Till Forever Falls Apart' collab"
+      }
+    ]
+  },
+  {
+    "handle": "AndersonPaak",
+    "circle": [
+      {
+        "handle": "BrunoMars",
+        "inPool": false,
+        "why": "Silk Sonic duo"
+      },
+      {
+        "handle": "drdre",
+        "inPool": false,
+        "why": "signed him to Aftermath; Compton features"
+      },
+      {
+        "handle": "KAYTRANADA",
+        "inPool": true,
+        "why": "'Glowed Up' collab"
+      },
+      {
+        "handle": "knxwledge",
+        "inPool": false,
+        "why": "NxWorries duo"
+      },
+      {
+        "handle": "flyinglotus",
+        "inPool": true,
+        "why": "'More' collab on Flamagra"
+      }
+    ]
+  },
+  {
+    "handle": "nilerodgers",
+    "circle": [
+      {
+        "handle": "daftpunk",
+        "inPool": false,
+        "why": "'Get Lucky' collab"
+      },
+      {
+        "handle": "Pharrell",
+        "inPool": false,
+        "why": "'Get Lucky' co-writer"
+      },
+      {
+        "handle": "Beyonce",
+        "inPool": true,
+        "why": "played guitar on 'Cuff It'"
+      },
+      {
+        "handle": "Madonna",
+        "inPool": false,
+        "why": "produced Like a Virgin"
+      },
+      {
+        "handle": "questlove",
+        "inPool": true,
+        "why": "fellow music historian; longtime friend"
+      }
+    ]
+  },
+  {
+    "handle": "atrak",
+    "circle": [
+      {
+        "handle": "kanyewest",
+        "inPool": true,
+        "why": "was Kanye's tour DJ"
+      },
+      {
+        "handle": "chromeo",
+        "inPool": false,
+        "why": "Dave 1 is his brother"
+      },
+      {
+        "handle": "DillonFrancis",
+        "inPool": true,
+        "why": "'Money Makin'' collab"
+      },
+      {
+        "handle": "diplo",
+        "inPool": true,
+        "why": "DJ scene peer; longtime interactions"
+      },
+      {
+        "handle": "ArmandVanHelden",
+        "inPool": false,
+        "why": "Duck Sauce duo"
+      }
+    ]
+  },
+  {
+    "handle": "Thundercat",
+    "circle": [
+      {
+        "handle": "flyinglotus",
+        "inPool": true,
+        "why": "Brainfeeder boss; constant collaborator"
+      },
+      {
+        "handle": "kendricklamar",
+        "inPool": true,
+        "why": "played bass across To Pimp a Butterfly"
+      },
+      {
+        "handle": "KamasiW",
+        "inPool": false,
+        "why": "West Coast Get Down family"
+      },
+      {
+        "handle": "kennyloggins",
+        "inPool": false,
+        "why": "'Show You the Way' collab"
+      },
+      {
+        "handle": "tameimpala",
+        "inPool": true,
+        "why": "'No More Lies' collab"
+      }
+    ]
+  }
+]

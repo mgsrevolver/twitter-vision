@@ -125,17 +125,24 @@ const TONE_TAGS = new Set(["humor", "iconic", "wholesome", "pop-culture", "media
 // account, it gets the curated name. First match wins; keep anchors distinctive.
 const ANCHOR_NAMES = [
   ["dril", "Weird Twitter"],
+  ["taylorswift13", "Pop Music Twitter"],
+  ["justinbieber", "Celebrity Twitter"],
+  ["mrbeast", "Creator Twitter"],
+  ["cz_binance", "Crypto Twitter"],
+  ["barackobama", "Politics Twitter"],
   ["nytimes", "Media Twitter"],
   ["conanobrien", "Comedy Twitter"],
   ["kingjames", "Sports Twitter"],
-  ["barackobama", "Politics Twitter"],
   ["cristiano", "Football Twitter"],
   ["rafaelnadal", "Tennis Twitter"],
   ["f1", "F1 Twitter"],
+  ["leodicaprio", "Film Twitter"],
   ["marvel", "Marvel Twitter"],
+  ["amanpour", "World News Twitter"],
+  ["crunchyroll", "Anime Twitter"],
+  ["ufc", "Fight Twitter"],
   ["erdayastronaut", "Space Twitter"],
   ["nws", "Weather Twitter"],
-  ["leodicaprio", "Film Twitter"],
   ["billboardcharts", "Music Press Twitter"],
 ];
 

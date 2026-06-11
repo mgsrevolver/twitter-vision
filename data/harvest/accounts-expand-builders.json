@@ -1,0 +1,309 @@
+[
+  {
+    "handle": "levie",
+    "name": "Aaron Levie",
+    "followers": 2400000,
+    "tags": [
+      "tech",
+      "ai",
+      "humor"
+    ]
+  },
+  {
+    "handle": "reidhoffman",
+    "name": "Reid Hoffman",
+    "followers": 3000000,
+    "tags": [
+      "tech",
+      "ai",
+      "finance"
+    ]
+  },
+  {
+    "handle": "bhorowitz",
+    "name": "Ben Horowitz",
+    "followers": 670000,
+    "tags": [
+      "tech",
+      "finance"
+    ]
+  },
+  {
+    "handle": "vkhosla",
+    "name": "Vinod Khosla",
+    "followers": 600000,
+    "tags": [
+      "tech",
+      "ai",
+      "finance"
+    ]
+  },
+  {
+    "handle": "rabois",
+    "name": "Keith Rabois",
+    "followers": 570000,
+    "tags": [
+      "tech",
+      "finance"
+    ]
+  },
+  {
+    "handle": "tobi",
+    "name": "Tobi Lutke",
+    "followers": 450000,
+    "tags": [
+      "tech",
+      "ai"
+    ]
+  },
+  {
+    "handle": "bchesky",
+    "name": "Brian Chesky",
+    "followers": 480000,
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "handle": "amasad",
+    "name": "Amjad Masad",
+    "followers": 550000,
+    "tags": [
+      "tech",
+      "ai"
+    ]
+  },
+  {
+    "handle": "AravSrinivas",
+    "name": "Aravind Srinivas",
+    "followers": 1200000,
+    "tags": [
+      "tech",
+      "ai"
+    ]
+  },
+  {
+    "handle": "alexandr_wang",
+    "name": "Alexandr Wang",
+    "followers": 450000,
+    "tags": [
+      "tech",
+      "ai"
+    ]
+  },
+  {
+    "handle": "miramurati",
+    "name": "Mira Murati",
+    "followers": 650000,
+    "tags": [
+      "ai",
+      "tech"
+    ]
+  },
+  {
+    "handle": "mustafasuleyman",
+    "name": "Mustafa Suleyman",
+    "followers": 250000,
+    "tags": [
+      "ai",
+      "tech"
+    ]
+  },
+  {
+    "handle": "ClementDelangue",
+    "name": "Clement Delangue",
+    "followers": 150000,
+    "tags": [
+      "ai",
+      "tech"
+    ]
+  },
+  {
+    "handle": "natfriedman",
+    "name": "Nat Friedman",
+    "followers": 400000,
+    "tags": [
+      "tech",
+      "ai",
+      "finance"
+    ]
+  },
+  {
+    "handle": "danielgross",
+    "name": "Daniel Gross",
+    "followers": 300000,
+    "tags": [
+      "tech",
+      "ai",
+      "finance"
+    ]
+  },
+  {
+    "handle": "Suhail",
+    "name": "Suhail Doshi",
+    "followers": 350000,
+    "tags": [
+      "tech",
+      "ai"
+    ]
+  },
+  {
+    "handle": "rauchg",
+    "name": "Guillermo Rauch",
+    "followers": 350000,
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "handle": "mitchellh",
+    "name": "Mitchell Hashimoto",
+    "followers": 140000,
+    "tags": [
+      "tech"
+    ]
+  },
+  {
+    "handle": "shl",
+    "name": "Sahil Lavingia",
+    "followers": 450000,
+    "tags": [
+      "tech",
+      "finance"
+    ]
+  },
+  {
+    "handle": "awilkinson",
+    "name": "Andrew Wilkinson",
+    "followers": 350000,
+    "tags": [
+      "tech",
+      "finance"
+    ]
+  },
+  {
+    "handle": "thesamparr",
+    "name": "Sam Parr",
+    "followers": 450000,
+    "tags": [
+      "tech",
+      "finance",
+      "media"
+    ]
+  },
+  {
+    "handle": "eriktorenberg",
+    "name": "Erik Torenberg",
+    "followers": 250000,
+    "tags": [
+      "tech",
+      "media",
+      "finance"
+    ]
+  },
+  {
+    "handle": "saranormous",
+    "name": "Sarah Guo",
+    "followers": 180000,
+    "tags": [
+      "tech",
+      "ai",
+      "finance"
+    ]
+  },
+  {
+    "handle": "martin_casado",
+    "name": "Martin Casado",
+    "followers": 150000,
+    "tags": [
+      "tech",
+      "ai",
+      "finance"
+    ]
+  },
+  {
+    "handle": "sarahtavel",
+    "name": "Sarah Tavel",
+    "followers": 140000,
+    "tags": [
+      "tech",
+      "finance"
+    ]
+  },
+  {
+    "handle": "hunterwalk",
+    "name": "Hunter Walk",
+    "followers": 300000,
+    "tags": [
+      "tech",
+      "finance"
+    ]
+  },
+  {
+    "handle": "zebulgar",
+    "name": "Delian Asparouhov",
+    "followers": 250000,
+    "tags": [
+      "tech",
+      "finance",
+      "science"
+    ]
+  },
+  {
+    "handle": "dwarkesh_sp",
+    "name": "Dwarkesh Patel",
+    "followers": 500000,
+    "tags": [
+      "ai",
+      "media",
+      "tech"
+    ]
+  },
+  {
+    "handle": "dylan522p",
+    "name": "Dylan Patel",
+    "followers": 350000,
+    "tags": [
+      "ai",
+      "tech",
+      "finance"
+    ]
+  },
+  {
+    "handle": "tszzl",
+    "name": "roon",
+    "followers": 650000,
+    "tags": [
+      "ai",
+      "humor",
+      "tech"
+    ]
+  },
+  {
+    "handle": "_akhaliq",
+    "name": "AK",
+    "followers": 500000,
+    "tags": [
+      "ai",
+      "tech"
+    ]
+  },
+  {
+    "handle": "simonw",
+    "name": "Simon Willison",
+    "followers": 150000,
+    "tags": [
+      "tech",
+      "ai"
+    ]
+  },
+  {
+    "handle": "soumithchintala",
+    "name": "Soumith Chintala",
+    "followers": 250000,
+    "tags": [
+      "ai",
+      "tech"
+    ]
+  }
+]

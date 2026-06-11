@@ -1,0 +1,280 @@
+[
+ {
+  "handle": "DollyParton",
+  "name": "Dolly Parton",
+  "followers": 5500000,
+  "tags": [
+   "music",
+   "iconic",
+   "wholesome"
+  ]
+ },
+ {
+  "handle": "blakeshelton",
+  "name": "Blake Shelton",
+  "followers": 8000000,
+  "tags": [
+   "music",
+   "film-tv",
+   "humor"
+  ]
+ },
+ {
+  "handle": "LukeBryanOnline",
+  "name": "Luke Bryan",
+  "followers": 10000000,
+  "tags": [
+   "music",
+   "film-tv"
+  ]
+ },
+ {
+  "handle": "carrieunderwood",
+  "name": "Carrie Underwood",
+  "followers": 8000000,
+  "tags": [
+   "music",
+   "wholesome",
+   "fitness"
+  ]
+ },
+ {
+  "handle": "TimMcGraw",
+  "name": "Tim McGraw",
+  "followers": 5000000,
+  "tags": [
+   "music",
+   "film-tv"
+  ]
+ },
+ {
+  "handle": "KeithUrban",
+  "name": "Keith Urban",
+  "followers": 3500000,
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "handle": "mirandalambert",
+  "name": "Miranda Lambert",
+  "followers": 4000000,
+  "tags": [
+   "music",
+   "animals"
+  ]
+ },
+ {
+  "handle": "Jason_Aldean",
+  "name": "Jason Aldean",
+  "followers": 3500000,
+  "tags": [
+   "music",
+   "politics-right"
+  ]
+ },
+ {
+  "handle": "LukeCombs",
+  "name": "Luke Combs",
+  "followers": 1500000,
+  "tags": [
+   "music",
+   "sports"
+  ]
+ },
+ {
+  "handle": "ChrisStapleton",
+  "name": "Chris Stapleton",
+  "followers": 1200000,
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "handle": "reba",
+  "name": "Reba McEntire",
+  "followers": 3500000,
+  "tags": [
+   "music",
+   "film-tv",
+   "iconic"
+  ]
+ },
+ {
+  "handle": "sanbenito",
+  "name": "Bad Bunny",
+  "followers": 4500000,
+  "tags": [
+   "music",
+   "pop-culture",
+   "sports"
+  ]
+ },
+ {
+  "handle": "JBALVIN",
+  "name": "J Balvin",
+  "followers": 12000000,
+  "tags": [
+   "music",
+   "pop-culture"
+  ]
+ },
+ {
+  "handle": "karolg",
+  "name": "KAROL G",
+  "followers": 8000000,
+  "tags": [
+   "music",
+   "pop-culture"
+  ]
+ },
+ {
+  "handle": "daddy_yankee",
+  "name": "Daddy Yankee",
+  "followers": 10000000,
+  "tags": [
+   "music",
+   "iconic"
+  ]
+ },
+ {
+  "handle": "LuisFonsi",
+  "name": "Luis Fonsi",
+  "followers": 8000000,
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "handle": "enriqueiglesias",
+  "name": "Enrique Iglesias",
+  "followers": 15000000,
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "handle": "MarcAnthony",
+  "name": "Marc Anthony",
+  "followers": 11000000,
+  "tags": [
+   "music",
+   "iconic"
+  ]
+ },
+ {
+  "handle": "AlejandroSanz",
+  "name": "Alejandro Sanz",
+  "followers": 19000000,
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "handle": "JUANES",
+  "name": "Juanes",
+  "followers": 11000000,
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "handle": "GloriaEstefan",
+  "name": "Gloria Estefan",
+  "followers": 2000000,
+  "tags": [
+   "music",
+   "iconic",
+   "wholesome"
+  ]
+ },
+ {
+  "handle": "Metallica",
+  "name": "Metallica",
+  "followers": 5500000,
+  "tags": [
+   "music",
+   "iconic"
+  ]
+ },
+ {
+  "handle": "IronMaiden",
+  "name": "Iron Maiden",
+  "followers": 2000000,
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "handle": "RollingStones",
+  "name": "The Rolling Stones",
+  "followers": 4000000,
+  "tags": [
+   "music",
+   "iconic"
+  ]
+ },
+ {
+  "handle": "MickJagger",
+  "name": "Mick Jagger",
+  "followers": 4500000,
+  "tags": [
+   "music",
+   "iconic"
+  ]
+ },
+ {
+  "handle": "springsteen",
+  "name": "Bruce Springsteen",
+  "followers": 1500000,
+  "tags": [
+   "music",
+   "iconic",
+   "politics-left"
+  ]
+ },
+ {
+  "handle": "foofighters",
+  "name": "Foo Fighters",
+  "followers": 3000000,
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "handle": "GreenDay",
+  "name": "Green Day",
+  "followers": 3000000,
+  "tags": [
+   "music",
+   "politics-left"
+  ]
+ },
+ {
+  "handle": "Slash",
+  "name": "Slash",
+  "followers": 3500000,
+  "tags": [
+   "music"
+  ]
+ },
+ {
+  "handle": "genesimmons",
+  "name": "Gene Simmons",
+  "followers": 1000000,
+  "tags": [
+   "music",
+   "humor"
+  ]
+ },
+ {
+  "handle": "DrBrianMay",
+  "name": "Brian May",
+  "followers": 3000000,
+  "tags": [
+   "music",
+   "science",
+   "animals"
+  ]
+ }
+]

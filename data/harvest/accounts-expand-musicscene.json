@@ -1,0 +1,289 @@
+[
+  {
+    "handle": "deadmau5",
+    "name": "deadmau5",
+    "followers": 3800000,
+    "tags": [
+      "music",
+      "gaming",
+      "tech"
+    ]
+  },
+  {
+    "handle": "Skrillex",
+    "name": "Skrillex",
+    "followers": 6200000,
+    "tags": [
+      "music",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "diplo",
+    "name": "Diplo",
+    "followers": 2700000,
+    "tags": [
+      "music",
+      "humor",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "Zedd",
+    "name": "Zedd",
+    "followers": 4300000,
+    "tags": [
+      "music",
+      "gaming"
+    ]
+  },
+  {
+    "handle": "flyinglotus",
+    "name": "Flying Lotus",
+    "followers": 1500000,
+    "tags": [
+      "music",
+      "film-tv",
+      "humor"
+    ]
+  },
+  {
+    "handle": "porterrobinson",
+    "name": "Porter Robinson",
+    "followers": 900000,
+    "tags": [
+      "music",
+      "gaming"
+    ]
+  },
+  {
+    "handle": "madeon",
+    "name": "Madeon",
+    "followers": 450000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "odesza",
+    "name": "ODESZA",
+    "followers": 350000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "flumemusic",
+    "name": "Flume",
+    "followers": 550000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "KAYTRANADA",
+    "name": "KAYTRANADA",
+    "followers": 1100000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "OfficialRezz",
+    "name": "REZZ",
+    "followers": 650000,
+    "tags": [
+      "music",
+      "gaming"
+    ]
+  },
+  {
+    "handle": "awonderland",
+    "name": "Alison Wonderland",
+    "followers": 650000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "DillonFrancis",
+    "name": "Dillon Francis",
+    "followers": 1300000,
+    "tags": [
+      "music",
+      "humor"
+    ]
+  },
+  {
+    "handle": "Carl_Cox",
+    "name": "Carl Cox",
+    "followers": 800000,
+    "tags": [
+      "music",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "richiehawtin",
+    "name": "Richie Hawtin",
+    "followers": 650000,
+    "tags": [
+      "music",
+      "tech"
+    ]
+  },
+  {
+    "handle": "peggygou_",
+    "name": "Peggy Gou",
+    "followers": 450000,
+    "tags": [
+      "music",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "RealBlackCoffee",
+    "name": "Black Coffee",
+    "followers": 1400000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "thomyorke",
+    "name": "Thom Yorke",
+    "followers": 1300000,
+    "tags": [
+      "music",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "tameimpala",
+    "name": "Tame Impala",
+    "followers": 1000000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "vampireweekend",
+    "name": "Vampire Weekend",
+    "followers": 700000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "boniver",
+    "name": "Bon Iver",
+    "followers": 600000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "Jbrekkie",
+    "name": "Japanese Breakfast",
+    "followers": 250000,
+    "tags": [
+      "music",
+      "books"
+    ]
+  },
+  {
+    "handle": "lucydacus",
+    "name": "Lucy Dacus",
+    "followers": 300000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "clairo",
+    "name": "Clairo",
+    "followers": 800000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "carolineplz",
+    "name": "Caroline Polachek",
+    "followers": 300000,
+    "tags": [
+      "music",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "robynkonichiwa",
+    "name": "Robyn",
+    "followers": 700000,
+    "tags": [
+      "music",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "100gecs",
+    "name": "100 gecs",
+    "followers": 250000,
+    "tags": [
+      "music",
+      "humor"
+    ]
+  },
+  {
+    "handle": "MarkRonson",
+    "name": "Mark Ronson",
+    "followers": 2600000,
+    "tags": [
+      "music",
+      "pop-culture"
+    ]
+  },
+  {
+    "handle": "finneas",
+    "name": "FINNEAS",
+    "followers": 800000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "AndersonPaak",
+    "name": "Anderson .Paak",
+    "followers": 1100000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "nilerodgers",
+    "name": "Nile Rodgers",
+    "followers": 450000,
+    "tags": [
+      "music",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "atrak",
+    "name": "A-Trak",
+    "followers": 600000,
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "handle": "Thundercat",
+    "name": "Thundercat",
+    "followers": 500000,
+    "tags": [
+      "music",
+      "gaming",
+      "humor"
+    ]
+  }
+]

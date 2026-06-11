@@ -1,0 +1,270 @@
+[
+  {
+    "handle": "Naughty_Dog",
+    "name": "Naughty Dog",
+    "followers": 2500000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "insomniacgames",
+    "name": "Insomniac Games",
+    "followers": 2200000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "Bungie",
+    "name": "Bungie",
+    "followers": 6000000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "CDPROJEKTRED",
+    "name": "CD PROJEKT RED",
+    "followers": 1400000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "UnrealEngine",
+    "name": "Unreal Engine",
+    "followers": 2000000,
+    "tags": [
+      "gaming",
+      "tech"
+    ]
+  },
+  {
+    "handle": "bethesda",
+    "name": "Bethesda",
+    "followers": 2800000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "idSoftware",
+    "name": "id Software",
+    "followers": 1100000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "riotgames",
+    "name": "Riot Games",
+    "followers": 2800000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "CounterStrike",
+    "name": "Counter-Strike",
+    "followers": 5000000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "DOTA2",
+    "name": "Dota 2",
+    "followers": 2300000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "PlayVALORANT",
+    "name": "VALORANT",
+    "followers": 3500000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "RocketLeague",
+    "name": "Rocket League",
+    "followers": 3000000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "TimSweeneyEpic",
+    "name": "Tim Sweeney",
+    "followers": 350000,
+    "tags": [
+      "gaming",
+      "tech"
+    ]
+  },
+  {
+    "handle": "Neil_Druckmann",
+    "name": "Neil Druckmann",
+    "followers": 800000,
+    "tags": [
+      "gaming",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "Harada_TEKKEN",
+    "name": "Katsuhiro Harada",
+    "followers": 700000,
+    "tags": [
+      "gaming",
+      "humor"
+    ]
+  },
+  {
+    "handle": "Sora_Sakurai",
+    "name": "Masahiro Sakurai",
+    "followers": 3000000,
+    "tags": [
+      "gaming",
+      "iconic"
+    ]
+  },
+  {
+    "handle": "yokotaro",
+    "name": "Yoko Taro",
+    "followers": 600000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "suda_51",
+    "name": "Suda51 (Goichi Suda)",
+    "followers": 300000,
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "handle": "tobyfox",
+    "name": "Toby Fox",
+    "followers": 1600000,
+    "tags": [
+      "gaming",
+      "music"
+    ]
+  },
+  {
+    "handle": "garrynewman",
+    "name": "Garry Newman",
+    "followers": 350000,
+    "tags": [
+      "gaming",
+      "tech"
+    ]
+  },
+  {
+    "handle": "TimOfLegend",
+    "name": "Tim Schafer",
+    "followers": 350000,
+    "tags": [
+      "gaming",
+      "humor"
+    ]
+  },
+  {
+    "handle": "FNATIC",
+    "name": "FNATIC",
+    "followers": 2000000,
+    "tags": [
+      "gaming",
+      "sports"
+    ]
+  },
+  {
+    "handle": "TeamLiquid",
+    "name": "Team Liquid",
+    "followers": 1500000,
+    "tags": [
+      "gaming",
+      "sports"
+    ]
+  },
+  {
+    "handle": "Cloud9",
+    "name": "Cloud9",
+    "followers": 2600000,
+    "tags": [
+      "gaming",
+      "sports"
+    ]
+  },
+  {
+    "handle": "G2esports",
+    "name": "G2 Esports",
+    "followers": 2000000,
+    "tags": [
+      "gaming",
+      "sports",
+      "humor"
+    ]
+  },
+  {
+    "handle": "natusvincere",
+    "name": "NAVI (Natus Vincere)",
+    "followers": 1600000,
+    "tags": [
+      "gaming",
+      "sports"
+    ]
+  },
+  {
+    "handle": "T1",
+    "name": "T1",
+    "followers": 1600000,
+    "tags": [
+      "gaming",
+      "sports"
+    ]
+  },
+  {
+    "handle": "GamesDoneQuick",
+    "name": "Games Done Quick",
+    "followers": 600000,
+    "tags": [
+      "gaming",
+      "wholesome"
+    ]
+  },
+  {
+    "handle": "giantbomb",
+    "name": "Giant Bomb",
+    "followers": 700000,
+    "tags": [
+      "gaming",
+      "media"
+    ]
+  },
+  {
+    "handle": "jeffgerstmann",
+    "name": "Jeff Gerstmann",
+    "followers": 600000,
+    "tags": [
+      "gaming",
+      "media"
+    ]
+  },
+  {
+    "handle": "digitalfoundry",
+    "name": "Digital Foundry",
+    "followers": 450000,
+    "tags": [
+      "gaming",
+      "tech",
+      "media"
+    ]
+  }
+]

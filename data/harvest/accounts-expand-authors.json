@@ -1,0 +1,270 @@
+[
+  {
+    "handle": "joe_hill",
+    "name": "Joe Hill",
+    "followers": 450000,
+    "tags": [
+      "books",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "chuckwendig",
+    "name": "Chuck Wendig",
+    "followers": 170000,
+    "tags": [
+      "books",
+      "humor"
+    ]
+  },
+  {
+    "handle": "seananmcguire",
+    "name": "Seanan McGuire",
+    "followers": 110000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "maryrobinette",
+    "name": "Mary Robinette Kowal",
+    "followers": 100000,
+    "tags": [
+      "books",
+      "science"
+    ]
+  },
+  {
+    "handle": "victorlavalle",
+    "name": "Victor LaValle",
+    "followers": 55000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "paulgtremblay",
+    "name": "Paul Tremblay",
+    "followers": 55000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "joshmalerman",
+    "name": "Josh Malerman",
+    "followers": 45000,
+    "tags": [
+      "books",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "blakecrouch1",
+    "name": "Blake Crouch",
+    "followers": 80000,
+    "tags": [
+      "books",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "veschwab",
+    "name": "V.E. Schwab",
+    "followers": 250000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "hollyblack",
+    "name": "Holly Black",
+    "followers": 170000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "cassieclare",
+    "name": "Cassandra Clare",
+    "followers": 800000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "lbardugo",
+    "name": "Leigh Bardugo",
+    "followers": 400000,
+    "tags": [
+      "books",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "rickriordan",
+    "name": "Rick Riordan",
+    "followers": 600000,
+    "tags": [
+      "books",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "angiecthomas",
+    "name": "Angie Thomas",
+    "followers": 280000,
+    "tags": [
+      "books",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "adamsilvera",
+    "name": "Adam Silvera",
+    "followers": 190000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "maureenjohnson",
+    "name": "Maureen Johnson",
+    "followers": 85000,
+    "tags": [
+      "books",
+      "humor"
+    ]
+  },
+  {
+    "handle": "patrickrothfuss",
+    "name": "Patrick Rothfuss",
+    "followers": 350000,
+    "tags": [
+      "books",
+      "gaming"
+    ]
+  },
+  {
+    "handle": "lordgrimdark",
+    "name": "Joe Abercrombie",
+    "followers": 150000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "robinhobb",
+    "name": "Robin Hobb",
+    "followers": 200000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "samsykesswears",
+    "name": "Sam Sykes",
+    "followers": 80000,
+    "tags": [
+      "books",
+      "humor"
+    ]
+  },
+  {
+    "handle": "delilahsdawson",
+    "name": "Delilah S. Dawson",
+    "followers": 90000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "ursulav",
+    "name": "Ursula Vernon (T. Kingfisher)",
+    "followers": 100000,
+    "tags": [
+      "books",
+      "animals",
+      "humor"
+    ]
+  },
+  {
+    "handle": "marthawells1",
+    "name": "Martha Wells",
+    "followers": 60000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "aptshadow",
+    "name": "Adrian Tchaikovsky",
+    "followers": 60000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "andyweirauthor",
+    "name": "Andy Weir",
+    "followers": 200000,
+    "tags": [
+      "books",
+      "science",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "hughhowey",
+    "name": "Hugh Howey",
+    "followers": 120000,
+    "tags": [
+      "books",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "harlancoben",
+    "name": "Harlan Coben",
+    "followers": 400000,
+    "tags": [
+      "books",
+      "film-tv"
+    ]
+  },
+  {
+    "handle": "donwinslow",
+    "name": "Don Winslow",
+    "followers": 1100000,
+    "tags": [
+      "books",
+      "politics-left"
+    ]
+  },
+  {
+    "handle": "mariankeyes",
+    "name": "Marian Keyes",
+    "followers": 400000,
+    "tags": [
+      "books",
+      "humor"
+    ]
+  },
+  {
+    "handle": "jlarmentrout",
+    "name": "Jennifer L. Armentrout",
+    "followers": 200000,
+    "tags": [
+      "books"
+    ]
+  },
+  {
+    "handle": "writer_dg",
+    "name": "Diana Gabaldon",
+    "followers": 500000,
+    "tags": [
+      "books",
+      "film-tv"
+    ]
+  }
+]

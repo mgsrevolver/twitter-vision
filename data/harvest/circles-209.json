@@ -1,0 +1,1022 @@
+[
+  {
+    "handle": "hbo",
+    "circle": [
+      {
+        "handle": "gameofthrones",
+        "inPool": true,
+        "why": "HBO flagship series account"
+      },
+      {
+        "handle": "houseofdragon",
+        "inPool": false,
+        "why": "House of the Dragon, HBO series account"
+      },
+      {
+        "handle": "euphoriahbo",
+        "inPool": false,
+        "why": "Euphoria, HBO series account"
+      },
+      {
+        "handle": "lastweektonight",
+        "inPool": false,
+        "why": "HBO show with constant cross-promo"
+      },
+      {
+        "handle": "warnerbros",
+        "inPool": false,
+        "why": "sibling Warner Bros. studio account"
+      },
+      {
+        "handle": "succession",
+        "inPool": false,
+        "why": "Succession, HBO series account"
+      }
+    ]
+  },
+  {
+    "handle": "primevideo",
+    "circle": [
+      {
+        "handle": "amazon",
+        "inPool": true,
+        "why": "parent company"
+      },
+      {
+        "handle": "theboystv",
+        "inPool": false,
+        "why": "flagship Prime Video original The Boys"
+      },
+      {
+        "handle": "nflonprime",
+        "inPool": false,
+        "why": "Prime's Thursday Night Football account"
+      },
+      {
+        "handle": "nfl",
+        "inPool": true,
+        "why": "TNF streaming rights partner"
+      },
+      {
+        "handle": "amazonmgmstudios",
+        "inPool": false,
+        "why": "sibling Amazon MGM Studios account"
+      }
+    ]
+  },
+  {
+    "handle": "appletv",
+    "circle": [
+      {
+        "handle": "apple",
+        "inPool": true,
+        "why": "parent company"
+      },
+      {
+        "handle": "tim_cook",
+        "inPool": true,
+        "why": "Apple CEO regularly promotes Apple TV+ shows"
+      },
+      {
+        "handle": "tedlasso",
+        "inPool": false,
+        "why": "flagship Apple TV+ original"
+      },
+      {
+        "handle": "mls",
+        "inPool": false,
+        "why": "MLS Season Pass streaming partner"
+      },
+      {
+        "handle": "applemusic",
+        "inPool": true,
+        "why": "sibling Apple service"
+      }
+    ]
+  },
+  {
+    "handle": "peacock",
+    "circle": [
+      {
+        "handle": "nbc",
+        "inPool": false,
+        "why": "parent network"
+      },
+      {
+        "handle": "nbcsnl",
+        "inPool": true,
+        "why": "SNL streams on Peacock"
+      },
+      {
+        "handle": "bravotv",
+        "inPool": true,
+        "why": "Bravo shows stream on Peacock"
+      },
+      {
+        "handle": "wwe",
+        "inPool": true,
+        "why": "WWE streams exclusively on Peacock"
+      },
+      {
+        "handle": "usanetwork",
+        "inPool": false,
+        "why": "NBCUniversal sister network"
+      },
+      {
+        "handle": "nbcsports",
+        "inPool": true,
+        "why": "NBCUniversal sports cross-promo"
+      }
+    ]
+  },
+  {
+    "handle": "paramountplus",
+    "circle": [
+      {
+        "handle": "cbs",
+        "inPool": false,
+        "why": "parent network"
+      },
+      {
+        "handle": "survivorcbs",
+        "inPool": true,
+        "why": "CBS show streaming on Paramount+"
+      },
+      {
+        "handle": "showtime",
+        "inPool": false,
+        "why": "Paramount+ with Showtime tier"
+      },
+      {
+        "handle": "mtv",
+        "inPool": true,
+        "why": "Paramount sister brand"
+      },
+      {
+        "handle": "nickelodeon",
+        "inPool": false,
+        "why": "Paramount sister brand"
+      },
+      {
+        "handle": "yellowstone",
+        "inPool": false,
+        "why": "flagship Paramount franchise"
+      }
+    ]
+  },
+  {
+    "handle": "fxnetworks",
+    "circle": [
+      {
+        "handle": "thebearfx",
+        "inPool": false,
+        "why": "The Bear, FX series account"
+      },
+      {
+        "handle": "alwayssunny",
+        "inPool": false,
+        "why": "It's Always Sunny, long-running FX/FXX series"
+      },
+      {
+        "handle": "rmcelhenney",
+        "inPool": true,
+        "why": "Always Sunny creator-star"
+      },
+      {
+        "handle": "ahsfx",
+        "inPool": false,
+        "why": "American Horror Story, FX series account"
+      },
+      {
+        "handle": "hulu",
+        "inPool": true,
+        "why": "FX on Hulu streaming home"
+      }
+    ]
+  },
+  {
+    "handle": "comedycentral",
+    "circle": [
+      {
+        "handle": "southpark",
+        "inPool": true,
+        "why": "network's flagship series"
+      },
+      {
+        "handle": "thedailyshow",
+        "inPool": true,
+        "why": "network's flagship late-night show"
+      },
+      {
+        "handle": "trevornoah",
+        "inPool": true,
+        "why": "former Daily Show host"
+      },
+      {
+        "handle": "jordanklepper",
+        "inPool": false,
+        "why": "Daily Show correspondent"
+      },
+      {
+        "handle": "mtv",
+        "inPool": true,
+        "why": "Paramount sister network"
+      }
+    ]
+  },
+  {
+    "handle": "amc_tv",
+    "circle": [
+      {
+        "handle": "walkingdead_amc",
+        "inPool": false,
+        "why": "AMC flagship franchise account"
+      },
+      {
+        "handle": "bettercallsaul",
+        "inPool": false,
+        "why": "AMC series account"
+      },
+      {
+        "handle": "breakingbad",
+        "inPool": false,
+        "why": "iconic AMC series account"
+      },
+      {
+        "handle": "shudder",
+        "inPool": true,
+        "why": "AMC Networks sister streamer"
+      },
+      {
+        "handle": "ifc",
+        "inPool": false,
+        "why": "AMC Networks sister channel"
+      }
+    ]
+  },
+  {
+    "handle": "vh1",
+    "circle": [
+      {
+        "handle": "mtv",
+        "inPool": true,
+        "why": "Paramount sister network"
+      },
+      {
+        "handle": "rupaulsdragrace",
+        "inPool": true,
+        "why": "aired Drag Race for years"
+      },
+      {
+        "handle": "rupaul",
+        "inPool": false,
+        "why": "Drag Race host"
+      },
+      {
+        "handle": "bet",
+        "inPool": false,
+        "why": "Paramount sister network"
+      },
+      {
+        "handle": "paramountplus",
+        "inPool": true,
+        "why": "streaming home for VH1 shows"
+      }
+    ]
+  },
+  {
+    "handle": "tlc",
+    "circle": [
+      {
+        "handle": "discovery",
+        "inPool": false,
+        "why": "Warner Bros. Discovery sister network"
+      },
+      {
+        "handle": "hgtv",
+        "inPool": false,
+        "why": "WBD sister network"
+      },
+      {
+        "handle": "foodnetwork",
+        "inPool": false,
+        "why": "WBD sister network"
+      },
+      {
+        "handle": "animalplanet",
+        "inPool": true,
+        "why": "WBD sister network"
+      },
+      {
+        "handle": "travelchannel",
+        "inPool": false,
+        "why": "WBD sister network"
+      }
+    ]
+  },
+  {
+    "handle": "nbcsnl",
+    "circle": [
+      {
+        "handle": "jimmyfallon",
+        "inPool": true,
+        "why": "SNL alum and NBC late-night host"
+      },
+      {
+        "handle": "sethmeyers",
+        "inPool": true,
+        "why": "SNL alum and NBC late-night host"
+      },
+      {
+        "handle": "nbc",
+        "inPool": false,
+        "why": "home network"
+      },
+      {
+        "handle": "kenanthompson",
+        "inPool": false,
+        "why": "longest-tenured cast member"
+      },
+      {
+        "handle": "fallontonight",
+        "inPool": false,
+        "why": "NBC late-night sibling show"
+      }
+    ]
+  },
+  {
+    "handle": "thesimpsons",
+    "circle": [
+      {
+        "handle": "foxtv",
+        "inPool": false,
+        "why": "home network"
+      },
+      {
+        "handle": "familyguyonfox",
+        "inPool": true,
+        "why": "Fox animation block sibling"
+      },
+      {
+        "handle": "aljean",
+        "inPool": true,
+        "why": "longtime Simpsons showrunner"
+      },
+      {
+        "handle": "disneyplus",
+        "inPool": true,
+        "why": "streaming home of the series"
+      },
+      {
+        "handle": "bobsburgersfox",
+        "inPool": false,
+        "why": "Fox animation block sibling"
+      }
+    ]
+  },
+  {
+    "handle": "southpark",
+    "circle": [
+      {
+        "handle": "comedycentral",
+        "inPool": true,
+        "why": "home network"
+      },
+      {
+        "handle": "paramountplus",
+        "inPool": true,
+        "why": "streams the specials and library"
+      },
+      {
+        "handle": "thedailyshow",
+        "inPool": true,
+        "why": "Comedy Central sibling show"
+      },
+      {
+        "handle": "mtv",
+        "inPool": true,
+        "why": "Paramount sister brand"
+      },
+      {
+        "handle": "thqnordic",
+        "inPool": false,
+        "why": "publishes the South Park video games"
+      }
+    ]
+  },
+  {
+    "handle": "stranger_things",
+    "circle": [
+      {
+        "handle": "netflix",
+        "inPool": true,
+        "why": "home streamer"
+      },
+      {
+        "handle": "netflixgeeked",
+        "inPool": false,
+        "why": "Netflix genre account, constant cross-promo"
+      },
+      {
+        "handle": "milliebbrown",
+        "inPool": false,
+        "why": "cast member Millie Bobby Brown"
+      },
+      {
+        "handle": "finnskata",
+        "inPool": false,
+        "why": "cast member Finn Wolfhard"
+      },
+      {
+        "handle": "davidkharbour",
+        "inPool": false,
+        "why": "cast member David Harbour"
+      }
+    ]
+  },
+  {
+    "handle": "gameofthrones",
+    "circle": [
+      {
+        "handle": "hbo",
+        "inPool": true,
+        "why": "home network"
+      },
+      {
+        "handle": "houseofdragon",
+        "inPool": false,
+        "why": "spinoff series account"
+      },
+      {
+        "handle": "grrmspeaking",
+        "inPool": false,
+        "why": "author George R.R. Martin"
+      },
+      {
+        "handle": "maisie_williams",
+        "inPool": false,
+        "why": "cast member Maisie Williams"
+      },
+      {
+        "handle": "sophiet",
+        "inPool": false,
+        "why": "cast member Sophie Turner"
+      }
+    ]
+  },
+  {
+    "handle": "survivorcbs",
+    "circle": [
+      {
+        "handle": "jeffprobst",
+        "inPool": false,
+        "why": "host and showrunner"
+      },
+      {
+        "handle": "cbs",
+        "inPool": false,
+        "why": "home network"
+      },
+      {
+        "handle": "paramountplus",
+        "inPool": true,
+        "why": "streaming home"
+      },
+      {
+        "handle": "cbsbigbrother",
+        "inPool": false,
+        "why": "CBS reality sibling show"
+      },
+      {
+        "handle": "ew",
+        "inPool": true,
+        "why": "runs weekly Survivor recaps and exit interviews"
+      }
+    ]
+  },
+  {
+    "handle": "bachelorabc",
+    "circle": [
+      {
+        "handle": "abcnetwork",
+        "inPool": false,
+        "why": "home network"
+      },
+      {
+        "handle": "bacheloretteabc",
+        "inPool": false,
+        "why": "franchise sibling account"
+      },
+      {
+        "handle": "realitysteve",
+        "inPool": false,
+        "why": "Bachelor spoiler and recap account"
+      },
+      {
+        "handle": "hulu",
+        "inPool": true,
+        "why": "streaming home"
+      },
+      {
+        "handle": "jessepalmertv",
+        "inPool": false,
+        "why": "current franchise host"
+      }
+    ]
+  },
+  {
+    "handle": "pumprules",
+    "circle": [
+      {
+        "handle": "bravotv",
+        "inPool": true,
+        "why": "home network"
+      },
+      {
+        "handle": "lisavanderpump",
+        "inPool": true,
+        "why": "namesake cast member"
+      },
+      {
+        "handle": "andy",
+        "inPool": true,
+        "why": "Bravo executive producer and reunion host"
+      },
+      {
+        "handle": "lalakent",
+        "inPool": false,
+        "why": "cast member"
+      },
+      {
+        "handle": "scheana",
+        "inPool": false,
+        "why": "cast member Scheana Shay"
+      },
+      {
+        "handle": "peacock",
+        "inPool": true,
+        "why": "streaming home"
+      }
+    ]
+  },
+  {
+    "handle": "andy",
+    "circle": [
+      {
+        "handle": "bravotv",
+        "inPool": true,
+        "why": "hosts Watch What Happens Live on Bravo"
+      },
+      {
+        "handle": "bravowwhl",
+        "inPool": false,
+        "why": "his nightly WWHL show account"
+      },
+      {
+        "handle": "andersoncooper",
+        "inPool": true,
+        "why": "best friend and CNN NYE co-host"
+      },
+      {
+        "handle": "bethenny",
+        "inPool": true,
+        "why": "RHONY star he made famous, public back-and-forth"
+      },
+      {
+        "handle": "lisavanderpump",
+        "inPool": true,
+        "why": "Bravo star and frequent WWHL guest"
+      },
+      {
+        "handle": "nenelekes",
+        "inPool": true,
+        "why": "RHOA star and longtime sparring partner"
+      }
+    ]
+  },
+  {
+    "handle": "bethenny",
+    "circle": [
+      {
+        "handle": "andy",
+        "inPool": true,
+        "why": "longtime Bravo boss turned sparring partner"
+      },
+      {
+        "handle": "bravotv",
+        "inPool": true,
+        "why": "RHONY alum network"
+      },
+      {
+        "handle": "hodakotb",
+        "inPool": false,
+        "why": "frequent morning-show friend and guest spot"
+      },
+      {
+        "handle": "jillzarin",
+        "inPool": false,
+        "why": "RHONY costar with famous feud"
+      },
+      {
+        "handle": "sonjatmorgan",
+        "inPool": false,
+        "why": "RHONY costar"
+      }
+    ]
+  },
+  {
+    "handle": "lisavanderpump",
+    "circle": [
+      {
+        "handle": "pumprules",
+        "inPool": true,
+        "why": "her namesake show"
+      },
+      {
+        "handle": "bravotv",
+        "inPool": true,
+        "why": "home network"
+      },
+      {
+        "handle": "andy",
+        "inPool": true,
+        "why": "Bravo host and producer"
+      },
+      {
+        "handle": "vanderpumpdogs",
+        "inPool": false,
+        "why": "her dog rescue foundation"
+      },
+      {
+        "handle": "scheana",
+        "inPool": false,
+        "why": "Vanderpump Rules cast member"
+      }
+    ]
+  },
+  {
+    "handle": "nenelekes",
+    "circle": [
+      {
+        "handle": "bravotv",
+        "inPool": true,
+        "why": "RHOA home network"
+      },
+      {
+        "handle": "andy",
+        "inPool": true,
+        "why": "WWHL host and frequent foil"
+      },
+      {
+        "handle": "kandi",
+        "inPool": false,
+        "why": "RHOA castmate Kandi Burruss"
+      },
+      {
+        "handle": "cynthiabailey10",
+        "inPool": false,
+        "why": "RHOA castmate"
+      },
+      {
+        "handle": "porsha4real",
+        "inPool": false,
+        "why": "RHOA castmate Porsha Williams"
+      }
+    ]
+  },
+  {
+    "handle": "simoncowell",
+    "circle": [
+      {
+        "handle": "agt",
+        "inPool": false,
+        "why": "America's Got Talent, show he created and judges"
+      },
+      {
+        "handle": "bgt",
+        "inPool": false,
+        "why": "Britain's Got Talent, his UK franchise"
+      },
+      {
+        "handle": "howiemandel",
+        "inPool": false,
+        "why": "fellow AGT judge"
+      },
+      {
+        "handle": "heidiklum",
+        "inPool": true,
+        "why": "fellow AGT judge"
+      },
+      {
+        "handle": "nbc",
+        "inPool": false,
+        "why": "AGT broadcast network"
+      }
+    ]
+  },
+  {
+    "handle": "ryanseacrest",
+    "circle": [
+      {
+        "handle": "americanidol",
+        "inPool": false,
+        "why": "longtime American Idol host"
+      },
+      {
+        "handle": "katyperry",
+        "inPool": true,
+        "why": "Idol judge colleague"
+      },
+      {
+        "handle": "lionelrichie",
+        "inPool": false,
+        "why": "Idol judge colleague"
+      },
+      {
+        "handle": "wheeloffortune",
+        "inPool": false,
+        "why": "current Wheel of Fortune hosting gig"
+      },
+      {
+        "handle": "onairwithryan",
+        "inPool": false,
+        "why": "his syndicated radio show"
+      }
+    ]
+  },
+  {
+    "handle": "heidiklum",
+    "circle": [
+      {
+        "handle": "agt",
+        "inPool": false,
+        "why": "judges America's Got Talent"
+      },
+      {
+        "handle": "simoncowell",
+        "inPool": true,
+        "why": "fellow AGT judge"
+      },
+      {
+        "handle": "howiemandel",
+        "inPool": false,
+        "why": "fellow AGT judge"
+      },
+      {
+        "handle": "projectrunway",
+        "inPool": false,
+        "why": "longtime former host"
+      },
+      {
+        "handle": "sofiavergara",
+        "inPool": false,
+        "why": "fellow AGT judge"
+      },
+      {
+        "handle": "terrycrews",
+        "inPool": false,
+        "why": "AGT host"
+      }
+    ]
+  },
+  {
+    "handle": "tyrabanks",
+    "circle": [
+      {
+        "handle": "officialdwts",
+        "inPool": false,
+        "why": "former Dancing with the Stars host"
+      },
+      {
+        "handle": "agt",
+        "inPool": false,
+        "why": "former America's Got Talent host"
+      },
+      {
+        "handle": "vh1",
+        "inPool": true,
+        "why": "aired America's Next Top Model"
+      },
+      {
+        "handle": "abcnetwork",
+        "inPool": false,
+        "why": "DWTS broadcast network"
+      },
+      {
+        "handle": "heidiklum",
+        "inPool": true,
+        "why": "fellow supermodel turned competition-show host"
+      }
+    ]
+  },
+  {
+    "handle": "enews",
+    "circle": [
+      {
+        "handle": "kimkardashian",
+        "inPool": true,
+        "why": "KUWTK ran on E! for 20 seasons"
+      },
+      {
+        "handle": "khloekardashian",
+        "inPool": true,
+        "why": "longtime E! reality star"
+      },
+      {
+        "handle": "kyliejenner",
+        "inPool": true,
+        "why": "longtime E! reality star"
+      },
+      {
+        "handle": "ryanseacrest",
+        "inPool": true,
+        "why": "E! red carpet host and KUWTK producer"
+      },
+      {
+        "handle": "parishilton",
+        "inPool": true,
+        "why": "E! reality alum"
+      }
+    ]
+  },
+  {
+    "handle": "tmz",
+    "circle": [
+      {
+        "handle": "harveylevintmz",
+        "inPool": false,
+        "why": "TMZ founder"
+      },
+      {
+        "handle": "tmz_sports",
+        "inPool": false,
+        "why": "sister account"
+      },
+      {
+        "handle": "pagesix",
+        "inPool": true,
+        "why": "rival gossip outlet they trade scoops with"
+      },
+      {
+        "handle": "foxtv",
+        "inPool": false,
+        "why": "Fox syndicates TMZ on TV"
+      },
+      {
+        "handle": "50cent",
+        "inPool": true,
+        "why": "frequent TMZ subject who engages back"
+      }
+    ]
+  },
+  {
+    "handle": "people",
+    "circle": [
+      {
+        "handle": "ew",
+        "inPool": true,
+        "why": "Dotdash Meredith sister publication"
+      },
+      {
+        "handle": "instyle",
+        "inPool": false,
+        "why": "sister publication"
+      },
+      {
+        "handle": "taylorswift13",
+        "inPool": true,
+        "why": "constant cover subject"
+      },
+      {
+        "handle": "jlo",
+        "inPool": true,
+        "why": "frequent exclusive cover subject"
+      },
+      {
+        "handle": "kimkardashian",
+        "inPool": true,
+        "why": "frequent cover subject"
+      }
+    ]
+  },
+  {
+    "handle": "usweekly",
+    "circle": [
+      {
+        "handle": "bachelorabc",
+        "inPool": true,
+        "why": "covers Bachelor Nation obsessively"
+      },
+      {
+        "handle": "bravotv",
+        "inPool": true,
+        "why": "covers Bravolebrities week to week"
+      },
+      {
+        "handle": "kimkardashian",
+        "inPool": true,
+        "why": "perennial cover subject"
+      },
+      {
+        "handle": "parishilton",
+        "inPool": true,
+        "why": "longtime tabloid subject"
+      },
+      {
+        "handle": "andy",
+        "inPool": true,
+        "why": "frequent source and subject for Bravo news"
+      }
+    ]
+  },
+  {
+    "handle": "pagesix",
+    "circle": [
+      {
+        "handle": "nypost",
+        "inPool": true,
+        "why": "parent newspaper"
+      },
+      {
+        "handle": "tmz",
+        "inPool": true,
+        "why": "rival gossip outlet"
+      },
+      {
+        "handle": "bethenny",
+        "inPool": true,
+        "why": "frequent subject who responds to items"
+      },
+      {
+        "handle": "andy",
+        "inPool": true,
+        "why": "frequent gossip subject and source"
+      },
+      {
+        "handle": "kimkardashian",
+        "inPool": true,
+        "why": "perennial gossip subject"
+      }
+    ]
+  },
+  {
+    "handle": "vulture",
+    "circle": [
+      {
+        "handle": "nymag",
+        "inPool": false,
+        "why": "parent magazine"
+      },
+      {
+        "handle": "thecut",
+        "inPool": false,
+        "why": "New York Magazine sister site"
+      },
+      {
+        "handle": "intelligencer",
+        "inPool": false,
+        "why": "New York Magazine sister site"
+      },
+      {
+        "handle": "mattzollerseitz",
+        "inPool": true,
+        "why": "Vulture TV critic"
+      },
+      {
+        "handle": "emilynussbaum",
+        "inPool": false,
+        "why": "TV critic in the same critical orbit"
+      }
+    ]
+  },
+  {
+    "handle": "tvline",
+    "circle": [
+      {
+        "handle": "michaelausiello",
+        "inPool": false,
+        "why": "TVLine founder and editor"
+      },
+      {
+        "handle": "deadline",
+        "inPool": true,
+        "why": "PMC sister outlet"
+      },
+      {
+        "handle": "variety",
+        "inPool": true,
+        "why": "PMC sister outlet"
+      },
+      {
+        "handle": "thr",
+        "inPool": true,
+        "why": "Hollywood trade peer"
+      },
+      {
+        "handle": "ew",
+        "inPool": true,
+        "why": "TV coverage peer outlet"
+      }
+    ]
+  }
+]

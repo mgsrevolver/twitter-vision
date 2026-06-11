@@ -1,0 +1,947 @@
+[
+  {
+    "handle": "joe_hill",
+    "circle": [
+      {
+        "handle": "stephenking",
+        "inPool": true,
+        "why": "his father; they constantly reply to and boost each other"
+      },
+      {
+        "handle": "owenking",
+        "inPool": false,
+        "why": "his brother and fellow novelist"
+      },
+      {
+        "handle": "paulgtremblay",
+        "inPool": true,
+        "why": "close horror peer; mutual blurbs and convention banter"
+      },
+      {
+        "handle": "joshmalerman",
+        "inPool": true,
+        "why": "horror scene friend; mutual promotion of releases"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "longtime friend; Gaiman championed his early work"
+      },
+      {
+        "handle": "chuckwendig",
+        "inPool": true,
+        "why": "SFF/horror Twitter friends who trade jokes and RTs"
+      }
+    ]
+  },
+  {
+    "handle": "chuckwendig",
+    "circle": [
+      {
+        "handle": "samsykesswears",
+        "inPool": true,
+        "why": "legendary ongoing Twitter banter duo"
+      },
+      {
+        "handle": "delilahsdawson",
+        "inPool": true,
+        "why": "close friend and frequent collaborator/co-promoter"
+      },
+      {
+        "handle": "scalzi",
+        "inPool": true,
+        "why": "longtime blogger-author friends; constant mutual RTs"
+      },
+      {
+        "handle": "seananmcguire",
+        "inPool": true,
+        "why": "SFF Twitter peers who reply to each other often"
+      },
+      {
+        "handle": "stephenking",
+        "inPool": true,
+        "why": "King blurbed Wanderers; Wendig frequently engages him"
+      }
+    ]
+  },
+  {
+    "handle": "seananmcguire",
+    "circle": [
+      {
+        "handle": "ursulav",
+        "inPool": true,
+        "why": "close friends; frequent reply threads about animals and writing"
+      },
+      {
+        "handle": "scalzi",
+        "inPool": true,
+        "why": "SFF community friends; convention and award-season banter"
+      },
+      {
+        "handle": "maryrobinette",
+        "inPool": true,
+        "why": "SFWA colleagues and friends"
+      },
+      {
+        "handle": "catvalente",
+        "inPool": false,
+        "why": "longtime SFF Twitter friends"
+      },
+      {
+        "handle": "chuckwendig",
+        "inPool": true,
+        "why": "mutual RTs and writing-advice threads"
+      }
+    ]
+  },
+  {
+    "handle": "maryrobinette",
+    "circle": [
+      {
+        "handle": "brandsanderson",
+        "inPool": false,
+        "why": "Writing Excuses podcast co-hosts for years"
+      },
+      {
+        "handle": "howardtayler",
+        "inPool": false,
+        "why": "Writing Excuses podcast co-host"
+      },
+      {
+        "handle": "scalzi",
+        "inPool": true,
+        "why": "close friends; she narrates his audiobooks"
+      },
+      {
+        "handle": "seananmcguire",
+        "inPool": true,
+        "why": "SFWA colleagues and friends"
+      },
+      {
+        "handle": "ursulav",
+        "inPool": true,
+        "why": "Hugo-circuit friends with frequent interactions"
+      }
+    ]
+  },
+  {
+    "handle": "victorlavalle",
+    "circle": [
+      {
+        "handle": "paulgtremblay",
+        "inPool": true,
+        "why": "literary horror peers; mutual blurbs and praise"
+      },
+      {
+        "handle": "joe_hill",
+        "inPool": true,
+        "why": "horror scene mutual admiration and RTs"
+      },
+      {
+        "handle": "sgj72",
+        "inPool": false,
+        "why": "Stephen Graham Jones; frequent mutual praise in horror lit"
+      },
+      {
+        "handle": "colsonwhitehead",
+        "inPool": true,
+        "why": "literary NYC peers who interact publicly"
+      },
+      {
+        "handle": "nkjemisin",
+        "inPool": false,
+        "why": "longtime friends in NYC speculative fiction scene"
+      }
+    ]
+  },
+  {
+    "handle": "paulgtremblay",
+    "circle": [
+      {
+        "handle": "stephenking",
+        "inPool": true,
+        "why": "King's viral praise of A Head Full of Ghosts; ongoing exchanges"
+      },
+      {
+        "handle": "joe_hill",
+        "inPool": true,
+        "why": "close horror peer and friend"
+      },
+      {
+        "handle": "joshmalerman",
+        "inPool": true,
+        "why": "horror author friends; tour and blurb swaps"
+      },
+      {
+        "handle": "victorlavalle",
+        "inPool": true,
+        "why": "mutual literary horror praise"
+      },
+      {
+        "handle": "sgj72",
+        "inPool": false,
+        "why": "horror community friends and co-panelists"
+      },
+      {
+        "handle": "grady_hendrix",
+        "inPool": false,
+        "why": "horror scene friends; frequent event pairings"
+      }
+    ]
+  },
+  {
+    "handle": "joshmalerman",
+    "circle": [
+      {
+        "handle": "paulgtremblay",
+        "inPool": true,
+        "why": "horror peer; frequent mutual shoutouts"
+      },
+      {
+        "handle": "joe_hill",
+        "inPool": true,
+        "why": "horror community friend"
+      },
+      {
+        "handle": "sgj72",
+        "inPool": false,
+        "why": "mutual praise within horror lit circle"
+      },
+      {
+        "handle": "grady_hendrix",
+        "inPool": false,
+        "why": "horror events and anthology circles together"
+      },
+      {
+        "handle": "chuckwendig",
+        "inPool": true,
+        "why": "SFF/horror Twitter mutuals"
+      }
+    ]
+  },
+  {
+    "handle": "blakecrouch1",
+    "circle": [
+      {
+        "handle": "andyweirauthor",
+        "inPool": true,
+        "why": "sci-fi thriller peers; mutual blurbs and praise"
+      },
+      {
+        "handle": "hughhowey",
+        "inPool": true,
+        "why": "longtime indie-to-trad sci-fi friends and collaborators"
+      },
+      {
+        "handle": "scalzi",
+        "inPool": true,
+        "why": "SF community mutual RTs"
+      },
+      {
+        "handle": "joe_hill",
+        "inPool": true,
+        "why": "mutual blurbs and admiration"
+      },
+      {
+        "handle": "chuckwendig",
+        "inPool": true,
+        "why": "writer Twitter mutuals"
+      }
+    ]
+  },
+  {
+    "handle": "veschwab",
+    "circle": [
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "mentor-figure and friend; frequent public exchanges"
+      },
+      {
+        "handle": "lbardugo",
+        "inPool": true,
+        "why": "close author friends; tours and launch events together"
+      },
+      {
+        "handle": "hollyblack",
+        "inPool": true,
+        "why": "fantasy author friends with mutual promotion"
+      },
+      {
+        "handle": "cassieclare",
+        "inPool": true,
+        "why": "YA fantasy circle; event co-appearances"
+      },
+      {
+        "handle": "dhonielle",
+        "inPool": false,
+        "why": "YA community friends"
+      }
+    ]
+  },
+  {
+    "handle": "hollyblack",
+    "circle": [
+      {
+        "handle": "cassieclare",
+        "inPool": true,
+        "why": "best friends and longtime co-tour partners"
+      },
+      {
+        "handle": "lbardugo",
+        "inPool": true,
+        "why": "close YA fantasy friends"
+      },
+      {
+        "handle": "maureenjohnson",
+        "inPool": true,
+        "why": "longtime YA author friend group"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "old friends from the fantasy scene"
+      },
+      {
+        "handle": "veschwab",
+        "inPool": true,
+        "why": "mutual promotion and event pairings"
+      }
+    ]
+  },
+  {
+    "handle": "cassieclare",
+    "circle": [
+      {
+        "handle": "hollyblack",
+        "inPool": true,
+        "why": "best friend; co-wrote Magisterium series with her"
+      },
+      {
+        "handle": "maureenjohnson",
+        "inPool": true,
+        "why": "close friend; constant Twitter banter"
+      },
+      {
+        "handle": "lbardugo",
+        "inPool": true,
+        "why": "YA fantasy author friends"
+      },
+      {
+        "handle": "veschwab",
+        "inPool": true,
+        "why": "event co-appearances and mutual RTs"
+      },
+      {
+        "handle": "marie_lu",
+        "inPool": false,
+        "why": "YA author friend circle"
+      }
+    ]
+  },
+  {
+    "handle": "lbardugo",
+    "circle": [
+      {
+        "handle": "veschwab",
+        "inPool": true,
+        "why": "close friends in adult/YA fantasy"
+      },
+      {
+        "handle": "hollyblack",
+        "inPool": true,
+        "why": "YA fantasy circle friends"
+      },
+      {
+        "handle": "cassieclare",
+        "inPool": true,
+        "why": "longtime YA peers"
+      },
+      {
+        "handle": "sabaatahir",
+        "inPool": false,
+        "why": "close author friends; frequent mutual hype"
+      },
+      {
+        "handle": "marie_lu",
+        "inPool": false,
+        "why": "YA author friend group"
+      },
+      {
+        "handle": "rainbowrowell",
+        "inPool": false,
+        "why": "mutual praise and event pairings"
+      }
+    ]
+  },
+  {
+    "handle": "rickriordan",
+    "circle": [
+      {
+        "handle": "kwamembalia",
+        "inPool": false,
+        "why": "Rick Riordan Presents author he champions constantly"
+      },
+      {
+        "handle": "roshani_chokshi",
+        "inPool": false,
+        "why": "Rick Riordan Presents author he promotes"
+      },
+      {
+        "handle": "disneyplus",
+        "inPool": true,
+        "why": "Percy Jackson series announcements and promotion"
+      },
+      {
+        "handle": "lbardugo",
+        "inPool": true,
+        "why": "YA/MG fantasy peer interactions"
+      },
+      {
+        "handle": "marie_lu",
+        "inPool": false,
+        "why": "YA author community"
+      }
+    ]
+  },
+  {
+    "handle": "angiecthomas",
+    "circle": [
+      {
+        "handle": "getnicced",
+        "inPool": false,
+        "why": "Nic Stone; close friend, frequent joint events"
+      },
+      {
+        "handle": "jasonreynolds83",
+        "inPool": false,
+        "why": "YA peers; mutual praise and panels"
+      },
+      {
+        "handle": "tomi_adeyemi",
+        "inPool": false,
+        "why": "debut-class YA friends"
+      },
+      {
+        "handle": "johngreen",
+        "inPool": true,
+        "why": "Green championed The Hate U Give publicly"
+      },
+      {
+        "handle": "dhonielle",
+        "inPool": false,
+        "why": "We Need Diverse Books community"
+      }
+    ]
+  },
+  {
+    "handle": "adamsilvera",
+    "circle": [
+      {
+        "handle": "beckyalbertalli",
+        "inPool": false,
+        "why": "co-author of What If It's Us; close friend"
+      },
+      {
+        "handle": "angiecthomas",
+        "inPool": true,
+        "why": "YA community friends"
+      },
+      {
+        "handle": "dhonielle",
+        "inPool": false,
+        "why": "YA author circle"
+      },
+      {
+        "handle": "lbardugo",
+        "inPool": true,
+        "why": "YA fantasy mutuals"
+      },
+      {
+        "handle": "maureenjohnson",
+        "inPool": true,
+        "why": "YA Twitter banter"
+      }
+    ]
+  },
+  {
+    "handle": "maureenjohnson",
+    "circle": [
+      {
+        "handle": "johngreen",
+        "inPool": true,
+        "why": "close friends since early YA blogging days"
+      },
+      {
+        "handle": "hankgreen",
+        "inPool": true,
+        "why": "Nerdfighter-adjacent friend; frequent replies"
+      },
+      {
+        "handle": "hollyblack",
+        "inPool": true,
+        "why": "longtime YA friend group"
+      },
+      {
+        "handle": "cassieclare",
+        "inPool": true,
+        "why": "close friend; co-tours and constant banter"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "longtime joking Twitter friendship"
+      }
+    ]
+  },
+  {
+    "handle": "patrickrothfuss",
+    "circle": [
+      {
+        "handle": "brandsanderson",
+        "inPool": false,
+        "why": "fantasy peers; charity streams and convention friends"
+      },
+      {
+        "handle": "scalzi",
+        "inPool": true,
+        "why": "SFF community friends"
+      },
+      {
+        "handle": "lordgrimdark",
+        "inPool": true,
+        "why": "mutual fantasy-scene banter"
+      },
+      {
+        "handle": "matthewmercer",
+        "inPool": false,
+        "why": "played D&D with Critical Role; Worldbuilders charity"
+      },
+      {
+        "handle": "feliciaday",
+        "inPool": false,
+        "why": "charity gaming events together"
+      }
+    ]
+  },
+  {
+    "handle": "lordgrimdark",
+    "circle": [
+      {
+        "handle": "patrickrothfuss",
+        "inPool": true,
+        "why": "fantasy author banter and convention pairings"
+      },
+      {
+        "handle": "mark__lawrence",
+        "inPool": false,
+        "why": "fellow grimdark author; frequent mutual jokes"
+      },
+      {
+        "handle": "samsykesswears",
+        "inPool": true,
+        "why": "fantasy Twitter banter"
+      },
+      {
+        "handle": "robinhobb",
+        "inPool": true,
+        "why": "UK fantasy scene mutual respect and replies"
+      },
+      {
+        "handle": "brandsanderson",
+        "inPool": false,
+        "why": "epic fantasy peer interactions"
+      }
+    ]
+  },
+  {
+    "handle": "robinhobb",
+    "circle": [
+      {
+        "handle": "grrmspeaking",
+        "inPool": false,
+        "why": "longtime friend; GRRM famously champions her work"
+      },
+      {
+        "handle": "lordgrimdark",
+        "inPool": true,
+        "why": "UK fantasy convention circle"
+      },
+      {
+        "handle": "kateelliottsff",
+        "inPool": false,
+        "why": "epic fantasy peers and friends"
+      },
+      {
+        "handle": "scalzi",
+        "inPool": true,
+        "why": "SFF community interactions"
+      },
+      {
+        "handle": "neilhimself",
+        "inPool": true,
+        "why": "veteran fantasy scene mutuals"
+      }
+    ]
+  },
+  {
+    "handle": "samsykesswears",
+    "circle": [
+      {
+        "handle": "chuckwendig",
+        "inPool": true,
+        "why": "his most famous recurring Twitter bit partner"
+      },
+      {
+        "handle": "delilahsdawson",
+        "inPool": true,
+        "why": "author friend group with Wendig"
+      },
+      {
+        "handle": "patrickrothfuss",
+        "inPool": true,
+        "why": "frequent target and friend in fantasy banter"
+      },
+      {
+        "handle": "lordgrimdark",
+        "inPool": true,
+        "why": "grimdark fantasy banter"
+      },
+      {
+        "handle": "kameronhurley",
+        "inPool": false,
+        "why": "SFF Twitter friends"
+      }
+    ]
+  },
+  {
+    "handle": "delilahsdawson",
+    "circle": [
+      {
+        "handle": "kevinhearne",
+        "inPool": false,
+        "why": "co-author of the Tales of Pell series"
+      },
+      {
+        "handle": "chuckwendig",
+        "inPool": true,
+        "why": "close friend; constant mutual promotion"
+      },
+      {
+        "handle": "samsykesswears",
+        "inPool": true,
+        "why": "author banter circle"
+      },
+      {
+        "handle": "starwars",
+        "inPool": true,
+        "why": "wrote Star Wars: Phasma; tie-in promotion"
+      },
+      {
+        "handle": "seananmcguire",
+        "inPool": true,
+        "why": "SFF author mutuals"
+      }
+    ]
+  },
+  {
+    "handle": "ursulav",
+    "circle": [
+      {
+        "handle": "seananmcguire",
+        "inPool": true,
+        "why": "close friends; long reply threads about gardens and wildlife"
+      },
+      {
+        "handle": "scalzi",
+        "inPool": true,
+        "why": "Hugo-circuit friends"
+      },
+      {
+        "handle": "dduane",
+        "inPool": false,
+        "why": "veteran SFF Twitter mutuals"
+      },
+      {
+        "handle": "marthawells1",
+        "inPool": true,
+        "why": "Hugo-winner circle mutual praise"
+      },
+      {
+        "handle": "catvalente",
+        "inPool": false,
+        "why": "longtime SFF community friends"
+      }
+    ]
+  },
+  {
+    "handle": "marthawells1",
+    "circle": [
+      {
+        "handle": "ann_leckie",
+        "inPool": false,
+        "why": "space-opera peers; frequent mutual praise"
+      },
+      {
+        "handle": "scalzi",
+        "inPool": true,
+        "why": "SFF community friends"
+      },
+      {
+        "handle": "maryrobinette",
+        "inPool": true,
+        "why": "SFWA colleagues"
+      },
+      {
+        "handle": "kateelliottsff",
+        "inPool": false,
+        "why": "longtime author friends"
+      },
+      {
+        "handle": "torbooks",
+        "inPool": false,
+        "why": "her publisher; constant Murderbot promotion"
+      }
+    ]
+  },
+  {
+    "handle": "aptshadow",
+    "circle": [
+      {
+        "handle": "aliettedb",
+        "inPool": false,
+        "why": "SFF awards-circle peers"
+      },
+      {
+        "handle": "garethlpowell",
+        "inPool": false,
+        "why": "UK SF scene friends; frequent replies"
+      },
+      {
+        "handle": "lordgrimdark",
+        "inPool": true,
+        "why": "UK genre convention circle"
+      },
+      {
+        "handle": "marthawells1",
+        "inPool": true,
+        "why": "fellow Hugo winners with mutual praise"
+      },
+      {
+        "handle": "ann_leckie",
+        "inPool": false,
+        "why": "space opera peer interactions"
+      }
+    ]
+  },
+  {
+    "handle": "andyweirauthor",
+    "circle": [
+      {
+        "handle": "nasa",
+        "inPool": true,
+        "why": "constant engagement around missions and The Martian legacy"
+      },
+      {
+        "handle": "spacex",
+        "inPool": true,
+        "why": "launch commentary and space fandom"
+      },
+      {
+        "handle": "djsnm",
+        "inPool": false,
+        "why": "Scott Manley; space-nerd Twitter mutuals"
+      },
+      {
+        "handle": "blakecrouch1",
+        "inPool": true,
+        "why": "sci-fi thriller peers and mutual blurbs"
+      },
+      {
+        "handle": "hughhowey",
+        "inPool": true,
+        "why": "sci-fi author friends"
+      }
+    ]
+  },
+  {
+    "handle": "hughhowey",
+    "circle": [
+      {
+        "handle": "andyweirauthor",
+        "inPool": true,
+        "why": "self-pub-to-Hollywood sci-fi peers"
+      },
+      {
+        "handle": "blakecrouch1",
+        "inPool": true,
+        "why": "longtime author friends and collaborators"
+      },
+      {
+        "handle": "scalzi",
+        "inPool": true,
+        "why": "SF community interactions"
+      },
+      {
+        "handle": "appletv",
+        "inPool": false,
+        "why": "Silo adaptation promotion"
+      },
+      {
+        "handle": "chuckwendig",
+        "inPool": true,
+        "why": "writer Twitter mutuals"
+      }
+    ]
+  },
+  {
+    "handle": "harlancoben",
+    "circle": [
+      {
+        "handle": "netflix",
+        "inPool": true,
+        "why": "massive multi-series adaptation deal; constant promotion"
+      },
+      {
+        "handle": "donwinslow",
+        "inPool": true,
+        "why": "thriller world friends; mutual hype"
+      },
+      {
+        "handle": "connellybooks",
+        "inPool": false,
+        "why": "Michael Connelly; crime fiction peer friendship"
+      },
+      {
+        "handle": "slaughterkarin",
+        "inPool": false,
+        "why": "thriller author circle; joint events"
+      },
+      {
+        "handle": "lindaholmes",
+        "inPool": false,
+        "why": "books/media world interactions"
+      }
+    ]
+  },
+  {
+    "handle": "donwinslow",
+    "circle": [
+      {
+        "handle": "stephenking",
+        "inPool": true,
+        "why": "mutual political and book RTs; public friendship"
+      },
+      {
+        "handle": "harlancoben",
+        "inPool": true,
+        "why": "crime fiction peers"
+      },
+      {
+        "handle": "connellybooks",
+        "inPool": false,
+        "why": "crime writer community"
+      },
+      {
+        "handle": "bmeiselas",
+        "inPool": true,
+        "why": "MeidasTouch collaboration on political videos"
+      },
+      {
+        "handle": "meidastouch",
+        "inPool": true,
+        "why": "produced/amplified his political video campaigns"
+      }
+    ]
+  },
+  {
+    "handle": "mariankeyes",
+    "circle": [
+      {
+        "handle": "jojomoyes",
+        "inPool": false,
+        "why": "UK/Irish women's fiction friends"
+      },
+      {
+        "handle": "indiaknight",
+        "inPool": false,
+        "why": "close Twitter friend; constant replies"
+      },
+      {
+        "handle": "dawn_french",
+        "inPool": false,
+        "why": "celebrity friends with frequent exchanges"
+      },
+      {
+        "handle": "richardosman",
+        "inPool": false,
+        "why": "UK books world mutual banter"
+      },
+      {
+        "handle": "grahnort",
+        "inPool": false,
+        "why": "Irish media circle; show appearances"
+      }
+    ]
+  },
+  {
+    "handle": "jlarmentrout",
+    "circle": [
+      {
+        "handle": "sjmaas",
+        "inPool": false,
+        "why": "romantasy peers; shared fandom events"
+      },
+      {
+        "handle": "ilona_andrews",
+        "inPool": false,
+        "why": "paranormal romance author circle"
+      },
+      {
+        "handle": "nalinisingh",
+        "inPool": false,
+        "why": "romance community mutual promotion"
+      },
+      {
+        "handle": "lbardugo",
+        "inPool": true,
+        "why": "YA/fantasy crossover events"
+      },
+      {
+        "handle": "veschwab",
+        "inPool": true,
+        "why": "fantasy author event circuit"
+      }
+    ]
+  },
+  {
+    "handle": "writer_dg",
+    "circle": [
+      {
+        "handle": "samheughan",
+        "inPool": false,
+        "why": "Outlander star; they interact constantly"
+      },
+      {
+        "handle": "caitrionambalfe",
+        "inPool": false,
+        "why": "Outlander star; frequent public exchanges"
+      },
+      {
+        "handle": "outlander_starz",
+        "inPool": false,
+        "why": "official show account she engages with"
+      },
+      {
+        "handle": "grrmspeaking",
+        "inPool": false,
+        "why": "longtime friends; both Santa Fe-based writers"
+      },
+      {
+        "handle": "jojomoyes",
+        "inPool": false,
+        "why": "author-world mutuals"
+      }
+    ]
+  }
+]
