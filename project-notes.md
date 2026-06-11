@@ -1,4 +1,30 @@
-# their feed — session notes (2026-06-11, v2.6)
+# their feed — session notes (2026-06-11 evening, v2.7)
+
+## v2.7 — 40% expansion + UX + dead accounts (2026-06-11, second session)
+
+- **Corpus +45% in a day**: 15,576 → 22,623 tweets (circle-gap harvests +
+  the 7:30 cron's +7,047). Accounts 1,499 → **2,136** (+42.5%) via 20
+  parallel curator agents (`data/harvest/accounts-expand-*.json` +
+  `circles-201..220.json`); circle graph now 1,830 accounts / 11,698 edges;
+  54 communities.
+- **Dead-account liveness**: `scripts/check-liveness.mjs` (full sweep,
+  double-checks 404s) + refresh-corpus maintains `dead: true` daily.
+  Six flagged (chrissyteigen, PewDiePie, RickyMartin, ArianaGrande, and
+  wrong-handle entries @LeBron/@NovakDjokovic). Dead accounts: hidden from
+  typeahead/matching/sitemap, tweets dropped from feed pools, /u/ page says
+  they logged off. Quinta Brunson: actually ALIVE (returned to X; fresh 2026
+  posts in corpus) — Clay's report was stale info.
+- **UX**: typeahead shows instant pending state on Enter; feed routes stream
+  X-style skeletons (`components/feed-skeleton.tsx`); **Following is now the
+  default tab** (For You via `?tab=foryou`); homepage shows corpus size +
+  last-refreshed timestamp in ET (`lib/corpus-meta.ts` — fs-read, not
+  bundled).
+- **Pending**: the 637 new accounts have no tweets yet — nitter started
+  blocking after ~15k requests in a day. A background watcher retries when
+  nitter recovers; otherwise tomorrow's 7:30 cron picks them up (it loads
+  all 2,136 accounts). Their feeds still assemble fine from the main pool.
+- Lint errors in Clay's live-* components fixed (refs-in-render,
+  setState-in-effect — mechanical, behavior-preserving).
 
 ## v2.6 — circle-gap harvest + SimClusters communities (2026-06-11)
 
