@@ -1,9 +1,19 @@
 import corpusData from "@/data/corpus.json";
+import communitiesData from "@/data/communities.json";
 import { rngFor, pick } from "./seeded-random";
 import { ACCOUNTS, findAccount } from "./accounts";
 import type { Account, CorpusTweet, FeedItem, Lean, OnlineLevel, Profile, SurveyAnswers, Tag } from "./types";
 
 export const CORPUS = corpusData.tweets as CorpusTweet[];
+
+/**
+ * SimClusters-lite: communities detected over the curated circle graph at
+ * build time (scripts/build-communities.mjs). Lets discovery say "Popular in
+ * Weird Twitter" because the author genuinely sits in a cluster this person's
+ * circle inhabits — not because a tag matched.
+ */
+const COMMUNITY_OF = new Map<string, number>(Object.entries(communitiesData.byHandle));
+const COMMUNITY_NAME = new Map<number, string>(communitiesData.communities.map((c) => [c.id, c.name]));
 
 const FEED_LENGTH = 18;
 
@@ -237,13 +247,29 @@ export function assembleFeed(profile: Profile, seed: string): FeedItem[] {
       for (const c of ACCOUNT_BY_HANDLE.get(member)?.circle ?? []) {
         const h = c.handle.toLowerCase();
         if (h === profile.handle?.toLowerCase() || profile.circle[h]) continue;
+        const memberCased = ACCOUNT_BY_HANDLE.get(member)?.handle ?? member;
         const vias = adjacentVia.get(h) ?? [];
-        if (!vias.includes(member)) vias.push(member);
+        if (!vias.includes(memberCased)) vias.push(memberCased);
         adjacentVia.set(h, vias);
       }
     }
   } else {
     for (const a of matchingAccounts(profile, 12)) adjacentVia.set(a.handle.toLowerCase(), []);
+  }
+
+  // home communities: clusters where ≥2 circle members (or the person
+  // themselves) live. Discovery posts from these clusters rank up and earn
+  // a community-honest reason instead of generic tag dressing.
+  const homeCommunities = new Set<number>();
+  {
+    const counts = new Map<number, number>();
+    const own = profile.handle ? COMMUNITY_OF.get(profile.handle.toLowerCase()) : undefined;
+    if (own !== undefined) counts.set(own, 2);
+    for (const member of Object.keys(profile.circle ?? {})) {
+      const c = COMMUNITY_OF.get(member);
+      if (c !== undefined) counts.set(c, (counts.get(c) ?? 0) + 1);
+    }
+    for (const [id, n] of counts) if (n >= 2) homeCommunities.add(id);
   }
 
   const engaged: Candidate[] = [];
@@ -261,7 +287,9 @@ export function assembleFeed(profile: Profile, seed: string): FeedItem[] {
       const proof = Math.max(1, adjacentVia.get(h)!.length);
       adjacent.push({ t, score: tweetScore(t, profile) + 0.3 * Math.min(3, proof) });
     } else {
-      discovery.push({ t, score: tweetScore(t, profile) });
+      const community = COMMUNITY_OF.get(h);
+      const homeBoost = community !== undefined && homeCommunities.has(community) ? 0.25 : 0;
+      discovery.push({ t, score: tweetScore(t, profile) + homeBoost });
     }
   }
 
@@ -303,7 +331,7 @@ export function assembleFeed(profile: Profile, seed: string): FeedItem[] {
   return items.map((tweet) => {
     const ago = minutes < 60 ? `${minutes}m` : `${Math.min(23, Math.round(minutes / 60))}h`;
     minutes += 4 + Math.floor(rng() * 110);
-    const reason = reasonFor(tweet, profile, rng, tierOf.get(tweet.id) ?? "discovery", adjacentVia);
+    const reason = reasonFor(tweet, profile, rng, tierOf.get(tweet.id) ?? "discovery", adjacentVia, homeCommunities);
     return { tweet, reason, ago, stats: simulatedStats(tweet) };
   });
 }
@@ -382,6 +410,7 @@ function reasonFor(
   rng: () => number,
   tier: FeedTier,
   adjacentVia: Map<string, string[]>,
+  homeCommunities: Set<number>,
 ): string {
   const why = profile.circle?.[tweet.handle.toLowerCase()];
   if (why) {
@@ -417,7 +446,18 @@ function reasonFor(
     ];
     return pick(rng, options);
   }
-  // true discovery — the only tier that earns the generic "Popular in X" dressing
+  // true discovery — community-grounded when the author's detected cluster is
+  // one this person's circle lives in, generic tag dressing otherwise
+  const community = COMMUNITY_OF.get(tweet.handle.toLowerCase());
+  const communityName = community !== undefined && homeCommunities.has(community) ? COMMUNITY_NAME.get(community) : undefined;
+  if (communityName) {
+    const options = [
+      `Popular in ${communityName}`,
+      `Trending in ${communityName}`,
+      `${communityName} · Suggested for this feed`,
+    ];
+    return pick(rng, options);
+  }
   const matching = tweet.tags.filter((t) => (profile.tagWeights[t] ?? 0) >= 1);
   const topic = TAG_LABEL[matching[0] ?? tweet.tags[0]] ?? "the timeline";
   const options = [

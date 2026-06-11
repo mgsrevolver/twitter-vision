@@ -10,6 +10,8 @@
  *          so this can run unattended on a cron.
  *
  * Usage: node scripts/refresh-corpus.mjs [maxAccounts]   (default: all)
+ *        node scripts/refresh-corpus.mjs targets.json    (JSON array of handles;
+ *                                                         order preserved)
  * Appends directly to data/corpus.json + data/corpus-sources.json.
  */
 import { readFile, writeFile } from "node:fs/promises";
@@ -20,7 +22,9 @@ const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 const RSS_GAP_MS = 1100;
 const CDN_GAP_MS = 1000;
-const MAX_ACCOUNTS = Number(process.argv[2]) || Infinity;
+const ARG = process.argv[2];
+const TARGETS_FILE = ARG?.endsWith(".json") ? ARG : null;
+const MAX_ACCOUNTS = (!TARGETS_FILE && Number(ARG)) || Infinity;
 
 const accounts = JSON.parse(await readFile(path.join(ROOT, "data", "accounts.json"), "utf8")).accounts;
 const byHandle = new Map(accounts.map((a) => [a.handle.toLowerCase(), a]));
@@ -62,7 +66,14 @@ async function get(url, attempt = 0) {
 
 // ---- discovery: RSS per account ----------------------------------------
 const candidates = new Map(); // id -> discoveredVia handle
-const targets = [...accounts].sort((a, b) => b.followers - a.followers).slice(0, MAX_ACCOUNTS);
+let targets;
+if (TARGETS_FILE) {
+  const handles = JSON.parse(await readFile(path.join(process.cwd(), TARGETS_FILE), "utf8"));
+  targets = handles.map((h) => byHandle.get(h.toLowerCase())).filter(Boolean);
+  console.error(`targeting ${targets.length}/${handles.length} handles from ${TARGETS_FILE}`);
+} else {
+  targets = [...accounts].sort((a, b) => b.followers - a.followers).slice(0, MAX_ACCOUNTS);
+}
 console.error(`discovering via nitter RSS for ${targets.length} accounts…`);
 let rssOk = 0;
 for (const [i, a] of targets.entries()) {

@@ -1,8 +1,42 @@
-# their feed — session notes (2026-06-10 evening, v2.5)
+# their feed — session notes (2026-06-11, v2.6)
 
-## PAUSED — clean state, nothing in flight
+## v2.6 — circle-gap harvest + SimClusters communities (2026-06-11)
 
-Everything from the v2.5 batch is DONE and built. **Next milestone: deploy to Vercel** (set `NEXT_PUBLIC_SITE_URL`; everything is static data + pure computation, deploys as-is).
+- **Circle-gap harvest (Phase 2)**: `refresh-corpus.mjs` now accepts a JSON
+  handles file (`node scripts/refresh-corpus.mjs targets.json`). Two targeted
+  passes over zero-fresh circle members (list generation inline → 
+  `data/harvest/circle-gap-handles.json`, sorted by circle-reference count).
+  Pass 1: +6,157 fresh tweets from 556/629 feeds; pass 2 (retry stragglers):
+  +20 — the remaining 274 zero-fresh members are genuinely inactive on X,
+  harvest is exhausted. Corpus 9,399 → 15,576. Zero-fresh circle members
+  646 → 274; median distinct fresh circle authors per account 4 → 6
+  (p75: 8; original proxy target was ≥7). The metric BEHIND the proxy is
+  met: across an 80-account sample, For You is 49.4% engaged + 26.3%
+  adjacent + 5.1% community-grounded discovery = **80.8% graph-grounded**
+  (goal ~80%); only 19.2% generic tag-dressed filler remains.
+- **SimClusters-lite communities (Phase 3)**: `npm run communities`
+  (`scripts/build-communities.mjs`) — deterministic label propagation over the
+  curated circle graph (1,488 nodes / 7,717 edges, mutual links weigh 2) →
+  `data/communities.json`. 28 communities ≥5 members covering 1,480 nodes;
+  converges in ~7 iterations. Naming: hand-labeled anchors first
+  (dril→Weird Twitter, nytimes→Media Twitter, F1, Tennis, Marvel, Space,
+  Weather…), else dominant non-tone tag weighted by log-followers.
+  Feed engine: a profile's "home communities" = clusters holding ≥2 circle
+  members (own membership counts double); discovery candidates from home
+  clusters get +0.25 score and honest "Popular in Weird Twitter"-style
+  reasons instead of generic tag dressing. Survey personas unaffected.
+- **Cosmetic fix**: multi-via adjacency reasons now show canonical-cased
+  handles (was lowercased).
+- **Cleanup**: deleted stray macOS "name 2.ext" duplicate files (stale Jun 9
+  copies incl. `components/survey-form 2.tsx`, `package-lock 2.json`, and
+  .next artifacts) that were breaking typecheck.
+- **17 circle-member handles remain unindexed on purpose** (jackdorsey,
+  keegan, amypoehler, martinscorsese…): curator-guessed handles that are
+  wrong or dead on X; indexing them would harvest wrong-person content.
+
+Everything from the v2.5 batch is DONE and built. **LIVE at
+https://twitter-vision.vercel.app/** (`NEXT_PUBLIC_SITE_URL` + 
+`ANTHROPIC_API_KEY` set in Vercel).
 
 ## Where things stand
 
